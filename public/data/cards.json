@@ -1,0 +1,942 @@
+[
+  {
+    "front": "reagent",
+    "back": {
+      "meaning": "用于检测或引发化学反应的试剂。",
+      "explanation": "这里是实验中加入的化学物质，不是盛放它的容器；用它让反应发生或显现，才叫 reagent。",
+      "example": "The technician added a reagent to the sample to test for glucose.",
+      "translation": "技术员向样本中加入试剂，检测是否含有葡萄糖。",
+      "note": "例句为自拟。原文形式：reagents。"
+    }
+  },
+  {
+    "front": "vial",
+    "back": {
+      "meaning": "盛放少量液体或样本的小瓶。",
+      "explanation": "blood 把语境限定为样本容器；vial 强调小型容器，实验室试剂瓶和药液瓶都可以用这个词。",
+      "example": "Each vial contained a small sample of blood.",
+      "translation": "每个小瓶里都装着少量血液样本。",
+      "note": "例句为自拟。原文形式：vials。"
+    }
+  },
+  {
+    "front": "hide A from B",
+    "back": {
+      "meaning": "把 A 藏起来，不让 B 发现或知道。",
+      "explanation": "例句中藏的不是实物，而是负债这件事；from 指向被蒙在鼓里的人，不表示从哪里拿走。",
+      "example": "He tried to hide his debts from his family.",
+      "translation": "他试图向家人隐瞒自己的债务。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "everything from A to B",
+    "back": {
+      "meaning": "从 A 到 B，各种东西都有。",
+      "explanation": "A 和 B 用来展示涵盖范围；这里不是让人从书本移动到厨房电器，而是说商品种类很多。",
+      "example": "The shop sells everything from books to kitchen appliances.",
+      "translation": "这家店从书籍到厨房电器，各种商品都有。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "buying spree",
+    "back": {
+      "meaning": "一阵疯狂购买；短时间内大量购物。",
+      "explanation": "spree 指一段放纵地进行某项活动的时间；buying 说明放纵的是购买行为，不是日常买一两件必需品。",
+      "example": "After receiving her bonus, she went on a buying spree.",
+      "translation": "拿到奖金后，她疯狂购物了一番。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "accessory",
+    "back": {
+      "meaning": "搭配主要物品使用的配件或饰品。",
+      "explanation": "包和围巾是为整体穿搭增添细节的东西，所以叫 accessories；电子产品配件也是依附主要物品的同一思路。",
+      "example": "The store sells accessories such as bags and scarves.",
+      "translation": "这家店出售包、围巾等配饰。",
+      "note": "例句为自拟。原文形式：accessories。"
+    }
+  },
+  {
+    "front": "scrapbooking",
+    "back": {
+      "meaning": "把照片、剪报等整理成纪念册的手工活动。",
+      "explanation": "这里把 scrapbooking 当作爱好名称；重点是制作和装饰剪贴簿，不是某个当下正在进行的动作。",
+      "example": "Scrapbooking helps her preserve family memories.",
+      "translation": "制作剪贴簿帮助她保存家庭回忆。",
+      "note": "例句为自拟。这是常用活动名词，保留 ing，不机械还原。"
+    }
+  },
+  {
+    "front": "gadget",
+    "back": {
+      "meaning": "设计巧妙、能完成特定任务的小工具或小装置。",
+      "explanation": "例句里是厨房小工具；gadget 常带有小巧、新奇的感觉，不专指电子产品，也不等于所有大型设备。",
+      "example": "This kitchen gadget makes it easier to peel apples.",
+      "translation": "这个厨房小工具让削苹果皮更方便。",
+      "note": "例句为自拟。原文形式：gadgets。"
+    }
+  },
+  {
+    "front": "debt",
+    "back": {
+      "meaning": "欠下、以后需要偿还的钱。",
+      "explanation": "get into debt 表示进入负债状态；这里不是“债务进入了某处”，而是生活费用让人开始欠钱。",
+      "example": "He got into debt after losing his job.",
+      "translation": "失业后，他开始负债。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "anonymous",
+    "back": {
+      "meaning": "不公开姓名或无法确认身份的。",
+      "explanation": "捐款者是存在的，只是名字不公开；anonymous 强调身份没有显露，不是这个人不出名。",
+      "example": "The donation came from an anonymous supporter.",
+      "translation": "这笔捐款来自一位匿名支持者。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "compulsive",
+    "back": {
+      "meaning": "受强烈冲动驱使、很难控制的。",
+      "explanation": "购物持续到造成债务，说明不是单纯喜欢购物，而是难以克制；compulsive 的重点是控制不住自己。",
+      "example": "Her compulsive shopping led to serious debt.",
+      "translation": "她难以控制的购物行为导致了严重负债。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "pathological",
+    "back": {
+      "meaning": "病态的；与疾病有关或严重异常的。",
+      "explanation": "例句说恐惧严重到使人不敢出门，所以用 pathological 强调异常程度；在医学文本里也可直接表示病理方面的。",
+      "example": "His pathological fear of germs made it difficult for him to leave home.",
+      "translation": "他对病菌病态的恐惧让他难以出门。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "desire",
+    "back": {
+      "meaning": "强烈想要某种东西或结果的愿望。",
+      "explanation": "被想要的对象是 independence，所以译成对独立的渴望；它既能指想买某物，也能指想达到某种生活状态。",
+      "example": "She has a strong desire for independence.",
+      "translation": "她强烈渴望独立。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "specialist",
+    "back": {
+      "meaning": "在某一领域有专门知识的人。",
+      "explanation": "家庭医生建议转诊时，specialist 就是专科医生；同样的“专门研究一个领域”也适用于技术专家。",
+      "example": "Her doctor referred her to a specialist.",
+      "translation": "她的医生将她转诊给一位专科医生。",
+      "note": "例句为自拟。原文形式：specialists。"
+    }
+  },
+  {
+    "front": "Commission",
+    "back": {
+      "meaning": "委员会；这里按这一常见用法理解。",
+      "explanation": "例句中的 commission 是负责调查的一组人；commission 作“佣金”时则是交易带来的报酬，不能看到这个词就固定译成委员会。",
+      "example": "The commission will investigate complaints about online advertising.",
+      "translation": "该委员会将调查有关网络广告的投诉。",
+      "note": "例句为自拟。原文首字母大写，可能属于机构名称；缺少原句，保留大小写，具体所指待确认。"
+    }
+  },
+  {
+    "front": "retailer",
+    "back": {
+      "meaning": "把商品卖给最终消费者的零售商。",
+      "explanation": "例句中的商家直接接受消费者下单，所以是 retailer；制造商品的是 manufacturer，大批卖给商家的通常是 wholesaler。",
+      "example": "Many retailers now offer free delivery.",
+      "translation": "许多零售商现在提供免费配送。",
+      "note": "例句为自拟。原文形式：retailers。"
+    }
+  },
+  {
+    "front": "mundane",
+    "back": {
+      "meaning": "日常而缺乏新鲜感的；琐碎平常的。",
+      "explanation": "付款本身并不困难或神秘，只是平常重复的事务；mundane 着重缺少趣味，不表示没有必要。",
+      "example": "Even mundane tasks like paying bills can feel overwhelming when you are stressed.",
+      "translation": "压力大时，连付账单这样的日常琐事都可能让人难以应付。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "turn A into B",
+    "back": {
+      "meaning": "把 A 变成 B。",
+      "explanation": "into 后面是变化后的结果；这里广告让原本随意浏览的人变成购买者，不是让他们转身进入某处。",
+      "example": "A well-designed advertisement can turn a casual browser into a customer.",
+      "translation": "一则设计精良的广告能把随意浏览的人变成顾客。",
+      "note": "例句为自拟。原文形式：has turned A into B。去掉原句完成时 has turned，保留可复用的短语结构。A、B 是占位符。"
+    }
+  },
+  {
+    "front": "classified",
+    "back": {
+      "meaning": "被归类的；也可能指保密的。",
+      "explanation": "例句中的 as 引出被归入的类别，因此是“被划为低风险”；若是 classified documents，常表示机密文件。",
+      "example": "The products were classified as low-risk items.",
+      "translation": "这些产品被归类为低风险物品。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "conduct",
+    "back": {
+      "meaning": "开展并组织某项活动。",
+      "explanation": "survey 是有步骤的调查，因此 conduct a survey 就是开展调查；若作名词表示行为，也是“人如何行事”这一相关概念。",
+      "example": "The researchers plan to conduct a survey of online shoppers.",
+      "translation": "研究人员计划对网购者开展调查。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "survey",
+    "back": {
+      "meaning": "通过系统收集信息了解情况的调查。",
+      "explanation": "这里通过受访者的报告了解行为，所以是调查；测量土地也叫 survey，联系在于有计划地察看并获取信息。",
+      "example": "The survey found that many shoppers regretted their purchases.",
+      "translation": "调查发现，许多购物者后悔自己的购买行为。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "diagnosis",
+    "back": {
+      "meaning": "根据证据判断出问题或疾病是什么。",
+      "explanation": "treatment 表明这里在说医疗；diagnosis 是识别出具体疾病这一步，不是治疗本身。",
+      "example": "An early diagnosis can make treatment more effective.",
+      "translation": "早期诊断能让治疗更有效。",
+      "note": "例句为自拟。diagnosis 是单数名词，复数 diagnoses；动词是 diagnose。"
+    }
+  },
+  {
+    "front": "regulation",
+    "back": {
+      "meaning": "用规则约束某种活动；也可指具体规定。",
+      "explanation": "这里被约束的是网络广告，所以指监管；一项具体规则也能叫 a regulation，区别在于过程与规则本身。",
+      "example": "Stricter regulation of online advertising could protect consumers.",
+      "translation": "对网络广告实施更严格的监管可以保护消费者。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "demands",
+    "back": {
+      "meaning": "需要满足的要求；也可表示某人要求。",
+      "explanation": "例句里的 the demands of 是复数名词，指工作占用时间、精力的各项要求；不是商品需求量。",
+      "example": "She struggled to meet the demands of her new job.",
+      "translation": "她难以应付新工作的各项要求。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "materialistic",
+    "back": {
+      "meaning": "把物质财富和拥有东西看得很重的。",
+      "explanation": "例句把 possessions 与 success 联系起来，突出用财物衡量人生；这里不是哲学上的唯物主义。",
+      "example": "A materialistic outlook can make people equate possessions with success.",
+      "translation": "物质至上的观念会让人把拥有财物等同于成功。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "narrowing",
+    "back": {
+      "meaning": "范围、差距或宽度正在缩小；也可指这种缩小。",
+      "explanation": "gap 像一段距离，narrowing 就是两端越来越接近；这里不是真正的道路变窄，而是价格差减少。",
+      "example": "The gap between the two prices is narrowing.",
+      "translation": "这两个价格之间的差距正在缩小。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "surging",
+    "back": {
+      "meaning": "迅速而强劲地增加的；正在猛涨的。",
+      "explanation": "demand 像浪潮一样迅速涌起，所以译成需求激增；surging 比普通的 increasing 更强调势头。",
+      "example": "Retailers struggled to keep up with surging demand.",
+      "translation": "零售商难以跟上激增的需求。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "maintained",
+    "back": {
+      "meaning": "维持了；也可能表示坚持某种说法。",
+      "explanation": "例句宾语是 steady pace，所以是让速度持续稳定；若后面接 that 从句，常是坚持声称某事为真。",
+      "example": "She maintained a steady pace throughout the race.",
+      "translation": "她在整场比赛中保持着稳定的速度。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "clinician",
+    "back": {
+      "meaning": "直接接触和诊治患者的临床工作者。",
+      "explanation": "这里在讨论患者的治疗，重点是实际临床工作；clinician 不等于所有做医学实验的研究人员。",
+      "example": "The clinician discussed the treatment options with the patient.",
+      "translation": "临床医生与患者讨论了治疗方案。",
+      "note": "例句为自拟。原文形式：clinicians。"
+    }
+  },
+  {
+    "front": "indicate",
+    "back": {
+      "meaning": "通过迹象或信息表明某件事。",
+      "explanation": "results 是支持判断的证据，因此 indicate 是“结果表明”；它通常比 prove 的“证明”保留更多余地。",
+      "example": "The results indicate that price affects purchasing decisions.",
+      "translation": "结果表明，价格会影响购买决策。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "consensus",
+    "back": {
+      "meaning": "一群人在某个问题上的大体共识。",
+      "explanation": "专家对最合适的方法未形成共同意见，所以说 no consensus；有共识不一定意味着每个人在每个细节上都赞同。",
+      "example": "There is no consensus on the best way to measure the problem.",
+      "translation": "对于衡量这个问题的最佳方法，目前尚无共识。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "resembling",
+    "back": {
+      "meaning": "在样子或特点上像……的。",
+      "explanation": "物质像糖，不代表它就是糖；resembling 表示相似关系，例句中放在名词后说明它是什么样的物质。",
+      "example": "The sample contained a substance resembling sugar.",
+      "translation": "样本中含有一种类似糖的物质。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "obsessive",
+    "back": {
+      "meaning": "反复占据注意力、令人难以摆脱的。",
+      "explanation": "checking 不断重复并让人难以放下，所以用 obsessive；它强调心思被占据，compulsive 更强调行为难以克制。",
+      "example": "His obsessive checking of prices took up hours each day.",
+      "translation": "他每天花几个小时反复查看价格，几乎无法放下这件事。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "ascendant",
+    "back": {
+      "meaning": "影响力或地位正在上升的；日益占优势的。",
+      "explanation": "in the ascendant 把优势看成向上的走势；说某种购物方式更有影响力，不是它在物理上升高。",
+      "example": "Online shopping is in the ascendant in many markets.",
+      "translation": "在许多市场，网购正日益占据优势。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "disorder",
+    "back": {
+      "meaning": "正常功能受到扰乱而形成的失调或疾病。",
+      "explanation": "sleep 限定了问题发生在睡眠功能上，所以是睡眠障碍；disorder 也能指混乱，共同点是正常秩序受到破坏。",
+      "example": "The clinic treats people with sleep disorders.",
+      "translation": "这家诊所治疗有睡眠障碍的人。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "substance",
+    "back": {
+      "meaning": "具有某种物理或化学性质的物质。",
+      "explanation": "例句讨论接触后是否有害，因此是具体物质；the substance of an argument 则是论证的实质，即真正的内容。",
+      "example": "Some substances can be harmful even in small amounts.",
+      "translation": "某些物质即使量很少也可能有害。",
+      "note": "例句为自拟。原文形式：substances。"
+    }
+  },
+  {
+    "front": "boredom",
+    "back": {
+      "meaning": "因为缺少刺激或兴趣而感到无聊的状态。",
+      "explanation": "out of boredom 说明购物的动机是想摆脱无聊，不是从某个地方出来；boredom 是状态名词。",
+      "example": "She sometimes shops online out of boredom.",
+      "translation": "她有时因为无聊而网购。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "desirable",
+    "back": {
+      "meaning": "值得拥有或希望实现的。",
+      "explanation": "outcome 是人们希望出现的结果，所以 desirable 是理想的；它不表示某人此刻真的有强烈欲望。",
+      "example": "Lower costs are desirable, but not at the expense of safety.",
+      "translation": "降低成本是理想的，但不能以安全为代价。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "implicated",
+    "back": {
+      "meaning": "被认为牵涉其中、与某事有关的。",
+      "explanation": "例句把化学物质与睡眠调节联系起来，不是在指控它犯罪；在人和违法行为搭配时，才常有被牵连的意味。",
+      "example": "Several chemicals have been implicated in the regulation of sleep.",
+      "translation": "几种化学物质被认为与睡眠调节有关。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "thrilled",
+    "back": {
+      "meaning": "非常兴奋、欣喜的。",
+      "explanation": "收到好消息让人产生强烈喜悦，所以是 thrilled；与 thrilling 不同，前者通常讲人的感受，后者讲事物令人兴奋。",
+      "example": "She was thrilled to receive an offer from the university.",
+      "translation": "收到那所大学的录取通知让她非常兴奋。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "prescribed",
+    "back": {
+      "meaning": "由专业人员开具的；或按规定指定的。",
+      "explanation": "medication 和 doctor 表明这是医生开具的药物，不是随意挑选的；prescribed procedure 则指规定好的程序。",
+      "example": "She took the prescribed medication exactly as her doctor instructed.",
+      "translation": "她严格按医生的指导服用了处方药。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "emerge",
+    "back": {
+      "meaning": "原本不明显的事物出现或逐渐显现。",
+      "explanation": "pattern 原先藏在数据中，随着观察才看出来，所以用 emerge；它常强调从隐蔽、不清楚到显现。",
+      "example": "A clear pattern began to emerge from the data.",
+      "translation": "数据中开始显现出清晰的规律。",
+      "note": "例句为自拟。原文形式：emerged。"
+    }
+  },
+  {
+    "front": "weigh in on something",
+    "back": {
+      "meaning": "就某个话题加入讨论并发表意见。",
+      "explanation": "专家把自己的判断加入讨论，像给讨论增加分量；这里不是称某个话题有多重。",
+      "example": "Several experts weighed in on the proposed advertising rules.",
+      "translation": "几位专家就拟议中的广告规定发表了意见。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "iterative",
+    "back": {
+      "meaning": "通过反复尝试、反馈和修改逐步完善的。",
+      "explanation": "每次试验会影响下一次设计，所以是迭代；不是把同一个动作不加变化地重复许多遍。",
+      "example": "The team used an iterative process to improve the design.",
+      "translation": "团队通过反复测试和修改来改进设计。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "influence",
+    "back": {
+      "meaning": "使别人的想法或行为发生变化的影响。",
+      "explanation": "reviews 改变购买决定，所以是影响；它不意味着评论直接控制了消费者，也不一定是强迫。",
+      "example": "Online reviews can influence what people buy.",
+      "translation": "网上评论能影响人们购买什么。",
+      "note": "例句为自拟。原文形式：influence.。"
+    }
+  },
+  {
+    "front": "undue",
+    "back": {
+      "meaning": "超出合理限度或不应有的。",
+      "explanation": "pressure 本身不一定不合理，undue 指压力过了头；不要拆成“不”和“到期”来理解。",
+      "example": "The sales tactics put undue pressure on customers.",
+      "translation": "这些销售手段给顾客施加了过度压力。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "exerting",
+    "back": {
+      "meaning": "正在施加或运用某种力量、压力、影响。",
+      "explanation": "pressure 是被施加的东西，所以 exerting 把抽象压力写成作用到对方身上的力量；不是表达一个观点。",
+      "example": "Consumer groups are exerting pressure on retailers to change their policies.",
+      "translation": "消费者团体正在向零售商施压，要求其改变政策。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "distinct",
+    "back": {
+      "meaning": "能够明确区分开的；明显不同的。",
+      "explanation": "groups 能根据特征分开，因此是不同的两组；distinctive 则常说某个特点很有辨识度。",
+      "example": "The study identified two distinct groups of shoppers.",
+      "translation": "研究识别出了两类明显不同的购物者。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "entity",
+    "back": {
+      "meaning": "可以被当作一个独立整体的事物或组织。",
+      "explanation": "分开的公司即使属于同一集团，也可以作为独立法律主体存在；entity 关注独立单位，不要求它是一件摸得到的东西。",
+      "example": "Each company operates as a separate legal entity.",
+      "translation": "每家公司都作为独立的法律实体运营。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "derived",
+    "back": {
+      "meaning": "来自某个来源的；从中提取或推导出的。",
+      "explanation": "from plants 交代来源，所以这里是从植物提取；derived from data 则是从数据推导出来，核心都是有来源。",
+      "example": "The compound is derived from plants.",
+      "translation": "这种化合物提取自植物。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "proposed",
+    "back": {
+      "meaning": "已经提出、尚待考虑或实施的。",
+      "explanation": "rules 还在提案阶段，所以 proposed rules 是拟议规定；不能自动理解为已经生效的规定。",
+      "example": "The proposed rules would limit advertising aimed at children.",
+      "translation": "这些拟议规定将限制面向儿童的广告。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "criterion",
+    "back": {
+      "meaning": "用来作出判断或筛选的标准。",
+      "explanation": "price 被用来决定选哪种产品，因此是一项判断标准；criterion 不等于最终作出的决定。",
+      "example": "Price should not be the only criterion for choosing a product.",
+      "translation": "价格不应是选择产品的唯一标准。",
+      "note": "例句为自拟。原文形式：criteria。单数 criterion，复数 criteria；看到 criteria 时仍按“判断标准”理解。"
+    }
+  },
+  {
+    "front": "urges",
+    "back": {
+      "meaning": "强烈的冲动；也可能表示敦促。",
+      "explanation": "例句中 urges 是人感受到的一阵阵购买冲动；若主语是人、后接别人去行动，则可能是动词“敦促”。",
+      "example": "She sometimes feels strong urges to buy things she does not need.",
+      "translation": "她有时会强烈地想买自己不需要的东西。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "simplistic",
+    "back": {
+      "meaning": "把复杂问题看得过于简单的。",
+      "explanation": "把债务完全归因于自控力忽略了其他因素，所以带批评意味；simple 只说简单，未必批评。",
+      "example": "It is simplistic to blame debt entirely on poor self-control.",
+      "translation": "把负债完全归咎于自控力差，是过分简单化的看法。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "spectrum",
+    "back": {
+      "meaning": "两端之间存在许多程度或类型的连续范围。",
+      "explanation": "opinions 从一端到另一端有多种立场，所以叫 spectrum；像光谱包含不同颜色一样，不只是两个对立选项。",
+      "example": "The survey captured a broad spectrum of opinions.",
+      "translation": "调查收集到了广泛而多样的意见。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "severe",
+    "back": {
+      "meaning": "程度很重、影响很大的。",
+      "explanation": "symptoms 变得更严重，说明程度上升；severe weather、severe damage 也都强调后果或强度很大。",
+      "example": "Her symptoms became more severe over time.",
+      "translation": "她的症状随时间推移变得更加严重。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "primary",
+    "back": {
+      "meaning": "排在首要位置、最重要的。",
+      "explanation": "concern 是要优先照顾的问题，因此 primary 表示首要；在 primary school 中则表示教育阶段的基础层级。",
+      "example": "Our primary concern is protecting consumers.",
+      "translation": "我们首要关心的是保护消费者。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "estimated",
+    "back": {
+      "meaning": "通过现有信息估算出的。",
+      "explanation": "cost 尚未完全确定，只能作估计，所以 estimated 提醒读者数字不是精确结算值。",
+      "example": "The estimated cost of the project is two million dollars.",
+      "translation": "这个项目的估计成本为两百万美元。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "statement",
+    "back": {
+      "meaning": "明确说出或写下的一段话；声明。",
+      "explanation": "公司发布文字解释决定，所以是声明；bank statement 是把账户活动列出来的报表，都是正式呈现信息。",
+      "example": "The company issued a statement explaining its decision.",
+      "translation": "公司发表声明，解释了这一决定。",
+      "note": "例句为自拟。原文形式：statements。"
+    }
+  },
+  {
+    "front": "diagnose",
+    "back": {
+      "meaning": "根据症状或证据判断是什么问题。",
+      "explanation": "例句中要确定的是疾病，所以是诊断；用于技术故障时也表示找出问题，而不表示已经解决问题。",
+      "example": "The condition can be difficult to diagnose.",
+      "translation": "这种疾病可能很难诊断。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "empirically",
+    "back": {
+      "meaning": "通过观察、实验或实际数据来验证地。",
+      "explanation": "tested 表明说的是如何检验观点；empirically 强调让证据说话，而不只是认为理论上应该如此。",
+      "example": "The theory has not yet been tested empirically.",
+      "translation": "这一理论尚未经过实证检验。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "explored",
+    "back": {
+      "meaning": "探讨过；探索过。",
+      "explanation": "对象是两种行为之间的联系，所以 explore 是深入研究，不是地理探险；两者都包含进入未知领域寻找答案。",
+      "example": "The study explored the link between stress and shopping.",
+      "translation": "该研究探讨了压力与购物之间的联系。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "therapeutic",
+    "back": {
+      "meaning": "有治疗作用的；能帮助恢复或舒缓的。",
+      "explanation": "这里说园艺能让人舒缓，因此 therapeutic 可以用于日常活动；不一定表示它是一项正式医疗治疗。",
+      "example": "Many people find gardening therapeutic.",
+      "translation": "许多人觉得园艺能舒缓身心。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "pharmacological",
+    "back": {
+      "meaning": "与药物及其作用有关的。",
+      "explanation": "和 counselling 放在一起比较时，pharmacological treatments 指通过药物起作用的治疗方式；不是所有治疗都属于药物治疗。",
+      "example": "The review compared pharmacological treatments with counselling.",
+      "translation": "这篇综述比较了药物治疗与心理咨询。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "retail",
+    "back": {
+      "meaning": "直接面向最终消费者销售商品的零售。",
+      "explanation": "商店把商品卖给个人，形成 retail sector；它与把货大批卖给商家的 wholesale 相对。",
+      "example": "The retail sector has changed rapidly as more people shop online.",
+      "translation": "随着更多人网购，零售业发生了迅速变化。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "induce",
+    "back": {
+      "meaning": "促使某种反应、状态或行为出现。",
+      "explanation": "drowsiness 是药物引发的状态，所以 induce 是引起；若接 someone to do，则可表示促使某人行动。",
+      "example": "The medication may induce drowsiness.",
+      "translation": "这种药可能引起困倦。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "worsen",
+    "back": {
+      "meaning": "变得更糟；使情况更糟。",
+      "explanation": "在例句里 stress 是使症状加重的因素；也可说 symptoms worsen，意思是症状自己变严重，动词形式不变。",
+      "example": "Stress can worsen the symptoms.",
+      "translation": "压力可能使症状加重。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "discounts",
+    "back": {
+      "meaning": "价格减免、折扣；也可能表示不予重视。",
+      "explanation": "例句中 retailers offer 的是优惠，所以是复数名词；discount an explanation 则是认为一种解释不值得重视，像降低它的分量。",
+      "example": "Retailers often offer discounts to attract new customers.",
+      "translation": "零售商常用折扣吸引新顾客。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "countdown",
+    "back": {
+      "meaning": "向某个截止点逐步减少的倒计时。",
+      "explanation": "timer 显示剩余时间越来越少，制造马上结束的感觉；countdown 的重点是距离终点还有多少，不是累计经过多久。",
+      "example": "The website displayed a countdown timer next to the offer.",
+      "translation": "网站在优惠旁显示了倒计时。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "instalment",
+    "back": {
+      "meaning": "分期支付的一笔款项；分批推出的一部分。",
+      "explanation": "monthly 把付款分成每月一笔，所以是分期款项；小说连载的一期也是整体按次分出来的一部分。",
+      "example": "You can pay for the laptop in monthly instalments.",
+      "translation": "你可以按月分期支付这台笔记本电脑的费用。",
+      "note": "例句为自拟。原文形式：instalments。英式拼写 instalment；美式拼写 installment。"
+    }
+  },
+  {
+    "front": "erode",
+    "back": {
+      "meaning": "一点点侵蚀或削弱。",
+      "explanation": "物价上涨逐步削弱储蓄能买到的东西，像水慢慢冲蚀土地；erode 强调渐进损耗，不是突然消失。",
+      "example": "Rising prices erode the value of savings.",
+      "translation": "物价上涨会逐渐削弱储蓄的购买力。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "susceptible",
+    "back": {
+      "meaning": "容易受到某种影响或伤害的。",
+      "explanation": "to 后接 advertising，说明容易被广告影响；如果后接疾病，则是容易感染或患病，核心都是抵抗某种影响的能力较弱。",
+      "example": "Children may be more susceptible to advertising than adults.",
+      "translation": "儿童可能比成年人更容易受到广告影响。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "loot",
+    "back": {
+      "meaning": "掠夺来的财物；游戏中获得的战利品。",
+      "explanation": "例句是游戏情境，打开宝箱获得的奖励叫 loot；真实世界里常指抢来的财物，不能直接把游戏玩家理解为抢劫者。",
+      "example": "Players can collect loot by opening treasure chests.",
+      "translation": "玩家可以通过打开宝箱获得战利品。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "irresistible",
+    "back": {
+      "meaning": "吸引力太强，让人很难拒绝的。",
+      "explanation": "offer 让人特别想接受，所以是难以抗拒；不等于客观上绝对不可能拒绝，日常表达常有夸张。",
+      "example": "The offer seemed irresistible, but she decided to wait.",
+      "translation": "这个优惠看起来很诱人，但她决定先等等。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "prove to be",
+    "back": {
+      "meaning": "后来显示出是……；结果证明是……。",
+      "explanation": "主语不是在主动论证自己，而是实际结果显露了它的性质；这里是策略用过之后显示有效。",
+      "example": "The new strategy may prove to be more effective.",
+      "translation": "新策略可能会被证明更加有效。",
+      "note": "例句为自拟。原文形式：proves to be。去掉第三人称单数词尾；to be 后可接形容词或名词。"
+    }
+  },
+  {
+    "front": "regulatory",
+    "back": {
+      "meaning": "与制定或执行管理规则有关的。",
+      "explanation": "approval 来自有监管权限的机构，所以是监管批准；regulatory 不等于 regular 的定期或常规。",
+      "example": "The company is waiting for regulatory approval.",
+      "translation": "这家公司正在等待监管批准。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "recommended",
+    "back": {
+      "meaning": "被建议采用的；被推荐的。",
+      "explanation": "dose 是建议的用量，不是任意选择的量；recommended 说明有建议来源，不自动意味着法律强制。",
+      "example": "Do not exceed the recommended dose.",
+      "translation": "不要超过建议剂量。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "innovation",
+    "back": {
+      "meaning": "引入新想法、新方法或新产品的创新。",
+      "explanation": "例句强调支持新的做法；innovation 不只等于发明一件物品，也可指改善流程或服务的方式。",
+      "example": "Competition can encourage innovation.",
+      "translation": "竞争能够促进创新。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "inclined",
+    "back": {
+      "meaning": "倾向于；比较愿意。",
+      "explanation": "be inclined to do 表示心理上偏向某种行动，好像朝那个方向倾斜；并不保证最后一定会这样做。",
+      "example": "People may be more inclined to buy when delivery is free.",
+      "translation": "免运费时，人们可能更愿意购买。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "implement",
+    "back": {
+      "meaning": "把计划、决定或规则真正付诸实行。",
+      "explanation": "rules 已经有了，接下来要让它们实际起作用，所以是实施；implement 不是提出一个想法。",
+      "example": "The government plans to implement the new rules next year.",
+      "translation": "政府计划明年实施新规定。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "prevent",
+    "back": {
+      "meaning": "在事情发生前阻止它。",
+      "explanation": "checks 的目的是让 fraud 不发生，所以 prevent 强调预防；不是等欺诈发生之后再补救。",
+      "example": "Clearer checks could help prevent fraud.",
+      "translation": "更明确的核查措施可以帮助防止欺诈。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "restriction",
+    "back": {
+      "meaning": "对行为或范围设下的限制。",
+      "explanation": "on 后面交代限制施加在哪件事上；限制广告不一定等于完全禁止，可能只是限制对象、时段或方式。",
+      "example": "The new rules place restrictions on advertising aimed at children.",
+      "translation": "新规定对面向儿童的广告施加了限制。",
+      "note": "例句为自拟。原文形式：restrictions。"
+    }
+  },
+  {
+    "front": "dent",
+    "back": {
+      "meaning": "使原本完整或强大的东西受损、减弱。",
+      "explanation": "confidence 不能真的凹下去，这里把信心受损比作表面被撞出凹痕；也可说 make a dent in，表示有所减少或取得进展。",
+      "example": "The scandal dented consumer confidence.",
+      "translation": "这起丑闻削弱了消费者的信心。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "counterfeit",
+    "back": {
+      "meaning": "伪造出来、冒充真品的。",
+      "explanation": "药品被包装成真品来欺骗人，所以是 counterfeit；与普通的替代品不同，它含有冒充和欺骗。",
+      "example": "Officials seized a shipment of counterfeit medicines.",
+      "translation": "执法人员查获了一批假药。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "parcels",
+    "back": {
+      "meaning": "包裹；也可能是地块或分配的动作。",
+      "explanation": "例句中由配送司机送出的东西是包裹；parcels of land 是划分出的地块，两者都可理解成分好的一份。",
+      "example": "The driver delivered more than fifty parcels that morning.",
+      "translation": "那天上午，司机送出了五十多个包裹。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  },
+  {
+    "front": "tackle",
+    "back": {
+      "meaning": "主动着手处理一个困难的问题。",
+      "explanation": "problem 是要应对的对象，所以 tackle 不是把问题“抓住”就算了，而是开始采取行动；它不保证已经彻底解决。",
+      "example": "The policy aims to tackle the problem of misleading advertising.",
+      "translation": "这项政策旨在处理误导性广告问题。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "congregate",
+    "back": {
+      "meaning": "许多人聚到同一个地方。",
+      "explanation": "球迷在场馆外聚在一起，所以用 congregate；强调聚集状态，不一定意味着有正式会议或统一行动。",
+      "example": "Fans began to congregate outside the stadium.",
+      "translation": "球迷开始聚集在体育场外。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "one another",
+    "back": {
+      "meaning": "彼此；相互。",
+      "explanation": "组员既提供帮助，也接受其他人的帮助，因此是相互关系；不是 another one 的另一个人或东西。",
+      "example": "Members of the group support one another.",
+      "translation": "小组成员相互支持。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "moderator",
+    "back": {
+      "meaning": "负责引导讨论、维持讨论秩序的人。",
+      "explanation": "forum 是讨论平台，所以 moderator 是论坛版主；在现场讨论中则常是主持人，共同点是让讨论有序进行。",
+      "example": "The forum moderator removed several abusive comments.",
+      "translation": "论坛版主删除了几条辱骂性评论。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "forum",
+    "back": {
+      "meaning": "人们交流意见、讨论问题的平台或场合。",
+      "explanation": "online 限定为网络讨论空间；forum 也能是现场论坛，不必一定是一个网站。",
+      "example": "She joined an online forum to share her experiences.",
+      "translation": "她加入了一个网络论坛，分享自己的经历。",
+      "note": "例句为自拟。原文形式：forums。"
+    }
+  },
+  {
+    "front": "priority",
+    "back": {
+      "meaning": "应该优先投入时间、资源或注意力的事情。",
+      "explanation": "top priority 指排在其他事项前面；不是说安全是唯一目标，而是出现取舍时应先考虑它。",
+      "example": "Safety should be the top priority.",
+      "translation": "安全应该是首要考虑的事。",
+      "note": "例句为自拟。原文形式：priorities。"
+    }
+  },
+  {
+    "front": "endlessly",
+    "back": {
+      "meaning": "长时间不停地；仿佛没有尽头地。",
+      "explanation": "scroll 描述不断往下刷的动作；这里通常是夸张，强调持续很久，不是字面上的永远。",
+      "example": "She found herself scrolling endlessly through shopping apps.",
+      "translation": "她发现自己在购物应用里不停地刷下去。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "revelatory",
+    "back": {
+      "meaning": "让原本隐藏或未被认识的事情变清楚的。",
+      "explanation": "报告让人看清广告怎样塑造习惯，因此是有揭示性的；不是简单说报告很详细或很震撼。",
+      "example": "The report was revelatory, showing how advertising shaped everyday habits.",
+      "translation": "这份报告很有启发性，揭示了广告如何塑造日常习惯。",
+      "note": "例句为自拟。"
+    }
+  },
+  {
+    "front": "jolts",
+    "back": {
+      "meaning": "突然的一阵震动、冲击或强烈感受。",
+      "explanation": "of excitement 说明不是身体被撞击，而是一阵突然涌起的兴奋；jolt 保留了短促、猛然发生的感觉。",
+      "example": "Each notification gave him little jolts of excitement.",
+      "translation": "每条通知都会让他突然兴奋一下。",
+      "note": "例句为自拟。原文件无完整句子，词性或含义存在歧义，保留原形式；以上按自拟例句讲解，原文用法待确认。"
+    }
+  }
+]

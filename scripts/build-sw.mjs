@@ -1,0 +1,10 @@
+import { readdir, readFile, writeFile } from 'node:fs/promises';
+import { createHash } from 'node:crypto';
+const base = process.env.VITE_BASE_PATH || '/';
+if (!base.startsWith('/') || !base.endsWith('/')) throw new Error('Base must start and end with /');
+const assets = (await readdir('dist/assets')).map(name => `assets/${name}`);
+const shell = ['', 'index.html', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', ...assets].map(path => base + path);
+const validator = await readFile('src/cards.mjs', 'utf8');
+const template = await readFile('scripts/sw-template.js', 'utf8');
+const version = createHash('sha256').update(JSON.stringify(shell) + template + validator).digest('hex').slice(0, 12);
+await writeFile('dist/sw.js', `const BASE = ${JSON.stringify(base)};\nconst VERSION = '${version}';\nconst SHELL = ${JSON.stringify(shell)};\n${validator.replaceAll('export function', 'function')}\n${template}`);
