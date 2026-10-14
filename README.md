@@ -1,62 +1,74 @@
 # 英语复习
 
-React + TypeScript + Vite 静态 PWA。打开即随机抽卡，轻点卡片翻面，下一张重新随机抽取并避免紧邻重复。只有一张卡时仍可正常复习。无账号、数据库、统计或学习状态保存。
+[打开网页](https://yhcfeel.github.io/english-review-pwa/)
 
-## 本地运行
+React + TypeScript 静态 PWA。每轮把全部卡片洗牌，每张只出现一次；点击翻面，下一张前进；最后一张点击“完成本轮”，再用“重新复习”开启新的一轮。关闭或刷新后继续本轮，完成状态也会保留。
 
-需要 Node.js 22.12+（或 20.19+）。
+仅在设备 localStorage 中保存本轮顺序和当前位置。无账号、数据库、学习统计、熟悉度或云端同步。无法保存时仍能使用，但关闭后重新开始。
+
+## 运行
+
+需要 Node.js 22.12+。
 
 ```sh
 npm install
 npm run dev
-```
-
-## 构建和离线预览
-
-```sh
-npm run test
+npm test
 npm run build
 npm run preview
 ```
 
-`dist/` 是完整静态网站。Service Worker 只在生产构建中启用。默认部署到域名根目录；GitHub Actions 自动使用仓库子路径。手动构建子路径版本时设置 VITE_BASE_PATH=/english-review-pwa/。不支持直接双击 HTML。
+开发模式不启用离线缓存；生产构建启用。GitHub Actions 自动使用仓库子路径；手动构建默认域名根目录，可通过 VITE_BASE_PATH 设置以 / 开始并结束的子路径。
 
 ## 更新词库
 
-GitHub Pages 更新方式：编辑仓库中的 `public/data/cards.json` 并提交到 main，Actions 自动部署；无需修改其他代码。网址：https://yhcfeel.github.io/english-review-pwa/ 。GitHub Pages 上词库地址为 /english-review-pwa/data/cards.json。源码与词库均公开。
+修改 `public/data/cards.json` 并提交到 main，GitHub Pages 自动部署。页面只从该 JSON 读取数据。词头列表改变时开始新的一轮；只修改释义或例句时继续当前进度。打开或刷新获取新词库，失败或格式无效时使用已缓存的有效版本。
 
-开发时替换 `public/data/cards.json`；已部署时直接替换站点的 `/data/cards.json`（对应 `dist/data/cards.json`），不需要重新打包 JavaScript。所有卡片只来自这个 JSON。
+推荐格式：
 
 ```json
 [
   {
-    "front": "gain access to care",
+    "front": "thrill",
     "back": {
-      "meaning": "获得医疗服务的机会",
-      "explanation": "access 强调获得某种资源的渠道，而不是简单进入。",
-      "example": "Many people struggle to gain access to healthcare."
+      "senses": [
+        {
+          "term": "thrill",
+          "pos": "v.",
+          "meaning": "使非常兴奋",
+          "example": "The news thrilled her.",
+          "translation": "这个消息让她非常兴奋。"
+        },
+        {
+          "term": "thrilled",
+          "pos": "adj.",
+          "meaning": "非常兴奋的",
+          "example": "She was thrilled with the result.",
+          "translation": "她对这个结果欣喜不已。"
+        }
+      ]
     }
   }
 ]
 ```
 
-四个必填字段均为非空字符串，至少一张卡；不要写 JSON 注释或尾随逗号。可选 `back.translation` 和 `back.note` 分别显示例句翻译和补充。自带 94 张既有词库卡片，例句全部为自拟，已在补充中标明。
+每张最多两种用法；每种用法的 term、meaning、example 必填。pos 为词性，translation 为例句翻译；需要比喻讲解时可加 core 字符串。词头不能重复。所有文本尽量短，保证一屏可读；当前 94 张均经过 320×568、375×667、390×844 的完整背面布局检查。任意长的新内容或系统超大字体需重新检查是否超出屏幕。
 
-页面每次打开或刷新都联网请求最新版词库；已打开的复习会话保持稳定，不中途换卡。成功校验后更新离线缓存，网络失败、超时或新版 JSON 无效时继续使用上次有效版本。若替换后没更新，检查静态托管商的 CDN 缓存并刷新页面；建议 `/data/cards.json` 设置 `Cache-Control: no-cache`，`/sw.js` 设置 `Cache-Control: no-cache`。
+仍兼容最初的 `back.meaning / explanation / example / translation` 格式。当前数据同时保留该兼容字段，供升级前的离线客户端使用；新版优先显示 senses，不重复显示兼容字段。original 仅保留输入形式，不在复习界面显示。当前例句全部为自拟，并非原文章完整句子。
+
+词头默认 lemma；常见分词形容词与动词在同卡分别讲解。单纯过去式或分词不强行编出独立形容词义。动词有必要时用短比喻连接含义；名词和形容词通常只列词性、翻译与例句。
 
 ## iPhone / iPad
 
-在 Safari 打开已部署的 HTTPS 地址，分享 → 添加到主屏幕 → 添加，然后从图标启动。首次联网打开并等待底部出现“词库已备好，离线也能读”后，可断网重新打开。普通局域网 HTTP 地址可预览页面，但不能在 iPhone 上验证 Service Worker；localhost 安全例外仅适用于该设备自身。
+Safari 打开 HTTPS 网址，分享 → 添加到主屏幕。首次联网访问待资源缓存完成后可离线使用；不保留装饰标识、标语或常驻状态文案。更新后若仍显示旧界面，联网刷新一次，必要时关闭页面后重开。
 
-离线缓存由浏览器管理，清除网站数据或系统回收缓存后需要重新联网。应用不上传任何学习记录；静态文件托管只负责提供网页与词库，不涉及云端保存用户数据。尚未进行真实 iPhone/iPad 硬件测试。
+浏览器清除网站数据会同时清除离线缓存和本轮进度。普通局域网 HTTP 不能用于验证 iPhone 的 Service Worker。真实 iPhone/iPad 硬件测试尚未执行。
 
-## 文件结构
+## 结构
 
-- `src/main.tsx`：复习界面和读取词库。
-- `src/cards.mjs`：数据校验与随机抽取。
-- `src/style.css`：移动端样式、安全区域与大字体。
+- `src/main.tsx`：界面、读词库、本轮进度保存。
+- `src/cards.mjs`：格式兼容、洗牌、进度校验与恢复。
+- `src/style.css`：无滚动的紧凑布局。
 - `public/data/cards.json`：唯一词库。
-- `public/manifest.webmanifest`、`public/icons/`：安装信息和图标。
-- `scripts/`：构建时生成带版本的离线 Service Worker。
-
-参考：[Vite 静态部署](https://vite.dev/guide/static-deploy.html)、[Apple WebKit 主屏幕 Web App](https://webkit.org/blog/13878/)。
+- `scripts/`：构建离线 Service Worker。
+- `.github/workflows/pages.yml`：GitHub Pages 自动部署。

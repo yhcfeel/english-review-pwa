@@ -1,17 +1,27 @@
-/** Validate the only data source before rendering or caching it. */
-export function isCardList(value) {
-  return Array.isArray(value) && value.length > 0 && value.every(card =>
-    card && typeof card.front === 'string' && card.front.trim() &&
-    card.back && ['meaning', 'explanation', 'example'].every(key =>
-      typeof card.back[key] === 'string' && card.back[key].trim()) &&
-    ['translation', 'note'].every(key => card.back[key] === undefined || typeof card.back[key] === 'string'));
+/** Support compact senses and the original simple JSON format. */
+export function getSenses(card) {
+  if (Array.isArray(card.back.senses)) return card.back.senses;
+  return [{term:card.front,pos:card.back.pos || '',meaning:card.back.meaning,core:card.back.explanation || '',example:card.back.example,translation:card.back.translation || ''}];
 }
-
-/** Uniform draw from all cards except the one currently visible. */
-export function randomIndex(length, current = -1, random = Math.random) {
-  if (length < 1) return -1;
-  if (length === 1) return 0;
-  if (current < 0 || current >= length) return Math.floor(random() * length);
-  const candidate = Math.floor(random() * (length - 1));
-  return candidate >= current ? candidate + 1 : candidate;
+export function isCardList(value) {
+  const text = value => typeof value === 'string' && value.trim().length > 0;
+  return Array.isArray(value) && value.length > 0 && new Set(value.map(c=>c?.front)).size === value.length && value.every(card => {
+    if (!card || !text(card.front) || !card.back) return false;
+    const senses=getSenses(card);
+    return senses.length >= 1 && senses.length <= 2 && senses.every(s=>s && ['term','meaning','example'].every(k=>text(s[k])) && ['pos','core','translation'].every(k=>s[k]===undefined || typeof s[k]==='string'));
+  });
+}
+/** Fisher–Yates shuffle: each card is visited once per round. */
+export function newRound(length, random = Math.random) {
+  const order = Array.from({length}, (_,i)=>i);
+  for(let i=length-1;i>0;i--) {const j=Math.floor(random()*(i+1));[order[i],order[j]]=[order[j],order[i]];}
+  return {order,position:0};
+}
+export function deckKey(cards) { return JSON.stringify(cards.map(c=>c.front)); }
+export function validRound(round,length) {
+  return round && Array.isArray(round.order) && round.order.length===length && new Set(round.order).size===length && round.order.every(i=>Number.isInteger(i)&&i>=0&&i<length) && Number.isInteger(round.position) && round.position>=0 && round.position<=length;
+}
+export function restoreRound(raw,cards) {
+  try {const saved=JSON.parse(raw);if(saved.key===deckKey(cards)&&validRound(saved.round,cards.length))return saved.round;} catch {}
+  return newRound(cards.length);
 }
