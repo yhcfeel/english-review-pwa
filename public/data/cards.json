@@ -234,15 +234,22 @@
     "back": {
       "meaning": "渴望；愿望",
       "explanation": "渴望；愿望",
-      "example": "She has a strong desire for independence.",
-      "translation": "她强烈渴望独立。",
+      "example": "She has a strong desire to learn.",
+      "translation": "她有强烈的学习愿望。",
       "senses": [
         {
           "term": "desire",
           "pos": "n.",
           "meaning": "渴望；愿望",
-          "example": "She has a strong desire for independence.",
-          "translation": "她强烈渴望独立。"
+          "example": "She has a strong desire to learn.",
+          "translation": "她有强烈的学习愿望。"
+        },
+        {
+          "term": "desire",
+          "pos": "v.",
+          "meaning": "渴望；想要",
+          "example": "We all desire a better life.",
+          "translation": "我们都渴望更好的生活。"
         }
       ]
     }
@@ -253,15 +260,22 @@
     "back": {
       "meaning": "专家；专科医生",
       "explanation": "专家；专科医生",
-      "example": "Her doctor referred her to a specialist.",
-      "translation": "她的医生将她转诊给一位专科医生。",
+      "example": "The doctor referred her to a specialist.",
+      "translation": "医生将她转诊给一位专科医生。",
       "senses": [
         {
           "term": "specialist",
           "pos": "n.",
           "meaning": "专家；专科医生",
-          "example": "Her doctor referred her to a specialist.",
-          "translation": "她的医生将她转诊给一位专科医生。"
+          "example": "The doctor referred her to a specialist.",
+          "translation": "医生将她转诊给一位专科医生。"
+        },
+        {
+          "term": "specialist",
+          "pos": "adj.",
+          "meaning": "专业的；专门的",
+          "example": "The task requires specialist knowledge.",
+          "translation": "这项任务需要专业知识。"
         }
       ]
     }
@@ -272,15 +286,22 @@
     "back": {
       "meaning": "委员会",
       "explanation": "委员会",
-      "example": "The commission will investigate complaints about online advertising.",
-      "translation": "该委员会将调查有关网络广告的投诉。",
+      "example": "The commission will investigate the case.",
+      "translation": "委员会将调查这起事件。",
       "senses": [
         {
           "term": "commission",
           "pos": "n.",
           "meaning": "委员会",
-          "example": "The commission will investigate complaints about online advertising.",
-          "translation": "该委员会将调查有关网络广告的投诉。"
+          "example": "The commission will investigate the case.",
+          "translation": "委员会将调查这起事件。"
+        },
+        {
+          "term": "commission",
+          "pos": "v.",
+          "meaning": "委托制作；委托开展",
+          "example": "The council commissioned a survey.",
+          "translation": "市政委员会委托开展了一项调查。"
         }
       ]
     }
@@ -376,16 +397,23 @@
     "back": {
       "meaning": "开展；实施",
       "explanation": "像带领队伍往前走：conduct a survey 是组织并推进一项调查。",
-      "example": "The researchers plan to conduct a survey of online shoppers.",
-      "translation": "研究人员计划对网购者开展调查。",
+      "example": "They conducted a survey.",
+      "translation": "他们开展了一项调查。",
       "senses": [
         {
           "term": "conduct",
           "pos": "v.",
           "meaning": "开展；实施",
           "core": "像带领队伍往前走：conduct a survey 是组织并推进一项调查。",
-          "example": "The researchers plan to conduct a survey of online shoppers.",
-          "translation": "研究人员计划对网购者开展调查。"
+          "example": "They conducted a survey.",
+          "translation": "他们开展了一项调查。"
+        },
+        {
+          "term": "conduct",
+          "pos": "n.",
+          "meaning": "行为；举止",
+          "example": "His conduct was unacceptable.",
+          "translation": "他的行为令人无法接受。"
         }
       ]
     }
@@ -396,15 +424,23 @@
     "back": {
       "meaning": "调查",
       "explanation": "调查",
-      "example": "The survey found that many shoppers regretted their purchases.",
-      "translation": "调查发现，许多购物者后悔自己的购买行为。",
+      "example": "The survey revealed a clear trend.",
+      "translation": "调查揭示了一个明显趋势。",
       "senses": [
         {
           "term": "survey",
           "pos": "n.",
           "meaning": "调查",
-          "example": "The survey found that many shoppers regretted their purchases.",
-          "translation": "调查发现，许多购物者后悔自己的购买行为。"
+          "example": "The survey revealed a clear trend.",
+          "translation": "调查揭示了一个明显趋势。"
+        },
+        {
+          "term": "survey",
+          "pos": "v.",
+          "meaning": "调查；考察",
+          "example": "We surveyed 200 shoppers.",
+          "translation": "我们调查了两百名购物者。",
+          "core": "像把镜头扫过一片区域：系统地察看人或事，收集信息。"
         }
       ]
     }
@@ -509,6 +545,13 @@
           "core": "像把两边的墙向中间推：道路变窄，差距或范围也可以缩小。",
           "example": "The new policy may narrow the gap.",
           "translation": "新政策可能缩小差距。"
+        },
+        {
+          "term": "narrow",
+          "pos": "adj.",
+          "meaning": "狭窄的；范围有限的",
+          "example": "They walked down a narrow street.",
+          "translation": "他们沿着一条狭窄的街道走。"
         }
       ]
     }
@@ -529,6 +572,13 @@
           "core": "像海浪突然涌起：需求或价格猛涨，也有这种强劲上冲的感觉。",
           "example": "Demand surged after the launch.",
           "translation": "产品发布后，需求激增。"
+        },
+        {
+          "term": "surge",
+          "pos": "n.",
+          "meaning": "激增；一阵涌动",
+          "example": "There was a surge in demand.",
+          "translation": "需求出现了激增。"
         }
       ]
     }
@@ -882,16 +932,23 @@
     "back": {
       "meaning": "影响",
       "explanation": "像给方向盘轻轻一推：让别人的选择偏向某个方向，不一定是强迫。",
-      "example": "Online reviews can influence what people buy.",
-      "translation": "网上评论能影响人们购买什么。",
+      "example": "Reviews can influence what we buy.",
+      "translation": "评论能影响我们买什么。",
       "senses": [
         {
           "term": "influence",
           "pos": "v.",
           "meaning": "影响",
           "core": "像给方向盘轻轻一推：让别人的选择偏向某个方向，不一定是强迫。",
-          "example": "Online reviews can influence what people buy.",
-          "translation": "网上评论能影响人们购买什么。"
+          "example": "Reviews can influence what we buy.",
+          "translation": "评论能影响我们买什么。"
+        },
+        {
+          "term": "influence",
+          "pos": "n.",
+          "meaning": "影响；影响力",
+          "example": "Her words had a strong influence on me.",
+          "translation": "她的话对我影响很大。"
         }
       ]
     }
@@ -1136,15 +1193,22 @@
     "back": {
       "meaning": "首要的；主要的",
       "explanation": "首要的；主要的",
-      "example": "Our primary concern is protecting consumers.",
-      "translation": "我们首要关心的是保护消费者。",
+      "example": "Safety is our primary concern.",
+      "translation": "安全是我们首要关心的事。",
       "senses": [
         {
           "term": "primary",
           "pos": "adj.",
           "meaning": "首要的；主要的",
-          "example": "Our primary concern is protecting consumers.",
-          "translation": "我们首要关心的是保护消费者。"
+          "example": "Safety is our primary concern.",
+          "translation": "安全是我们首要关心的事。"
+        },
+        {
+          "term": "primary",
+          "pos": "n.",
+          "meaning": "（美国的）政党初选",
+          "example": "She won the primary in her state.",
+          "translation": "她赢得了所在州的政党初选。"
         }
       ]
     }
@@ -1297,15 +1361,22 @@
     "back": {
       "meaning": "零售",
       "explanation": "零售",
-      "example": "The retail sector has changed rapidly as more people shop online.",
-      "translation": "随着更多人网购，零售业发生了迅速变化。",
+      "example": "She works in retail.",
+      "translation": "她在零售业工作。",
       "senses": [
         {
           "term": "retail",
           "pos": "n.",
           "meaning": "零售",
-          "example": "The retail sector has changed rapidly as more people shop online.",
-          "translation": "随着更多人网购，零售业发生了迅速变化。"
+          "example": "She works in retail.",
+          "translation": "她在零售业工作。"
+        },
+        {
+          "term": "retail",
+          "pos": "v.",
+          "meaning": "零售；以……价格零售",
+          "example": "The bag retails for $50.",
+          "translation": "这个包的零售价是五十美元。"
         }
       ]
     }
@@ -1459,15 +1530,22 @@
     "back": {
       "meaning": "战利品；掠夺物",
       "explanation": "战利品；掠夺物",
-      "example": "Players can collect loot by opening treasure chests.",
-      "translation": "玩家可以通过打开宝箱获得战利品。",
+      "example": "Players can collect loot in the game.",
+      "translation": "玩家可以在游戏中收集战利品。",
       "senses": [
         {
           "term": "loot",
           "pos": "n.",
           "meaning": "战利品；掠夺物",
-          "example": "Players can collect loot by opening treasure chests.",
-          "translation": "玩家可以通过打开宝箱获得战利品。"
+          "example": "Players can collect loot in the game.",
+          "translation": "玩家可以在游戏中收集战利品。"
+        },
+        {
+          "term": "loot",
+          "pos": "v.",
+          "meaning": "抢劫；掠夺",
+          "example": "The attackers looted the shops.",
+          "translation": "袭击者抢掠了那些商店。"
         }
       ]
     }
@@ -1608,16 +1686,23 @@
     "back": {
       "meaning": "实施；执行",
       "explanation": "像把图纸变成真正运转的机器：让计划从纸面走进实际行动。",
-      "example": "The government plans to implement the new rules next year.",
-      "translation": "政府计划明年实施新规定。",
+      "example": "They implemented the new rules.",
+      "translation": "他们实施了新规定。",
       "senses": [
         {
           "term": "implement",
           "pos": "v.",
           "meaning": "实施；执行",
           "core": "像把图纸变成真正运转的机器：让计划从纸面走进实际行动。",
-          "example": "The government plans to implement the new rules next year.",
-          "translation": "政府计划明年实施新规定。"
+          "example": "They implemented the new rules.",
+          "translation": "他们实施了新规定。"
+        },
+        {
+          "term": "implement",
+          "pos": "n.",
+          "meaning": "工具；器具",
+          "example": "The shed contains farming implements.",
+          "translation": "棚屋里放着农具。"
         }
       ]
     }
@@ -1667,16 +1752,23 @@
     "back": {
       "meaning": "削弱；损害",
       "explanation": "像撞出一个凹痕：信心受损不是真的凹下去，而是原来的完整程度被破坏。",
-      "example": "The scandal dented consumer confidence.",
-      "translation": "这起丑闻削弱了消费者的信心。",
+      "example": "The scandal dented public confidence.",
+      "translation": "丑闻削弱了公众的信心。",
       "senses": [
         {
           "term": "dent",
           "pos": "v.",
           "meaning": "削弱；损害",
           "core": "像撞出一个凹痕：信心受损不是真的凹下去，而是原来的完整程度被破坏。",
-          "example": "The scandal dented consumer confidence.",
-          "translation": "这起丑闻削弱了消费者的信心。"
+          "example": "The scandal dented public confidence.",
+          "translation": "丑闻削弱了公众的信心。"
+        },
+        {
+          "term": "dent",
+          "pos": "n.",
+          "meaning": "凹痕；凹陷",
+          "example": "There is a dent in the car door.",
+          "translation": "车门上有一个凹痕。"
         }
       ]
     }
@@ -1687,15 +1779,22 @@
     "back": {
       "meaning": "伪造的；假冒的",
       "explanation": "伪造的；假冒的",
-      "example": "Officials seized a shipment of counterfeit medicines.",
-      "translation": "执法人员查获了一批假药。",
+      "example": "The police found counterfeit money.",
+      "translation": "警方发现了假币。",
       "senses": [
         {
           "term": "counterfeit",
           "pos": "adj.",
           "meaning": "伪造的；假冒的",
-          "example": "Officials seized a shipment of counterfeit medicines.",
-          "translation": "执法人员查获了一批假药。"
+          "example": "The police found counterfeit money.",
+          "translation": "警方发现了假币。"
+        },
+        {
+          "term": "counterfeit",
+          "pos": "v.",
+          "meaning": "伪造；仿造",
+          "example": "The gang counterfeited banknotes.",
+          "translation": "这个团伙伪造钞票。"
         }
       ]
     }
@@ -1706,15 +1805,23 @@
     "back": {
       "meaning": "包裹",
       "explanation": "包裹",
-      "example": "The driver delivered more than fifty parcels that morning.",
-      "translation": "那天上午，司机送出了五十多个包裹。",
+      "example": "Three parcels arrived this morning.",
+      "translation": "今天上午到了三个包裹。",
       "senses": [
         {
           "term": "parcel",
           "pos": "n.",
           "meaning": "包裹",
-          "example": "The driver delivered more than fifty parcels that morning.",
-          "translation": "那天上午，司机送出了五十多个包裹。"
+          "example": "Three parcels arrived this morning.",
+          "translation": "今天上午到了三个包裹。"
+        },
+        {
+          "term": "parcel",
+          "pos": "v.",
+          "meaning": "分配；把……分成若干份",
+          "example": "They parcelled out the work.",
+          "translation": "他们把工作分配了出去。",
+          "core": "像把东西分装成小包：parcel out 是把整体分成份，再交给不同的人。"
         }
       ]
     }
@@ -1725,16 +1832,23 @@
     "back": {
       "meaning": "着手处理；应对",
       "explanation": "像迎上去处理一个障碍：强调主动动手解决，不保证已经解决完。",
-      "example": "The policy aims to tackle the problem of misleading advertising.",
-      "translation": "这项政策旨在处理误导性广告问题。",
+      "example": "We need to tackle this problem.",
+      "translation": "我们需要着手处理这个问题。",
       "senses": [
         {
           "term": "tackle",
           "pos": "v.",
           "meaning": "着手处理；应对",
           "core": "像迎上去处理一个障碍：强调主动动手解决，不保证已经解决完。",
-          "example": "The policy aims to tackle the problem of misleading advertising.",
-          "translation": "这项政策旨在处理误导性广告问题。"
+          "example": "We need to tackle this problem.",
+          "translation": "我们需要着手处理这个问题。"
+        },
+        {
+          "term": "tackle",
+          "pos": "n.",
+          "meaning": "（足球等运动中的）抢断；阻截",
+          "example": "He made a tackle and won the ball.",
+          "translation": "他通过一次抢断夺得了球。"
         }
       ]
     }
@@ -1898,6 +2012,78 @@
           "translation": "这条消息震动了他，促使他行动。"
         }
       ]
+    }
+  },
+  {
+    "front": "thrill (n.)",
+    "back": {
+      "senses": [
+        {
+          "term": "thrill",
+          "pos": "n.",
+          "meaning": "兴奋感；刺激",
+          "example": "Winning gave her a real thrill.",
+          "translation": "获胜让她感到十分兴奋。"
+        }
+      ],
+      "meaning": "兴奋感；刺激",
+      "explanation": "兴奋感；刺激",
+      "example": "Winning gave her a real thrill.",
+      "translation": "获胜让她感到十分兴奋。"
+    }
+  },
+  {
+    "front": "estimate (n.)",
+    "back": {
+      "senses": [
+        {
+          "term": "estimate",
+          "pos": "n.",
+          "meaning": "估计；估价",
+          "example": "The builder gave us a cost estimate.",
+          "translation": "建筑商给了我们一份费用估算。"
+        }
+      ],
+      "meaning": "估计；估价",
+      "explanation": "估计；估价",
+      "example": "The builder gave us a cost estimate.",
+      "translation": "建筑商给了我们一份费用估算。"
+    }
+  },
+  {
+    "front": "retail (adj.)",
+    "back": {
+      "senses": [
+        {
+          "term": "retail",
+          "pos": "adj.",
+          "meaning": "零售的",
+          "example": "Retail prices have risen.",
+          "translation": "零售价格上涨了。"
+        }
+      ],
+      "meaning": "零售的",
+      "explanation": "零售的",
+      "example": "Retail prices have risen.",
+      "translation": "零售价格上涨了。"
+    }
+  },
+  {
+    "front": "counterfeit (n.)",
+    "back": {
+      "senses": [
+        {
+          "term": "counterfeit",
+          "pos": "n.",
+          "meaning": "假货；赝品",
+          "example": "The painting turned out to be a counterfeit.",
+          "translation": "这幅画结果被发现是赝品。"
+        }
+      ],
+      "meaning": "假货；赝品",
+      "explanation": "假货；赝品",
+      "example": "The painting turned out to be a counterfeit.",
+      "translation": "这幅画结果被发现是赝品。"
     }
   }
 ]

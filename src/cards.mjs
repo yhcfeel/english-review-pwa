@@ -11,17 +11,3 @@ export function isCardList(value) {
     return senses.length >= 1 && senses.length <= 2 && senses.every(s=>s && ['term','meaning','example'].every(k=>text(s[k])) && ['pos','core','translation'].every(k=>s[k]===undefined || typeof s[k]==='string'));
   });
 }
-/** Fisher–Yates shuffle: each card is visited once per round. */
-export function newRound(length, random = Math.random) {
-  const order = Array.from({length}, (_,i)=>i);
-  for(let i=length-1;i>0;i--) {const j=Math.floor(random()*(i+1));[order[i],order[j]]=[order[j],order[i]];}
-  return {order,position:0};
-}
-export function deckKey(cards) { return JSON.stringify(cards.map(c=>c.front)); }
-export function validRound(round,length) {
-  return round && Array.isArray(round.order) && round.order.length===length && new Set(round.order).size===length && round.order.every(i=>Number.isInteger(i)&&i>=0&&i<length) && Number.isInteger(round.position) && round.position>=0 && round.position<=length;
-}
-export function restoreRound(raw,cards) {
-  try {const saved=JSON.parse(raw);if(saved.key===deckKey(cards)&&validRound(saved.round,cards.length))return saved.round;} catch {}
-  return newRound(cards.length);
-}
