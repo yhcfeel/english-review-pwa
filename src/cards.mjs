@@ -8,6 +8,6 @@ export function isCardList(value) {
   return Array.isArray(value) && value.length > 0 && new Set(value.map(c=>c?.front)).size === value.length && value.every(card => {
     if (!card || !text(card.front) || !card.back) return false;
     const senses=getSenses(card);
-    return senses.length >= 1 && senses.length <= 2 && senses.every(s=>s && ['term','meaning','example'].every(k=>text(s[k])) && ['pos','core','translation'].every(k=>s[k]===undefined || typeof s[k]==='string'));
+    return senses.length >= 1 && senses.length <= 2 && senses.every(s=>s && ['term','meaning','example'].every(k=>text(s[k])) && ['pos','core','translation'].every(k=>s[k]===undefined || typeof s[k]==='string') && ['exampleHighlights','coreHighlights'].every(k=>s[k]===undefined || (Array.isArray(s[k])&&s[k].every(text))));
   });
 }

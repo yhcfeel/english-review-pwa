@@ -13,7 +13,10 @@
           "pos": "n.",
           "meaning": "试剂",
           "example": "The technician added a reagent to the sample to test for glucose.",
-          "translation": "技术员向样本中加入试剂，检测是否含有葡萄糖。"
+          "translation": "技术员向样本中加入试剂，检测是否含有葡萄糖。",
+          "exampleHighlights": [
+            "reagent"
+          ]
         }
       ]
     }
@@ -32,7 +35,10 @@
           "pos": "n.",
           "meaning": "小瓶；样品瓶",
           "example": "Each vial contained a small sample of blood.",
-          "translation": "每个小瓶里都装着少量血液样本。"
+          "translation": "每个小瓶里都装着少量血液样本。",
+          "exampleHighlights": [
+            "vial"
+          ]
         }
       ]
     }
@@ -52,7 +58,14 @@
           "meaning": "对 B 隐瞒 A",
           "core": "像把东西藏到帘子后面：藏的是债务，就变成让别人不知道这件事。",
           "example": "He hid his debts from his family.",
-          "translation": "他向家人隐瞒了债务。"
+          "translation": "他向家人隐瞒了债务。",
+          "exampleHighlights": [
+            "hid",
+            "from"
+          ],
+          "coreHighlights": [
+            "把东西藏到帘子后面"
+          ]
         }
       ]
     }
@@ -71,7 +84,11 @@
           "pos": "phr.",
           "meaning": "从 A 到 B 的各种事物",
           "example": "The shop sells everything from books to kitchen appliances.",
-          "translation": "这家店从书籍到厨房电器，各种商品都有。"
+          "translation": "这家店从书籍到厨房电器，各种商品都有。",
+          "exampleHighlights": [
+            "everything from",
+            "to"
+          ]
         }
       ]
     }
@@ -90,7 +107,10 @@
           "pos": "n. phr.",
           "meaning": "疯狂购物；大肆购买",
           "example": "After receiving her bonus, she went on a buying spree.",
-          "translation": "拿到奖金后，她疯狂购物了一番。"
+          "translation": "拿到奖金后，她疯狂购物了一番。",
+          "exampleHighlights": [
+            "buying spree"
+          ]
         }
       ]
     }
@@ -109,7 +129,10 @@
           "pos": "n.",
           "meaning": "配件；饰品",
           "example": "The store sells accessories such as bags and scarves.",
-          "translation": "这家店出售包、围巾等配饰。"
+          "translation": "这家店出售包、围巾等配饰。",
+          "exampleHighlights": [
+            "accessories"
+          ]
         }
       ]
     }
@@ -128,7 +151,10 @@
           "pos": "n.",
           "meaning": "制作剪贴簿",
           "example": "Scrapbooking helps her preserve family memories.",
-          "translation": "制作剪贴簿帮助她保存家庭回忆。"
+          "translation": "制作剪贴簿帮助她保存家庭回忆。",
+          "exampleHighlights": [
+            "scrapbooking"
+          ]
         }
       ]
     }
@@ -147,7 +173,10 @@
           "pos": "n.",
           "meaning": "小工具；小装置",
           "example": "This kitchen gadget makes it easier to peel apples.",
-          "translation": "这个厨房小工具让削苹果皮更方便。"
+          "translation": "这个厨房小工具让削苹果皮更方便。",
+          "exampleHighlights": [
+            "gadget"
+          ]
         }
       ]
     }
@@ -166,7 +195,10 @@
           "pos": "n.",
           "meaning": "债务；欠款",
           "example": "He got into debt after losing his job.",
-          "translation": "失业后，他开始负债。"
+          "translation": "失业后，他开始负债。",
+          "exampleHighlights": [
+            "debt"
+          ]
         }
       ]
     }
@@ -185,7 +217,10 @@
           "pos": "adj.",
           "meaning": "匿名的",
           "example": "The donation came from an anonymous supporter.",
-          "translation": "这笔捐款来自一位匿名支持者。"
+          "translation": "这笔捐款来自一位匿名支持者。",
+          "exampleHighlights": [
+            "anonymous"
+          ]
         }
       ]
     }
@@ -204,7 +239,10 @@
           "pos": "adj.",
           "meaning": "难以克制的；强迫性的",
           "example": "Her compulsive shopping led to serious debt.",
-          "translation": "她难以控制的购物行为导致了严重负债。"
+          "translation": "她难以控制的购物行为导致了严重负债。",
+          "exampleHighlights": [
+            "compulsive"
+          ]
         }
       ]
     }
@@ -223,7 +261,10 @@
           "pos": "adj.",
           "meaning": "病态的；病理的",
           "example": "His pathological fear of germs made it difficult for him to leave home.",
-          "translation": "他对病菌病态的恐惧让他难以出门。"
+          "translation": "他对病菌病态的恐惧让他难以出门。",
+          "exampleHighlights": [
+            "pathological"
+          ]
         }
       ]
     }
@@ -242,14 +283,20 @@
           "pos": "n.",
           "meaning": "渴望；愿望",
           "example": "She has a strong desire to learn.",
-          "translation": "她有强烈的学习愿望。"
+          "translation": "她有强烈的学习愿望。",
+          "exampleHighlights": [
+            "desire"
+          ]
         },
         {
           "term": "desire",
           "pos": "v.",
           "meaning": "渴望；想要",
           "example": "We all desire a better life.",
-          "translation": "我们都渴望更好的生活。"
+          "translation": "我们都渴望更好的生活。",
+          "exampleHighlights": [
+            "desire"
+          ]
         }
       ]
     }
@@ -268,14 +315,20 @@
           "pos": "n.",
           "meaning": "专家；专科医生",
           "example": "The doctor referred her to a specialist.",
-          "translation": "医生将她转诊给一位专科医生。"
+          "translation": "医生将她转诊给一位专科医生。",
+          "exampleHighlights": [
+            "specialist"
+          ]
         },
         {
           "term": "specialist",
           "pos": "adj.",
           "meaning": "专业的；专门的",
           "example": "The task requires specialist knowledge.",
-          "translation": "这项任务需要专业知识。"
+          "translation": "这项任务需要专业知识。",
+          "exampleHighlights": [
+            "specialist"
+          ]
         }
       ]
     }
@@ -294,14 +347,20 @@
           "pos": "n.",
           "meaning": "委员会",
           "example": "The commission will investigate the case.",
-          "translation": "委员会将调查这起事件。"
+          "translation": "委员会将调查这起事件。",
+          "exampleHighlights": [
+            "commission"
+          ]
         },
         {
           "term": "commission",
           "pos": "v.",
           "meaning": "委托制作；委托开展",
           "example": "The council commissioned a survey.",
-          "translation": "市政委员会委托开展了一项调查。"
+          "translation": "市政委员会委托开展了一项调查。",
+          "exampleHighlights": [
+            "commissioned"
+          ]
         }
       ]
     }
@@ -320,7 +379,10 @@
           "pos": "n.",
           "meaning": "零售商",
           "example": "Many retailers now offer free delivery.",
-          "translation": "许多零售商现在提供免费配送。"
+          "translation": "许多零售商现在提供免费配送。",
+          "exampleHighlights": [
+            "retailers"
+          ]
         }
       ]
     }
@@ -339,7 +401,10 @@
           "pos": "adj.",
           "meaning": "平常的；乏味的",
           "example": "Even mundane tasks like paying bills can feel overwhelming when you are stressed.",
-          "translation": "压力大时，连付账单这样的日常琐事都可能让人难以应付。"
+          "translation": "压力大时，连付账单这样的日常琐事都可能让人难以应付。",
+          "exampleHighlights": [
+            "mundane"
+          ]
         }
       ]
     }
@@ -359,7 +424,14 @@
           "meaning": "把 A 变成 B",
           "core": "像把原料加工成成品：A 是起点，B 是变化后的结果。",
           "example": "The campaign turned viewers into customers.",
-          "translation": "这场宣传把观众变成了顾客。"
+          "translation": "这场宣传把观众变成了顾客。",
+          "exampleHighlights": [
+            "turned",
+            "into"
+          ],
+          "coreHighlights": [
+            "把原料加工成成品"
+          ]
         }
       ]
     }
@@ -379,14 +451,23 @@
           "meaning": "分类；归类",
           "core": "像把物品放进不同抽屉：按特征把对象归到不同类别。",
           "example": "We classify the samples by size.",
-          "translation": "我们按大小对样本分类。"
+          "translation": "我们按大小对样本分类。",
+          "exampleHighlights": [
+            "classify"
+          ],
+          "coreHighlights": [
+            "把物品放进不同抽屉"
+          ]
         },
         {
           "term": "classified",
           "pos": "adj.",
           "meaning": "机密的",
           "example": "The report contains classified information.",
-          "translation": "报告包含机密信息。"
+          "translation": "报告包含机密信息。",
+          "exampleHighlights": [
+            "classified"
+          ]
         }
       ]
     }
@@ -406,14 +487,23 @@
           "meaning": "开展；实施",
           "core": "像带领队伍往前走：conduct a survey 是组织并推进一项调查。",
           "example": "They conducted a survey.",
-          "translation": "他们开展了一项调查。"
+          "translation": "他们开展了一项调查。",
+          "exampleHighlights": [
+            "conducted"
+          ],
+          "coreHighlights": [
+            "带领队伍往前走"
+          ]
         },
         {
           "term": "conduct",
           "pos": "n.",
           "meaning": "行为；举止",
           "example": "His conduct was unacceptable.",
-          "translation": "他的行为令人无法接受。"
+          "translation": "他的行为令人无法接受。",
+          "exampleHighlights": [
+            "conduct"
+          ]
         }
       ]
     }
@@ -432,7 +522,10 @@
           "pos": "n.",
           "meaning": "调查",
           "example": "The survey revealed a clear trend.",
-          "translation": "调查揭示了一个明显趋势。"
+          "translation": "调查揭示了一个明显趋势。",
+          "exampleHighlights": [
+            "survey"
+          ]
         },
         {
           "term": "survey",
@@ -440,7 +533,13 @@
           "meaning": "调查；考察",
           "example": "We surveyed 200 shoppers.",
           "translation": "我们调查了两百名购物者。",
-          "core": "像把镜头扫过一片区域：系统地察看人或事，收集信息。"
+          "core": "像把镜头扫过一片区域：系统地察看人或事，收集信息。",
+          "exampleHighlights": [
+            "surveyed"
+          ],
+          "coreHighlights": [
+            "把镜头扫过一片区域"
+          ]
         }
       ]
     }
@@ -459,7 +558,10 @@
           "pos": "n.",
           "meaning": "诊断",
           "example": "An early diagnosis can make treatment more effective.",
-          "translation": "早期诊断能让治疗更有效。"
+          "translation": "早期诊断能让治疗更有效。",
+          "exampleHighlights": [
+            "diagnosis"
+          ]
         }
       ]
     }
@@ -478,7 +580,10 @@
           "pos": "n.",
           "meaning": "监管；规定",
           "example": "Stricter regulation of online advertising could protect consumers.",
-          "translation": "对网络广告实施更严格的监管可以保护消费者。"
+          "translation": "对网络广告实施更严格的监管可以保护消费者。",
+          "exampleHighlights": [
+            "regulation"
+          ]
         }
       ]
     }
@@ -497,7 +602,10 @@
           "pos": "n.",
           "meaning": "要求；需求",
           "example": "She struggled to meet the demands of her new job.",
-          "translation": "她难以应付新工作的各项要求。"
+          "translation": "她难以应付新工作的各项要求。",
+          "exampleHighlights": [
+            "demands"
+          ]
         },
         {
           "term": "demand",
@@ -505,7 +613,13 @@
           "meaning": "坚决要求",
           "core": "像把要求重重放在桌上：比普通的 ask 语气更强。",
           "example": "Customers demanded a refund.",
-          "translation": "顾客坚决要求退款。"
+          "translation": "顾客坚决要求退款。",
+          "exampleHighlights": [
+            "demanded"
+          ],
+          "coreHighlights": [
+            "把要求重重放在桌上"
+          ]
         }
       ]
     }
@@ -524,7 +638,10 @@
           "pos": "adj.",
           "meaning": "物质至上的",
           "example": "A materialistic outlook can make people equate possessions with success.",
-          "translation": "物质至上的观念会让人把拥有财物等同于成功。"
+          "translation": "物质至上的观念会让人把拥有财物等同于成功。",
+          "exampleHighlights": [
+            "materialistic"
+          ]
         }
       ]
     }
@@ -544,14 +661,23 @@
           "meaning": "缩小；变窄",
           "core": "像把两边的墙向中间推：道路变窄，差距或范围也可以缩小。",
           "example": "The new policy may narrow the gap.",
-          "translation": "新政策可能缩小差距。"
+          "translation": "新政策可能缩小差距。",
+          "exampleHighlights": [
+            "narrow"
+          ],
+          "coreHighlights": [
+            "把两边的墙向中间推"
+          ]
         },
         {
           "term": "narrow",
           "pos": "adj.",
           "meaning": "狭窄的；范围有限的",
           "example": "They walked down a narrow street.",
-          "translation": "他们沿着一条狭窄的街道走。"
+          "translation": "他们沿着一条狭窄的街道走。",
+          "exampleHighlights": [
+            "narrow"
+          ]
         }
       ]
     }
@@ -571,14 +697,23 @@
           "meaning": "激增；涌动",
           "core": "像海浪突然涌起：需求或价格猛涨，也有这种强劲上冲的感觉。",
           "example": "Demand surged after the launch.",
-          "translation": "产品发布后，需求激增。"
+          "translation": "产品发布后，需求激增。",
+          "exampleHighlights": [
+            "surged"
+          ],
+          "coreHighlights": [
+            "海浪突然涌起"
+          ]
         },
         {
           "term": "surge",
           "pos": "n.",
           "meaning": "激增；一阵涌动",
           "example": "There was a surge in demand.",
-          "translation": "需求出现了激增。"
+          "translation": "需求出现了激增。",
+          "exampleHighlights": [
+            "surge"
+          ]
         }
       ]
     }
@@ -598,7 +733,13 @@
           "meaning": "维持；保持",
           "core": "像持续扶住一件东西，不让它倒下：让速度、状态或关系保持下去。",
           "example": "She maintained a steady pace.",
-          "translation": "她保持着稳定的速度。"
+          "translation": "她保持着稳定的速度。",
+          "exampleHighlights": [
+            "maintained"
+          ],
+          "coreHighlights": [
+            "持续扶住一件东西，不让它倒下"
+          ]
         }
       ]
     }
@@ -617,7 +758,10 @@
           "pos": "n.",
           "meaning": "临床医生；临床工作者",
           "example": "The clinician discussed the treatment options with the patient.",
-          "translation": "临床医生与患者讨论了治疗方案。"
+          "translation": "临床医生与患者讨论了治疗方案。",
+          "exampleHighlights": [
+            "clinician"
+          ]
         }
       ]
     }
@@ -637,7 +781,13 @@
           "meaning": "表明；显示",
           "core": "像路标指向一个方向：证据给出判断的方向，但未必足以证明结论。",
           "example": "The results indicate that price affects purchasing decisions.",
-          "translation": "结果表明，价格会影响购买决策。"
+          "translation": "结果表明，价格会影响购买决策。",
+          "exampleHighlights": [
+            "indicate"
+          ],
+          "coreHighlights": [
+            "路标指向一个方向"
+          ]
         }
       ]
     }
@@ -656,7 +806,10 @@
           "pos": "n.",
           "meaning": "共识",
           "example": "There is no consensus on the best way to measure the problem.",
-          "translation": "对于衡量这个问题的最佳方法，目前尚无共识。"
+          "translation": "对于衡量这个问题的最佳方法，目前尚无共识。",
+          "exampleHighlights": [
+            "consensus"
+          ]
         }
       ]
     }
@@ -676,7 +829,13 @@
           "meaning": "像；与……相似",
           "core": "像两幅轮廓接近的画：说它们相像，不是说它们完全相同。",
           "example": "This substance resembles sugar.",
-          "translation": "这种物质看起来像糖。"
+          "translation": "这种物质看起来像糖。",
+          "exampleHighlights": [
+            "resembles"
+          ],
+          "coreHighlights": [
+            "两幅轮廓接近的画"
+          ]
         }
       ]
     }
@@ -695,7 +854,10 @@
           "pos": "adj.",
           "meaning": "痴迷的；强迫性的",
           "example": "His obsessive checking of prices took up hours each day.",
-          "translation": "他每天花几个小时反复查看价格，几乎无法放下这件事。"
+          "translation": "他每天花几个小时反复查看价格，几乎无法放下这件事。",
+          "exampleHighlights": [
+            "obsessive"
+          ]
         }
       ]
     }
@@ -714,7 +876,10 @@
           "pos": "adj.",
           "meaning": "日益占优势的",
           "example": "Online shopping is in the ascendant in many markets.",
-          "translation": "在许多市场，网购正日益占据优势。"
+          "translation": "在许多市场，网购正日益占据优势。",
+          "exampleHighlights": [
+            "ascendant"
+          ]
         }
       ]
     }
@@ -733,7 +898,10 @@
           "pos": "n.",
           "meaning": "失调；障碍；疾病",
           "example": "The clinic treats people with sleep disorders.",
-          "translation": "这家诊所治疗有睡眠障碍的人。"
+          "translation": "这家诊所治疗有睡眠障碍的人。",
+          "exampleHighlights": [
+            "disorders"
+          ]
         }
       ]
     }
@@ -752,7 +920,10 @@
           "pos": "n.",
           "meaning": "物质",
           "example": "Some substances can be harmful even in small amounts.",
-          "translation": "某些物质即使量很少也可能有害。"
+          "translation": "某些物质即使量很少也可能有害。",
+          "exampleHighlights": [
+            "substances"
+          ]
         }
       ]
     }
@@ -771,7 +942,10 @@
           "pos": "n.",
           "meaning": "无聊；厌倦",
           "example": "She sometimes shops online out of boredom.",
-          "translation": "她有时因为无聊而网购。"
+          "translation": "她有时因为无聊而网购。",
+          "exampleHighlights": [
+            "boredom"
+          ]
         }
       ]
     }
@@ -790,7 +964,10 @@
           "pos": "adj.",
           "meaning": "理想的；值得拥有的",
           "example": "Lower costs are desirable, but not at the expense of safety.",
-          "translation": "降低成本是理想的，但不能以安全为代价。"
+          "translation": "降低成本是理想的，但不能以安全为代价。",
+          "exampleHighlights": [
+            "desirable"
+          ]
         }
       ]
     }
@@ -810,7 +987,13 @@
           "meaning": "牵涉；表明……与某事有关",
           "core": "像用线把两个点连起来：证据把某人或某物与一件事联系起来。",
           "example": "The evidence implicated him in the theft.",
-          "translation": "证据表明他与这起盗窃案有关。"
+          "translation": "证据表明他与这起盗窃案有关。",
+          "exampleHighlights": [
+            "implicated"
+          ],
+          "coreHighlights": [
+            "用线把两个点连起来"
+          ]
         }
       ]
     }
@@ -829,14 +1012,20 @@
           "pos": "v.",
           "meaning": "使非常兴奋；使激动",
           "example": "The news thrilled her.",
-          "translation": "这个消息让她非常兴奋。"
+          "translation": "这个消息让她非常兴奋。",
+          "exampleHighlights": [
+            "thrilled"
+          ]
         },
         {
           "term": "thrilled",
           "pos": "adj.",
           "meaning": "非常兴奋的",
           "example": "She was thrilled with the result.",
-          "translation": "她对这个结果欣喜不已。"
+          "translation": "她对这个结果欣喜不已。",
+          "exampleHighlights": [
+            "thrilled"
+          ]
         }
       ]
     }
@@ -855,14 +1044,20 @@
           "pos": "v.",
           "meaning": "开处方；规定",
           "example": "The doctor prescribed a new medicine.",
-          "translation": "医生开了一种新药。"
+          "translation": "医生开了一种新药。",
+          "exampleHighlights": [
+            "prescribed"
+          ]
         },
         {
           "term": "prescribed",
           "pos": "adj.",
           "meaning": "规定的；指定的",
           "example": "Please follow the prescribed procedure.",
-          "translation": "请按规定的程序操作。"
+          "translation": "请按规定的程序操作。",
+          "exampleHighlights": [
+            "prescribed"
+          ]
         }
       ]
     }
@@ -882,7 +1077,13 @@
           "meaning": "出现；显现",
           "core": "像东西从水面下浮出来：原本看不见的事实或规律渐渐显现。",
           "example": "A clear pattern began to emerge from the data.",
-          "translation": "数据中开始显现出清晰的规律。"
+          "translation": "数据中开始显现出清晰的规律。",
+          "exampleHighlights": [
+            "emerge"
+          ],
+          "coreHighlights": [
+            "东西从水面下浮出来"
+          ]
         }
       ]
     }
@@ -902,7 +1103,13 @@
           "meaning": "就某事发表意见",
           "core": "像在天平上加入一个砝码：把自己的意见加入讨论，而不是给话题称重。",
           "example": "Experts weighed in on the new rules.",
-          "translation": "专家们就新规定发表了意见。"
+          "translation": "专家们就新规定发表了意见。",
+          "exampleHighlights": [
+            "weighed in on"
+          ],
+          "coreHighlights": [
+            "在天平上加入一个砝码"
+          ]
         }
       ]
     }
@@ -921,7 +1128,10 @@
           "pos": "adj.",
           "meaning": "迭代的；反复改进的",
           "example": "The team used an iterative process to improve the design.",
-          "translation": "团队通过反复测试和修改来改进设计。"
+          "translation": "团队通过反复测试和修改来改进设计。",
+          "exampleHighlights": [
+            "iterative"
+          ]
         }
       ]
     }
@@ -941,14 +1151,23 @@
           "meaning": "影响",
           "core": "像给方向盘轻轻一推：让别人的选择偏向某个方向，不一定是强迫。",
           "example": "Reviews can influence what we buy.",
-          "translation": "评论能影响我们买什么。"
+          "translation": "评论能影响我们买什么。",
+          "exampleHighlights": [
+            "influence"
+          ],
+          "coreHighlights": [
+            "给方向盘轻轻一推"
+          ]
         },
         {
           "term": "influence",
           "pos": "n.",
           "meaning": "影响；影响力",
           "example": "Her words had a strong influence on me.",
-          "translation": "她的话对我影响很大。"
+          "translation": "她的话对我影响很大。",
+          "exampleHighlights": [
+            "influence"
+          ]
         }
       ]
     }
@@ -967,7 +1186,10 @@
           "pos": "adj.",
           "meaning": "过度的；不应有的",
           "example": "The sales tactics put undue pressure on customers.",
-          "translation": "这些销售手段给顾客施加了过度压力。"
+          "translation": "这些销售手段给顾客施加了过度压力。",
+          "exampleHighlights": [
+            "undue"
+          ]
         }
       ]
     }
@@ -987,7 +1209,13 @@
           "meaning": "施加；运用",
           "core": "像把力推到对方身上：可施加实体力量，也可施加压力或影响。",
           "example": "The group exerted pressure on retailers.",
-          "translation": "这个团体向零售商施加了压力。"
+          "translation": "这个团体向零售商施加了压力。",
+          "exampleHighlights": [
+            "exerted"
+          ],
+          "coreHighlights": [
+            "把力推到对方身上"
+          ]
         }
       ]
     }
@@ -1006,7 +1234,10 @@
           "pos": "adj.",
           "meaning": "明显不同的；清楚的",
           "example": "The study identified two distinct groups of shoppers.",
-          "translation": "研究识别出了两类明显不同的购物者。"
+          "translation": "研究识别出了两类明显不同的购物者。",
+          "exampleHighlights": [
+            "distinct"
+          ]
         }
       ]
     }
@@ -1025,7 +1256,10 @@
           "pos": "n.",
           "meaning": "实体；独立单位",
           "example": "Each company operates as a separate legal entity.",
-          "translation": "每家公司都作为独立的法律实体运营。"
+          "translation": "每家公司都作为独立的法律实体运营。",
+          "exampleHighlights": [
+            "entity"
+          ]
         }
       ]
     }
@@ -1045,14 +1279,23 @@
           "meaning": "获得；源自；推导",
           "core": "像沿水流找到源头：derive A from B 表示 A 从 B 而来。",
           "example": "We derive energy from food.",
-          "translation": "我们从食物中获取能量。"
+          "translation": "我们从食物中获取能量。",
+          "exampleHighlights": [
+            "derive"
+          ],
+          "coreHighlights": [
+            "沿水流找到源头"
+          ]
         },
         {
           "term": "derived",
           "pos": "adj.",
           "meaning": "派生的；衍生的",
           "example": "The lesson covers derived words.",
-          "translation": "这节课讲解派生词。"
+          "translation": "这节课讲解派生词。",
+          "exampleHighlights": [
+            "derived"
+          ]
         }
       ]
     }
@@ -1072,14 +1315,23 @@
           "meaning": "提出；提议",
           "core": "像把方案摆到讨论桌上：先供大家考虑，不表示已经实施。",
           "example": "She proposed a new approach.",
-          "translation": "她提出了一种新方法。"
+          "translation": "她提出了一种新方法。",
+          "exampleHighlights": [
+            "proposed"
+          ],
+          "coreHighlights": [
+            "把方案摆到讨论桌上"
+          ]
         },
         {
           "term": "proposed",
           "pos": "adj.",
           "meaning": "拟议的",
           "example": "The proposed changes need approval.",
-          "translation": "这些拟议改动需要批准。"
+          "translation": "这些拟议改动需要批准。",
+          "exampleHighlights": [
+            "proposed"
+          ]
         }
       ]
     }
@@ -1098,7 +1350,10 @@
           "pos": "n.",
           "meaning": "判断标准",
           "example": "Price should not be the only criterion for choosing a product.",
-          "translation": "价格不应是选择产品的唯一标准。"
+          "translation": "价格不应是选择产品的唯一标准。",
+          "exampleHighlights": [
+            "criterion"
+          ]
         }
       ]
     }
@@ -1118,14 +1373,23 @@
           "meaning": "敦促；力劝",
           "core": "像从背后推人一把：强烈希望对方行动，但不等于命令。",
           "example": "They urged him to seek help.",
-          "translation": "他们力劝他寻求帮助。"
+          "translation": "他们力劝他寻求帮助。",
+          "exampleHighlights": [
+            "urged"
+          ],
+          "coreHighlights": [
+            "从背后推人一把"
+          ]
         },
         {
           "term": "urge",
           "pos": "n.",
           "meaning": "强烈的冲动",
           "example": "She felt an urge to buy something.",
-          "translation": "她突然很想买点东西。"
+          "translation": "她突然很想买点东西。",
+          "exampleHighlights": [
+            "urge"
+          ]
         }
       ]
     }
@@ -1144,7 +1408,10 @@
           "pos": "adj.",
           "meaning": "过分简单化的",
           "example": "It is simplistic to blame debt entirely on poor self-control.",
-          "translation": "把负债完全归咎于自控力差，是过分简单化的看法。"
+          "translation": "把负债完全归咎于自控力差，是过分简单化的看法。",
+          "exampleHighlights": [
+            "simplistic"
+          ]
         }
       ]
     }
@@ -1163,7 +1430,10 @@
           "pos": "n.",
           "meaning": "范围；系列；谱",
           "example": "The survey captured a broad spectrum of opinions.",
-          "translation": "调查收集到了广泛而多样的意见。"
+          "translation": "调查收集到了广泛而多样的意见。",
+          "exampleHighlights": [
+            "spectrum"
+          ]
         }
       ]
     }
@@ -1182,7 +1452,10 @@
           "pos": "adj.",
           "meaning": "严重的；严厉的",
           "example": "Her symptoms became more severe over time.",
-          "translation": "她的症状随时间推移变得更加严重。"
+          "translation": "她的症状随时间推移变得更加严重。",
+          "exampleHighlights": [
+            "severe"
+          ]
         }
       ]
     }
@@ -1201,14 +1474,20 @@
           "pos": "adj.",
           "meaning": "首要的；主要的",
           "example": "Safety is our primary concern.",
-          "translation": "安全是我们首要关心的事。"
+          "translation": "安全是我们首要关心的事。",
+          "exampleHighlights": [
+            "primary"
+          ]
         },
         {
           "term": "primary",
           "pos": "n.",
           "meaning": "（美国的）政党初选",
           "example": "She won the primary in her state.",
-          "translation": "她赢得了所在州的政党初选。"
+          "translation": "她赢得了所在州的政党初选。",
+          "exampleHighlights": [
+            "primary"
+          ]
         }
       ]
     }
@@ -1227,14 +1506,20 @@
           "pos": "v.",
           "meaning": "估计；估算",
           "example": "We estimate that the work will take a week.",
-          "translation": "我们估计这项工作需要一周。"
+          "translation": "我们估计这项工作需要一周。",
+          "exampleHighlights": [
+            "estimate"
+          ]
         },
         {
           "term": "estimated",
           "pos": "adj.",
           "meaning": "估计的；预计的",
           "example": "The estimated cost is $500.",
-          "translation": "估计费用为五百美元。"
+          "translation": "估计费用为五百美元。",
+          "exampleHighlights": [
+            "estimated"
+          ]
         }
       ]
     }
@@ -1253,7 +1538,10 @@
           "pos": "n.",
           "meaning": "陈述；声明",
           "example": "The company issued a statement explaining its decision.",
-          "translation": "公司发表声明，解释了这一决定。"
+          "translation": "公司发表声明，解释了这一决定。",
+          "exampleHighlights": [
+            "statement"
+          ]
         }
       ]
     }
@@ -1273,7 +1561,13 @@
           "meaning": "诊断；查明问题",
           "core": "像根据线索拼出答案：找出疾病或故障是什么，不等于已经治好或修好。",
           "example": "The condition can be difficult to diagnose.",
-          "translation": "这种疾病可能很难诊断。"
+          "translation": "这种疾病可能很难诊断。",
+          "exampleHighlights": [
+            "diagnose"
+          ],
+          "coreHighlights": [
+            "根据线索拼出答案"
+          ]
         }
       ]
     }
@@ -1292,7 +1586,10 @@
           "pos": "adv.",
           "meaning": "通过实证地",
           "example": "The theory has not yet been tested empirically.",
-          "translation": "这一理论尚未经过实证检验。"
+          "translation": "这一理论尚未经过实证检验。",
+          "exampleHighlights": [
+            "empirically"
+          ]
         }
       ]
     }
@@ -1312,7 +1609,13 @@
           "meaning": "探索；探讨",
           "core": "像走进未知的地方寻找答案：也能走进一个问题，研究其中的联系。",
           "example": "The study explored the causes of stress.",
-          "translation": "这项研究探讨了压力的成因。"
+          "translation": "这项研究探讨了压力的成因。",
+          "exampleHighlights": [
+            "explored"
+          ],
+          "coreHighlights": [
+            "走进未知的地方寻找答案"
+          ]
         }
       ]
     }
@@ -1331,7 +1634,10 @@
           "pos": "adj.",
           "meaning": "有治疗作用的；舒缓身心的",
           "example": "Many people find gardening therapeutic.",
-          "translation": "许多人觉得园艺能舒缓身心。"
+          "translation": "许多人觉得园艺能舒缓身心。",
+          "exampleHighlights": [
+            "therapeutic"
+          ]
         }
       ]
     }
@@ -1350,7 +1656,10 @@
           "pos": "adj.",
           "meaning": "药理学的；药物治疗的",
           "example": "The review compared pharmacological treatments with counselling.",
-          "translation": "这篇综述比较了药物治疗与心理咨询。"
+          "translation": "这篇综述比较了药物治疗与心理咨询。",
+          "exampleHighlights": [
+            "pharmacological"
+          ]
         }
       ]
     }
@@ -1369,14 +1678,20 @@
           "pos": "n.",
           "meaning": "零售",
           "example": "She works in retail.",
-          "translation": "她在零售业工作。"
+          "translation": "她在零售业工作。",
+          "exampleHighlights": [
+            "retail"
+          ]
         },
         {
           "term": "retail",
           "pos": "v.",
           "meaning": "零售；以……价格零售",
           "example": "The bag retails for $50.",
-          "translation": "这个包的零售价是五十美元。"
+          "translation": "这个包的零售价是五十美元。",
+          "exampleHighlights": [
+            "retails"
+          ]
         }
       ]
     }
@@ -1396,7 +1711,13 @@
           "meaning": "引起；促使",
           "core": "像推倒第一块多米诺骨牌：让某种反应或状态开始出现。",
           "example": "The medication may induce drowsiness.",
-          "translation": "这种药可能引起困倦。"
+          "translation": "这种药可能引起困倦。",
+          "exampleHighlights": [
+            "induce"
+          ],
+          "coreHighlights": [
+            "推倒第一块多米诺骨牌"
+          ]
         }
       ]
     }
@@ -1415,7 +1736,10 @@
           "pos": "v.",
           "meaning": "恶化；使加重",
           "example": "Stress can worsen the symptoms.",
-          "translation": "压力可能使症状加重。"
+          "translation": "压力可能使症状加重。",
+          "exampleHighlights": [
+            "worsen"
+          ]
         }
       ]
     }
@@ -1434,7 +1758,10 @@
           "pos": "n.",
           "meaning": "折扣",
           "example": "Retailers often offer discounts to attract new customers.",
-          "translation": "零售商常用折扣吸引新顾客。"
+          "translation": "零售商常用折扣吸引新顾客。",
+          "exampleHighlights": [
+            "discounts"
+          ]
         },
         {
           "term": "discount",
@@ -1442,7 +1769,13 @@
           "meaning": "不予重视；认为不可信",
           "core": "像给一个说法的可信度打折：认为它没有那么重要或可靠。",
           "example": "Do not discount her concerns.",
-          "translation": "不要轻视她的担忧。"
+          "translation": "不要轻视她的担忧。",
+          "exampleHighlights": [
+            "discount"
+          ],
+          "coreHighlights": [
+            "给一个说法的可信度打折"
+          ]
         }
       ]
     }
@@ -1461,7 +1794,10 @@
           "pos": "n.",
           "meaning": "倒计时",
           "example": "The website displayed a countdown timer next to the offer.",
-          "translation": "网站在优惠旁显示了倒计时。"
+          "translation": "网站在优惠旁显示了倒计时。",
+          "exampleHighlights": [
+            "countdown"
+          ]
         }
       ]
     }
@@ -1480,7 +1816,10 @@
           "pos": "n.",
           "meaning": "分期付款中的一期款项",
           "example": "You can pay for the laptop in monthly instalments.",
-          "translation": "你可以按月分期支付这台笔记本电脑的费用。"
+          "translation": "你可以按月分期支付这台笔记本电脑的费用。",
+          "exampleHighlights": [
+            "instalments"
+          ]
         }
       ]
     }
@@ -1500,7 +1839,13 @@
           "meaning": "侵蚀；逐渐削弱",
           "core": "像水一点点冲走泥土：物价、压力也能逐步削弱购买力或信心。",
           "example": "Rising prices erode the value of savings.",
-          "translation": "物价上涨会逐渐削弱储蓄的购买力。"
+          "translation": "物价上涨会逐渐削弱储蓄的购买力。",
+          "exampleHighlights": [
+            "erode"
+          ],
+          "coreHighlights": [
+            "水一点点冲走泥土"
+          ]
         }
       ]
     }
@@ -1519,7 +1864,10 @@
           "pos": "adj.",
           "meaning": "易受影响的；易患……的",
           "example": "Children may be more susceptible to advertising than adults.",
-          "translation": "儿童可能比成年人更容易受到广告影响。"
+          "translation": "儿童可能比成年人更容易受到广告影响。",
+          "exampleHighlights": [
+            "susceptible"
+          ]
         }
       ]
     }
@@ -1538,14 +1886,20 @@
           "pos": "n.",
           "meaning": "战利品；掠夺物",
           "example": "Players can collect loot in the game.",
-          "translation": "玩家可以在游戏中收集战利品。"
+          "translation": "玩家可以在游戏中收集战利品。",
+          "exampleHighlights": [
+            "loot"
+          ]
         },
         {
           "term": "loot",
           "pos": "v.",
           "meaning": "抢劫；掠夺",
           "example": "The attackers looted the shops.",
-          "translation": "袭击者抢掠了那些商店。"
+          "translation": "袭击者抢掠了那些商店。",
+          "exampleHighlights": [
+            "looted"
+          ]
         }
       ]
     }
@@ -1564,7 +1918,10 @@
           "pos": "adj.",
           "meaning": "难以抗拒的",
           "example": "The offer seemed irresistible, but she decided to wait.",
-          "translation": "这个优惠看起来很诱人，但她决定先等等。"
+          "translation": "这个优惠看起来很诱人，但她决定先等等。",
+          "exampleHighlights": [
+            "irresistible"
+          ]
         }
       ]
     }
@@ -1584,7 +1941,13 @@
           "meaning": "结果是；证明是",
           "core": "像揭开盖子看清结果：实际表现显露出某事是什么样，而不是它主动证明自己。",
           "example": "The new strategy proved to be effective.",
-          "translation": "新策略结果证明有效。"
+          "translation": "新策略结果证明有效。",
+          "exampleHighlights": [
+            "proved to be"
+          ],
+          "coreHighlights": [
+            "揭开盖子看清结果"
+          ]
         }
       ]
     }
@@ -1603,7 +1966,10 @@
           "pos": "adj.",
           "meaning": "监管的",
           "example": "The company is waiting for regulatory approval.",
-          "translation": "这家公司正在等待监管批准。"
+          "translation": "这家公司正在等待监管批准。",
+          "exampleHighlights": [
+            "regulatory"
+          ]
         }
       ]
     }
@@ -1622,14 +1988,20 @@
           "pos": "v.",
           "meaning": "推荐；建议",
           "example": "I recommend taking a short break.",
-          "translation": "我建议稍作休息。"
+          "translation": "我建议稍作休息。",
+          "exampleHighlights": [
+            "recommend"
+          ]
         },
         {
           "term": "recommended",
           "pos": "adj.",
           "meaning": "推荐的；建议的",
           "example": "Do not exceed the recommended dose.",
-          "translation": "不要超过建议剂量。"
+          "translation": "不要超过建议剂量。",
+          "exampleHighlights": [
+            "recommended"
+          ]
         }
       ]
     }
@@ -1648,7 +2020,10 @@
           "pos": "n.",
           "meaning": "创新",
           "example": "Competition can encourage innovation.",
-          "translation": "竞争能够促进创新。"
+          "translation": "竞争能够促进创新。",
+          "exampleHighlights": [
+            "innovation"
+          ]
         }
       ]
     }
@@ -1668,14 +2043,23 @@
           "meaning": "使倾向于；使倾斜",
           "core": "像把天平压向一边：某个因素让人更偏向一种选择。",
           "example": "The evidence inclines me to agree.",
-          "translation": "这些证据使我倾向于同意。"
+          "translation": "这些证据使我倾向于同意。",
+          "exampleHighlights": [
+            "inclines"
+          ],
+          "coreHighlights": [
+            "把天平压向一边"
+          ]
         },
         {
           "term": "inclined",
           "pos": "adj.",
           "meaning": "倾向于的；愿意的",
           "example": "I am inclined to agree with you.",
-          "translation": "我倾向于同意你的看法。"
+          "translation": "我倾向于同意你的看法。",
+          "exampleHighlights": [
+            "inclined"
+          ]
         }
       ]
     }
@@ -1695,14 +2079,23 @@
           "meaning": "实施；执行",
           "core": "像把图纸变成真正运转的机器：让计划从纸面走进实际行动。",
           "example": "They implemented the new rules.",
-          "translation": "他们实施了新规定。"
+          "translation": "他们实施了新规定。",
+          "exampleHighlights": [
+            "implemented"
+          ],
+          "coreHighlights": [
+            "把图纸变成真正运转的机器"
+          ]
         },
         {
           "term": "implement",
           "pos": "n.",
           "meaning": "工具；器具",
           "example": "The shed contains farming implements.",
-          "translation": "棚屋里放着农具。"
+          "translation": "棚屋里放着农具。",
+          "exampleHighlights": [
+            "implements"
+          ]
         }
       ]
     }
@@ -1722,7 +2115,13 @@
           "meaning": "防止；阻止",
           "core": "像在事情发生前关上一道门：重点是让坏事没有机会发生。",
           "example": "Clearer checks could help prevent fraud.",
-          "translation": "更明确的核查措施可以帮助防止欺诈。"
+          "translation": "更明确的核查措施可以帮助防止欺诈。",
+          "exampleHighlights": [
+            "prevent"
+          ],
+          "coreHighlights": [
+            "在事情发生前关上一道门"
+          ]
         }
       ]
     }
@@ -1741,7 +2140,10 @@
           "pos": "n.",
           "meaning": "限制；限制性规定",
           "example": "The new rules place restrictions on advertising aimed at children.",
-          "translation": "新规定对面向儿童的广告施加了限制。"
+          "translation": "新规定对面向儿童的广告施加了限制。",
+          "exampleHighlights": [
+            "restrictions"
+          ]
         }
       ]
     }
@@ -1761,14 +2163,23 @@
           "meaning": "削弱；损害",
           "core": "像撞出一个凹痕：信心受损不是真的凹下去，而是原来的完整程度被破坏。",
           "example": "The scandal dented public confidence.",
-          "translation": "丑闻削弱了公众的信心。"
+          "translation": "丑闻削弱了公众的信心。",
+          "exampleHighlights": [
+            "dented"
+          ],
+          "coreHighlights": [
+            "撞出一个凹痕"
+          ]
         },
         {
           "term": "dent",
           "pos": "n.",
           "meaning": "凹痕；凹陷",
           "example": "There is a dent in the car door.",
-          "translation": "车门上有一个凹痕。"
+          "translation": "车门上有一个凹痕。",
+          "exampleHighlights": [
+            "dent"
+          ]
         }
       ]
     }
@@ -1787,14 +2198,20 @@
           "pos": "adj.",
           "meaning": "伪造的；假冒的",
           "example": "The police found counterfeit money.",
-          "translation": "警方发现了假币。"
+          "translation": "警方发现了假币。",
+          "exampleHighlights": [
+            "counterfeit"
+          ]
         },
         {
           "term": "counterfeit",
           "pos": "v.",
           "meaning": "伪造；仿造",
           "example": "The gang counterfeited banknotes.",
-          "translation": "这个团伙伪造钞票。"
+          "translation": "这个团伙伪造钞票。",
+          "exampleHighlights": [
+            "counterfeited"
+          ]
         }
       ]
     }
@@ -1813,7 +2230,10 @@
           "pos": "n.",
           "meaning": "包裹",
           "example": "Three parcels arrived this morning.",
-          "translation": "今天上午到了三个包裹。"
+          "translation": "今天上午到了三个包裹。",
+          "exampleHighlights": [
+            "parcels"
+          ]
         },
         {
           "term": "parcel",
@@ -1821,7 +2241,13 @@
           "meaning": "分配；把……分成若干份",
           "example": "They parcelled out the work.",
           "translation": "他们把工作分配了出去。",
-          "core": "像把东西分装成小包：parcel out 是把整体分成份，再交给不同的人。"
+          "core": "像把东西分装成小包：parcel out 是把整体分成份，再交给不同的人。",
+          "exampleHighlights": [
+            "parcelled"
+          ],
+          "coreHighlights": [
+            "把东西分装成小包"
+          ]
         }
       ]
     }
@@ -1841,14 +2267,23 @@
           "meaning": "着手处理；应对",
           "core": "像迎上去处理一个障碍：强调主动动手解决，不保证已经解决完。",
           "example": "We need to tackle this problem.",
-          "translation": "我们需要着手处理这个问题。"
+          "translation": "我们需要着手处理这个问题。",
+          "exampleHighlights": [
+            "tackle"
+          ],
+          "coreHighlights": [
+            "迎上去处理一个障碍"
+          ]
         },
         {
           "term": "tackle",
           "pos": "n.",
           "meaning": "（足球等运动中的）抢断；阻截",
           "example": "He made a tackle and won the ball.",
-          "translation": "他通过一次抢断夺得了球。"
+          "translation": "他通过一次抢断夺得了球。",
+          "exampleHighlights": [
+            "tackle"
+          ]
         }
       ]
     }
@@ -1868,7 +2303,13 @@
           "meaning": "聚集",
           "core": "像散落的点向一个中心靠拢：许多人来到同一处。",
           "example": "Fans began to congregate outside the stadium.",
-          "translation": "球迷开始聚集在体育场外。"
+          "translation": "球迷开始聚集在体育场外。",
+          "exampleHighlights": [
+            "congregate"
+          ],
+          "coreHighlights": [
+            "散落的点向一个中心靠拢"
+          ]
         }
       ]
     }
@@ -1887,7 +2328,10 @@
           "pos": "pron. phr.",
           "meaning": "彼此；互相",
           "example": "Members of the group support one another.",
-          "translation": "小组成员相互支持。"
+          "translation": "小组成员相互支持。",
+          "exampleHighlights": [
+            "one another"
+          ]
         }
       ]
     }
@@ -1906,7 +2350,10 @@
           "pos": "n.",
           "meaning": "主持人；版主",
           "example": "The forum moderator removed several abusive comments.",
-          "translation": "论坛版主删除了几条辱骂性评论。"
+          "translation": "论坛版主删除了几条辱骂性评论。",
+          "exampleHighlights": [
+            "moderator"
+          ]
         }
       ]
     }
@@ -1925,7 +2372,10 @@
           "pos": "n.",
           "meaning": "论坛；讨论平台",
           "example": "She joined an online forum to share her experiences.",
-          "translation": "她加入了一个网络论坛，分享自己的经历。"
+          "translation": "她加入了一个网络论坛，分享自己的经历。",
+          "exampleHighlights": [
+            "forum"
+          ]
         }
       ]
     }
@@ -1944,7 +2394,10 @@
           "pos": "n.",
           "meaning": "优先事项",
           "example": "Safety should be the top priority.",
-          "translation": "安全应该是首要考虑的事。"
+          "translation": "安全应该是首要考虑的事。",
+          "exampleHighlights": [
+            "priority"
+          ]
         }
       ]
     }
@@ -1963,7 +2416,10 @@
           "pos": "adv.",
           "meaning": "不停地；无休止地",
           "example": "She found herself scrolling endlessly through shopping apps.",
-          "translation": "她发现自己在购物应用里不停地刷下去。"
+          "translation": "她发现自己在购物应用里不停地刷下去。",
+          "exampleHighlights": [
+            "endlessly"
+          ]
         }
       ]
     }
@@ -1982,7 +2438,10 @@
           "pos": "adj.",
           "meaning": "揭示性的；使人恍然大悟的",
           "example": "The report was revelatory, showing how advertising shaped everyday habits.",
-          "translation": "这份报告很有启发性，揭示了广告如何塑造日常习惯。"
+          "translation": "这份报告很有启发性，揭示了广告如何塑造日常习惯。",
+          "exampleHighlights": [
+            "revelatory"
+          ]
         }
       ]
     }
@@ -2001,7 +2460,10 @@
           "pos": "n.",
           "meaning": "突然的震动；一阵冲击",
           "example": "Each notification gave him little jolts of excitement.",
-          "translation": "每条通知都会让他突然兴奋一下。"
+          "translation": "每条通知都会让他突然兴奋一下。",
+          "exampleHighlights": [
+            "jolts"
+          ]
         },
         {
           "term": "jolt",
@@ -2009,7 +2471,13 @@
           "meaning": "使震动；使震惊",
           "core": "像突然推人一把：身体会猛地一动，消息也能使人猛然惊醒。",
           "example": "The news jolted him into action.",
-          "translation": "这条消息震动了他，促使他行动。"
+          "translation": "这条消息震动了他，促使他行动。",
+          "exampleHighlights": [
+            "jolted"
+          ],
+          "coreHighlights": [
+            "突然推人一把"
+          ]
         }
       ]
     }
@@ -2023,7 +2491,10 @@
           "pos": "n.",
           "meaning": "兴奋感；刺激",
           "example": "Winning gave her a real thrill.",
-          "translation": "获胜让她感到十分兴奋。"
+          "translation": "获胜让她感到十分兴奋。",
+          "exampleHighlights": [
+            "thrill"
+          ]
         }
       ],
       "meaning": "兴奋感；刺激",
@@ -2041,7 +2512,10 @@
           "pos": "n.",
           "meaning": "估计；估价",
           "example": "The builder gave us a cost estimate.",
-          "translation": "建筑商给了我们一份费用估算。"
+          "translation": "建筑商给了我们一份费用估算。",
+          "exampleHighlights": [
+            "estimate"
+          ]
         }
       ],
       "meaning": "估计；估价",
@@ -2059,7 +2533,10 @@
           "pos": "adj.",
           "meaning": "零售的",
           "example": "Retail prices have risen.",
-          "translation": "零售价格上涨了。"
+          "translation": "零售价格上涨了。",
+          "exampleHighlights": [
+            "retail"
+          ]
         }
       ],
       "meaning": "零售的",
@@ -2077,7 +2554,10 @@
           "pos": "n.",
           "meaning": "假货；赝品",
           "example": "The painting turned out to be a counterfeit.",
-          "translation": "这幅画结果被发现是赝品。"
+          "translation": "这幅画结果被发现是赝品。",
+          "exampleHighlights": [
+            "counterfeit"
+          ]
         }
       ],
       "meaning": "假货；赝品",

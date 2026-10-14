@@ -1,14 +1,18 @@
 import { useEffect, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { getSenses, isCardList } from './cards.mjs';
+import { highlightParts } from './highlight.mjs';
 import { deckKey, newRound, rateCard, restoreRound } from './review.mjs';
 import './style.css';
 
-type Sense={term:string;pos?:string;meaning:string;core?:string;example:string;translation?:string};
+type Sense={term:string;pos?:string;meaning:string;core?:string;example:string;translation?:string;exampleHighlights?:string[];coreHighlights?:string[]};
 type Card={front:string;back:{senses?:Sense[];meaning?:string;explanation?:string;example?:string;translation?:string;pos?:string}};
 type Round={version:number;order:number[];current:number|null;step:number;last:number|null;states:{seen:boolean;score:number;done:boolean;due:number|null}[]};
 type Rating='known'|'vague'|'forgot';
 const STORAGE=`english-review-round:${import.meta.env.BASE_URL}`;
+function Highlight({text,phrases,words=false}:{text:string;phrases:string[];words?:boolean}){
+ return <>{highlightParts(text,phrases,words).map((p,i)=>p.highlight?<strong key={i}>{p.text}</strong>:p.text)}</>;
+}
 function App(){
  const [cards,setCards]=useState<Card[]>([]);
  const [round,setRound]=useState<Round|null>(null);
@@ -51,9 +55,10 @@ function App(){
     done?<div className="message"><h2>本轮复习完成</h2><p>所有词已完成</p></div>:
     card?<div className={`card ${flipped?'answer':''}`}>
      {!flipped?<h2 className="front" lang="en">{card.front}</h2>:<div className="back">{(getSenses(card) as Sense[]).map((s,i)=><section className="sense" key={i}>
-      <h2><span lang="en">{s.term}</span>{s.pos&&<span className="pos">{s.pos}</span>}<span className="meaning">{s.meaning}</span></h2>
-      {s.core&&<p className="core">{s.core}</p>}
-      <p className="example" lang="en">{s.example}</p>{s.translation&&<p className="translation">{s.translation}</p>}
+      <h2 lang="en">{s.term}</h2>
+      <p className="definition">{s.pos&&<span className="pos">{s.pos}</span>}<span className="meaning">{s.meaning}</span></p>
+      {s.core&&<p className="core"><Highlight text={s.core} phrases={s.coreHighlights||[]}/></p>}
+      <p className="example" lang="en"><Highlight text={s.example} phrases={s.exampleHighlights||[s.term]} words/></p>{s.translation&&<p className="translation">{s.translation}</p>}
      </section>)}</div>}
     </div>:null}
   </section>
