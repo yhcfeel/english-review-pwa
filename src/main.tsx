@@ -1,24 +1,20 @@
 import { useEffect, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { getSenses, isCardList } from './cards.mjs';
-import { highlightParts } from './highlight.mjs';
+import { Answer } from './Answer';
 import { deckKey, newRound, rateCard, restoreRound } from './review.mjs';
 import { latestBatch, selectQueue, isPriority, queueStorage } from './queues.mjs';
 import './style.css';
 
 type Sense={term:string;pos?:string;meaning:string;core?:string;example:string;translation?:string;exampleHighlights?:string[];coreHighlights?:string[]};
-type Card={front:string;batches?:{date:string;repeat:boolean}[];back:{senses?:Sense[];meaning?:string;explanation?:string;example?:string;translation?:string;pos?:string}};
+type Card={front:string;batches?:{date:string;repeat:boolean}[];back:{core?:string;senses?:Sense[];meaning?:string;explanation?:string;example?:string;translation?:string;pos?:string}};
 type Round={version:number;order:number[];current:number|null;step:number;last:number|null;states:{seen:boolean;score:number;done:boolean;due:number|null}[]};
 type Mode='latest'|'all';
 type Rating='known'|'vague'|'forgot';
 const STORAGE=`english-review-round:${import.meta.env.BASE_URL}`;
-function Highlight({text,phrases,words=false}:{text:string;phrases:string[];words?:boolean}){
- return <>{highlightParts(text,phrases,words).map((p,i)=>p.highlight?<strong key={i}>{p.text}</strong>:p.text)}</>;
-}
 function App(){
  const [allCards,setAllCards]=useState<Card[]>([]);
  const [mode,setMode]=useState<Mode>(()=>{try{return localStorage.getItem(`${STORAGE}:mode`)==='all'?'all':'latest';}catch{return 'latest';}});
- const [sensePage,setSensePage]=useState(0);
  const [round,setRound]=useState<Round|null>(null);
  const [flipped,setFlipped]=useState(false);
  const [error,setError]=useState('');
@@ -38,7 +34,7 @@ function App(){
   let cancelled=false;const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),10000);setError('');
   fetch(`${import.meta.env.BASE_URL}data/cards.json`,{cache:'no-store',signal:controller.signal}).then(async r=>{
    if(!r.ok)throw Error('load');const data=await r.json();if(!isCardList(data))throw Error('format');
-   if(!cancelled){const batch=latestBatch(data);setAllCards(data);load(selectQueue(data,mode,batch),mode,batch);setFlipped(false);setSensePage(0);}
+   if(!cancelled){const batch=latestBatch(data);setAllCards(data);load(selectQueue(data,mode,batch),mode,batch);setFlipped(false);}
   }).catch(e=>{if(!cancelled)setError(e.message==='format'?'词库为空或格式不正确，请检查 cards.json。':'无法读取词库，请联网后重试。');}).finally(()=>clearTimeout(timer));
   return()=>{cancelled=true;clearTimeout(timer);controller.abort();};
  },[attempt]);
@@ -50,22 +46,22 @@ function App(){
   navigator.serviceWorker.register(`${import.meta.env.BASE_URL}sw.js`,{updateViaCache:'none'}).catch(()=>{});
   return()=>navigator.serviceWorker.removeEventListener('controllerchange',refresh);
  },[]);
- useEffect(()=>{if(stage.current)stage.current.scrollTop=0;},[sensePage,flipped,round?.current,mode]);
+ useEffect(()=>{if(stage.current)stage.current.scrollTop=0;},[flipped,round?.current,mode]);
  const switchQueue=(next:Mode)=>{
   if(next===mode||!allCards.length)return;
   setMode(next);try{localStorage.setItem(`${STORAGE}:mode`,next);}catch{setStorageWarning(true);}
-  load(selectQueue(allCards,next,date),next,date);setFlipped(false);setSensePage(0);lastRating.current=0;
+  load(selectQueue(allCards,next,date),next,date);setFlipped(false);lastRating.current=0;
  };
  const done=!!round&&round.current===null;
  const card=round&&round.current!==null?cards[round.current]:null;
  const senses=card?getSenses(card) as Sense[]:[];
  const priority=isPriority(card,date);
- const flip=()=>{if(card){setFlipped(v=>!v);setSensePage(0);}};
+ const flip=()=>{if(card){setFlipped(v=>!v);}};
  const rate=(rating:Rating)=>{
   if(!round||!card||performance.now()-lastRating.current<300)return;
-  lastRating.current=performance.now();save(rateCard(round,rating));setFlipped(false);setSensePage(0);
+  lastRating.current=performance.now();save(rateCard(round,rating));setFlipped(false);
  };
- const restart=()=>{save(newRound(cards.length));setFlipped(false);setSensePage(0);lastRating.current=0;};
+ const restart=()=>{save(newRound(cards.length));setFlipped(false);lastRating.current=0;};
  return <main className="app">
   <header><h1>英语复习</h1>
    <div className="queue-picker" role="group" aria-label="选择复习队列">
@@ -80,18 +76,13 @@ function App(){
     done?<div className="message"><h2>本轮复习完成</h2><p>当前队列所有词已完成</p></div>:
     card?<div className={`card ${flipped?'answer':''}`}>
      {priority&&<div className="priority-star" aria-label="重点复习：今日重复遇到的旧词">★</div>}
-     {!flipped?<h2 className="front" lang="en">{card.front}</h2>:<div className="back">{senses.slice(sensePage,sensePage+1).map((s,i)=><section className="sense" key={i}>
-      <h2 lang="en">{s.term}</h2>
-      <p className="definition">{s.pos&&<span className="pos">{s.pos}</span>}<span className="meaning">{s.meaning}</span></p>
-      {s.core&&<p className="core"><Highlight text={s.core} phrases={s.coreHighlights||[]}/></p>}
-      <p className="example" lang="en"><Highlight text={s.example} phrases={s.exampleHighlights||[s.term]} words/></p>{s.translation&&<p className="translation">{s.translation}</p>}
-     </section>)}</div>}
+     {!flipped?<h2 className="front" lang="en">{card.front}</h2>:<Answer card={card} key={card.front}/>}
     </div>:null}
   </section>
   <footer>
-   {flipped&&senses.length>1&&<nav className="sense-pages" aria-label="常见用法与例句"><button disabled={sensePage===0} onClick={()=>setSensePage(n=>n-1)}>上一用法</button><span aria-live="polite">{sensePage+1} / {senses.length}</span><button disabled={sensePage===senses.length-1} onClick={()=>setSensePage(n=>n+1)}>下一用法</button></nav>}
+
    {done?<button className="primary restart" onClick={restart}>重新复习</button>:<>
-   <button className="flip-control" disabled={!card} onClick={flip}>{flipped?'返回英文':`查看答案${senses.length>1?` · ${senses.length} 个用法／例句`:''}`}</button>
+   <button className="flip-control" disabled={!card} onClick={flip}>{flipped?'返回英文':`查看答案${senses.length>1?` · ${senses.length} 个常见用法`:''}`}</button>
    <div className="actions"><button disabled={!card} onClick={()=>rate('forgot')}>忘记</button><button disabled={!card} onClick={()=>rate('vague')}>模糊</button><button className="primary" disabled={!card} onClick={()=>rate('known')}>认识</button></div>
   </>}{storageWarning&&<p className="storage-warning">当前浏览器无法保存进度，关闭后会重新开始。</p>}</footer>
  </main>;

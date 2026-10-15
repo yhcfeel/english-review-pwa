@@ -7,6 +7,7 @@ export function isCardList(value) {
   const text = value => typeof value === 'string' && value.trim().length > 0;
   return Array.isArray(value) && value.length > 0 && new Set(value.map(c=>c?.front)).size === value.length && value.every(card => {
     if (!card || !text(card.front) || !card.back) return false;
+    if(card.back.core!==undefined&&!text(card.back.core))return false;
     const senses=getSenses(card);
     const batches=card.batches;
     if(batches!==undefined&&(!Array.isArray(batches)||batches.some(b=>!b||!/^\d{4}-\d{2}-\d{2}$/.test(b.date)||typeof b.repeat!=='boolean')||new Set(batches.map(b=>b.date)).size!==batches.length))return false;

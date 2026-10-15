@@ -370,7 +370,8 @@
             "desire"
           ]
         }
-      ]
+      ],
+      "core": "心里强烈地想得到某物：作动词是“渴望”，作名词就是这份“愿望”。"
     },
     "batches": [
       {
@@ -408,7 +409,8 @@
             "specialist"
           ]
         }
-      ]
+      ],
+      "core": "专注于某一领域：人是“专家”，工作或服务就是“专业的”。"
     },
     "batches": [
       {
@@ -446,7 +448,8 @@
             "commissioned"
           ]
         }
-      ]
+      ],
+      "core": "围绕“正式交付的任务”理解：受托办事的一组人是委员会，把任务交给别人是委托。"
     },
     "batches": [
       {
@@ -557,14 +560,10 @@
           "term": "classify",
           "pos": "v.",
           "meaning": "分类；归类",
-          "core": "像把物品放进不同抽屉：按特征把对象归到不同类别。",
           "example": "We classify the samples by size.",
           "translation": "我们按大小对样本分类。",
           "exampleHighlights": [
             "classify"
-          ],
-          "coreHighlights": [
-            "把物品放进不同抽屉"
           ]
         },
         {
@@ -577,7 +576,8 @@
             "classified"
           ]
         }
-      ]
+      ],
+      "core": "把事物放进某一类别：一般是“分类”；文件被划入保密类别，就成了 classified“机密的”。"
     },
     "batches": [
       {
@@ -599,14 +599,10 @@
           "term": "conduct",
           "pos": "v.",
           "meaning": "开展；实施",
-          "core": "像带领队伍往前走：conduct a survey 是组织并推进一项调查。",
           "example": "They conducted a survey.",
           "translation": "他们开展了一项调查。",
           "exampleHighlights": [
             "conducted"
-          ],
-          "coreHighlights": [
-            "带领队伍往前走"
           ]
         },
         {
@@ -619,7 +615,8 @@
             "conduct"
           ]
         }
-      ]
+      ],
+      "core": "围绕“如何进行”理解：conduct a study 是开展研究；人的 conduct 是行为表现。"
     },
     "batches": [
       {
@@ -653,15 +650,12 @@
           "meaning": "调查；考察",
           "example": "We surveyed 200 shoppers.",
           "translation": "我们调查了两百名购物者。",
-          "core": "像把镜头扫过一片区域：系统地察看人或事，收集信息。",
           "exampleHighlights": [
             "surveyed"
-          ],
-          "coreHighlights": [
-            "把镜头扫过一片区域"
           ]
         }
-      ]
+      ],
+      "core": "系统地查看、了解情况：可以做调查，也可以实地考察；名词就是这项调查。"
     },
     "batches": [
       {
@@ -749,17 +743,14 @@
           "term": "demand",
           "pos": "v.",
           "meaning": "坚决要求",
-          "core": "像把要求重重放在桌上：比普通的 ask 语气更强。",
           "example": "Customers demanded a refund.",
           "translation": "顾客坚决要求退款。",
           "exampleHighlights": [
             "demanded"
-          ],
-          "coreHighlights": [
-            "把要求重重放在桌上"
           ]
         }
-      ]
+      ],
+      "core": "一种强烈的“需要”：市场需要是需求，把需要强硬地说出来就是要求。"
     },
     "batches": [
       {
@@ -809,14 +800,10 @@
           "term": "narrow",
           "pos": "v.",
           "meaning": "缩小；变窄",
-          "core": "像把两边的墙向中间推：道路变窄，差距或范围也可以缩小。",
           "example": "The new policy may narrow the gap.",
           "translation": "新政策可能缩小差距。",
           "exampleHighlights": [
             "narrow"
-          ],
-          "coreHighlights": [
-            "把两边的墙向中间推"
           ]
         },
         {
@@ -829,7 +816,8 @@
             "narrow"
           ]
         }
-      ]
+      ],
+      "core": "从“宽度小”出发：路窄是狭窄；让范围变小就是缩小。"
     },
     "batches": [
       {
@@ -851,14 +839,10 @@
           "term": "surge",
           "pos": "v.",
           "meaning": "激增；涌动",
-          "core": "像海浪突然涌起：需求或价格猛涨，也有这种强劲上冲的感觉。",
           "example": "Demand surged after the launch.",
           "translation": "产品发布后，需求激增。",
           "exampleHighlights": [
             "surged"
-          ],
-          "coreHighlights": [
-            "海浪突然涌起"
           ]
         },
         {
@@ -871,7 +855,8 @@
             "surge"
           ]
         }
-      ]
+      ],
+      "core": "像水突然涌起：可说人潮、情绪涌动，也可说价格或数量激增；动词与名词都常见。"
     },
     "batches": [
       {
@@ -1261,7 +1246,8 @@
             "thrilled"
           ]
         }
-      ]
+      ],
+      "core": "像兴奋的电流突然穿过身体：thrill 使人激动，thrilled 是被激起兴奋后的状态。"
     },
     "batches": [
       {
@@ -1299,7 +1285,8 @@
             "prescribed"
           ]
         }
-      ]
+      ],
+      "core": "由有权威的人指定该怎么做：医生指定用药是开处方，制度指定做法是规定。"
     },
     "batches": [
       {
@@ -1413,14 +1400,10 @@
           "term": "influence",
           "pos": "v.",
           "meaning": "影响",
-          "core": "像给方向盘轻轻一推：让别人的选择偏向某个方向，不一定是强迫。",
           "example": "Reviews can influence what we buy.",
           "translation": "评论能影响我们买什么。",
           "exampleHighlights": [
             "influence"
-          ],
-          "coreHighlights": [
-            "给方向盘轻轻一推"
           ]
         },
         {
@@ -1433,7 +1416,8 @@
             "influence"
           ]
         }
-      ]
+      ],
+      "core": "让事物朝某个方向变化：作动词是影响，作名词是这种影响或影响力。"
     },
     "batches": [
       {
@@ -1571,14 +1555,10 @@
           "term": "derive",
           "pos": "v.",
           "meaning": "获得；源自；推导",
-          "core": "像沿水流找到源头：derive A from B 表示 A 从 B 而来。",
           "example": "We derive energy from food.",
           "translation": "我们从食物中获取能量。",
           "exampleHighlights": [
             "derive"
-          ],
-          "coreHighlights": [
-            "沿水流找到源头"
           ]
         },
         {
@@ -1591,7 +1571,8 @@
             "derived"
           ]
         }
-      ]
+      ],
+      "core": "从一个来源得到东西：由原料获得、由依据推导、由其他词派生，都可以用它。"
     },
     "batches": [
       {
@@ -1613,14 +1594,10 @@
           "term": "propose",
           "pos": "v.",
           "meaning": "提出；提议",
-          "core": "像把方案摆到讨论桌上：先供大家考虑，不表示已经实施。",
           "example": "She proposed a new approach.",
           "translation": "她提出了一种新方法。",
           "exampleHighlights": [
             "proposed"
-          ],
-          "coreHighlights": [
-            "把方案摆到讨论桌上"
           ]
         },
         {
@@ -1633,7 +1610,8 @@
             "proposed"
           ]
         }
-      ]
+      ],
+      "core": "把想法拿出来供考虑：propose 是提出，proposed 是已经提出、仍待讨论的。"
     },
     "batches": [
       {
@@ -1683,14 +1661,10 @@
           "term": "urge",
           "pos": "v.",
           "meaning": "敦促；力劝",
-          "core": "像从背后推人一把：强烈希望对方行动，但不等于命令。",
           "example": "They urged him to seek help.",
           "translation": "他们力劝他寻求帮助。",
           "exampleHighlights": [
             "urged"
-          ],
-          "coreHighlights": [
-            "从背后推人一把"
           ]
         },
         {
@@ -1703,7 +1677,8 @@
             "urge"
           ]
         }
-      ]
+      ],
+      "core": "一股推动的力量：向外推别人行动是敦促，心里推动自己行动的是冲动。"
     },
     "batches": [
       {
@@ -1825,7 +1800,8 @@
             "primary"
           ]
         }
-      ]
+      ],
+      "core": "排在前面、处于基础位置：可以指首要的；美国政党正式提名前的选举叫 primary“初选”。"
     },
     "batches": [
       {
@@ -1863,7 +1839,8 @@
             "estimated"
           ]
         }
-      ]
+      ],
+      "core": "不是精确测量，而是按现有信息作大致判断：estimate 估算，estimated 表示预计或估计所得。"
     },
     "batches": [
       {
@@ -2077,7 +2054,8 @@
             "retails"
           ]
         }
-      ]
+      ],
+      "core": "把商品卖给最终消费者：作名词是零售，作动词是以零售方式出售。"
     },
     "batches": [
       {
@@ -2169,17 +2147,14 @@
           "term": "discount",
           "pos": "v.",
           "meaning": "不予重视；认为不可信",
-          "core": "像给一个说法的可信度打折：认为它没有那么重要或可靠。",
           "example": "Do not discount her concerns.",
           "translation": "不要轻视她的担忧。",
           "exampleHighlights": [
             "discount"
-          ],
-          "coreHighlights": [
-            "给一个说法的可信度打折"
           ]
         }
-      ]
+      ],
+      "core": "把原来的数值或分量往下减：减价格是打折，降低对一条信息的重视程度是不予采信。"
     },
     "batches": [
       {
@@ -2333,7 +2308,8 @@
             "looted"
           ]
         }
-      ]
+      ],
+      "core": "记住“掠夺”的场景：动作是抢掠，抢来的财物就是 loot；游戏里也常指战利品。"
     },
     "batches": [
       {
@@ -2459,7 +2435,8 @@
             "recommended"
           ]
         }
-      ]
+      ],
+      "core": "把人、事物或做法作为好选择提出：可以推荐东西，也可以建议采取某种做法。"
     },
     "batches": [
       {
@@ -2509,14 +2486,10 @@
           "term": "incline",
           "pos": "v.",
           "meaning": "使倾向于；使倾斜",
-          "core": "像把天平压向一边：某个因素让人更偏向一种选择。",
           "example": "The evidence inclines me to agree.",
           "translation": "这些证据使我倾向于同意。",
           "exampleHighlights": [
             "inclines"
-          ],
-          "coreHighlights": [
-            "把天平压向一边"
           ]
         },
         {
@@ -2529,7 +2502,8 @@
             "inclined"
           ]
         }
-      ]
+      ],
+      "core": "朝一个方向倾：身体或物体是倾斜，想法朝某方向倾就是倾向于。"
     },
     "batches": [
       {
@@ -2551,14 +2525,10 @@
           "term": "implement",
           "pos": "v.",
           "meaning": "实施；执行",
-          "core": "像把图纸变成真正运转的机器：让计划从纸面走进实际行动。",
           "example": "They implemented the new rules.",
           "translation": "他们实施了新规定。",
           "exampleHighlights": [
             "implemented"
-          ],
-          "coreHighlights": [
-            "把图纸变成真正运转的机器"
           ]
         },
         {
@@ -2571,7 +2541,8 @@
             "implements"
           ]
         }
-      ]
+      ],
+      "core": "让事情得以完成：作动词是落实计划，作名词是干活用的工具；两种词性分开识别。"
     },
     "batches": [
       {
@@ -2653,14 +2624,10 @@
           "term": "dent",
           "pos": "v.",
           "meaning": "削弱；损害",
-          "core": "像撞出一个凹痕：信心受损不是真的凹下去，而是原来的完整程度被破坏。",
           "example": "The scandal dented public confidence.",
           "translation": "丑闻削弱了公众的信心。",
           "exampleHighlights": [
             "dented"
-          ],
-          "coreHighlights": [
-            "撞出一个凹痕"
           ]
         },
         {
@@ -2673,7 +2640,8 @@
             "dent"
           ]
         }
-      ]
+      ],
+      "core": "在平整表面压出凹痕：具体是凹陷，抽象地让信心、利润受损也是 dent。"
     },
     "batches": [
       {
@@ -2711,7 +2679,8 @@
             "counterfeited"
           ]
         }
-      ]
+      ],
+      "core": "仿造出足以冒充真品的东西：可形容假冒的商品，也可表示伪造这个动作。"
     },
     "batches": [
       {
@@ -2745,15 +2714,12 @@
           "meaning": "分配；把……分成若干份",
           "example": "They parcelled out the work.",
           "translation": "他们把工作分配了出去。",
-          "core": "像把东西分装成小包：parcel out 是把整体分成份，再交给不同的人。",
           "exampleHighlights": [
             "parcelled"
-          ],
-          "coreHighlights": [
-            "把东西分装成小包"
           ]
         }
-      ]
+      ],
+      "core": "按一份一份来理解：包好的一份是包裹，把整体分成若干份是 parcel out。"
     },
     "batches": [
       {
@@ -2775,14 +2741,10 @@
           "term": "tackle",
           "pos": "v.",
           "meaning": "着手处理；应对",
-          "core": "像迎上去处理一个障碍：强调主动动手解决，不保证已经解决完。",
           "example": "We need to tackle this problem.",
           "translation": "我们需要着手处理这个问题。",
           "exampleHighlights": [
             "tackle"
-          ],
-          "coreHighlights": [
-            "迎上去处理一个障碍"
           ]
         },
         {
@@ -2795,7 +2757,8 @@
             "tackle"
           ]
         }
-      ]
+      ],
+      "core": "主动上前应付某个目标：对问题是着手解决，对球员则是抢断或阻截。"
     },
     "batches": [
       {
@@ -3027,17 +2990,14 @@
           "term": "jolt",
           "pos": "v.",
           "meaning": "使震动；使震惊",
-          "core": "像突然推人一把：身体会猛地一动，消息也能使人猛然惊醒。",
           "example": "The news jolted him into action.",
           "translation": "这条消息震动了他，促使他行动。",
           "exampleHighlights": [
             "jolted"
-          ],
-          "coreHighlights": [
-            "突然推人一把"
           ]
         }
-      ]
+      ],
+      "core": "突然猛地震一下：既可以震动车辆或身体，也可以让人的情绪受到冲击。"
     },
     "batches": [
       {
@@ -3216,7 +3176,8 @@
       "meaning": "场合；某一次；时机",
       "explanation": "",
       "example": "I met her on several occasions.",
-      "translation": "我见过她几次。"
+      "translation": "我见过她几次。",
+      "core": "某件事发生的那个时点或场合：普通的一次也算，值得庆祝的特别场合也算。"
     },
     "original": "occasion",
     "batches": [
@@ -3257,7 +3218,8 @@
       "meaning": "头晕的",
       "explanation": "",
       "example": "The height made me feel giddy.",
-      "translation": "这样的高度让我头晕。"
+      "translation": "这样的高度让我头晕。",
+      "core": "像头脑失去平衡、晕乎乎的：可以真的头晕，也可以因兴奋而忘乎所以。"
     },
     "original": "giddy",
     "batches": [
@@ -3341,7 +3303,8 @@
       "meaning": "松的；未固定的；宽松的",
       "explanation": "",
       "example": "One of the screws is loose.",
-      "translation": "有颗螺丝松了。"
+      "translation": "有颗螺丝松了。",
+      "core": "没有紧紧束住：螺丝没拧紧是松的，动物没关住是自由活动，翻译不逐字对应是宽泛的。"
     },
     "original": "loose",
     "batches": [
@@ -3476,7 +3439,8 @@
       "meaning": "先驱；开拓者",
       "explanation": "",
       "example": "She was a pioneer in medical research.",
-      "translation": "她是医学研究的先驱。"
+      "translation": "她是医学研究的先驱。",
+      "core": "走在前面开路：这个人是先驱；率先开发技术或方法，就是开创。"
     },
     "original": "pioneer",
     "batches": [
@@ -3558,7 +3522,8 @@
       "meaning": "蘸；浸一下",
       "explanation": "",
       "example": "Dip the brush in water.",
-      "translation": "把刷子在水里蘸一下。"
+      "translation": "把刷子在水里蘸一下。",
+      "core": "想象“短暂地往下探一下”：东西探进液体是蘸，数字往下探是短降，进水游一下是短游。"
     },
     "original": "dip",
     "batches": [
@@ -3909,7 +3874,8 @@
       "meaning": "延误；推迟；使耽搁",
       "explanation": "",
       "example": "Heavy snow caused long delays.",
-      "translation": "大雪造成了长时间延误。"
+      "translation": "大雪造成了长时间延误。",
+      "core": "把事情向后拖：可以是造成延误，也可以是推迟做某事；delay 后接 doing，不接 to do。"
     },
     "original": "delays",
     "batches": [
@@ -3960,7 +3926,8 @@
       "meaning": "定期的；经常的",
       "explanation": "",
       "example": "Regular exercise helps you sleep.",
-      "translation": "经常锻炼有助于睡眠。"
+      "translation": "经常锻炼有助于睡眠。",
+      "core": "符合某种常规：按规律发生是定期，普通规格是常规，经常来的人就是常客。"
     },
     "original": "regular",
     "batches": [
@@ -4157,7 +4124,8 @@
       "meaning": "兑现；变现",
       "explanation": "",
       "example": "He decided to cash in his savings bonds.",
-      "translation": "他决定兑现储蓄债券。"
+      "translation": "他决定兑现储蓄债券。",
+      "core": "把手里的东西变成钱：cash in 是兑现；cash in on 则是利用某个机会来获利。"
     },
     "original": "cash in",
     "batches": [
@@ -4261,7 +4229,8 @@
       "meaning": "卓越才华；出色表现",
       "explanation": "",
       "example": "The solution showed her brilliance.",
-      "translation": "这个解决方案展现了她的才华。"
+      "translation": "这个解决方案展现了她的才华。",
+      "core": "像光一样耀眼：可以是真实的光辉，也可以是人的才华或表现令人惊艳。"
     },
     "original": "brilliance",
     "batches": [
@@ -4374,7 +4343,8 @@
       "meaning": "猛冲；匆忙赶路",
       "explanation": "",
       "example": "She dashed to the station.",
-      "translation": "她冲向车站。"
+      "translation": "她冲向车站。",
+      "core": "常带“短促、猛烈”的感觉：人猛冲，希望受重击而破灭。少量和破折号也常见，需结合搭配记。"
     },
     "original": "dash",
     "batches": [
@@ -4415,7 +4385,8 @@
       "meaning": "戳；捅；探出",
       "explanation": "",
       "example": "He poked his head around the door.",
-      "translation": "他从门边探出头来。"
+      "translation": "他从门边探出头来。",
+      "core": "用细小部位向前戳、探：手指戳，头探出去；poke fun at 则像用玩笑戳人，表示取笑。"
     },
     "original": "poke",
     "batches": [
@@ -4528,7 +4499,8 @@
       "meaning": "给予；准许；授予",
       "explanation": "",
       "example": "They granted her permission to enter.",
-      "translation": "他们准许她进入。"
+      "translation": "他们准许她进入。",
+      "core": "把某样东西或某一点“给对方”：给权限是准许，给资金是拨款，认可对方一点是承认。"
     },
     "original": "grant",
     "batches": [
@@ -4569,7 +4541,8 @@
       "meaning": "说明；用例子阐明",
       "explanation": "",
       "example": "These figures illustrate the scale of the problem.",
-      "translation": "这些数字说明了问题的规模。"
+      "translation": "这些数字说明了问题的规模。",
+      "core": "让人更容易看明白：用例子说明道理，或用插图展示内容。"
     },
     "original": "illustrate",
     "batches": [
@@ -4796,7 +4769,8 @@
       "meaning": "批判性地；审慎分析地",
       "explanation": "",
       "example": "Read the report critically.",
-      "translation": "要带着分析和质疑的眼光阅读报告。"
+      "translation": "要带着分析和质疑的眼光阅读报告。",
+      "core": "两条常用线分别记：审慎评判是“批判性地”；处于关键或危急程度是“极其、严重地”。"
     },
     "original": "critically",
     "batches": [
@@ -4899,7 +4873,8 @@
       "meaning": "轰动的；耸人听闻的",
       "explanation": "",
       "example": "The paper published a sensational story.",
-      "translation": "报纸刊登了一则耸人听闻的报道。"
+      "translation": "报纸刊登了一则耸人听闻的报道。",
+      "core": "引起强烈反应：报道可能耸动、轰动；赞扬表演时则表示精彩得惊人。"
     },
     "original": "sensational",
     "batches": [
@@ -4950,7 +4925,8 @@
       "meaning": "生产；产生；创作",
       "explanation": "",
       "example": "The factory produces medical equipment.",
-      "translation": "这家工厂生产医疗设备。"
+      "translation": "这家工厂生产医疗设备。",
+      "core": "把东西带出来：工厂生产、行动产生结果、把票拿出来出示；名词 produce 指农产品，重音在前。"
     },
     "original": "produce",
     "batches": [
@@ -5032,7 +5008,8 @@
       "meaning": "光束；梁",
       "explanation": "",
       "example": "A beam of light entered the room.",
-      "translation": "一束光照进了房间。"
+      "translation": "一束光照进了房间。",
+      "core": "用画面联系：横梁和光束都是长条状；笑容像发光，便是 beam with pride。传送信号也可用 beam。"
     },
     "original": "beam",
     "batches": [
@@ -5073,7 +5050,8 @@
       "meaning": "条理清晰的；连贯的",
       "explanation": "",
       "example": "He gave a coherent explanation.",
-      "translation": "他给出了条理清晰的解释。"
+      "translation": "他给出了条理清晰的解释。",
+      "core": "各部分彼此衔接、有一致关系：表达就是连贯清楚；光学中则特指波之间的稳定相位关系。"
     },
     "original": "coherent",
     "batches": [
@@ -5248,7 +5226,8 @@
       "meaning": "脆弱的；易损的；精致的",
       "explanation": "",
       "example": "Handle the delicate glass carefully.",
-      "translation": "小心拿放这件易碎的玻璃制品。"
+      "translation": "小心拿放这件易碎的玻璃制品。",
+      "core": "细致而不宜粗暴对待：物品可能易碎，局面需要谨慎处理，味道则细腻清淡。"
     },
     "original": "delicate",
     "batches": [
@@ -5289,7 +5268,8 @@
       "meaning": "结束播报或写信；签字结束工作",
       "explanation": "",
       "example": "She signed off with a friendly goodbye.",
-      "translation": "她友好地道别，结束了播报。"
+      "translation": "她友好地道别，结束了播报。",
+      "core": "给一段工作画上句号：结束播报、结束信件；sign off on 是签字认可，正式批准。"
     },
     "original": "sign off",
     "batches": [
@@ -5330,7 +5310,8 @@
       "meaning": "出现；到达；被找到",
       "explanation": "",
       "example": "My keys finally turned up.",
-      "translation": "我的钥匙终于找到了。"
+      "translation": "我的钥匙终于找到了。",
+      "core": "想象“显露出来”或“往上调”：人出现、东西找到；旋钮往上转则是调大。"
     },
     "original": "turn up",
     "batches": [
@@ -5371,7 +5352,8 @@
       "meaning": "计划；方案（英式常为中性）",
       "explanation": "",
       "example": "The government launched a housing scheme.",
-      "translation": "政府推出了一项住房计划。"
+      "translation": "政府推出了一项住房计划。",
+      "core": "有步骤的安排：可指中性的计划；若带秘密或不正当意图，就成了阴谋。"
     },
     "original": "schemes",
     "batches": [
@@ -5670,7 +5652,8 @@
       "meaning": "状态；状况",
       "explanation": "",
       "example": "The building is in a poor state.",
-      "translation": "这栋建筑的状况很差。"
+      "translation": "这栋建筑的状况很差。",
+      "core": "优先分清三支：事物所处的状况是状态；政治单位是国家或州；作动词时是明确陈述。"
     },
     "original": "state",
     "batches": [
@@ -5711,7 +5694,8 @@
       "meaning": "代表；销售代表",
       "explanation": "",
       "example": "A representative spoke on behalf of the group.",
-      "translation": "一位代表代表这个团体发言。"
+      "translation": "一位代表代表这个团体发言。",
+      "core": "用一个人或样本体现更大的整体：人是代表，样本符合整体特点就是有代表性的。"
     },
     "original": "representative",
     "batches": [
@@ -5752,7 +5736,8 @@
       "meaning": "被指控做某事",
       "explanation": "",
       "example": "He was charged with stealing a car.",
-      "translation": "他被指控偷了一辆汽车。"
+      "translation": "他被指控偷了一辆汽车。",
+      "core": "正式把某件事归到某人身上：可以是指控他做了坏事，也可以是交给他一项职责。"
     },
     "original": "be charged with doing something",
     "batches": [
@@ -5855,7 +5840,8 @@
       "meaning": "自然界",
       "explanation": "",
       "example": "Spending time in nature helps me relax.",
-      "translation": "置身大自然有助于我放松。"
+      "translation": "置身大自然有助于我放松。",
+      "core": "围绕“事物本来的样子”理解：外在世界是大自然，事物自身的特点是本质、性质或天性。"
     },
     "original": "nature",
     "batches": [
@@ -5958,7 +5944,8 @@
       "meaning": "抵抗的；有抵抗力的（接 to）",
       "explanation": "",
       "example": "Some bacteria are resistant to antibiotics.",
-      "translation": "有些细菌对抗生素有耐药性。"
+      "translation": "有些细菌对抗生素有耐药性。",
+      "core": "不容易被改变或击败：材料、细菌能抵抗外部作用，人也可能抗拒变化。常接 to。"
     },
     "original": "resistant",
     "batches": [
@@ -6009,16 +5996,6 @@
         {
           "term": "spoil",
           "pos": "v.",
-          "meaning": "溺爱；宠坏",
-          "example": "His parents spoil him by buying everything he wants.",
-          "translation": "父母给他买想要的一切，把他宠坏了。",
-          "exampleHighlights": [
-            "spoil"
-          ]
-        },
-        {
-          "term": "spoil",
-          "pos": "v.",
           "meaning": "破坏；使原本美好的事变糟",
           "example": "The rain spoiled our picnic.",
           "translation": "这场雨毁了我们的野餐。",
@@ -6039,6 +6016,16 @@
         {
           "term": "spoil",
           "pos": "v.",
+          "meaning": "溺爱；宠坏",
+          "example": "His parents spoil him by buying everything he wants.",
+          "translation": "父母给他买想要的一切，把他宠坏了。",
+          "exampleHighlights": [
+            "spoil"
+          ]
+        },
+        {
+          "term": "spoil",
+          "pos": "v.",
           "meaning": "剧透；提前泄露而扫兴",
           "example": "Do not spoil the ending for me.",
           "translation": "别向我剧透结局。",
@@ -6047,10 +6034,11 @@
           ]
         }
       ],
-      "meaning": "溺爱；宠坏",
+      "meaning": "破坏；使原本美好的事变糟",
       "explanation": "",
-      "example": "His parents spoil him by buying everything he wants.",
-      "translation": "父母给他买想要的一切，把他宠坏了。"
+      "example": "The rain spoiled our picnic.",
+      "translation": "这场雨毁了我们的野餐。",
+      "core": "让原本好的状态变坏：毁掉体验是破坏，食物失去新鲜是变质，过度纵容是宠坏，泄露情节则毁掉悬念。"
     },
     "original": "spoil",
     "batches": [
@@ -6091,7 +6079,8 @@
       "meaning": "迫使；使负有义务",
       "explanation": "",
       "example": "The law obliges employers to provide safety equipment.",
-      "translation": "法律要求雇主提供安全设备。"
+      "translation": "法律要求雇主提供安全设备。",
+      "core": "围绕“有责任回应”理解：法律使人必须做是迫使；主动回应别人的请求则是帮忙。"
     },
     "original": "oblige",
     "batches": [
@@ -6132,7 +6121,8 @@
       "meaning": "提议；建议；待证明的命题",
       "explanation": "",
       "example": "We discussed his business proposition.",
-      "translation": "我们讨论了他的商业提议。"
+      "translation": "我们讨论了他的商业提议。",
+      "core": "把一件事摆出来供考虑：可以是提议、待论证的命题，也可以是需要应对的一项任务。"
     },
     "original": "proposition",
     "batches": [
@@ -6183,7 +6173,8 @@
       "meaning": "投；抛；投射（过去式仍为 cast）",
       "explanation": "",
       "example": "The tree cast a long shadow.",
-      "translation": "树投下了一道长长的影子。"
+      "translation": "树投下了一道长长的影子。",
+      "core": "先记“投出去、投向某处”：投影、投票常用。另将演员阵容和浇铸／石膏固定作为常见分支记住。"
     },
     "original": "cast",
     "batches": [
@@ -6286,7 +6277,8 @@
       "meaning": "提交；呈交",
       "explanation": "",
       "example": "Please submit your application by Friday.",
-      "translation": "请在周五之前提交申请。"
+      "translation": "请在周五之前提交申请。",
+      "core": "把自己或东西交由他人处理：交文件是提交，接受别人的权威则是屈服。后者常接 to。"
     },
     "original": "submit",
     "batches": [
@@ -6358,7 +6350,8 @@
       "meaning": "证明；表明；示范",
       "explanation": "",
       "example": "The teacher demonstrated how to use the tool.",
-      "translation": "老师示范了如何使用这个工具。"
+      "translation": "老师示范了如何使用这个工具。",
+      "core": "让人清楚地看到：展示做法是示范，展示证据是证明，上街公开表达立场是示威。"
     },
     "original": "demonstrate",
     "batches": [
@@ -6430,7 +6423,8 @@
       "meaning": "出价；投标",
       "explanation": "",
       "example": "The company submitted a bid for the contract.",
-      "translation": "公司提交了竞标该合同的报价。"
+      "translation": "公司提交了竞标该合同的报价。",
+      "core": "为争取某物作出行动：拍卖或工程中出价竞标；a bid to do 泛指争取目标的尝试。"
     },
     "original": "bid",
     "batches": [
@@ -6502,7 +6496,8 @@
       "meaning": "提交；提交的作品、申请或文件",
       "explanation": "",
       "example": "The deadline for submission is Monday.",
-      "translation": "提交截止日期是周一。"
+      "translation": "提交截止日期是周一。",
+      "core": "与 submit 对应：交上去的动作或文件叫提交／提交物；接受别人权威的状态叫屈服。"
     },
     "original": "submission",
     "batches": [
@@ -6543,7 +6538,8 @@
       "meaning": "竞争对手；竞争的",
       "explanation": "",
       "example": "The two firms are fierce rivals.",
-      "translation": "这两家公司是激烈竞争的对手。"
+      "translation": "这两家公司是激烈竞争的对手。",
+      "core": "站在竞争的另一边：作名词是对手；作动词是达到足以与对方相竞争的水平。"
     },
     "original": "rival",
     "batches": [
@@ -6646,7 +6642,8 @@
       "meaning": "查明；确定",
       "explanation": "",
       "example": "Tests will determine the cause.",
-      "translation": "检测将确定原因。"
+      "translation": "检测将确定原因。",
+      "core": "把不确定的事定下来：通过调查查明答案，或由某个因素决定结果。"
     },
     "original": "determine",
     "batches": [
@@ -6811,7 +6808,8 @@
       "meaning": "分割；划分；除法",
       "explanation": "",
       "example": "The task involves the division of work.",
-      "translation": "这项任务涉及工作分配。"
+      "translation": "这项任务涉及工作分配。",
+      "core": "把整体分开：可指划分、除法；分出的单位是部门，人与人分成不同立场则是分歧。"
     },
     "original": "division",
     "batches": [
@@ -6976,7 +6974,8 @@
       "meaning": "使确信；说服",
       "explanation": "",
       "example": "The evidence convinced me that she was right.",
-      "translation": "证据让我确信她是对的。"
+      "translation": "证据让我确信她是对的。",
+      "core": "使一个人真正接受：接受某个判断是使确信；接受某项行动建议则是说服他去做。"
     },
     "original": "convince",
     "batches": [
@@ -7141,7 +7140,8 @@
       "meaning": "谦虚的；不自夸的",
       "explanation": "",
       "example": "She is modest about her achievements.",
-      "translation": "她对自己的成就很谦虚。"
+      "translation": "她对自己的成就很谦虚。",
+      "core": "不夸大、不显眼：评价自己不过高是谦虚，数量或收入不大是有限、适中。"
     },
     "original": "modest",
     "batches": [
@@ -7202,7 +7202,8 @@
       "meaning": "登记；注册",
       "explanation": "",
       "example": "You must register before attending.",
-      "translation": "你必须先注册才能参加。"
+      "translation": "你必须先注册才能参加。",
+      "core": "让信息被记录或接收到：人登记，仪器显示读数，大脑意识到信息。登记簿和语言的语体另作名词识别。"
     },
     "original": "register",
     "batches": [
@@ -7243,7 +7244,8 @@
       "meaning": "交替；轮流（alternate between A and B）",
       "explanation": "",
       "example": "The weather alternated between rain and sunshine.",
-      "translation": "天气时而下雨，时而晴朗。"
+      "translation": "天气时而下雨，时而晴朗。",
+      "core": "A、B 轮流出现：动作是交替；取 A、跳过 B、再取 A，就是每隔一个。"
     },
     "original": "alternate",
     "batches": [
@@ -7389,7 +7391,8 @@
       "meaning": "起飞；突然成功或流行",
       "explanation": "",
       "example": "Her business took off last year.",
-      "translation": "她的生意去年突然兴旺起来。"
+      "translation": "她的生意去年突然兴旺起来。",
+      "core": "可以用“离开原来的位置”来记：飞机离地，衣物离身，工作暂时放下；事业起飞则是突然成功。"
     },
     "original": "take off",
     "batches": [
@@ -7461,7 +7464,8 @@
       "meaning": "轻率的；鲁莽的",
       "explanation": "",
       "example": "Do not make a rash decision.",
-      "translation": "不要草率作决定。"
+      "translation": "不要草率作决定。",
+      "core": "分开记两条常见义，别硬套：形容词是做事太快、考虑不足；名词是皮疹，也可指一连串坏事。"
     },
     "original": "rash",
     "batches": [
@@ -7502,7 +7506,8 @@
       "meaning": "立即的；速食的；速溶的",
       "explanation": "",
       "example": "The news brought instant relief.",
-      "translation": "这个消息立即让人松了一口气。"
+      "translation": "这个消息立即让人松了一口气。",
+      "core": "几乎没有时间间隔：形容词是立即的；名词是极短的一瞬间。速食和速溶也是强调快。"
     },
     "original": "instant",
     "batches": [
@@ -7543,7 +7548,8 @@
       "meaning": "恳求；请求",
       "explanation": "",
       "example": "They ignored her plea for help.",
-      "translation": "他们无视了她的求助。"
+      "translation": "他们无视了她的求助。",
+      "core": "正式或迫切地表达诉求：日常是恳求，法庭上是对指控作出的认罪或不认罪答辩。"
     },
     "original": "plea",
     "batches": [
@@ -7615,7 +7621,8 @@
       "meaning": "方便的；有用的；手边的",
       "explanation": "",
       "example": "Keep a pen handy.",
-      "translation": "在手边备一支笔。"
+      "translation": "在手边备一支笔。",
+      "core": "围绕“手边、用得上”记：东西随手可取就方便；人善于动手就是手巧。"
     },
     "original": "handy",
     "batches": [
@@ -7687,7 +7694,8 @@
       "meaning": "惯例；习俗",
       "explanation": "",
       "example": "Social conventions change over time.",
-      "translation": "社会习俗会随时间改变。"
+      "translation": "社会习俗会随时间改变。",
+      "core": "大家共同采用或参与的事：约定俗成的做法是惯例；代表共同参加的是大会，正式约定则是公约。"
     },
     "original": "convention",
     "batches": [
@@ -7853,7 +7861,8 @@
       "meaning": "与……失去联系",
       "explanation": "",
       "example": "I am out of touch with my old classmates.",
-      "translation": "我和老同学们失去了联系。"
+      "translation": "我和老同学们失去了联系。",
+      "core": "失去接触：人与人不往来是失联；人与现实缺少接触，就是不了解现状、脱节。"
     },
     "original": "be out of touch with",
     "batches": [
@@ -8050,7 +8059,8 @@
       "meaning": "富有灵感的；极有创意的",
       "explanation": "",
       "example": "That was an inspired choice.",
-      "translation": "那是个极有创意的选择。"
+      "translation": "那是个极有创意的选择。",
+      "core": "像脑中被点亮：被激起想法是受到启发；做出的选择非常巧妙，就是富有创意。"
     },
     "original": "inspired",
     "batches": [
@@ -8128,7 +8138,8 @@
       "meaning": "按安排将要做某事",
       "explanation": "be 随主语变化，to 后用动词原形。偏正式，常见于通知、新闻和既定安排；不是所有普通将来都用它。",
       "example": "The president is to visit the city tomorrow.",
-      "translation": "总统定于明天访问这座城市。"
+      "translation": "总统定于明天访问这座城市。",
+      "core": "核心是“按安排做某事”。is/are 从现在看安排，was/were 从过去看安排；是否实现要看后文。"
     },
     "original": "be to do · 安排与计划",
     "batches": [
@@ -8206,7 +8217,8 @@
       "meaning": "必须；应当（正式指令）",
       "explanation": "表示说话者或规则要求某人做某事，语气较强。不能只机械翻成“将要”。",
       "example": "You are to follow the rules.",
-      "translation": "你必须遵守规定。"
+      "translation": "你必须遵守规定。",
+      "core": "不是简单预测未来，而是规定某人该做什么。肯定是要求，否定 be not to do 是禁止。"
     },
     "original": "be to do · 命令与要求",
     "batches": [
@@ -8284,7 +8296,8 @@
       "meaning": "后来会……；后来果然……",
       "explanation": "叙述者已经知道结局，却站在过去的时间点讲未来。常用于传记或小说，并不一定表示当时有计划。",
       "example": "He was to become famous many years later.",
-      "translation": "多年以后，他成了名。"
+      "translation": "多年以后，他成了名。",
+      "core": "叙述者知道结局，却站在过去看后来：可以译成“后来会／后来果然”，不一定表示当时有计划。"
     },
     "original": "was/were to do · 后来的发展",
     "batches": [
@@ -8366,7 +8379,8 @@
       "meaning": "假如将来发生某事……",
       "explanation": "强调设想、距离感或较低可能性，不表示过去发生。主句常用 would/could/might + 动词原形。",
       "example": "If he were to leave, we would be sad.",
-      "translation": "假如他要离开，我们会很难过。"
+      "translation": "假如他要离开，我们会很难过。",
+      "core": "先设想一种未来情况，再说会有什么结果。were 可用于单数主语；was 的解释要结合语境。"
     },
     "original": "if … were to do · 假设",
     "batches": [
@@ -8448,7 +8462,8 @@
       "meaning": "如果我们想要……；要想……",
       "explanation": "这里 if 从句提出目标，主句说明实现目标所必需的行动。常译成“要想……就必须……”。",
       "example": "If we are to win, we must train harder.",
-      "translation": "要想赢，我们就必须更刻苦地训练。"
+      "translation": "要想赢，我们就必须更刻苦地训练。",
+      "core": "先提出目标，再说明实现目标所必需的条件：通常理解为“要想……就必须……”。"
     },
     "original": "if … be to do · 目标与必要条件",
     "batches": [
