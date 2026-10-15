@@ -19,7 +19,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "vial",
@@ -41,7 +47,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "hide A from B",
@@ -68,7 +80,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "everything from A to B",
@@ -91,7 +109,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "buying spree",
@@ -113,7 +137,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "accessory",
@@ -135,7 +165,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "scrapbooking",
@@ -157,7 +193,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "gadget",
@@ -179,7 +221,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "debt",
@@ -201,7 +249,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "anonymous",
@@ -223,7 +277,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "compulsive",
@@ -245,7 +305,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "pathological",
@@ -267,7 +333,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "desire",
@@ -299,7 +371,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "specialist",
@@ -331,7 +409,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "commission",
@@ -363,7 +447,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "retailer",
@@ -385,7 +475,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "mundane",
@@ -407,7 +503,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "turn A into B",
@@ -434,7 +536,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "classify",
@@ -470,7 +578,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "conduct",
@@ -506,7 +620,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "survey",
@@ -542,7 +662,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "diagnosis",
@@ -564,7 +690,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "regulation",
@@ -586,7 +718,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "demand",
@@ -622,7 +760,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "materialistic",
@@ -644,7 +788,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "narrow",
@@ -680,7 +830,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "surge",
@@ -716,7 +872,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "maintain",
@@ -742,7 +904,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "clinician",
@@ -764,7 +932,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "indicate",
@@ -790,7 +964,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "consensus",
@@ -812,7 +992,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "resemble",
@@ -838,7 +1024,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "obsessive",
@@ -860,7 +1052,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "ascendant",
@@ -882,7 +1080,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "disorder",
@@ -904,7 +1108,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "substance",
@@ -926,7 +1136,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "boredom",
@@ -948,7 +1164,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "desirable",
@@ -970,7 +1192,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "implicate",
@@ -996,7 +1224,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "thrill",
@@ -1028,7 +1262,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "prescribe",
@@ -1060,7 +1300,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "emerge",
@@ -1086,7 +1332,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "weigh in on something",
@@ -1112,7 +1364,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "iterative",
@@ -1134,7 +1392,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "influence",
@@ -1170,7 +1434,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "undue",
@@ -1192,7 +1462,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "exert",
@@ -1218,7 +1494,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "distinct",
@@ -1240,7 +1522,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "entity",
@@ -1262,7 +1550,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "derive",
@@ -1298,7 +1592,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "propose",
@@ -1334,7 +1634,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "criterion",
@@ -1356,7 +1662,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "urge",
@@ -1392,7 +1704,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "simplistic",
@@ -1414,7 +1732,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "spectrum",
@@ -1436,7 +1760,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "severe",
@@ -1458,7 +1788,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "primary",
@@ -1490,7 +1826,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "estimate",
@@ -1522,7 +1864,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "statement",
@@ -1544,7 +1892,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "diagnose",
@@ -1570,7 +1924,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "empirically",
@@ -1592,7 +1952,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "explore",
@@ -1618,7 +1984,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "therapeutic",
@@ -1640,7 +2012,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "pharmacological",
@@ -1662,7 +2040,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "retail",
@@ -1694,7 +2078,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "induce",
@@ -1720,7 +2110,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "worsen",
@@ -1742,7 +2138,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "discount",
@@ -1778,7 +2180,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "countdown",
@@ -1800,7 +2208,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "instalment",
@@ -1822,7 +2236,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "erode",
@@ -1848,7 +2268,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "susceptible",
@@ -1870,7 +2296,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "loot",
@@ -1902,7 +2334,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "irresistible",
@@ -1924,7 +2362,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "prove to be",
@@ -1950,7 +2394,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "regulatory",
@@ -1972,7 +2422,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "recommend",
@@ -2004,7 +2460,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "innovation",
@@ -2026,7 +2488,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "incline",
@@ -2062,7 +2530,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "implement",
@@ -2098,7 +2572,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "prevent",
@@ -2124,7 +2604,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "restriction",
@@ -2146,7 +2632,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "dent",
@@ -2182,7 +2674,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "counterfeit",
@@ -2214,7 +2712,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "parcel",
@@ -2250,7 +2754,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "tackle",
@@ -2286,7 +2796,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "congregate",
@@ -2312,7 +2828,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "one another",
@@ -2334,7 +2856,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "moderator",
@@ -2356,7 +2884,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "forum",
@@ -2378,7 +2912,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "priority",
@@ -2400,7 +2940,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "endlessly",
@@ -2422,7 +2968,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "revelatory",
@@ -2444,7 +2996,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "jolt",
@@ -2480,7 +3038,13 @@
           ]
         }
       ]
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "thrill (n.)",
@@ -2501,7 +3065,13 @@
       "explanation": "兴奋感；刺激",
       "example": "Winning gave her a real thrill.",
       "translation": "获胜让她感到十分兴奋。"
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "estimate (n.)",
@@ -2522,7 +3092,13 @@
       "explanation": "估计；估价",
       "example": "The builder gave us a cost estimate.",
       "translation": "建筑商给了我们一份费用估算。"
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "retail (adj.)",
@@ -2543,7 +3119,13 @@
       "explanation": "零售的",
       "example": "Retail prices have risen.",
       "translation": "零售价格上涨了。"
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
   },
   {
     "front": "counterfeit (n.)",
@@ -2564,6 +3146,5316 @@
       "explanation": "假货；赝品",
       "example": "The painting turned out to be a counterfeit.",
       "translation": "这幅画结果被发现是赝品。"
-    }
+    },
+    "batches": [
+      {
+        "date": "2026-10-14",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "every few years",
+    "originals": [
+      "every few years"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "every few years",
+          "pos": "phr.",
+          "meaning": "每隔几年",
+          "example": "The roof needs repairs every few years.",
+          "translation": "屋顶每隔几年就需要修理。",
+          "exampleHighlights": [
+            "every few years"
+          ]
+        }
+      ],
+      "meaning": "每隔几年",
+      "explanation": "",
+      "example": "The roof needs repairs every few years.",
+      "translation": "屋顶每隔几年就需要修理。"
+    },
+    "original": "every few years",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "occasion",
+    "originals": [
+      "occasion"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "occasion",
+          "pos": "n.",
+          "meaning": "场合；某一次；时机",
+          "example": "I met her on several occasions.",
+          "translation": "我见过她几次。",
+          "exampleHighlights": [
+            "occasions"
+          ]
+        },
+        {
+          "term": "occasion",
+          "pos": "n.",
+          "meaning": "特别的事情；庆典",
+          "example": "We dressed up for the occasion.",
+          "translation": "我们为这次庆典盛装打扮。",
+          "exampleHighlights": [
+            "occasion"
+          ]
+        }
+      ],
+      "meaning": "场合；某一次；时机",
+      "explanation": "",
+      "example": "I met her on several occasions.",
+      "translation": "我见过她几次。"
+    },
+    "original": "occasion",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "giddy",
+    "originals": [
+      "giddy"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "giddy",
+          "pos": "adj.",
+          "meaning": "头晕的",
+          "example": "The height made me feel giddy.",
+          "translation": "这样的高度让我头晕。",
+          "exampleHighlights": [
+            "giddy"
+          ]
+        },
+        {
+          "term": "giddy",
+          "pos": "adj.",
+          "meaning": "兴奋得忘乎所以的",
+          "example": "She was giddy with excitement.",
+          "translation": "她兴奋得晕乎乎的。",
+          "exampleHighlights": [
+            "giddy"
+          ]
+        }
+      ],
+      "meaning": "头晕的",
+      "explanation": "",
+      "example": "The height made me feel giddy.",
+      "translation": "这样的高度让我头晕。"
+    },
+    "original": "giddy",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "grocery",
+    "originals": [
+      "grocery",
+      "groceries"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "grocery",
+          "pos": "n.",
+          "meaning": "食品杂货店；groceries：食品和日用品",
+          "example": "I bought groceries at the local grocery store.",
+          "translation": "我在附近的食品杂货店买了食品和日用品。",
+          "exampleHighlights": [
+            "groceries",
+            "grocery"
+          ]
+        }
+      ],
+      "meaning": "食品杂货店；groceries：食品和日用品",
+      "explanation": "",
+      "example": "I bought groceries at the local grocery store.",
+      "translation": "我在附近的食品杂货店买了食品和日用品。"
+    },
+    "original": "grocery",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "loose",
+    "originals": [
+      "loose"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "loose",
+          "pos": "adj.",
+          "meaning": "松的；未固定的；宽松的",
+          "example": "One of the screws is loose.",
+          "translation": "有颗螺丝松了。",
+          "exampleHighlights": [
+            "loose"
+          ]
+        },
+        {
+          "term": "loose",
+          "pos": "adj.",
+          "meaning": "自由活动的；未被关住的",
+          "example": "A dog was running loose in the street.",
+          "translation": "一条狗在街上无人牵管地跑着。",
+          "exampleHighlights": [
+            "loose"
+          ]
+        },
+        {
+          "term": "loose",
+          "pos": "adj.",
+          "meaning": "不严密的；大致的",
+          "example": "This is only a loose translation.",
+          "translation": "这只是大致的意译。",
+          "exampleHighlights": [
+            "loose"
+          ]
+        }
+      ],
+      "meaning": "松的；未固定的；宽松的",
+      "explanation": "",
+      "example": "One of the screws is loose.",
+      "translation": "有颗螺丝松了。"
+    },
+    "original": "loose",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "universal",
+    "originals": [
+      "Universal"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "universal",
+          "pos": "adj.",
+          "meaning": "普遍的；全体适用的",
+          "example": "There is no universal solution to this problem.",
+          "translation": "这个问题没有普遍适用的解决办法。",
+          "exampleHighlights": [
+            "universal"
+          ]
+        }
+      ],
+      "meaning": "普遍的；全体适用的",
+      "explanation": "",
+      "example": "There is no universal solution to this problem.",
+      "translation": "这个问题没有普遍适用的解决办法。"
+    },
+    "original": "Universal",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "treat A as B",
+    "originals": [
+      "treat A as B"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "treat A as B",
+          "pos": "phr.",
+          "meaning": "把 A 当作 B 对待",
+          "example": "They treat mistakes as opportunities to learn.",
+          "translation": "他们把错误当作学习的机会。",
+          "exampleHighlights": [
+            "treat",
+            "as"
+          ]
+        }
+      ],
+      "meaning": "把 A 当作 B 对待",
+      "explanation": "",
+      "example": "They treat mistakes as opportunities to learn.",
+      "translation": "他们把错误当作学习的机会。"
+    },
+    "original": "treat A as B",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "ritual",
+    "originals": [
+      "ritual"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "ritual",
+          "pos": "n.",
+          "meaning": "仪式；惯常的习惯做法",
+          "example": "Making tea is part of my morning ritual.",
+          "translation": "泡茶是我每天早晨的固定习惯。",
+          "exampleHighlights": [
+            "ritual"
+          ]
+        }
+      ],
+      "meaning": "仪式；惯常的习惯做法",
+      "explanation": "",
+      "example": "Making tea is part of my morning ritual.",
+      "translation": "泡茶是我每天早晨的固定习惯。"
+    },
+    "original": "ritual",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "pioneer",
+    "originals": [
+      "pioneer"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "pioneer",
+          "pos": "n.",
+          "meaning": "先驱；开拓者",
+          "example": "She was a pioneer in medical research.",
+          "translation": "她是医学研究的先驱。",
+          "exampleHighlights": [
+            "pioneer"
+          ]
+        },
+        {
+          "term": "pioneer",
+          "pos": "v.",
+          "meaning": "开创；率先使用",
+          "example": "The team pioneered a new treatment.",
+          "translation": "这个团队开创了一种新疗法。",
+          "exampleHighlights": [
+            "pioneered"
+          ]
+        }
+      ],
+      "meaning": "先驱；开拓者",
+      "explanation": "",
+      "example": "She was a pioneer in medical research.",
+      "translation": "她是医学研究的先驱。"
+    },
+    "original": "pioneer",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "Legend has it that",
+    "originals": [
+      "Legend has it that"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "Legend has it that",
+          "pos": "phr.",
+          "meaning": "传说……",
+          "example": "Legend has it that a king hid gold here.",
+          "translation": "传说有位国王在这里藏了黄金。",
+          "exampleHighlights": [
+            "Legend has it that"
+          ]
+        }
+      ],
+      "meaning": "传说……",
+      "explanation": "",
+      "example": "Legend has it that a king hid gold here.",
+      "translation": "传说有位国王在这里藏了黄金。"
+    },
+    "original": "Legend has it that",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "dip",
+    "originals": [
+      "dip"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "dip",
+          "pos": "v.",
+          "meaning": "蘸；浸一下",
+          "example": "Dip the brush in water.",
+          "translation": "把刷子在水里蘸一下。",
+          "exampleHighlights": [
+            "Dip"
+          ]
+        },
+        {
+          "term": "dip",
+          "pos": "v./n.",
+          "meaning": "短暂下降；下降幅度",
+          "example": "Sales dipped in February.",
+          "translation": "二月销量有所下降。",
+          "exampleHighlights": [
+            "dipped"
+          ]
+        },
+        {
+          "term": "dip",
+          "pos": "n.",
+          "meaning": "短时间游泳；蘸酱",
+          "example": "We went for a dip before lunch.",
+          "translation": "午饭前我们游了一会儿泳。",
+          "exampleHighlights": [
+            "dip"
+          ]
+        }
+      ],
+      "meaning": "蘸；浸一下",
+      "explanation": "",
+      "example": "Dip the brush in water.",
+      "translation": "把刷子在水里蘸一下。"
+    },
+    "original": "dip",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "chewing gum",
+    "originals": [
+      "chewing gum"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "chewing gum",
+          "pos": "n.",
+          "meaning": "口香糖",
+          "example": "He offered me a piece of chewing gum.",
+          "translation": "他给了我一片口香糖。",
+          "exampleHighlights": [
+            "chewing gum"
+          ]
+        }
+      ],
+      "meaning": "口香糖",
+      "explanation": "",
+      "example": "He offered me a piece of chewing gum.",
+      "translation": "他给了我一片口香糖。"
+    },
+    "original": "chewing gum",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "lucky dip",
+    "originals": [
+      "lucky dip"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "lucky dip",
+          "pos": "n.",
+          "meaning": "摸彩；随机抽取的结果",
+          "example": "Choosing a book from that box is a lucky dip.",
+          "translation": "从那个箱子里选书全凭运气。",
+          "exampleHighlights": [
+            "lucky dip"
+          ]
+        }
+      ],
+      "meaning": "摸彩；随机抽取的结果",
+      "explanation": "",
+      "example": "Choosing a book from that box is a lucky dip.",
+      "translation": "从那个箱子里选书全凭运气。"
+    },
+    "original": "lucky dip",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "tale",
+    "originals": [
+      "tale"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "tale",
+          "pos": "n.",
+          "meaning": "故事；叙述；有时指编造的说法",
+          "example": "She told us a tale about her childhood.",
+          "translation": "她给我们讲了一个童年的故事。",
+          "exampleHighlights": [
+            "tale"
+          ]
+        }
+      ],
+      "meaning": "故事；叙述；有时指编造的说法",
+      "explanation": "",
+      "example": "She told us a tale about her childhood.",
+      "translation": "她给我们讲了一个童年的故事。"
+    },
+    "original": "tale",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "fairy tale",
+    "originals": [
+      "fairy tale"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "fairy tale",
+          "pos": "n.",
+          "meaning": "童话；不切实际的美好故事",
+          "example": "Their perfect life was just a fairy tale.",
+          "translation": "他们所谓的完美生活不过是童话。",
+          "exampleHighlights": [
+            "fairy tale"
+          ]
+        }
+      ],
+      "meaning": "童话；不切实际的美好故事",
+      "explanation": "",
+      "example": "Their perfect life was just a fairy tale.",
+      "translation": "他们所谓的完美生活不过是童话。"
+    },
+    "original": "fairy tale",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "be after something",
+    "originals": [
+      "be after something"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "be after something",
+          "pos": "phr.",
+          "meaning": "想得到；寻找；追求某物",
+          "example": "What are you after: money or recognition?",
+          "translation": "你追求的是什么：金钱还是认可？",
+          "exampleHighlights": [
+            "after"
+          ]
+        }
+      ],
+      "meaning": "想得到；寻找；追求某物",
+      "explanation": "",
+      "example": "What are you after: money or recognition?",
+      "translation": "你追求的是什么：金钱还是认可？"
+    },
+    "original": "be after something",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "stocktaking",
+    "originals": [
+      "stocktaking"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "stocktaking",
+          "pos": "n.",
+          "meaning": "盘点库存；全面检查现状",
+          "example": "The shop is closed for stocktaking.",
+          "translation": "商店因盘点库存暂停营业。",
+          "exampleHighlights": [
+            "stocktaking"
+          ]
+        }
+      ],
+      "meaning": "盘点库存；全面检查现状",
+      "explanation": "",
+      "example": "The shop is closed for stocktaking.",
+      "translation": "商店因盘点库存暂停营业。"
+    },
+    "original": "stocktaking",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "distraught",
+    "originals": [
+      "distraught"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "distraught",
+          "pos": "adj.",
+          "meaning": "极度忧虑的；悲痛得不知所措的",
+          "example": "She was distraught when her son went missing.",
+          "translation": "儿子失踪后，她急得不知所措。",
+          "exampleHighlights": [
+            "distraught"
+          ]
+        }
+      ],
+      "meaning": "极度忧虑的；悲痛得不知所措的",
+      "explanation": "",
+      "example": "She was distraught when her son went missing.",
+      "translation": "儿子失踪后，她急得不知所措。"
+    },
+    "original": "distraught",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "dean",
+    "originals": [
+      "dean"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "dean",
+          "pos": "n.",
+          "meaning": "大学学院院长；系主任（依学校制度）",
+          "example": "The dean welcomed the new students.",
+          "translation": "院长欢迎了新生。",
+          "exampleHighlights": [
+            "dean"
+          ]
+        }
+      ],
+      "meaning": "大学学院院长；系主任（依学校制度）",
+      "explanation": "",
+      "example": "The dean welcomed the new students.",
+      "translation": "院长欢迎了新生。"
+    },
+    "original": "dean",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "plead with someone",
+    "originals": [
+      "plead with someone"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "plead with someone",
+          "pos": "phr.",
+          "meaning": "恳求某人（常接 to do）",
+          "example": "She pleaded with him to stay.",
+          "translation": "她恳求他留下。",
+          "exampleHighlights": [
+            "pleaded with"
+          ]
+        }
+      ],
+      "meaning": "恳求某人（常接 to do）",
+      "explanation": "",
+      "example": "She pleaded with him to stay.",
+      "translation": "她恳求他留下。"
+    },
+    "original": "plead with someone",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "come up with",
+    "originals": [
+      "come up with"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "come up with",
+          "pos": "phr.",
+          "meaning": "想出；提出；设法提供",
+          "example": "We need to come up with a better plan.",
+          "translation": "我们需要想出一个更好的计划。",
+          "exampleHighlights": [
+            "come up with"
+          ]
+        }
+      ],
+      "meaning": "想出；提出；设法提供",
+      "explanation": "",
+      "example": "We need to come up with a better plan.",
+      "translation": "我们需要想出一个更好的计划。"
+    },
+    "original": "come up with",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "delay",
+    "originals": [
+      "delays"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "delay",
+          "pos": "n./v.",
+          "meaning": "延误；推迟；使耽搁",
+          "example": "Heavy snow caused long delays.",
+          "translation": "大雪造成了长时间延误。",
+          "exampleHighlights": [
+            "delays"
+          ]
+        },
+        {
+          "term": "delay",
+          "pos": "v.",
+          "meaning": "推迟做某事（接 doing）",
+          "example": "Do not delay seeking help.",
+          "translation": "不要拖延求助。",
+          "exampleHighlights": [
+            "delay"
+          ]
+        }
+      ],
+      "meaning": "延误；推迟；使耽搁",
+      "explanation": "",
+      "example": "Heavy snow caused long delays.",
+      "translation": "大雪造成了长时间延误。"
+    },
+    "original": "delays",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "regular",
+    "originals": [
+      "regular"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "regular",
+          "pos": "adj.",
+          "meaning": "定期的；经常的",
+          "example": "Regular exercise helps you sleep.",
+          "translation": "经常锻炼有助于睡眠。",
+          "exampleHighlights": [
+            "Regular"
+          ]
+        },
+        {
+          "term": "regular",
+          "pos": "adj.",
+          "meaning": "普通的；正常规格的",
+          "example": "I'd like a regular coffee, please.",
+          "translation": "请给我一杯普通规格的咖啡。",
+          "exampleHighlights": [
+            "regular"
+          ]
+        },
+        {
+          "term": "regular",
+          "pos": "n./adj.",
+          "meaning": "常客；经常光顾的",
+          "example": "He is a regular at this cafe.",
+          "translation": "他是这家咖啡馆的常客。",
+          "exampleHighlights": [
+            "regular"
+          ]
+        }
+      ],
+      "meaning": "定期的；经常的",
+      "explanation": "",
+      "example": "Regular exercise helps you sleep.",
+      "translation": "经常锻炼有助于睡眠。"
+    },
+    "original": "regular",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "shrug someone off",
+    "originals": [
+      "shrug someone off"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "shrug someone off",
+          "pos": "phr.",
+          "meaning": "甩开某人；不理会某人",
+          "example": "She tried to help, but he shrugged her off.",
+          "translation": "她想帮忙，他却不理她。",
+          "exampleHighlights": [
+            "shrugged",
+            "off"
+          ]
+        }
+      ],
+      "meaning": "甩开某人；不理会某人",
+      "explanation": "",
+      "example": "She tried to help, but he shrugged her off.",
+      "translation": "她想帮忙，他却不理她。"
+    },
+    "original": "shrug someone off",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "intrigued",
+    "originals": [
+      "intrigued"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "intrigued",
+          "pos": "adj.",
+          "meaning": "感兴趣的；好奇的",
+          "example": "I was intrigued by her unusual idea.",
+          "translation": "她不同寻常的想法勾起了我的兴趣。",
+          "exampleHighlights": [
+            "intrigued"
+          ]
+        }
+      ],
+      "meaning": "感兴趣的；好奇的",
+      "explanation": "",
+      "example": "I was intrigued by her unusual idea.",
+      "translation": "她不同寻常的想法勾起了我的兴趣。"
+    },
+    "original": "intrigued",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "confident",
+    "originals": [
+      "confident"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "confident",
+          "pos": "adj.",
+          "meaning": "自信的；确信的",
+          "example": "We are confident that the plan will work.",
+          "translation": "我们确信这个计划会奏效。",
+          "exampleHighlights": [
+            "confident"
+          ]
+        }
+      ],
+      "meaning": "自信的；确信的",
+      "explanation": "",
+      "example": "We are confident that the plan will work.",
+      "translation": "我们确信这个计划会奏效。"
+    },
+    "original": "confident",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "dilemma",
+    "originals": [
+      "dilemma"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "dilemma",
+          "pos": "n.",
+          "meaning": "两难处境；难以抉择的问题",
+          "example": "She faced a dilemma: stay or leave.",
+          "translation": "她面临两难选择：留下还是离开。",
+          "exampleHighlights": [
+            "dilemma"
+          ]
+        }
+      ],
+      "meaning": "两难处境；难以抉择的问题",
+      "explanation": "",
+      "example": "She faced a dilemma: stay or leave.",
+      "translation": "她面临两难选择：留下还是离开。"
+    },
+    "original": "dilemma",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "apartment",
+    "originals": [
+      "apartment"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "apartment",
+          "pos": "n.",
+          "meaning": "公寓；一套住房",
+          "example": "They rented a small apartment.",
+          "translation": "他们租了一套小公寓。",
+          "exampleHighlights": [
+            "apartment"
+          ]
+        }
+      ],
+      "meaning": "公寓；一套住房",
+      "explanation": "",
+      "example": "They rented a small apartment.",
+      "translation": "他们租了一套小公寓。"
+    },
+    "original": "apartment",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "cash in",
+    "originals": [
+      "cash in"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "cash in",
+          "pos": "phr.",
+          "meaning": "兑现；变现",
+          "example": "He decided to cash in his savings bonds.",
+          "translation": "他决定兑现储蓄债券。",
+          "exampleHighlights": [
+            "cash in"
+          ]
+        },
+        {
+          "term": "cash in",
+          "pos": "phr.",
+          "meaning": "cash in on：利用……获利",
+          "example": "Some shops cash in on tourists' curiosity.",
+          "translation": "一些商店利用游客的好奇心赚钱。",
+          "exampleHighlights": [
+            "cash in on"
+          ]
+        }
+      ],
+      "meaning": "兑现；变现",
+      "explanation": "",
+      "example": "He decided to cash in his savings bonds.",
+      "translation": "他决定兑现储蓄债券。"
+    },
+    "original": "cash in",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "tide someone over",
+    "originals": [
+      "tide someone over"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "tide someone over",
+          "pos": "phr.",
+          "meaning": "帮助某人渡过暂时的困难",
+          "example": "This money will tide you over until payday.",
+          "translation": "这笔钱可以帮你撑到发薪日。",
+          "exampleHighlights": [
+            "tide",
+            "over"
+          ]
+        }
+      ],
+      "meaning": "帮助某人渡过暂时的困难",
+      "explanation": "",
+      "example": "This money will tide you over until payday.",
+      "translation": "这笔钱可以帮你撑到发薪日。"
+    },
+    "original": "tide someone over",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "epiphany",
+    "originals": [
+      "epiphany"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "epiphany",
+          "pos": "n.",
+          "meaning": "顿悟；突然明白",
+          "example": "She had an epiphany about what mattered most.",
+          "translation": "她突然明白了什么才是最重要的。",
+          "exampleHighlights": [
+            "epiphany"
+          ]
+        }
+      ],
+      "meaning": "顿悟；突然明白",
+      "explanation": "",
+      "example": "She had an epiphany about what mattered most.",
+      "translation": "她突然明白了什么才是最重要的。"
+    },
+    "original": "epiphany",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "brilliance",
+    "originals": [
+      "brilliance"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "brilliance",
+          "pos": "n.",
+          "meaning": "卓越才华；出色表现",
+          "example": "The solution showed her brilliance.",
+          "translation": "这个解决方案展现了她的才华。",
+          "exampleHighlights": [
+            "brilliance"
+          ]
+        },
+        {
+          "term": "brilliance",
+          "pos": "n.",
+          "meaning": "明亮；光辉",
+          "example": "We admired the brilliance of the stars.",
+          "translation": "我们欣赏着星辰的光辉。",
+          "exampleHighlights": [
+            "brilliance"
+          ]
+        }
+      ],
+      "meaning": "卓越才华；出色表现",
+      "explanation": "",
+      "example": "The solution showed her brilliance.",
+      "translation": "这个解决方案展现了她的才华。"
+    },
+    "original": "brilliance",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "far-reaching",
+    "originals": [
+      "far-reaching"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "far-reaching",
+          "pos": "adj.",
+          "meaning": "影响深远的；波及广泛的",
+          "example": "The decision had far-reaching consequences.",
+          "translation": "这个决定产生了深远的影响。",
+          "exampleHighlights": [
+            "far-reaching"
+          ]
+        }
+      ],
+      "meaning": "影响深远的；波及广泛的",
+      "explanation": "",
+      "example": "The decision had far-reaching consequences.",
+      "translation": "这个决定产生了深远的影响。"
+    },
+    "original": "far-reaching",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "ponder",
+    "originals": [
+      "ponder"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "ponder",
+          "pos": "v.",
+          "meaning": "认真思考；琢磨",
+          "example": "He paused to ponder the question.",
+          "translation": "他停下来认真思考这个问题。",
+          "exampleHighlights": [
+            "ponder"
+          ]
+        }
+      ],
+      "meaning": "认真思考；琢磨",
+      "explanation": "",
+      "example": "He paused to ponder the question.",
+      "translation": "他停下来认真思考这个问题。"
+    },
+    "original": "ponder",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "dash",
+    "originals": [
+      "dash"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "dash",
+          "pos": "v./n.",
+          "meaning": "猛冲；匆忙赶路",
+          "example": "She dashed to the station.",
+          "translation": "她冲向车站。",
+          "exampleHighlights": [
+            "dashed"
+          ]
+        },
+        {
+          "term": "dash",
+          "pos": "v.",
+          "meaning": "使希望破灭",
+          "example": "The rejection dashed his hopes.",
+          "translation": "遭到拒绝让他的希望破灭了。",
+          "exampleHighlights": [
+            "dashed"
+          ]
+        },
+        {
+          "term": "dash",
+          "pos": "n.",
+          "meaning": "少量；破折号",
+          "example": "Add a dash of milk.",
+          "translation": "加少许牛奶。",
+          "exampleHighlights": [
+            "dash"
+          ]
+        }
+      ],
+      "meaning": "猛冲；匆忙赶路",
+      "explanation": "",
+      "example": "She dashed to the station.",
+      "translation": "她冲向车站。"
+    },
+    "original": "dash",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "poke",
+    "originals": [
+      "poke"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "poke",
+          "pos": "v.",
+          "meaning": "戳；捅；探出",
+          "example": "He poked his head around the door.",
+          "translation": "他从门边探出头来。",
+          "exampleHighlights": [
+            "poked"
+          ]
+        },
+        {
+          "term": "poke",
+          "pos": "phr.",
+          "meaning": "poke fun at：取笑",
+          "example": "It is unkind to poke fun at her accent.",
+          "translation": "取笑她的口音很不友善。",
+          "exampleHighlights": [
+            "poke fun at"
+          ]
+        }
+      ],
+      "meaning": "戳；捅；探出",
+      "explanation": "",
+      "example": "He poked his head around the door.",
+      "translation": "他从门边探出头来。"
+    },
+    "original": "poke",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "to hand",
+    "originals": [
+      "to hand"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "to hand",
+          "pos": "phr.",
+          "meaning": "在手边；随手可得（英式）",
+          "example": "Keep a notebook to hand.",
+          "translation": "在手边放一个笔记本。",
+          "exampleHighlights": [
+            "to hand"
+          ]
+        }
+      ],
+      "meaning": "在手边；随手可得（英式）",
+      "explanation": "",
+      "example": "Keep a notebook to hand.",
+      "translation": "在手边放一个笔记本。"
+    },
+    "original": "to hand",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "file a patent",
+    "originals": [
+      "filed a patent"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "file a patent",
+          "pos": "phr.",
+          "meaning": "提交专利申请（更完整：file a patent application）",
+          "example": "The inventor filed a patent application for the device.",
+          "translation": "发明人为这个装置提交了专利申请。",
+          "exampleHighlights": [
+            "filed a patent application"
+          ]
+        }
+      ],
+      "meaning": "提交专利申请（更完整：file a patent application）",
+      "explanation": "",
+      "example": "The inventor filed a patent application for the device.",
+      "translation": "发明人为这个装置提交了专利申请。"
+    },
+    "original": "filed a patent",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "grant",
+    "originals": [
+      "grant"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "grant",
+          "pos": "v.",
+          "meaning": "给予；准许；授予",
+          "example": "They granted her permission to enter.",
+          "translation": "他们准许她进入。",
+          "exampleHighlights": [
+            "granted"
+          ]
+        },
+        {
+          "term": "grant",
+          "pos": "n.",
+          "meaning": "补助金；拨款",
+          "example": "The project received a research grant.",
+          "translation": "项目获得了一笔研究拨款。",
+          "exampleHighlights": [
+            "grant"
+          ]
+        },
+        {
+          "term": "grant",
+          "pos": "v.",
+          "meaning": "承认某一点；姑且认可",
+          "example": "I grant that the task is difficult.",
+          "translation": "我承认这项任务很难。",
+          "exampleHighlights": [
+            "grant"
+          ]
+        }
+      ],
+      "meaning": "给予；准许；授予",
+      "explanation": "",
+      "example": "They granted her permission to enter.",
+      "translation": "他们准许她进入。"
+    },
+    "original": "grant",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "illustrate",
+    "originals": [
+      "illustrate"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "illustrate",
+          "pos": "v.",
+          "meaning": "说明；用例子阐明",
+          "example": "These figures illustrate the scale of the problem.",
+          "translation": "这些数字说明了问题的规模。",
+          "exampleHighlights": [
+            "illustrate"
+          ]
+        },
+        {
+          "term": "illustrate",
+          "pos": "v.",
+          "meaning": "给……配插图",
+          "example": "She illustrates children's books.",
+          "translation": "她为儿童读物绘制插图。",
+          "exampleHighlights": [
+            "illustrates"
+          ]
+        }
+      ],
+      "meaning": "说明；用例子阐明",
+      "explanation": "",
+      "example": "These figures illustrate the scale of the problem.",
+      "translation": "这些数字说明了问题的规模。"
+    },
+    "original": "illustrate",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "a smattering of",
+    "originals": [
+      "a smattering of"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "a smattering of",
+          "pos": "phr.",
+          "meaning": "一点点；一知半解的知识",
+          "example": "He speaks a smattering of French.",
+          "translation": "他会说一点点法语。",
+          "exampleHighlights": [
+            "a smattering of"
+          ]
+        }
+      ],
+      "meaning": "一点点；一知半解的知识",
+      "explanation": "",
+      "example": "He speaks a smattering of French.",
+      "translation": "他会说一点点法语。"
+    },
+    "original": "a smattering of",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "anecdotal",
+    "originals": [
+      "anecdotal"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "anecdotal",
+          "pos": "adj.",
+          "meaning": "基于个人轶事的；非系统研究的",
+          "example": "The evidence is anecdotal rather than scientific.",
+          "translation": "这些证据来自个人经历，而非科学研究。",
+          "exampleHighlights": [
+            "anecdotal"
+          ]
+        }
+      ],
+      "meaning": "基于个人轶事的；非系统研究的",
+      "explanation": "",
+      "example": "The evidence is anecdotal rather than scientific.",
+      "translation": "这些证据来自个人经历，而非科学研究。"
+    },
+    "original": "anecdotal",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "incandescent bulb",
+    "originals": [
+      "incandescent bulb"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "incandescent bulb",
+          "pos": "n.",
+          "meaning": "白炽灯泡",
+          "example": "An incandescent bulb produces a lot of heat.",
+          "translation": "白炽灯泡会产生大量热量。",
+          "exampleHighlights": [
+            "incandescent bulb"
+          ]
+        }
+      ],
+      "meaning": "白炽灯泡",
+      "explanation": "",
+      "example": "An incandescent bulb produces a lot of heat.",
+      "translation": "白炽灯泡会产生大量热量。"
+    },
+    "original": "incandescent bulb",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "allegedly",
+    "originals": [
+      "Allegedly"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "allegedly",
+          "pos": "adv.",
+          "meaning": "据称；被指（尚未证实）",
+          "example": "The company allegedly broke the rules.",
+          "translation": "据称这家公司违反了规定。",
+          "exampleHighlights": [
+            "allegedly"
+          ]
+        }
+      ],
+      "meaning": "据称；被指（尚未证实）",
+      "explanation": "",
+      "example": "The company allegedly broke the rules.",
+      "translation": "据称这家公司违反了规定。"
+    },
+    "original": "Allegedly",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "up to a point",
+    "originals": [
+      "up to a point"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "up to a point",
+          "pos": "phr.",
+          "meaning": "在一定程度上；在某个限度内",
+          "example": "I agree with you up to a point.",
+          "translation": "我在一定程度上同意你的看法。",
+          "exampleHighlights": [
+            "up to a point"
+          ]
+        }
+      ],
+      "meaning": "在一定程度上；在某个限度内",
+      "explanation": "",
+      "example": "I agree with you up to a point.",
+      "translation": "我在一定程度上同意你的看法。"
+    },
+    "original": "up to a point",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "evaluation",
+    "originals": [
+      "evaluation"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "evaluation",
+          "pos": "n.",
+          "meaning": "评估；评价",
+          "example": "The course ends with an evaluation.",
+          "translation": "课程最后会进行评估。",
+          "exampleHighlights": [
+            "evaluation"
+          ]
+        }
+      ],
+      "meaning": "评估；评价",
+      "explanation": "",
+      "example": "The course ends with an evaluation.",
+      "translation": "课程最后会进行评估。"
+    },
+    "original": "evaluation",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "critically",
+    "originals": [
+      "critically"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "critically",
+          "pos": "adv.",
+          "meaning": "批判性地；审慎分析地",
+          "example": "Read the report critically.",
+          "translation": "要带着分析和质疑的眼光阅读报告。",
+          "exampleHighlights": [
+            "critically"
+          ]
+        },
+        {
+          "term": "critically",
+          "pos": "adv.",
+          "meaning": "极其重要地；严重地",
+          "example": "Two passengers were critically injured.",
+          "translation": "两名乘客受了重伤。",
+          "exampleHighlights": [
+            "critically"
+          ]
+        }
+      ],
+      "meaning": "批判性地；审慎分析地",
+      "explanation": "",
+      "example": "Read the report critically.",
+      "translation": "要带着分析和质疑的眼光阅读报告。"
+    },
+    "original": "critically",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "plumber",
+    "originals": [
+      "plumber"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "plumber",
+          "pos": "n.",
+          "meaning": "水管工",
+          "example": "We called a plumber to fix the leak.",
+          "translation": "我们叫了水管工来修漏水处。",
+          "exampleHighlights": [
+            "plumber"
+          ]
+        }
+      ],
+      "meaning": "水管工",
+      "explanation": "",
+      "example": "We called a plumber to fix the leak.",
+      "translation": "我们叫了水管工来修漏水处。"
+    },
+    "original": "plumber",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "press conference",
+    "originals": [
+      "press conference"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "press conference",
+          "pos": "n.",
+          "meaning": "新闻发布会；记者招待会",
+          "example": "The mayor held a press conference.",
+          "translation": "市长召开了新闻发布会。",
+          "exampleHighlights": [
+            "press conference"
+          ]
+        }
+      ],
+      "meaning": "新闻发布会；记者招待会",
+      "explanation": "",
+      "example": "The mayor held a press conference.",
+      "translation": "市长召开了新闻发布会。"
+    },
+    "original": "press conference",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "sensational",
+    "originals": [
+      "sensational"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "sensational",
+          "pos": "adj.",
+          "meaning": "轰动的；耸人听闻的",
+          "example": "The paper published a sensational story.",
+          "translation": "报纸刊登了一则耸人听闻的报道。",
+          "exampleHighlights": [
+            "sensational"
+          ]
+        },
+        {
+          "term": "sensational",
+          "pos": "adj.",
+          "meaning": "极好的；令人惊叹的",
+          "example": "Her performance was sensational.",
+          "translation": "她的表演精彩极了。",
+          "exampleHighlights": [
+            "sensational"
+          ]
+        }
+      ],
+      "meaning": "轰动的；耸人听闻的",
+      "explanation": "",
+      "example": "The paper published a sensational story.",
+      "translation": "报纸刊登了一则耸人听闻的报道。"
+    },
+    "original": "sensational",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "produce",
+    "originals": [
+      "produce"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "produce",
+          "pos": "v.",
+          "meaning": "生产；产生；创作",
+          "example": "The factory produces medical equipment.",
+          "translation": "这家工厂生产医疗设备。",
+          "exampleHighlights": [
+            "produces"
+          ]
+        },
+        {
+          "term": "produce",
+          "pos": "v.",
+          "meaning": "出示；拿出",
+          "example": "Please produce your ticket.",
+          "translation": "请出示车票。",
+          "exampleHighlights": [
+            "produce"
+          ]
+        },
+        {
+          "term": "produce",
+          "pos": "n.",
+          "meaning": "农产品（不可数；重音在前）",
+          "example": "The market sells fresh local produce.",
+          "translation": "市场出售新鲜的本地农产品。",
+          "exampleHighlights": [
+            "produce"
+          ]
+        }
+      ],
+      "meaning": "生产；产生；创作",
+      "explanation": "",
+      "example": "The factory produces medical equipment.",
+      "translation": "这家工厂生产医疗设备。"
+    },
+    "original": "produce",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "an acronym for",
+    "originals": [
+      "an acronym for"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "an acronym for",
+          "pos": "phr.",
+          "meaning": "……的首字母缩略词（通常读成一个词）",
+          "example": "NASA is an acronym for National Aeronautics and Space Administration.",
+          "translation": "NASA 是美国国家航空航天局名称的首字母缩略词。",
+          "exampleHighlights": [
+            "an acronym for"
+          ]
+        }
+      ],
+      "meaning": "……的首字母缩略词（通常读成一个词）",
+      "explanation": "",
+      "example": "NASA is an acronym for National Aeronautics and Space Administration.",
+      "translation": "NASA 是美国国家航空航天局名称的首字母缩略词。"
+    },
+    "original": "an acronym for",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "beam",
+    "originals": [
+      "beam"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "beam",
+          "pos": "n.",
+          "meaning": "光束；梁",
+          "example": "A beam of light entered the room.",
+          "translation": "一束光照进了房间。",
+          "exampleHighlights": [
+            "beam"
+          ]
+        },
+        {
+          "term": "beam",
+          "pos": "n.",
+          "meaning": "横梁；承重梁",
+          "example": "Wooden beams support the roof.",
+          "translation": "木梁支撑着屋顶。",
+          "exampleHighlights": [
+            "beams"
+          ]
+        },
+        {
+          "term": "beam",
+          "pos": "v.",
+          "meaning": "笑容满面；传送信号",
+          "example": "She beamed with pride.",
+          "translation": "她骄傲得满脸笑容。",
+          "exampleHighlights": [
+            "beamed"
+          ]
+        }
+      ],
+      "meaning": "光束；梁",
+      "explanation": "",
+      "example": "A beam of light entered the room.",
+      "translation": "一束光照进了房间。"
+    },
+    "original": "beam",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "coherent",
+    "originals": [
+      "coherent"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "coherent",
+          "pos": "adj.",
+          "meaning": "条理清晰的；连贯的",
+          "example": "He gave a coherent explanation.",
+          "translation": "他给出了条理清晰的解释。",
+          "exampleHighlights": [
+            "coherent"
+          ]
+        },
+        {
+          "term": "coherent",
+          "pos": "adj.",
+          "meaning": "相干的（光波有稳定相位关系）",
+          "example": "A laser produces coherent light.",
+          "translation": "激光器产生相干光。",
+          "exampleHighlights": [
+            "coherent"
+          ]
+        }
+      ],
+      "meaning": "条理清晰的；连贯的",
+      "explanation": "",
+      "example": "He gave a coherent explanation.",
+      "translation": "他给出了条理清晰的解释。"
+    },
+    "original": "coherent",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "assure",
+    "originals": [
+      "assure"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "assure",
+          "pos": "v.",
+          "meaning": "向某人保证；使确信",
+          "example": "I assure you that the information is correct.",
+          "translation": "我向你保证这些信息是正确的。",
+          "exampleHighlights": [
+            "assure"
+          ]
+        }
+      ],
+      "meaning": "向某人保证；使确信",
+      "explanation": "",
+      "example": "I assure you that the information is correct.",
+      "translation": "我向你保证这些信息是正确的。"
+    },
+    "original": "assure",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "fierce",
+    "originals": [
+      "fierce"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "fierce",
+          "pos": "adj.",
+          "meaning": "凶猛的；激烈的；强烈的",
+          "example": "There is fierce competition for jobs.",
+          "translation": "就业竞争非常激烈。",
+          "exampleHighlights": [
+            "fierce"
+          ]
+        }
+      ],
+      "meaning": "凶猛的；激烈的；强烈的",
+      "explanation": "",
+      "example": "There is fierce competition for jobs.",
+      "translation": "就业竞争非常激烈。"
+    },
+    "original": "fierce",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "fickle",
+    "originals": [
+      "fickle"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "fickle",
+          "pos": "adj.",
+          "meaning": "反复无常的；易变的",
+          "example": "Fashion is notoriously fickle.",
+          "translation": "时尚出了名地变化无常。",
+          "exampleHighlights": [
+            "fickle"
+          ]
+        }
+      ],
+      "meaning": "反复无常的；易变的",
+      "explanation": "",
+      "example": "Fashion is notoriously fickle.",
+      "translation": "时尚出了名地变化无常。"
+    },
+    "original": "fickle",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "welding",
+    "originals": [
+      "welding"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "welding",
+          "pos": "n.",
+          "meaning": "焊接；weld 的 ing 形式",
+          "example": "Welding joins pieces of metal together.",
+          "translation": "焊接把金属部件连接起来。",
+          "exampleHighlights": [
+            "Welding"
+          ]
+        }
+      ],
+      "meaning": "焊接；weld 的 ing 形式",
+      "explanation": "",
+      "example": "Welding joins pieces of metal together.",
+      "translation": "焊接把金属部件连接起来。"
+    },
+    "original": "welding",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "delicate",
+    "originals": [
+      "delicate"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "delicate",
+          "pos": "adj.",
+          "meaning": "脆弱的；易损的；精致的",
+          "example": "Handle the delicate glass carefully.",
+          "translation": "小心拿放这件易碎的玻璃制品。",
+          "exampleHighlights": [
+            "delicate"
+          ]
+        },
+        {
+          "term": "delicate",
+          "pos": "adj.",
+          "meaning": "微妙的；需要谨慎处理的",
+          "example": "This is a delicate situation.",
+          "translation": "这是个需要谨慎处理的局面。",
+          "exampleHighlights": [
+            "delicate"
+          ]
+        },
+        {
+          "term": "delicate",
+          "pos": "adj.",
+          "meaning": "清淡的；细腻的",
+          "example": "The tea has a delicate flavour.",
+          "translation": "这种茶味道清淡细腻。",
+          "exampleHighlights": [
+            "delicate"
+          ]
+        }
+      ],
+      "meaning": "脆弱的；易损的；精致的",
+      "explanation": "",
+      "example": "Handle the delicate glass carefully.",
+      "translation": "小心拿放这件易碎的玻璃制品。"
+    },
+    "original": "delicate",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "sign off",
+    "originals": [
+      "sign off"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "sign off",
+          "pos": "phr.",
+          "meaning": "结束播报或写信；签字结束工作",
+          "example": "She signed off with a friendly goodbye.",
+          "translation": "她友好地道别，结束了播报。",
+          "exampleHighlights": [
+            "signed off"
+          ]
+        },
+        {
+          "term": "sign off",
+          "pos": "phr.",
+          "meaning": "sign off on：正式批准",
+          "example": "The manager must sign off on the budget.",
+          "translation": "经理必须正式批准预算。",
+          "exampleHighlights": [
+            "sign off on"
+          ]
+        }
+      ],
+      "meaning": "结束播报或写信；签字结束工作",
+      "explanation": "",
+      "example": "She signed off with a friendly goodbye.",
+      "translation": "她友好地道别，结束了播报。"
+    },
+    "original": "sign off",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "turn up",
+    "originals": [
+      "turn up"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "turn up",
+          "pos": "phr.",
+          "meaning": "出现；到达；被找到",
+          "example": "My keys finally turned up.",
+          "translation": "我的钥匙终于找到了。",
+          "exampleHighlights": [
+            "turned up"
+          ]
+        },
+        {
+          "term": "turn up",
+          "pos": "phr.",
+          "meaning": "调大音量、温度等",
+          "example": "Could you turn up the volume?",
+          "translation": "你能把音量调大一点吗？",
+          "exampleHighlights": [
+            "turn up"
+          ]
+        }
+      ],
+      "meaning": "出现；到达；被找到",
+      "explanation": "",
+      "example": "My keys finally turned up.",
+      "translation": "我的钥匙终于找到了。"
+    },
+    "original": "turn up",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "scheme",
+    "originals": [
+      "schemes"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "scheme",
+          "pos": "n.",
+          "meaning": "计划；方案（英式常为中性）",
+          "example": "The government launched a housing scheme.",
+          "translation": "政府推出了一项住房计划。",
+          "exampleHighlights": [
+            "scheme"
+          ]
+        },
+        {
+          "term": "scheme",
+          "pos": "n./v.",
+          "meaning": "阴谋；暗中策划",
+          "example": "They were scheming to take control.",
+          "translation": "他们在密谋夺取控制权。",
+          "exampleHighlights": [
+            "scheming"
+          ]
+        }
+      ],
+      "meaning": "计划；方案（英式常为中性）",
+      "explanation": "",
+      "example": "The government launched a housing scheme.",
+      "translation": "政府推出了一项住房计划。"
+    },
+    "original": "schemes",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "hare",
+    "originals": [
+      "hare"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "hare",
+          "pos": "n.",
+          "meaning": "野兔（一般比 rabbit 腿长、耳长）",
+          "example": "A hare ran across the field.",
+          "translation": "一只野兔跑过田野。",
+          "exampleHighlights": [
+            "hare"
+          ]
+        }
+      ],
+      "meaning": "野兔（一般比 rabbit 腿长、耳长）",
+      "explanation": "",
+      "example": "A hare ran across the field.",
+      "translation": "一只野兔跑过田野。"
+    },
+    "original": "hare",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "retrieve",
+    "originals": [
+      "retrieve"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "retrieve",
+          "pos": "v.",
+          "meaning": "取回；找回；检索",
+          "example": "You can retrieve the file from the backup.",
+          "translation": "你可以从备份中找回文件。",
+          "exampleHighlights": [
+            "retrieve"
+          ]
+        }
+      ],
+      "meaning": "取回；找回；检索",
+      "explanation": "",
+      "example": "You can retrieve the file from the backup.",
+      "translation": "你可以从备份中找回文件。"
+    },
+    "original": "retrieve",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "rectangular",
+    "originals": [
+      "rectangular"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "rectangular",
+          "pos": "adj.",
+          "meaning": "长方形的；矩形的",
+          "example": "The room has a rectangular table.",
+          "translation": "房间里有一张长方形桌子。",
+          "exampleHighlights": [
+            "rectangular"
+          ]
+        }
+      ],
+      "meaning": "长方形的；矩形的",
+      "explanation": "",
+      "example": "The room has a rectangular table.",
+      "translation": "房间里有一张长方形桌子。"
+    },
+    "original": "rectangular",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "envisage",
+    "originals": [
+      "envisaged"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "envisage",
+          "pos": "v.",
+          "meaning": "设想；展望；预期",
+          "example": "Nobody envisaged such rapid change.",
+          "translation": "谁也没有预想到如此迅速的变化。",
+          "exampleHighlights": [
+            "envisaged"
+          ]
+        }
+      ],
+      "meaning": "设想；展望；预期",
+      "explanation": "",
+      "example": "Nobody envisaged such rapid change.",
+      "translation": "谁也没有预想到如此迅速的变化。"
+    },
+    "original": "envisaged",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "concentric",
+    "originals": [
+      "concentric"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "concentric",
+          "pos": "adj.",
+          "meaning": "同心的（圆等共用一个中心）",
+          "example": "The pattern consists of concentric circles.",
+          "translation": "这个图案由同心圆组成。",
+          "exampleHighlights": [
+            "concentric"
+          ]
+        }
+      ],
+      "meaning": "同心的（圆等共用一个中心）",
+      "explanation": "",
+      "example": "The pattern consists of concentric circles.",
+      "translation": "这个图案由同心圆组成。"
+    },
+    "original": "concentric",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "turret",
+    "originals": [
+      "turret"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "turret",
+          "pos": "n.",
+          "meaning": "小塔；炮塔",
+          "example": "A narrow staircase led to the turret.",
+          "translation": "一段狭窄的楼梯通向小塔。",
+          "exampleHighlights": [
+            "turret"
+          ]
+        }
+      ],
+      "meaning": "小塔；炮塔",
+      "explanation": "",
+      "example": "A narrow staircase led to the turret.",
+      "translation": "一段狭窄的楼梯通向小塔。"
+    },
+    "original": "turret",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "comparison",
+    "originals": [
+      "comparison"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "comparison",
+          "pos": "n.",
+          "meaning": "比较；对照",
+          "example": "The comparison revealed important differences.",
+          "translation": "这番比较揭示了重要差异。",
+          "exampleHighlights": [
+            "comparison"
+          ]
+        }
+      ],
+      "meaning": "比较；对照",
+      "explanation": "",
+      "example": "The comparison revealed important differences.",
+      "translation": "这番比较揭示了重要差异。"
+    },
+    "original": "comparison",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "undeniable",
+    "originals": [
+      "undeniable"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "undeniable",
+          "pos": "adj.",
+          "meaning": "不可否认的",
+          "example": "There has been undeniable progress.",
+          "translation": "进步是不可否认的。",
+          "exampleHighlights": [
+            "undeniable"
+          ]
+        }
+      ],
+      "meaning": "不可否认的",
+      "explanation": "",
+      "example": "There has been undeniable progress.",
+      "translation": "进步是不可否认的。"
+    },
+    "original": "undeniable",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "state",
+    "originals": [
+      "state"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "state",
+          "pos": "n.",
+          "meaning": "状态；状况",
+          "example": "The building is in a poor state.",
+          "translation": "这栋建筑的状况很差。",
+          "exampleHighlights": [
+            "state"
+          ]
+        },
+        {
+          "term": "state",
+          "pos": "n.",
+          "meaning": "国家；州；政府",
+          "example": "Education is funded by the state.",
+          "translation": "教育由政府出资。",
+          "exampleHighlights": [
+            "state"
+          ]
+        },
+        {
+          "term": "state",
+          "pos": "v.",
+          "meaning": "陈述；明确说明",
+          "example": "Please state your reasons clearly.",
+          "translation": "请清楚地说明理由。",
+          "exampleHighlights": [
+            "state"
+          ]
+        }
+      ],
+      "meaning": "状态；状况",
+      "explanation": "",
+      "example": "The building is in a poor state.",
+      "translation": "这栋建筑的状况很差。"
+    },
+    "original": "state",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "representative",
+    "originals": [
+      "representative"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "representative",
+          "pos": "n.",
+          "meaning": "代表；销售代表",
+          "example": "A representative spoke on behalf of the group.",
+          "translation": "一位代表代表这个团体发言。",
+          "exampleHighlights": [
+            "representative"
+          ]
+        },
+        {
+          "term": "representative",
+          "pos": "adj.",
+          "meaning": "有代表性的；典型的",
+          "example": "The sample is representative of the population.",
+          "translation": "这个样本能够代表总体。",
+          "exampleHighlights": [
+            "representative"
+          ]
+        }
+      ],
+      "meaning": "代表；销售代表",
+      "explanation": "",
+      "example": "A representative spoke on behalf of the group.",
+      "translation": "一位代表代表这个团体发言。"
+    },
+    "original": "representative",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "be charged with doing something",
+    "originals": [
+      "be charged with doing something"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "be charged with doing something",
+          "pos": "phr.",
+          "meaning": "被指控做某事",
+          "example": "He was charged with stealing a car.",
+          "translation": "他被指控偷了一辆汽车。",
+          "exampleHighlights": [
+            "charged with"
+          ]
+        },
+        {
+          "term": "be charged with doing something",
+          "pos": "phr.",
+          "meaning": "被赋予做某事的职责",
+          "example": "The team is charged with improving safety.",
+          "translation": "这个团队负责改善安全状况。",
+          "exampleHighlights": [
+            "charged with"
+          ]
+        }
+      ],
+      "meaning": "被指控做某事",
+      "explanation": "",
+      "example": "He was charged with stealing a car.",
+      "translation": "他被指控偷了一辆汽车。"
+    },
+    "original": "be charged with doing something",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "of some description",
+    "originals": [
+      "of some description"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "of some description",
+          "pos": "phr.",
+          "meaning": "某种的；某一类的（具体不清楚）",
+          "example": "We need a container of some description.",
+          "translation": "我们需要某种容器。",
+          "exampleHighlights": [
+            "of some description"
+          ]
+        }
+      ],
+      "meaning": "某种的；某一类的（具体不清楚）",
+      "explanation": "",
+      "example": "We need a container of some description.",
+      "translation": "我们需要某种容器。"
+    },
+    "original": "of some description",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "imprint",
+    "originals": [
+      "imprint"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "imprint",
+          "pos": "n./v.",
+          "meaning": "印痕；印下痕迹；留下深刻影响",
+          "example": "The experience left a lasting imprint on her.",
+          "translation": "这段经历给她留下了持久的影响。",
+          "exampleHighlights": [
+            "imprint"
+          ]
+        }
+      ],
+      "meaning": "印痕；印下痕迹；留下深刻影响",
+      "explanation": "",
+      "example": "The experience left a lasting imprint on her.",
+      "translation": "这段经历给她留下了持久的影响。"
+    },
+    "original": "imprint",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "nature",
+    "originals": [
+      "nature"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "nature",
+          "pos": "n.",
+          "meaning": "自然界",
+          "example": "Spending time in nature helps me relax.",
+          "translation": "置身大自然有助于我放松。",
+          "exampleHighlights": [
+            "nature"
+          ]
+        },
+        {
+          "term": "nature",
+          "pos": "n.",
+          "meaning": "本质；性质；天性",
+          "example": "We need to understand the nature of the problem.",
+          "translation": "我们需要理解问题的本质。",
+          "exampleHighlights": [
+            "nature"
+          ]
+        }
+      ],
+      "meaning": "自然界",
+      "explanation": "",
+      "example": "Spending time in nature helps me relax.",
+      "translation": "置身大自然有助于我放松。"
+    },
+    "original": "nature",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "special offers and reductions",
+    "originals": [
+      "special offers and reductions"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "special offers and reductions",
+          "pos": "phr.",
+          "meaning": "特价优惠和降价",
+          "example": "The shop attracts customers with special offers and reductions.",
+          "translation": "商店用特价优惠和降价吸引顾客。",
+          "exampleHighlights": [
+            "special offers and reductions"
+          ]
+        }
+      ],
+      "meaning": "特价优惠和降价",
+      "explanation": "",
+      "example": "The shop attracts customers with special offers and reductions.",
+      "translation": "商店用特价优惠和降价吸引顾客。"
+    },
+    "original": "special offers and reductions",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "daunting",
+    "originals": [
+      "daunting"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "daunting",
+          "pos": "adj.",
+          "meaning": "令人畏惧的；使人望而却步的",
+          "example": "Starting again felt like a daunting task.",
+          "translation": "重新开始似乎是一项艰巨的任务。",
+          "exampleHighlights": [
+            "daunting"
+          ]
+        }
+      ],
+      "meaning": "令人畏惧的；使人望而却步的",
+      "explanation": "",
+      "example": "Starting again felt like a daunting task.",
+      "translation": "重新开始似乎是一项艰巨的任务。"
+    },
+    "original": "daunting",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "resistant",
+    "originals": [
+      "resistant"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "resistant",
+          "pos": "adj.",
+          "meaning": "抵抗的；有抵抗力的（接 to）",
+          "example": "Some bacteria are resistant to antibiotics.",
+          "translation": "有些细菌对抗生素有耐药性。",
+          "exampleHighlights": [
+            "resistant"
+          ]
+        },
+        {
+          "term": "resistant",
+          "pos": "adj.",
+          "meaning": "抗拒的；不愿接受的",
+          "example": "Staff were resistant to change.",
+          "translation": "员工不愿接受改变。",
+          "exampleHighlights": [
+            "resistant"
+          ]
+        }
+      ],
+      "meaning": "抵抗的；有抵抗力的（接 to）",
+      "explanation": "",
+      "example": "Some bacteria are resistant to antibiotics.",
+      "translation": "有些细菌对抗生素有耐药性。"
+    },
+    "original": "resistant",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "discard",
+    "originals": [
+      "discard"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "discard",
+          "pos": "v.",
+          "meaning": "丢弃；摒弃",
+          "example": "Discard any damaged items.",
+          "translation": "丢弃所有损坏的物品。",
+          "exampleHighlights": [
+            "Discard"
+          ]
+        }
+      ],
+      "meaning": "丢弃；摒弃",
+      "explanation": "",
+      "example": "Discard any damaged items.",
+      "translation": "丢弃所有损坏的物品。"
+    },
+    "original": "discard",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "spoil",
+    "originals": [
+      "spoil"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "spoil",
+          "pos": "v.",
+          "meaning": "溺爱；宠坏",
+          "example": "His parents spoil him by buying everything he wants.",
+          "translation": "父母给他买想要的一切，把他宠坏了。",
+          "exampleHighlights": [
+            "spoil"
+          ]
+        },
+        {
+          "term": "spoil",
+          "pos": "v.",
+          "meaning": "破坏；使原本美好的事变糟",
+          "example": "The rain spoiled our picnic.",
+          "translation": "这场雨毁了我们的野餐。",
+          "exampleHighlights": [
+            "spoiled"
+          ]
+        },
+        {
+          "term": "spoil",
+          "pos": "v.",
+          "meaning": "食物变质；使食物变质",
+          "example": "Milk will spoil if it is not kept cool.",
+          "translation": "牛奶如果不冷藏就会变质。",
+          "exampleHighlights": [
+            "spoil"
+          ]
+        },
+        {
+          "term": "spoil",
+          "pos": "v.",
+          "meaning": "剧透；提前泄露而扫兴",
+          "example": "Do not spoil the ending for me.",
+          "translation": "别向我剧透结局。",
+          "exampleHighlights": [
+            "spoil"
+          ]
+        }
+      ],
+      "meaning": "溺爱；宠坏",
+      "explanation": "",
+      "example": "His parents spoil him by buying everything he wants.",
+      "translation": "父母给他买想要的一切，把他宠坏了。"
+    },
+    "original": "spoil",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "oblige",
+    "originals": [
+      "oblige"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "oblige",
+          "pos": "v.",
+          "meaning": "迫使；使负有义务",
+          "example": "The law obliges employers to provide safety equipment.",
+          "translation": "法律要求雇主提供安全设备。",
+          "exampleHighlights": [
+            "obliges"
+          ]
+        },
+        {
+          "term": "oblige",
+          "pos": "v.",
+          "meaning": "帮忙；满足请求",
+          "example": "He asked for a lift, and she was happy to oblige.",
+          "translation": "他请求搭车，她欣然答应。",
+          "exampleHighlights": [
+            "oblige"
+          ]
+        }
+      ],
+      "meaning": "迫使；使负有义务",
+      "explanation": "",
+      "example": "The law obliges employers to provide safety equipment.",
+      "translation": "法律要求雇主提供安全设备。"
+    },
+    "original": "oblige",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "proposition",
+    "originals": [
+      "proposition"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "proposition",
+          "pos": "n.",
+          "meaning": "提议；建议；待证明的命题",
+          "example": "We discussed his business proposition.",
+          "translation": "我们讨论了他的商业提议。",
+          "exampleHighlights": [
+            "proposition"
+          ]
+        },
+        {
+          "term": "proposition",
+          "pos": "n.",
+          "meaning": "需要应对的事情或任务",
+          "example": "Building it ourselves is a difficult proposition.",
+          "translation": "靠自己把它建起来是件难事。",
+          "exampleHighlights": [
+            "proposition"
+          ]
+        }
+      ],
+      "meaning": "提议；建议；待证明的命题",
+      "explanation": "",
+      "example": "We discussed his business proposition.",
+      "translation": "我们讨论了他的商业提议。"
+    },
+    "original": "proposition",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "cast",
+    "originals": [
+      "cast"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "cast",
+          "pos": "v.",
+          "meaning": "投；抛；投射（过去式仍为 cast）",
+          "example": "The tree cast a long shadow.",
+          "translation": "树投下了一道长长的影子。",
+          "exampleHighlights": [
+            "cast"
+          ]
+        },
+        {
+          "term": "cast",
+          "pos": "n.",
+          "meaning": "全体演员；v. 挑选演员",
+          "example": "The cast gave an excellent performance.",
+          "translation": "全体演员奉献了精彩的演出。",
+          "exampleHighlights": [
+            "cast"
+          ]
+        },
+        {
+          "term": "cast",
+          "pos": "n.",
+          "meaning": "石膏固定；v. 浇铸",
+          "example": "His arm was in a cast.",
+          "translation": "他的手臂打着石膏。",
+          "exampleHighlights": [
+            "cast"
+          ]
+        }
+      ],
+      "meaning": "投；抛；投射（过去式仍为 cast）",
+      "explanation": "",
+      "example": "The tree cast a long shadow.",
+      "translation": "树投下了一道长长的影子。"
+    },
+    "original": "cast",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "amateur",
+    "originals": [
+      "amateur"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "amateur",
+          "pos": "n./adj.",
+          "meaning": "业余爱好者；非职业的",
+          "example": "She is an amateur photographer.",
+          "translation": "她是一位业余摄影爱好者。",
+          "exampleHighlights": [
+            "amateur"
+          ]
+        }
+      ],
+      "meaning": "业余爱好者；非职业的",
+      "explanation": "",
+      "example": "She is an amateur photographer.",
+      "translation": "她是一位业余摄影爱好者。"
+    },
+    "original": "amateur",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "ingenuity",
+    "originals": [
+      "ingenuity"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "ingenuity",
+          "pos": "n.",
+          "meaning": "独创性；巧思；足智多谋",
+          "example": "The design shows remarkable ingenuity.",
+          "translation": "这个设计体现出非凡的巧思。",
+          "exampleHighlights": [
+            "ingenuity"
+          ]
+        }
+      ],
+      "meaning": "独创性；巧思；足智多谋",
+      "explanation": "",
+      "example": "The design shows remarkable ingenuity.",
+      "translation": "这个设计体现出非凡的巧思。"
+    },
+    "original": "ingenuity",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "submit",
+    "originals": [
+      "submit"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "submit",
+          "pos": "v.",
+          "meaning": "提交；呈交",
+          "example": "Please submit your application by Friday.",
+          "translation": "请在周五之前提交申请。",
+          "exampleHighlights": [
+            "submit"
+          ]
+        },
+        {
+          "term": "submit",
+          "pos": "v.",
+          "meaning": "屈服；服从（接 to）",
+          "example": "They refused to submit to pressure.",
+          "translation": "他们拒绝屈服于压力。",
+          "exampleHighlights": [
+            "submit"
+          ]
+        }
+      ],
+      "meaning": "提交；呈交",
+      "explanation": "",
+      "example": "Please submit your application by Friday.",
+      "translation": "请在周五之前提交申请。"
+    },
+    "original": "submit",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "offshoot",
+    "originals": [
+      "offshoot"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "offshoot",
+          "pos": "n.",
+          "meaning": "分支；衍生事物；枝杈",
+          "example": "The company began as an offshoot of a university lab.",
+          "translation": "这家公司最初由一个大学实验室衍生而来。",
+          "exampleHighlights": [
+            "offshoot"
+          ]
+        }
+      ],
+      "meaning": "分支；衍生事物；枝杈",
+      "explanation": "",
+      "example": "The company began as an offshoot of a university lab.",
+      "translation": "这家公司最初由一个大学实验室衍生而来。"
+    },
+    "original": "offshoot",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "demonstrate",
+    "originals": [
+      "demonstrate"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "demonstrate",
+          "pos": "v.",
+          "meaning": "证明；表明；示范",
+          "example": "The teacher demonstrated how to use the tool.",
+          "translation": "老师示范了如何使用这个工具。",
+          "exampleHighlights": [
+            "demonstrated"
+          ]
+        },
+        {
+          "term": "demonstrate",
+          "pos": "v.",
+          "meaning": "游行示威",
+          "example": "Workers demonstrated against the cuts.",
+          "translation": "工人举行示威，反对削减开支。",
+          "exampleHighlights": [
+            "demonstrated"
+          ]
+        }
+      ],
+      "meaning": "证明；表明；示范",
+      "explanation": "",
+      "example": "The teacher demonstrated how to use the tool.",
+      "translation": "老师示范了如何使用这个工具。"
+    },
+    "original": "demonstrate",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "take the view that",
+    "originals": [
+      "take the view that"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "take the view that",
+          "pos": "phr.",
+          "meaning": "持有……观点；认为……",
+          "example": "I take the view that education should be accessible to all.",
+          "translation": "我认为教育应该人人都能享有。",
+          "exampleHighlights": [
+            "take the view that"
+          ]
+        }
+      ],
+      "meaning": "持有……观点；认为……",
+      "explanation": "",
+      "example": "I take the view that education should be accessible to all.",
+      "translation": "我认为教育应该人人都能享有。"
+    },
+    "original": "take the view that",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "bid",
+    "originals": [
+      "bid"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "bid",
+          "pos": "n./v.",
+          "meaning": "出价；投标",
+          "example": "The company submitted a bid for the contract.",
+          "translation": "公司提交了竞标该合同的报价。",
+          "exampleHighlights": [
+            "bid"
+          ]
+        },
+        {
+          "term": "bid",
+          "pos": "n.",
+          "meaning": "争取某个目标的努力（a bid to do）",
+          "example": "She moved abroad in a bid to find work.",
+          "translation": "她移居国外，试图找到工作。",
+          "exampleHighlights": [
+            "bid"
+          ]
+        }
+      ],
+      "meaning": "出价；投标",
+      "explanation": "",
+      "example": "The company submitted a bid for the contract.",
+      "translation": "公司提交了竞标该合同的报价。"
+    },
+    "original": "bid",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "in someone's employ",
+    "originals": [
+      "in someone's employ"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "in someone's employ",
+          "pos": "phr.",
+          "meaning": "受雇于某人（较正式）",
+          "example": "He spent ten years in her employ.",
+          "translation": "他受雇于她十年。",
+          "exampleHighlights": [
+            "in her employ"
+          ]
+        }
+      ],
+      "meaning": "受雇于某人（较正式）",
+      "explanation": "",
+      "example": "He spent ten years in her employ.",
+      "translation": "他受雇于她十年。"
+    },
+    "original": "in someone's employ",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "submission",
+    "originals": [
+      "submission"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "submission",
+          "pos": "n.",
+          "meaning": "提交；提交的作品、申请或文件",
+          "example": "The deadline for submission is Monday.",
+          "translation": "提交截止日期是周一。",
+          "exampleHighlights": [
+            "submission"
+          ]
+        },
+        {
+          "term": "submission",
+          "pos": "n.",
+          "meaning": "屈服；服从",
+          "example": "They were forced into submission.",
+          "translation": "他们被迫屈服。",
+          "exampleHighlights": [
+            "submission"
+          ]
+        }
+      ],
+      "meaning": "提交；提交的作品、申请或文件",
+      "explanation": "",
+      "example": "The deadline for submission is Monday.",
+      "translation": "提交截止日期是周一。"
+    },
+    "original": "submission",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "rival",
+    "originals": [
+      "rival"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "rival",
+          "pos": "n./adj.",
+          "meaning": "竞争对手；竞争的",
+          "example": "The two firms are fierce rivals.",
+          "translation": "这两家公司是激烈竞争的对手。",
+          "exampleHighlights": [
+            "rivals"
+          ]
+        },
+        {
+          "term": "rival",
+          "pos": "v.",
+          "meaning": "与……相匹敌",
+          "example": "Few cities can rival its beauty.",
+          "translation": "很少有城市能与它的美丽相媲美。",
+          "exampleHighlights": [
+            "rival"
+          ]
+        }
+      ],
+      "meaning": "竞争对手；竞争的",
+      "explanation": "",
+      "example": "The two firms are fierce rivals.",
+      "translation": "这两家公司是激烈竞争的对手。"
+    },
+    "original": "rival",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "from scratch",
+    "originals": [
+      "from scratch"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "from scratch",
+          "pos": "phr.",
+          "meaning": "从零开始；从头做起",
+          "example": "They built the business from scratch.",
+          "translation": "他们白手起家创办了这家公司。",
+          "exampleHighlights": [
+            "from scratch"
+          ]
+        }
+      ],
+      "meaning": "从零开始；从头做起",
+      "explanation": "",
+      "example": "They built the business from scratch.",
+      "translation": "他们白手起家创办了这家公司。"
+    },
+    "original": "from scratch",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "specification",
+    "originals": [
+      "specification"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "specification",
+          "pos": "n.",
+          "meaning": "规格；详细要求；技术说明",
+          "example": "The product meets all the specifications.",
+          "translation": "产品符合所有规格要求。",
+          "exampleHighlights": [
+            "specifications"
+          ]
+        }
+      ],
+      "meaning": "规格；详细要求；技术说明",
+      "explanation": "",
+      "example": "The product meets all the specifications.",
+      "translation": "产品符合所有规格要求。"
+    },
+    "original": "specification",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "determine",
+    "originals": [
+      "determine"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "determine",
+          "pos": "v.",
+          "meaning": "查明；确定",
+          "example": "Tests will determine the cause.",
+          "translation": "检测将确定原因。",
+          "exampleHighlights": [
+            "determine"
+          ]
+        },
+        {
+          "term": "determine",
+          "pos": "v.",
+          "meaning": "决定；影响结果",
+          "example": "Demand determines the price.",
+          "translation": "需求决定价格。",
+          "exampleHighlights": [
+            "determines"
+          ]
+        }
+      ],
+      "meaning": "查明；确定",
+      "explanation": "",
+      "example": "Tests will determine the cause.",
+      "translation": "检测将确定原因。"
+    },
+    "original": "determine",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "calculate",
+    "originals": [
+      "calculate"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "calculate",
+          "pos": "v.",
+          "meaning": "计算；估计",
+          "example": "We calculated the total cost.",
+          "translation": "我们计算了总费用。",
+          "exampleHighlights": [
+            "calculated"
+          ]
+        }
+      ],
+      "meaning": "计算；估计",
+      "explanation": "",
+      "example": "We calculated the total cost.",
+      "translation": "我们计算了总费用。"
+    },
+    "original": "calculate",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "at speed",
+    "originals": [
+      "at speed"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "at speed",
+          "pos": "phr.",
+          "meaning": "高速地；快速地",
+          "example": "The car hit the barrier at speed.",
+          "translation": "汽车高速撞上了护栏。",
+          "exampleHighlights": [
+            "at speed"
+          ]
+        }
+      ],
+      "meaning": "高速地；快速地",
+      "explanation": "",
+      "example": "The car hit the barrier at speed.",
+      "translation": "汽车高速撞上了护栏。"
+    },
+    "original": "at speed",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "skepticism",
+    "originals": [
+      "skepticism"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "skepticism",
+          "pos": "n.",
+          "meaning": "怀疑态度（英式也写 scepticism）",
+          "example": "Her claim was met with skepticism.",
+          "translation": "她的说法遭到了质疑。",
+          "exampleHighlights": [
+            "skepticism"
+          ]
+        }
+      ],
+      "meaning": "怀疑态度（英式也写 scepticism）",
+      "explanation": "",
+      "example": "Her claim was met with skepticism.",
+      "translation": "她的说法遭到了质疑。"
+    },
+    "original": "skepticism",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "convincing",
+    "originals": [
+      "convincing"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "convincing",
+          "pos": "adj.",
+          "meaning": "令人信服的；有说服力的",
+          "example": "He offered a convincing explanation.",
+          "translation": "他给出了令人信服的解释。",
+          "exampleHighlights": [
+            "convincing"
+          ]
+        }
+      ],
+      "meaning": "令人信服的；有说服力的",
+      "explanation": "",
+      "example": "He offered a convincing explanation.",
+      "translation": "他给出了令人信服的解释。"
+    },
+    "original": "convincing",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "division",
+    "originals": [
+      "division"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "division",
+          "pos": "n.",
+          "meaning": "分割；划分；除法",
+          "example": "The task involves the division of work.",
+          "translation": "这项任务涉及工作分配。",
+          "exampleHighlights": [
+            "division"
+          ]
+        },
+        {
+          "term": "division",
+          "pos": "n.",
+          "meaning": "部门；分部；分歧",
+          "example": "She leads the sales division.",
+          "translation": "她负责销售部门。",
+          "exampleHighlights": [
+            "division"
+          ]
+        }
+      ],
+      "meaning": "分割；划分；除法",
+      "explanation": "",
+      "example": "The task involves the division of work.",
+      "translation": "这项任务涉及工作分配。"
+    },
+    "original": "division",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "not the least of whom",
+    "originals": [
+      "not the least of whom"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "not the least of whom",
+          "pos": "phr.",
+          "meaning": "其中尤其值得一提的人是……",
+          "example": "Several people helped, not the least of whom was my teacher.",
+          "translation": "有几个人帮了忙，其中尤其值得一提的是我的老师。",
+          "exampleHighlights": [
+            "not the least of whom"
+          ]
+        }
+      ],
+      "meaning": "其中尤其值得一提的人是……",
+      "explanation": "",
+      "example": "Several people helped, not the least of whom was my teacher.",
+      "translation": "有几个人帮了忙，其中尤其值得一提的是我的老师。"
+    },
+    "original": "not the least of whom",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "flaw",
+    "originals": [
+      "flaw"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "flaw",
+          "pos": "n.",
+          "meaning": "缺陷；瑕疵",
+          "example": "There is a serious flaw in the argument.",
+          "translation": "这个论证有一个严重漏洞。",
+          "exampleHighlights": [
+            "flaw"
+          ]
+        }
+      ],
+      "meaning": "缺陷；瑕疵",
+      "explanation": "",
+      "example": "There is a serious flaw in the argument.",
+      "translation": "这个论证有一个严重漏洞。"
+    },
+    "original": "flaw",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "tray",
+    "originals": [
+      "trays"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "tray",
+          "pos": "n.",
+          "meaning": "托盘；浅盘",
+          "example": "She carried the cups on a tray.",
+          "translation": "她用托盘端着杯子。",
+          "exampleHighlights": [
+            "tray"
+          ]
+        }
+      ],
+      "meaning": "托盘；浅盘",
+      "explanation": "",
+      "example": "She carried the cups on a tray.",
+      "translation": "她用托盘端着杯子。"
+    },
+    "original": "trays",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "be another matter",
+    "originals": [
+      "be another matter"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "be another matter",
+          "pos": "phr.",
+          "meaning": "就是另一回事；另当别论",
+          "example": "Making a plan is easy; carrying it out is another matter.",
+          "translation": "制订计划容易，执行就是另一回事了。",
+          "exampleHighlights": [
+            "is another matter"
+          ]
+        }
+      ],
+      "meaning": "就是另一回事；另当别论",
+      "explanation": "",
+      "example": "Making a plan is easy; carrying it out is another matter.",
+      "translation": "制订计划容易，执行就是另一回事了。"
+    },
+    "original": "be another matter",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "convince",
+    "originals": [
+      "convince"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "convince",
+          "pos": "v.",
+          "meaning": "使确信；说服",
+          "example": "The evidence convinced me that she was right.",
+          "translation": "证据让我确信她是对的。",
+          "exampleHighlights": [
+            "convinced"
+          ]
+        },
+        {
+          "term": "convince",
+          "pos": "v.",
+          "meaning": "说服某人做某事（接 to do）",
+          "example": "They convinced him to stay.",
+          "translation": "他们说服他留下。",
+          "exampleHighlights": [
+            "convinced"
+          ]
+        }
+      ],
+      "meaning": "使确信；说服",
+      "explanation": "",
+      "example": "The evidence convinced me that she was right.",
+      "translation": "证据让我确信她是对的。"
+    },
+    "original": "convince",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "appraisal",
+    "originals": [
+      "appraisal"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "appraisal",
+          "pos": "n.",
+          "meaning": "评估；估价；工作表现考评",
+          "example": "The house needs a professional appraisal.",
+          "translation": "这套房子需要专业估价。",
+          "exampleHighlights": [
+            "appraisal"
+          ]
+        }
+      ],
+      "meaning": "评估；估价；工作表现考评",
+      "explanation": "",
+      "example": "The house needs a professional appraisal.",
+      "translation": "这套房子需要专业估价。"
+    },
+    "original": "appraisal",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "fateful",
+    "originals": [
+      "fateful"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "fateful",
+          "pos": "adj.",
+          "meaning": "对未来有重大影响的；决定命运的（常含不祥意味）",
+          "example": "That fateful meeting changed her life.",
+          "translation": "那次决定命运的会面改变了她的一生。",
+          "exampleHighlights": [
+            "fateful"
+          ]
+        }
+      ],
+      "meaning": "对未来有重大影响的；决定命运的（常含不祥意味）",
+      "explanation": "",
+      "example": "That fateful meeting changed her life.",
+      "translation": "那次决定命运的会面改变了她的一生。"
+    },
+    "original": "fateful",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "reincarnation",
+    "originals": [
+      "reincarnation"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "reincarnation",
+          "pos": "n.",
+          "meaning": "转世；轮回；事物的新化身",
+          "example": "The new cafe is a reincarnation of the old bakery.",
+          "translation": "这家新咖啡馆是原来那家面包店的新化身。",
+          "exampleHighlights": [
+            "reincarnation"
+          ]
+        }
+      ],
+      "meaning": "转世；轮回；事物的新化身",
+      "explanation": "",
+      "example": "The new cafe is a reincarnation of the old bakery.",
+      "translation": "这家新咖啡馆是原来那家面包店的新化身。"
+    },
+    "original": "reincarnation",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "elongated",
+    "originals": [
+      "elongated"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "elongated",
+          "pos": "adj.",
+          "meaning": "细长的；被拉长的",
+          "example": "The fish has an elongated body.",
+          "translation": "这种鱼的身体细长。",
+          "exampleHighlights": [
+            "elongated"
+          ]
+        }
+      ],
+      "meaning": "细长的；被拉长的",
+      "explanation": "",
+      "example": "The fish has an elongated body.",
+      "translation": "这种鱼的身体细长。"
+    },
+    "original": "elongated",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "modest",
+    "originals": [
+      "modest"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "modest",
+          "pos": "adj.",
+          "meaning": "谦虚的；不自夸的",
+          "example": "She is modest about her achievements.",
+          "translation": "她对自己的成就很谦虚。",
+          "exampleHighlights": [
+            "modest"
+          ]
+        },
+        {
+          "term": "modest",
+          "pos": "adj.",
+          "meaning": "不大的；适中的；朴素的",
+          "example": "They live on a modest income.",
+          "translation": "他们靠不高的收入生活。",
+          "exampleHighlights": [
+            "modest"
+          ]
+        }
+      ],
+      "meaning": "谦虚的；不自夸的",
+      "explanation": "",
+      "example": "She is modest about her achievements.",
+      "translation": "她对自己的成就很谦虚。"
+    },
+    "original": "modest",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "register",
+    "originals": [
+      "register"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "register",
+          "pos": "v.",
+          "meaning": "登记；注册",
+          "example": "You must register before attending.",
+          "translation": "你必须先注册才能参加。",
+          "exampleHighlights": [
+            "register"
+          ]
+        },
+        {
+          "term": "register",
+          "pos": "v.",
+          "meaning": "仪器显示；意识到",
+          "example": "The thermometer registered thirty degrees.",
+          "translation": "温度计显示三十度。",
+          "exampleHighlights": [
+            "registered"
+          ]
+        },
+        {
+          "term": "register",
+          "pos": "v.",
+          "meaning": "进入意识；被注意到",
+          "example": "His warning did not register at first.",
+          "translation": "起初大家没有意识到他的警告。",
+          "exampleHighlights": [
+            "register"
+          ]
+        },
+        {
+          "term": "register",
+          "pos": "n.",
+          "meaning": "登记簿；语体",
+          "example": "Use a formal register in the report.",
+          "translation": "报告中要使用正式语体。",
+          "exampleHighlights": [
+            "register"
+          ]
+        }
+      ],
+      "meaning": "登记；注册",
+      "explanation": "",
+      "example": "You must register before attending.",
+      "translation": "你必须先注册才能参加。"
+    },
+    "original": "register",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "alternate",
+    "originals": [
+      "alternate"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "alternate",
+          "pos": "v.",
+          "meaning": "交替；轮流（alternate between A and B）",
+          "example": "The weather alternated between rain and sunshine.",
+          "translation": "天气时而下雨，时而晴朗。",
+          "exampleHighlights": [
+            "alternated"
+          ]
+        },
+        {
+          "term": "alternate",
+          "pos": "adj.",
+          "meaning": "交替的；每隔一个的",
+          "example": "The class meets on alternate Mondays.",
+          "translation": "这个班隔周星期一上课。",
+          "exampleHighlights": [
+            "alternate"
+          ]
+        }
+      ],
+      "meaning": "交替；轮流（alternate between A and B）",
+      "explanation": "",
+      "example": "The weather alternated between rain and sunshine.",
+      "translation": "天气时而下雨，时而晴朗。"
+    },
+    "original": "alternate",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "decipher",
+    "originals": [
+      "decipher"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "decipher",
+          "pos": "v.",
+          "meaning": "辨认；破译；解读",
+          "example": "I could not decipher his handwriting.",
+          "translation": "我认不出他的字迹。",
+          "exampleHighlights": [
+            "decipher"
+          ]
+        }
+      ],
+      "meaning": "辨认；破译；解读",
+      "explanation": "",
+      "example": "I could not decipher his handwriting.",
+      "translation": "我认不出他的字迹。"
+    },
+    "original": "decipher",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "It was when ... that ...",
+    "originals": [
+      "It was when ... that ..."
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "It was when ... that ...",
+          "pos": "句型",
+          "meaning": "强调某事发生的时间：正是在……时才……",
+          "example": "It was when I moved away that I understood her advice.",
+          "translation": "正是在搬走以后，我才理解她的建议。",
+          "exampleHighlights": [
+            "It was when",
+            "that"
+          ]
+        }
+      ],
+      "meaning": "强调某事发生的时间：正是在……时才……",
+      "explanation": "",
+      "example": "It was when I moved away that I understood her advice.",
+      "translation": "正是在搬走以后，我才理解她的建议。"
+    },
+    "original": "It was when ... that ...",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "merchandiser",
+    "originals": [
+      "merchandiser"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "merchandiser",
+          "pos": "n.",
+          "meaning": "商品销售或陈列策划人员；经销商",
+          "example": "The merchandiser planned the shop's product display.",
+          "translation": "商品陈列策划人员设计了店铺的商品展示。",
+          "exampleHighlights": [
+            "merchandiser"
+          ]
+        }
+      ],
+      "meaning": "商品销售或陈列策划人员；经销商",
+      "explanation": "",
+      "example": "The merchandiser planned the shop's product display.",
+      "translation": "商品陈列策划人员设计了店铺的商品展示。"
+    },
+    "original": "merchandiser",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "take off",
+    "originals": [
+      "take off"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "take off",
+          "pos": "phr.",
+          "meaning": "起飞；突然成功或流行",
+          "example": "Her business took off last year.",
+          "translation": "她的生意去年突然兴旺起来。",
+          "exampleHighlights": [
+            "took off"
+          ]
+        },
+        {
+          "term": "take off",
+          "pos": "phr.",
+          "meaning": "脱下；取下",
+          "example": "Please take off your shoes.",
+          "translation": "请脱鞋。",
+          "exampleHighlights": [
+            "take off"
+          ]
+        },
+        {
+          "term": "take off",
+          "pos": "phr.",
+          "meaning": "休假；请假（take time off）",
+          "example": "I am taking two days off.",
+          "translation": "我要休两天假。",
+          "exampleHighlights": [
+            "taking",
+            "off"
+          ]
+        }
+      ],
+      "meaning": "起飞；突然成功或流行",
+      "explanation": "",
+      "example": "Her business took off last year.",
+      "translation": "她的生意去年突然兴旺起来。"
+    },
+    "original": "take off",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "deal in something",
+    "originals": [
+      "deal in something"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "deal in something",
+          "pos": "phr.",
+          "meaning": "经营；买卖某类商品",
+          "example": "The shop deals in rare books.",
+          "translation": "这家店经营珍本书。",
+          "exampleHighlights": [
+            "deals in"
+          ]
+        }
+      ],
+      "meaning": "经营；买卖某类商品",
+      "explanation": "",
+      "example": "The shop deals in rare books.",
+      "translation": "这家店经营珍本书。"
+    },
+    "original": "deal in something",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "rash",
+    "originals": [
+      "rash"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "rash",
+          "pos": "adj.",
+          "meaning": "轻率的；鲁莽的",
+          "example": "Do not make a rash decision.",
+          "translation": "不要草率作决定。",
+          "exampleHighlights": [
+            "rash"
+          ]
+        },
+        {
+          "term": "rash",
+          "pos": "n.",
+          "meaning": "皮疹；突然出现的一连串事情",
+          "example": "She developed a rash on her arms.",
+          "translation": "她的双臂起了皮疹。",
+          "exampleHighlights": [
+            "rash"
+          ]
+        }
+      ],
+      "meaning": "轻率的；鲁莽的",
+      "explanation": "",
+      "example": "Do not make a rash decision.",
+      "translation": "不要草率作决定。"
+    },
+    "original": "rash",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "instant",
+    "originals": [
+      "instant"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "instant",
+          "pos": "adj.",
+          "meaning": "立即的；速食的；速溶的",
+          "example": "The news brought instant relief.",
+          "translation": "这个消息立即让人松了一口气。",
+          "exampleHighlights": [
+            "instant"
+          ]
+        },
+        {
+          "term": "instant",
+          "pos": "n.",
+          "meaning": "瞬间；片刻",
+          "example": "For an instant, nobody spoke.",
+          "translation": "有一瞬间，谁都没有说话。",
+          "exampleHighlights": [
+            "instant"
+          ]
+        }
+      ],
+      "meaning": "立即的；速食的；速溶的",
+      "explanation": "",
+      "example": "The news brought instant relief.",
+      "translation": "这个消息立即让人松了一口气。"
+    },
+    "original": "instant",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "plea",
+    "originals": [
+      "plea"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "plea",
+          "pos": "n.",
+          "meaning": "恳求；请求",
+          "example": "They ignored her plea for help.",
+          "translation": "他们无视了她的求助。",
+          "exampleHighlights": [
+            "plea"
+          ]
+        },
+        {
+          "term": "plea",
+          "pos": "n.",
+          "meaning": "法庭上的认罪或不认罪答辩",
+          "example": "He entered a plea of not guilty.",
+          "translation": "他作了不认罪答辩。",
+          "exampleHighlights": [
+            "plea"
+          ]
+        }
+      ],
+      "meaning": "恳求；请求",
+      "explanation": "",
+      "example": "They ignored her plea for help.",
+      "translation": "他们无视了她的求助。"
+    },
+    "original": "plea",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "statistical",
+    "originals": [
+      "statistical"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "statistical",
+          "pos": "adj.",
+          "meaning": "统计的；统计学的",
+          "example": "The report includes statistical analysis.",
+          "translation": "报告包含统计分析。",
+          "exampleHighlights": [
+            "statistical"
+          ]
+        }
+      ],
+      "meaning": "统计的；统计学的",
+      "explanation": "",
+      "example": "The report includes statistical analysis.",
+      "translation": "报告包含统计分析。"
+    },
+    "original": "statistical",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "handy",
+    "originals": [
+      "handy"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "handy",
+          "pos": "adj.",
+          "meaning": "方便的；有用的；手边的",
+          "example": "Keep a pen handy.",
+          "translation": "在手边备一支笔。",
+          "exampleHighlights": [
+            "handy"
+          ]
+        },
+        {
+          "term": "handy",
+          "pos": "adj.",
+          "meaning": "手巧的；善于使用工具的",
+          "example": "She is handy with a screwdriver.",
+          "translation": "她很会用螺丝刀。",
+          "exampleHighlights": [
+            "handy"
+          ]
+        }
+      ],
+      "meaning": "方便的；有用的；手边的",
+      "explanation": "",
+      "example": "Keep a pen handy.",
+      "translation": "在手边备一支笔。"
+    },
+    "original": "handy",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "anonymity",
+    "originals": [
+      "anonymity"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "anonymity",
+          "pos": "n.",
+          "meaning": "匿名；身份不被知晓的状态",
+          "example": "The witness requested anonymity.",
+          "translation": "证人要求匿名。",
+          "exampleHighlights": [
+            "anonymity"
+          ]
+        }
+      ],
+      "meaning": "匿名；身份不被知晓的状态",
+      "explanation": "",
+      "example": "The witness requested anonymity.",
+      "translation": "证人要求匿名。"
+    },
+    "original": "anonymity",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "convention",
+    "originals": [
+      "convention"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "convention",
+          "pos": "n.",
+          "meaning": "惯例；习俗",
+          "example": "Social conventions change over time.",
+          "translation": "社会习俗会随时间改变。",
+          "exampleHighlights": [
+            "conventions"
+          ]
+        },
+        {
+          "term": "convention",
+          "pos": "n.",
+          "meaning": "大会；正式公约",
+          "example": "They attended a medical convention.",
+          "translation": "他们参加了一场医学大会。",
+          "exampleHighlights": [
+            "convention"
+          ]
+        }
+      ],
+      "meaning": "惯例；习俗",
+      "explanation": "",
+      "example": "Social conventions change over time.",
+      "translation": "社会习俗会随时间改变。"
+    },
+    "original": "convention",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "intently",
+    "originals": [
+      "intently"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "intently",
+          "pos": "adv.",
+          "meaning": "专注地；聚精会神地",
+          "example": "She listened intently to his explanation.",
+          "translation": "她专注地听他的解释。",
+          "exampleHighlights": [
+            "intently"
+          ]
+        }
+      ],
+      "meaning": "专注地；聚精会神地",
+      "explanation": "",
+      "example": "She listened intently to his explanation.",
+      "translation": "她专注地听他的解释。"
+    },
+    "original": "intently",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "have a go at doing something",
+    "originals": [
+      "have a go at doing something"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "have a go at doing something",
+          "pos": "phr.",
+          "meaning": "尝试做某事",
+          "example": "I will have a go at fixing it.",
+          "translation": "我来试着修一修。",
+          "exampleHighlights": [
+            "have a go at"
+          ]
+        }
+      ],
+      "meaning": "尝试做某事",
+      "explanation": "",
+      "example": "I will have a go at fixing it.",
+      "translation": "我来试着修一修。"
+    },
+    "original": "have a go at doing something",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "correspondent",
+    "originals": [
+      "correspondent"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "correspondent",
+          "pos": "n.",
+          "meaning": "记者；通讯员；通信者",
+          "example": "She works as a foreign correspondent.",
+          "translation": "她是一名驻外记者。",
+          "exampleHighlights": [
+            "correspondent"
+          ]
+        }
+      ],
+      "meaning": "记者；通讯员；通信者",
+      "explanation": "",
+      "example": "She works as a foreign correspondent.",
+      "translation": "她是一名驻外记者。"
+    },
+    "original": "correspondent",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "It was the first time + 过去完成时",
+    "originals": [
+      "It was the first time + 过去完成时"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "It was the first time + 过去完成时",
+          "pos": "句型",
+          "meaning": "那是第一次……；从句常用 had done",
+          "example": "It was the first time I had travelled alone.",
+          "translation": "那是我第一次独自旅行。",
+          "exampleHighlights": [
+            "It was the first time",
+            "had travelled"
+          ]
+        }
+      ],
+      "meaning": "那是第一次……；从句常用 had done",
+      "explanation": "",
+      "example": "It was the first time I had travelled alone.",
+      "translation": "那是我第一次独自旅行。"
+    },
+    "original": "It was the first time + 过去完成时",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "be out of touch with",
+    "originals": [
+      "be out of touch with"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "be out of touch with",
+          "pos": "phr.",
+          "meaning": "与……失去联系",
+          "example": "I am out of touch with my old classmates.",
+          "translation": "我和老同学们失去了联系。",
+          "exampleHighlights": [
+            "out of touch with"
+          ]
+        },
+        {
+          "term": "be out of touch with",
+          "pos": "phr.",
+          "meaning": "不了解……的现状或需求；脱节",
+          "example": "The policy is out of touch with reality.",
+          "translation": "这项政策脱离现实。",
+          "exampleHighlights": [
+            "out of touch with"
+          ]
+        }
+      ],
+      "meaning": "与……失去联系",
+      "explanation": "",
+      "example": "I am out of touch with my old classmates.",
+      "translation": "我和老同学们失去了联系。"
+    },
+    "original": "be out of touch with",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "aide",
+    "originals": [
+      "aide"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "aide",
+          "pos": "n.",
+          "meaning": "助手；助理（常指重要人物的）",
+          "example": "A senior aide briefed the minister.",
+          "translation": "一位高级助理向部长作了简报。",
+          "exampleHighlights": [
+            "aide"
+          ]
+        }
+      ],
+      "meaning": "助手；助理（常指重要人物的）",
+      "explanation": "",
+      "example": "A senior aide briefed the minister.",
+      "translation": "一位高级助理向部长作了简报。"
+    },
+    "original": "aide",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "Apocryphal or not",
+    "originals": [
+      "Apocryphal or not"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "Apocryphal or not",
+          "pos": "phr.",
+          "meaning": "不管真假；不论传闻是否可靠",
+          "example": "Apocryphal or not, the story makes a useful point.",
+          "translation": "不管真假，这个故事说明了一个有用的道理。",
+          "exampleHighlights": [
+            "Apocryphal or not"
+          ]
+        }
+      ],
+      "meaning": "不管真假；不论传闻是否可靠",
+      "explanation": "",
+      "example": "Apocryphal or not, the story makes a useful point.",
+      "translation": "不管真假，这个故事说明了一个有用的道理。"
+    },
+    "original": "Apocryphal or not",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "regard A as B",
+    "originals": [
+      "regard A as B"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "regard A as B",
+          "pos": "phr.",
+          "meaning": "把 A 看作 B；认为 A 是 B",
+          "example": "They regard education as a basic right.",
+          "translation": "他们把教育视为基本权利。",
+          "exampleHighlights": [
+            "regard",
+            "as"
+          ]
+        }
+      ],
+      "meaning": "把 A 看作 B；认为 A 是 B",
+      "explanation": "",
+      "example": "They regard education as a basic right.",
+      "translation": "他们把教育视为基本权利。"
+    },
+    "original": "regard A as B",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "as someone puts it",
+    "originals": [
+      "as someone puts it"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "as someone puts it",
+          "pos": "phr.",
+          "meaning": "用某人的话说",
+          "example": "As she puts it, patience is a form of strength.",
+          "translation": "用她的话说，耐心也是一种力量。",
+          "exampleHighlights": [
+            "As she puts it"
+          ]
+        }
+      ],
+      "meaning": "用某人的话说",
+      "explanation": "",
+      "example": "As she puts it, patience is a form of strength.",
+      "translation": "用她的话说，耐心也是一种力量。"
+    },
+    "original": "as someone puts it",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "hold a grudge",
+    "originals": [
+      "hold a grudge"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "hold a grudge",
+          "pos": "phr.",
+          "meaning": "怀恨在心；记仇（常接 against）",
+          "example": "He does not hold a grudge against her.",
+          "translation": "他并不记恨她。",
+          "exampleHighlights": [
+            "hold a grudge"
+          ]
+        }
+      ],
+      "meaning": "怀恨在心；记仇（常接 against）",
+      "explanation": "",
+      "example": "He does not hold a grudge against her.",
+      "translation": "他并不记恨她。"
+    },
+    "original": "hold a grudge",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "inspired",
+    "originals": [
+      "inspired"
+    ],
+    "back": {
+      "senses": [
+        {
+          "term": "inspired",
+          "pos": "adj.",
+          "meaning": "富有灵感的；极有创意的",
+          "example": "That was an inspired choice.",
+          "translation": "那是个极有创意的选择。",
+          "exampleHighlights": [
+            "inspired"
+          ]
+        },
+        {
+          "term": "inspired",
+          "pos": "v. 过去式/分词",
+          "meaning": "激发；启发；赋予灵感",
+          "example": "Her courage inspired us to act.",
+          "translation": "她的勇气激励我们采取行动。",
+          "exampleHighlights": [
+            "inspired"
+          ]
+        }
+      ],
+      "meaning": "富有灵感的；极有创意的",
+      "explanation": "",
+      "example": "That was an inspired choice.",
+      "translation": "那是个极有创意的选择。"
+    },
+    "original": "inspired",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "be to do · 安排与计划",
+    "originals": [
+      "be to do · 安排与计划"
+    ],
+    "kind": "grammar",
+    "back": {
+      "senses": [
+        {
+          "term": "am/is/are to do",
+          "pos": "句型",
+          "meaning": "按安排将要做某事",
+          "core": "be 随主语变化，to 后用动词原形。偏正式，常见于通知、新闻和既定安排；不是所有普通将来都用它。",
+          "coreHighlights": [
+            "be 随主语变化，to 后用动词原形"
+          ],
+          "example": "The president is to visit the city tomorrow.",
+          "translation": "总统定于明天访问这座城市。",
+          "exampleHighlights": [
+            "is to visit"
+          ]
+        },
+        {
+          "term": "was/were to do",
+          "pos": "句型",
+          "meaning": "从过去看，当时安排将要做某事",
+          "core": "was 用于 I/he/she/it；were 用于 you/we/they。这种过去安排本身不保证后来执行，也不自动表示计划取消。",
+          "coreHighlights": [
+            "was 用于 I/he/she/it；were 用于 you/we/they"
+          ],
+          "example": "We were to meet at six, but she called to cancel.",
+          "translation": "我们原定六点见面，但她打电话取消了。",
+          "exampleHighlights": [
+            "were to meet"
+          ]
+        },
+        {
+          "term": "was to do",
+          "pos": "句型",
+          "meaning": "过去的安排也可能实际完成",
+          "core": "不要看到 was to 就翻译成“本来要但没做”。是否实现要看后文。the next day 指过去参照点的第二天。",
+          "coreHighlights": [
+            "不要看到 was to 就翻译成“本来要但没做”"
+          ],
+          "example": "He was to leave the next day, and he did.",
+          "translation": "他原定第二天离开，后来也确实走了。",
+          "exampleHighlights": [
+            "was to leave"
+          ]
+        },
+        {
+          "term": "was/were to have done",
+          "pos": "句型",
+          "meaning": "原定已完成某事，却没有实现",
+          "core": "常用来表达未实现的安排。相比 was to do，完成式更明确地回看本应完成的事。tomorrow 在过去叙事中要按叙事参照点理解。",
+          "coreHighlights": [
+            "常用来表达未实现的安排"
+          ],
+          "example": "They were to have married in June, but the wedding was cancelled.",
+          "translation": "他们原定六月结婚，但婚礼取消了。",
+          "exampleHighlights": [
+            "were to have married"
+          ]
+        }
+      ],
+      "meaning": "按安排将要做某事",
+      "explanation": "be 随主语变化，to 后用动词原形。偏正式，常见于通知、新闻和既定安排；不是所有普通将来都用它。",
+      "example": "The president is to visit the city tomorrow.",
+      "translation": "总统定于明天访问这座城市。"
+    },
+    "original": "be to do · 安排与计划",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "be to do · 命令与要求",
+    "originals": [
+      "be to do · 命令与要求"
+    ],
+    "kind": "grammar",
+    "back": {
+      "senses": [
+        {
+          "term": "be to do",
+          "pos": "句型",
+          "meaning": "必须；应当（正式指令）",
+          "core": "表示说话者或规则要求某人做某事，语气较强。不能只机械翻成“将要”。",
+          "coreHighlights": [
+            "表示说话者或规则要求某人做某事，语气较强"
+          ],
+          "example": "You are to follow the rules.",
+          "translation": "你必须遵守规定。",
+          "exampleHighlights": [
+            "are to follow"
+          ]
+        },
+        {
+          "term": "be not to do",
+          "pos": "句型",
+          "meaning": "不得；不许",
+          "core": "否定放在 be 后：are not to do。这里不是“并不打算做”，而是禁止。",
+          "coreHighlights": [
+            "否定放在 be 后：are not to do"
+          ],
+          "example": "You are not to leave this room.",
+          "translation": "你不许离开这个房间。",
+          "exampleHighlights": [
+            "are not to leave"
+          ]
+        },
+        {
+          "term": "was/were to do",
+          "pos": "句型",
+          "meaning": "过去收到的要求",
+          "core": "was/were 说明指令所处的时间在过去，不代表虚拟语气。",
+          "coreHighlights": [
+            "was/were 说明指令所处的时间在过去，不代表虚拟语气"
+          ],
+          "example": "We were to report any changes immediately.",
+          "translation": "当时我们被要求立即报告任何变化。",
+          "exampleHighlights": [
+            "were to report"
+          ]
+        },
+        {
+          "term": "be to be done",
+          "pos": "句型",
+          "meaning": "要求某事被完成（被动）",
+          "core": "结构为 be + to be + 过去分词。第一个 be 表示要求，第二个 be 与过去分词构成被动。",
+          "coreHighlights": [
+            "结构为 be + to be + 过去分词"
+          ],
+          "example": "All forms are to be submitted by Friday.",
+          "translation": "所有表格必须在周五前提交。",
+          "exampleHighlights": [
+            "are to be submitted"
+          ]
+        }
+      ],
+      "meaning": "必须；应当（正式指令）",
+      "explanation": "表示说话者或规则要求某人做某事，语气较强。不能只机械翻成“将要”。",
+      "example": "You are to follow the rules.",
+      "translation": "你必须遵守规定。"
+    },
+    "original": "be to do · 命令与要求",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "was/were to do · 后来的发展",
+    "originals": [
+      "was/were to do · 后来的发展"
+    ],
+    "kind": "grammar",
+    "back": {
+      "senses": [
+        {
+          "term": "was/were to do",
+          "pos": "句型",
+          "meaning": "后来会……；后来果然……",
+          "core": "叙述者已经知道结局，却站在过去的时间点讲未来。常用于传记或小说，并不一定表示当时有计划。",
+          "coreHighlights": [
+            "叙述者已经知道结局，却站在过去的时间点讲未来"
+          ],
+          "example": "He was to become famous many years later.",
+          "translation": "多年以后，他成了名。",
+          "exampleHighlights": [
+            "was to become"
+          ]
+        },
+        {
+          "term": "was to do",
+          "pos": "句型",
+          "meaning": "后来发生了某种重大变化",
+          "core": "这种回顾性的用法可带命运意味，但无需一律翻成“注定”。与普通过去安排的区别靠上下文判断。",
+          "coreHighlights": [
+            "这种回顾性的用法可带命运意味，但无需一律翻成“注定”"
+          ],
+          "example": "That meeting was to change her life.",
+          "translation": "那次会面后来改变了她的一生。",
+          "exampleHighlights": [
+            "was to change"
+          ]
+        },
+        {
+          "term": "were never to do",
+          "pos": "句型",
+          "meaning": "后来再也没有……",
+          "core": "never 否定后来的发展。were 可以仅仅因为主语是复数，并非假设语气。",
+          "coreHighlights": [
+            "never 否定后来的发展"
+          ],
+          "example": "They were never to meet again.",
+          "translation": "他们后来再也没有见面。",
+          "exampleHighlights": [
+            "were never to meet"
+          ]
+        },
+        {
+          "term": "was to do",
+          "pos": "句型",
+          "meaning": "后来才发现、才明白",
+          "core": "回顾后来获得的信息。不是当时安排自己去“发现”。",
+          "coreHighlights": [
+            "回顾后来获得的信息"
+          ],
+          "example": "As I was to discover, the task was harder than it looked.",
+          "translation": "后来我才发现，这项任务比看起来更难。",
+          "exampleHighlights": [
+            "was to discover"
+          ]
+        }
+      ],
+      "meaning": "后来会……；后来果然……",
+      "explanation": "叙述者已经知道结局，却站在过去的时间点讲未来。常用于传记或小说，并不一定表示当时有计划。",
+      "example": "He was to become famous many years later.",
+      "translation": "多年以后，他成了名。"
+    },
+    "original": "was/were to do · 后来的发展",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "if … were to do · 假设",
+    "originals": [
+      "if … were to do · 假设"
+    ],
+    "kind": "grammar",
+    "back": {
+      "senses": [
+        {
+          "term": "if + 主语 + were to do",
+          "pos": "句型",
+          "meaning": "假如将来发生某事……",
+          "core": "强调设想、距离感或较低可能性，不表示过去发生。主句常用 would/could/might + 动词原形。",
+          "coreHighlights": [
+            "强调设想、距离感或较低可能性，不表示过去发生"
+          ],
+          "example": "If he were to leave, we would be sad.",
+          "translation": "假如他要离开，我们会很难过。",
+          "exampleHighlights": [
+            "were to leave",
+            "would be"
+          ]
+        },
+        {
+          "term": "if I/he/she were to do",
+          "pos": "句型",
+          "meaning": "单数主语也可用 were",
+          "core": "正式假设中，I/he/she/it 同样使用 were。这是语气的选择，不是主谓不一致。",
+          "coreHighlights": [
+            "正式假设中，I/he/she/it 同样使用 were"
+          ],
+          "example": "If I were to lose my job, I would move home.",
+          "translation": "假如我失业了，我会搬回家。",
+          "exampleHighlights": [
+            "were to lose",
+            "would move"
+          ]
+        },
+        {
+          "term": "Were + 主语 + to do",
+          "pos": "句型",
+          "meaning": "省略 if 的倒装，意思不变",
+          "core": "把 were 移到主语前即可。这种写法较正式，小说或文章中很常见。",
+          "coreHighlights": [
+            "把 were 移到主语前即可"
+          ],
+          "example": "Were the system to fail, the backup would take over.",
+          "translation": "假如系统故障，备用系统会接管。",
+          "exampleHighlights": [
+            "Were",
+            "to fail",
+            "would take over"
+          ]
+        },
+        {
+          "term": "if … was to do 与 were to do",
+          "pos": "句型",
+          "meaning": "was 可能是口语假设，也可能是过去安排",
+          "core": "非正式假设中可见 was；正式写作优先用 were。下面的 was to leave 是过去的安排，不是凭 was 就能判定的虚拟语气。",
+          "coreHighlights": [
+            "非正式假设中可见 was；正式写作优先用 were"
+          ],
+          "example": "If he was to leave at dawn, he needed to pack that night.",
+          "translation": "如果当时安排他黎明出发，他就需要那晚收拾行李。",
+          "exampleHighlights": [
+            "was to leave"
+          ]
+        }
+      ],
+      "meaning": "假如将来发生某事……",
+      "explanation": "强调设想、距离感或较低可能性，不表示过去发生。主句常用 would/could/might + 动词原形。",
+      "example": "If he were to leave, we would be sad.",
+      "translation": "假如他要离开，我们会很难过。"
+    },
+    "original": "if … were to do · 假设",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "if … be to do · 目标与必要条件",
+    "originals": [
+      "if … be to do · 目标与必要条件"
+    ],
+    "kind": "grammar",
+    "back": {
+      "senses": [
+        {
+          "term": "if we are to do",
+          "pos": "句型",
+          "meaning": "如果我们想要……；要想……",
+          "core": "这里 if 从句提出目标，主句说明实现目标所必需的行动。常译成“要想……就必须……”。",
+          "coreHighlights": [
+            "这里 if 从句提出目标，主句说明实现目标所必需的行动"
+          ],
+          "example": "If we are to win, we must train harder.",
+          "translation": "要想赢，我们就必须更刻苦地训练。",
+          "exampleHighlights": [
+            "are to win",
+            "must train"
+          ]
+        },
+        {
+          "term": "if something is to do",
+          "pos": "句型",
+          "meaning": "要让某件事成功……",
+          "core": "主语不一定是人。is to succeed 在这里提出需要实现的目标，不是断言一定成功。",
+          "coreHighlights": [
+            "主语不一定是人"
+          ],
+          "example": "If the plan is to succeed, everyone must cooperate.",
+          "translation": "要让计划成功，大家就必须合作。",
+          "exampleHighlights": [
+            "is to succeed",
+            "must cooperate"
+          ]
+        },
+        {
+          "term": "if … was/were to do",
+          "pos": "句型",
+          "meaning": "过去语境中的目标与条件",
+          "core": "were 也可能只是复数主语的过去式：要想当时活下来，就必须采取某种行动。不要把所有 if + were to 都判为虚拟。",
+          "coreHighlights": [
+            "were 也可能只是复数主语的过去式：要想当时活下来，就必须采取某种行动"
+          ],
+          "example": "If they were to survive the winter, they needed more food.",
+          "translation": "他们要想熬过那个冬天，就需要更多食物。",
+          "exampleHighlights": [
+            "were to survive",
+            "needed"
+          ]
+        },
+        {
+          "term": "目标条件 vs 假设",
+          "pos": "句型",
+          "meaning": "看主句在说必要行动，还是设想结果",
+          "core": "must/need to 常提示实现目标的必要条件；would/could 常提示假设后果，但仍要结合完整语境判断。",
+          "coreHighlights": [
+            "must/need to 常提示实现目标的必要条件；would/could 常提示假设后果，但仍要结合完整语境判断"
+          ],
+          "example": "If you are to finish today, you need to start now.",
+          "translation": "你要想今天完成，现在就得开始。",
+          "exampleHighlights": [
+            "are to finish",
+            "need to start"
+          ]
+        }
+      ],
+      "meaning": "如果我们想要……；要想……",
+      "explanation": "这里 if 从句提出目标，主句说明实现目标所必需的行动。常译成“要想……就必须……”。",
+      "example": "If we are to win, we must train harder.",
+      "translation": "要想赢，我们就必须更刻苦地训练。"
+    },
+    "original": "if … be to do · 目标与必要条件",
+    "batches": [
+      {
+        "date": "2026-10-15",
+        "repeat": false
+      }
+    ]
   }
 ]

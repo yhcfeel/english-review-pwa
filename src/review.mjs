@@ -53,6 +53,23 @@ export function restoreRound(raw,cards){
         return {...newRound(cards.length),current:order[0],order:order.slice(1)};
       }
     }
+    // New imports append cards. Remap by stable front rather than discarding
+    // completed cards and scores when the deck grows or is reordered.
+    const previous=JSON.parse(saved.key);
+    if(Array.isArray(previous)&&previous.every(x=>typeof x==='string')&&new Set(previous).size===previous.length&&validRound(saved.round,previous.length)){
+      const indices=new Map(cards.map((c,i)=>[c.front,i]));
+      if(previous.every(front=>indices.has(front))){
+        const old=saved.round;
+        const remap=i=>i===null?null:indices.get(previous[i]);
+        const next=newRound(cards.length);
+        const added=next.order.concat(next.current===null?[]:[next.current]).filter(i=>!previous.includes(cards[i].front));
+        previous.forEach((front,i)=>{next.states[indices.get(front)]={...old.states[i]};});
+        next.step=old.step;next.last=remap(old.last);next.current=remap(old.current);
+        next.order=old.order.map(remap).concat(added);
+        if(next.current===null)next.current=next.order.shift()??null;
+        if(validRound(next,cards.length))return next;
+      }
+    }
   }catch{}
   return newRound(cards.length);
 }

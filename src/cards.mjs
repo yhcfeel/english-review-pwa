@@ -8,6 +8,8 @@ export function isCardList(value) {
   return Array.isArray(value) && value.length > 0 && new Set(value.map(c=>c?.front)).size === value.length && value.every(card => {
     if (!card || !text(card.front) || !card.back) return false;
     const senses=getSenses(card);
-    return senses.length >= 1 && senses.length <= 2 && senses.every(s=>s && ['term','meaning','example'].every(k=>text(s[k])) && ['pos','core','translation'].every(k=>s[k]===undefined || typeof s[k]==='string') && ['exampleHighlights','coreHighlights'].every(k=>s[k]===undefined || (Array.isArray(s[k])&&s[k].every(text))));
+    const batches=card.batches;
+    if(batches!==undefined&&(!Array.isArray(batches)||batches.some(b=>!b||!/^\d{4}-\d{2}-\d{2}$/.test(b.date)||typeof b.repeat!=='boolean')||new Set(batches.map(b=>b.date)).size!==batches.length))return false;
+    return senses.length >= 1 && senses.length <= 12 && senses.every(s=>s && ['term','meaning','example'].every(k=>text(s[k])) && ['pos','core','translation'].every(k=>s[k]===undefined || typeof s[k]==='string') && ['exampleHighlights','coreHighlights'].every(k=>s[k]===undefined || (Array.isArray(s[k])&&s[k].every(text))));
   });
 }
