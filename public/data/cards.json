@@ -8472,5 +8472,83 @@
         "repeat": false
       }
     ]
+  },
+  {
+    "front": "so + 助动词／情态动词 + 主语",
+    "original": "so can ....",
+    "originals": [
+      "so can ...."
+    ],
+    "kind": "grammar",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "核心是“前面说的肯定情况，另一个人也一样”。so 后把助动词或情态动词放到主语前：So can I = I can too。换动词和时态时，对应改用 do、be、have 等。",
+      "senses": [
+        {
+          "term": "So can I / he / they",
+          "pos": "句型",
+          "meaning": "我／他／他们也能；也可以",
+          "core": "把前一句肯定的能力或许可搬到另一个主语上。can 放在主语前；不是把 so can 当作单独词组。",
+          "coreHighlights": [
+            "把前一句肯定的能力或许可搬到另一个主语上"
+          ],
+          "example": "She can swim, and so can I.",
+          "translation": "她会游泳，我也会。",
+          "exampleHighlights": [
+            "so can I"
+          ]
+        },
+        {
+          "term": "So do I / So did I",
+          "pos": "句型",
+          "meaning": "我也这样；我当时也这样",
+          "core": "前句没有 be 或情态动词时，用 do/does/did 代替实义动词，并匹配时态和主语。",
+          "coreHighlights": [
+            "前句没有 be 或情态动词时，用 do/does/did 代替实义动词，并匹配时态和主语"
+          ],
+          "example": "He likes tea, and so do I.",
+          "translation": "他喜欢茶，我也喜欢。",
+          "exampleHighlights": [
+            "so do I"
+          ]
+        },
+        {
+          "term": "So am I / So is she",
+          "pos": "句型",
+          "meaning": "我也是；她也是",
+          "core": "前句用 be，后句就用对应的 be；现在完成时则用 have/has，如 So have I。",
+          "coreHighlights": [
+            "前句用 be，后句就用对应的 be；现在完成时则用 have/has，如 So have I"
+          ],
+          "example": "She is tired, and so am I.",
+          "translation": "她累了，我也累了。",
+          "exampleHighlights": [
+            "so am I"
+          ]
+        },
+        {
+          "term": "So can I ≠ So I can",
+          "pos": "句型",
+          "meaning": "倒装表示“我也能”；不倒装可表示“我的确能”",
+          "core": "So I can 可用于确认刚听到的事实；so I can 放在句中还可能表示“这样我就能”。否定的“也不”用 neither/nor + 助动词 + 主语。",
+          "coreHighlights": [
+            "So I can 可用于确认刚听到的事实；so I can 放在句中还可能表示“这样我就能”"
+          ],
+          "example": "“You can see the sea from here.” “So I can!”",
+          "translation": "“你从这里能看到海。”“还真能！”",
+          "exampleHighlights": [
+            "So I can"
+          ]
+        }
+      ],
+      "meaning": "我／他／他们也能；也可以",
+      "example": "She can swim, and so can I.",
+      "translation": "她会游泳，我也会。"
+    }
   }
 ]

@@ -6,8 +6,8 @@ import {newRound,rateCard,restoreRound,deckKey,validRound} from '../src/review.m
 import {isCardList} from '../src/cards.mjs';
 const cards=JSON.parse(readFileSync('public/data/cards.json','utf8'));
 test('today contains all imported forms, merged plurals, and five grammar topics',()=>{
- const latest=selectQueue(cards,'latest');
- assert.equal(latestBatch(cards),'2026-10-15');assert.equal(latest.length,142);assert.equal(cards.length,240);
+ const latest=selectQueue(cards,'latest','2026-10-15');
+ assert.equal(latestBatch(cards),'2026-10-16');assert.equal(latest.length,142);assert.equal(cards.length,241);assert.equal(selectQueue(cards,'latest').length,1);
  assert.equal(latest.filter(c=>c.kind==='grammar').length,5);
  assert.equal(new Set(cards.map(c=>c.front.toLowerCase())).size,cards.length);
  assert.deepEqual(latest.find(c=>c.front==='grocery').originals,['grocery','groceries']);
