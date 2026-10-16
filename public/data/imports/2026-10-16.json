@@ -1,0 +1,457 @@
+{
+  "date": "2026-10-16",
+  "inputCount": 110,
+  "newCards": 105,
+  "latestCount": 109,
+  "totalCount": 346,
+  "repeatedOldWords": [
+    "survey",
+    "worsen",
+    "disorder"
+  ],
+  "alreadyAddedToday": [
+    "so + 助动词／情态动词 + 主语"
+  ],
+  "mapping": [
+    {
+      "original": "span",
+      "front": "span"
+    },
+    {
+      "original": "distraction",
+      "front": "distraction"
+    },
+    {
+      "original": "undermine",
+      "front": "undermine"
+    },
+    {
+      "original": "capacity",
+      "front": "capacity"
+    },
+    {
+      "original": "diminished",
+      "front": "diminish"
+    },
+    {
+      "original": "inherent",
+      "front": "inherent"
+    },
+    {
+      "original": "diminish",
+      "front": "diminish"
+    },
+    {
+      "original": "notifications",
+      "front": "notification"
+    },
+    {
+      "original": "disable",
+      "front": "disable"
+    },
+    {
+      "original": "helmet",
+      "front": "helmet"
+    },
+    {
+      "original": "contend",
+      "front": "contend"
+    },
+    {
+      "original": "monastic",
+      "front": "monastic"
+    },
+    {
+      "original": "suffocation",
+      "front": "suffocation"
+    },
+    {
+      "original": "assault",
+      "front": "assault"
+    },
+    {
+      "original": "acute",
+      "front": "acute"
+    },
+    {
+      "original": "multiply",
+      "front": "multiply"
+    },
+    {
+      "original": "plot",
+      "front": "plot"
+    },
+    {
+      "original": "Surveys",
+      "front": "survey"
+    },
+    {
+      "original": "nuanced",
+      "front": "nuanced"
+    },
+    {
+      "original": "flit",
+      "front": "flit"
+    },
+    {
+      "original": "detrimental",
+      "front": "detrimental"
+    },
+    {
+      "original": "impaired",
+      "front": "impaired"
+    },
+    {
+      "original": "flurry",
+      "front": "flurry"
+    },
+    {
+      "original": "constantly",
+      "front": "constantly"
+    },
+    {
+      "original": "distracted",
+      "front": "distracted"
+    },
+    {
+      "original": "responded",
+      "front": "respond"
+    },
+    {
+      "original": "perception",
+      "front": "perception"
+    },
+    {
+      "original": "modular",
+      "front": "modular"
+    },
+    {
+      "original": "digestible",
+      "front": "digestible"
+    },
+    {
+      "original": "extracts",
+      "front": "extract"
+    },
+    {
+      "original": "novelist",
+      "front": "novelist"
+    },
+    {
+      "original": "break ... into ..",
+      "front": "break A into B"
+    },
+    {
+      "original": "tangle",
+      "front": "tangle"
+    },
+    {
+      "original": "appeal",
+      "front": "appeal"
+    },
+    {
+      "original": "prioritize",
+      "front": "prioritize"
+    },
+    {
+      "original": "executive",
+      "front": "executive"
+    },
+    {
+      "original": "in line with",
+      "front": "in line with"
+    },
+    {
+      "original": "distinguish",
+      "front": "distinguish"
+    },
+    {
+      "original": "engaged",
+      "front": "engaged"
+    },
+    {
+      "original": "tedious",
+      "front": "tedious"
+    },
+    {
+      "original": "apparently",
+      "front": "apparently"
+    },
+    {
+      "original": "naturally",
+      "front": "naturally"
+    },
+    {
+      "original": "fluctuates",
+      "front": "fluctuate"
+    },
+    {
+      "original": "bursts",
+      "front": "burst"
+    },
+    {
+      "original": "lapses",
+      "front": "lapse"
+    },
+    {
+      "original": "worsens",
+      "front": "worsen"
+    },
+    {
+      "original": "basis",
+      "front": "basis"
+    },
+    {
+      "original": "juggle",
+      "front": "juggle"
+    },
+    {
+      "original": "irrelevant",
+      "front": "irrelevant"
+    },
+    {
+      "original": "correlations",
+      "front": "correlation"
+    },
+    {
+      "original": "tendencies",
+      "front": "tendency"
+    },
+    {
+      "original": "observations",
+      "front": "observation"
+    },
+    {
+      "original": "causally",
+      "front": "causally"
+    },
+    {
+      "original": "deficit",
+      "front": "deficit"
+    },
+    {
+      "original": "disorder",
+      "front": "disorder"
+    },
+    {
+      "original": "attribute",
+      "front": "attribute"
+    },
+    {
+      "original": "access to something",
+      "front": "access to something"
+    },
+    {
+      "original": "reversible",
+      "front": "reversible"
+    },
+    {
+      "original": "steadily",
+      "front": "steadily"
+    },
+    {
+      "original": "trivial",
+      "front": "trivial"
+    },
+    {
+      "original": "annoy",
+      "front": "annoy"
+    },
+    {
+      "original": "dedicated",
+      "front": "dedicated"
+    },
+    {
+      "original": "retain",
+      "front": "retain"
+    },
+    {
+      "original": "maligned",
+      "front": "maligned"
+    },
+    {
+      "original": "spikes",
+      "front": "spike"
+    },
+    {
+      "original": "fairly",
+      "front": "fairly"
+    },
+    {
+      "original": "accomplish",
+      "front": "accomplish"
+    },
+    {
+      "original": "sequentially",
+      "front": "sequentially"
+    },
+    {
+      "original": "diverts",
+      "front": "divert"
+    },
+    {
+      "original": "utilizing",
+      "front": "utilize"
+    },
+    {
+      "original": "deliberation",
+      "front": "deliberation"
+    },
+    {
+      "original": "malaise",
+      "front": "malaise"
+    },
+    {
+      "original": "superficial",
+      "front": "superficial"
+    },
+    {
+      "original": "progress",
+      "front": "progress"
+    },
+    {
+      "original": "generation",
+      "front": "generation"
+    },
+    {
+      "original": "panic",
+      "front": "panic"
+    },
+    {
+      "original": "pulls",
+      "front": "pull"
+    },
+    {
+      "original": "impose",
+      "front": "impose"
+    },
+    {
+      "original": "alternatives",
+      "front": "alternative"
+    },
+    {
+      "original": "validation",
+      "front": "validation"
+    },
+    {
+      "original": "drift",
+      "front": "drift"
+    },
+    {
+      "original": "absence",
+      "front": "absence"
+    },
+    {
+      "original": "solely",
+      "front": "solely"
+    },
+    {
+      "original": "decrease",
+      "front": "decrease"
+    },
+    {
+      "original": "fragmented",
+      "front": "fragmented"
+    },
+    {
+      "original": "messy",
+      "front": "messy"
+    },
+    {
+      "original": "generate",
+      "front": "generate"
+    },
+    {
+      "original": "implications",
+      "front": "implication"
+    },
+    {
+      "original": "volume",
+      "front": "volume"
+    },
+    {
+      "original": "accurate",
+      "front": "accurate"
+    },
+    {
+      "original": "principle",
+      "front": "principle"
+    },
+    {
+      "original": "cohorts",
+      "front": "cohort"
+    },
+    {
+      "original": "signature",
+      "front": "signature"
+    },
+    {
+      "original": "cerebellum",
+      "front": "cerebellum"
+    },
+    {
+      "original": "stable",
+      "front": "stable"
+    },
+    {
+      "original": "so far",
+      "front": "so far"
+    },
+    {
+      "original": "faint",
+      "front": "faint"
+    },
+    {
+      "original": "inflate",
+      "front": "inflate"
+    },
+    {
+      "original": "consistency",
+      "front": "consistency"
+    },
+    {
+      "original": "So can...",
+      "front": "so + 助动词／情态动词 + 主语"
+    },
+    {
+      "original": "conscious",
+      "front": "conscious"
+    },
+    {
+      "original": "fluctuations",
+      "front": "fluctuation"
+    },
+    {
+      "original": "flickering",
+      "front": "flickering"
+    },
+    {
+      "original": "ruminations",
+      "front": "rumination"
+    },
+    {
+      "original": "periods",
+      "front": "period"
+    },
+    {
+      "original": "riddled",
+      "front": "riddled"
+    },
+    {
+      "original": "inevitable",
+      "front": "inevitable"
+    },
+    {
+      "original": "interpret",
+      "front": "interpret"
+    },
+    {
+      "original": "loom",
+      "front": "loom"
+    },
+    {
+      "original": "attractions",
+      "front": "attraction"
+    }
+  ]
+}

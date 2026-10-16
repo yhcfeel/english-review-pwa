@@ -7,7 +7,7 @@ import {isCardList} from '../src/cards.mjs';
 const cards=JSON.parse(readFileSync('public/data/cards.json','utf8'));
 test('today contains all imported forms, merged plurals, and five grammar topics',()=>{
  const latest=selectQueue(cards,'latest','2026-10-15');
- assert.equal(latestBatch(cards),'2026-10-16');assert.equal(latest.length,142);assert.equal(cards.length,241);assert.equal(selectQueue(cards,'latest').length,1);
+ assert.equal(latestBatch(cards),'2026-10-16');assert.equal(latest.length,142);assert.equal(cards.length,346);assert.equal(selectQueue(cards,'latest').length,109);
  assert.equal(latest.filter(c=>c.kind==='grammar').length,5);
  assert.equal(new Set(cards.map(c=>c.front.toLowerCase())).size,cards.length);
  assert.deepEqual(latest.find(c=>c.front==='grocery').originals,['grocery','groceries']);
@@ -46,4 +46,20 @@ test('metadata and expanded senses validate without accepting malformed batches'
  assert(isCardList(cards));
  const c=structuredClone(cards[0]);c.batches=[{date:'2026-10-15',repeat:'yes'}];assert(!isCardList([c]));
  c.batches=[{date:'2026-10-15',repeat:true},{date:'2026-10-15',repeat:false}];assert(!isCardList([c]));
+});
+
+test('October 16 import retains all encountered forms, old-word stars and same-day grammar',()=>{
+ const report=JSON.parse(readFileSync('public/data/imports/2026-10-16.json','utf8'));
+ assert.equal(report.mapping.length,110);
+ const latest=selectQueue(cards,'latest');
+ assert.equal(latest.length,109);
+ assert.deepEqual(latest.filter(c=>isPriority(c,'2026-10-16')).map(c=>c.front).sort(),['disorder','survey','worsen']);
+ for(const {original,front} of report.mapping){
+  const c=latest.find(c=>c.front.toLowerCase()===front.toLowerCase());
+  assert(c,original);assert(c.originals.includes(original),original);
+ }
+ const grammar=latest.filter(c=>c.front==='so + 助动词／情态动词 + 主语');assert.equal(grammar.length,1);assert(!isPriority(grammar[0],'2026-10-16'));
+ assert(cards.find(c=>c.front==='diminish').originals.includes('diminished'));
+ assert(cards.find(c=>c.front==='diminish').back.senses.some(s=>s.term==='diminished'));
+ for(const c of latest)assert.equal(c.batches.filter(b=>b.date==='2026-10-16').length,1);
 });

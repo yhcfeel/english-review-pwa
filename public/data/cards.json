@@ -661,7 +661,15 @@
       {
         "date": "2026-10-14",
         "repeat": false
+      },
+      {
+        "date": "2026-10-16",
+        "repeat": true
       }
+    ],
+    "originals": [
+      "survey",
+      "Surveys"
     ]
   },
   {
@@ -1091,14 +1099,32 @@
           "exampleHighlights": [
             "disorders"
           ]
+        },
+        {
+          "term": "disorder",
+          "pos": "n.",
+          "meaning": "混乱；杂乱；骚乱",
+          "example": "The room was in complete disorder.",
+          "translation": "房间里一片凌乱。",
+          "exampleHighlights": [
+            "disorder"
+          ]
         }
-      ]
+      ],
+      "core": "原本的正常秩序被打乱：环境是混乱，社会是骚乱，身体或心理功能则是失调、障碍。"
     },
     "batches": [
       {
         "date": "2026-10-14",
         "repeat": false
+      },
+      {
+        "date": "2026-10-16",
+        "repeat": true
       }
+    ],
+    "originals": [
+      "disorder"
     ]
   },
   {
@@ -2115,13 +2141,22 @@
             "worsen"
           ]
         }
-      ]
+      ],
+      "core": "从 worse“更差”理解：worsen 是变得更差，或使某种状况变差；可用于病情，也可用于交通、关系或问题。"
     },
     "batches": [
       {
         "date": "2026-10-14",
         "repeat": false
+      },
+      {
+        "date": "2026-10-16",
+        "repeat": true
       }
+    ],
+    "originals": [
+      "worsen",
+      "worsens"
     ]
   },
   {
@@ -8477,7 +8512,8 @@
     "front": "so + 助动词／情态动词 + 主语",
     "original": "so can ....",
     "originals": [
-      "so can ...."
+      "so can ....",
+      "So can..."
     ],
     "kind": "grammar",
     "batches": [
@@ -8550,5 +8586,3732 @@
       "example": "She can swim, and so can I.",
       "translation": "她会游泳，我也会。"
     }
+  },
+  {
+    "front": "span",
+    "originals": [
+      "span"
+    ],
+    "back": {
+      "core": "横跨两端的一段范围：可指时间跨度、空间跨度，也可表示横跨。",
+      "senses": [
+        {
+          "term": "span",
+          "pos": "n.",
+          "meaning": "跨度；持续时间；注意力持续时间",
+          "example": "The task requires a long attention span.",
+          "translation": "这项任务要求注意力能持续较长时间。",
+          "exampleHighlights": [
+            "attention span"
+          ]
+        },
+        {
+          "term": "span",
+          "pos": "v.",
+          "meaning": "横跨；贯穿；持续跨越",
+          "example": "Her career spans four decades.",
+          "translation": "她的职业生涯跨越了四十年。",
+          "exampleHighlights": [
+            "spans"
+          ]
+        }
+      ],
+      "meaning": "跨度；持续时间；注意力持续时间",
+      "example": "The task requires a long attention span.",
+      "translation": "这项任务要求注意力能持续较长时间。"
+    },
+    "original": "span",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "distraction",
+    "originals": [
+      "distraction"
+    ],
+    "back": {
+      "core": "注意力被拉离正在做的事：既指分心的状态，也指让你分心的东西。",
+      "senses": [
+        {
+          "term": "distraction",
+          "pos": "n.",
+          "meaning": "分心；干扰注意力的事物",
+          "example": "Phone alerts are a constant distraction.",
+          "translation": "手机提醒一直在让人分心。",
+          "exampleHighlights": [
+            "distraction"
+          ]
+        }
+      ],
+      "meaning": "分心；干扰注意力的事物",
+      "example": "Phone alerts are a constant distraction.",
+      "translation": "手机提醒一直在让人分心。"
+    },
+    "original": "distraction",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "undermine",
+    "originals": [
+      "undermine"
+    ],
+    "back": {
+      "core": "像从下面挖松根基：表面未必马上倒塌，力量、信心或权威却逐渐被削弱。",
+      "senses": [
+        {
+          "term": "undermine",
+          "pos": "v.",
+          "meaning": "逐渐削弱；暗中损害",
+          "example": "Repeated criticism can undermine confidence.",
+          "translation": "反复批评会削弱信心。",
+          "exampleHighlights": [
+            "undermine"
+          ]
+        }
+      ],
+      "meaning": "逐渐削弱；暗中损害",
+      "example": "Repeated criticism can undermine confidence.",
+      "translation": "反复批评会削弱信心。"
+    },
+    "original": "undermine",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "capacity",
+    "originals": [
+      "capacity"
+    ],
+    "back": {
+      "core": "某个人或事物能够容纳、完成多少：物体是容量，人是能力；身份则是另一常见用法。",
+      "senses": [
+        {
+          "term": "capacity",
+          "pos": "n.",
+          "meaning": "能力；处理或完成事情的本领",
+          "example": "Stress can reduce our capacity to concentrate.",
+          "translation": "压力会降低我们集中注意力的能力。",
+          "exampleHighlights": [
+            "capacity"
+          ]
+        },
+        {
+          "term": "capacity",
+          "pos": "n.",
+          "meaning": "容量；容纳人数；最大产能",
+          "example": "The hall has a capacity of five hundred people.",
+          "translation": "大厅可容纳五百人。",
+          "exampleHighlights": [
+            "capacity"
+          ]
+        },
+        {
+          "term": "capacity",
+          "pos": "n.",
+          "meaning": "身份；职务（in one's capacity as）",
+          "example": "She attended in her capacity as director.",
+          "translation": "她以主管的身份出席。",
+          "exampleHighlights": [
+            "capacity"
+          ]
+        }
+      ],
+      "meaning": "能力；处理或完成事情的本领",
+      "example": "Stress can reduce our capacity to concentrate.",
+      "translation": "压力会降低我们集中注意力的能力。"
+    },
+    "original": "capacity",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "diminish",
+    "originals": [
+      "diminished",
+      "diminish"
+    ],
+    "back": {
+      "core": "数量、程度或重要性变小：动作是 diminish；变小后的状态可用 diminished 表达。",
+      "senses": [
+        {
+          "term": "diminish",
+          "pos": "v.",
+          "meaning": "减少；减弱；降低",
+          "example": "The noise gradually diminished.",
+          "translation": "噪声逐渐减弱了。",
+          "exampleHighlights": [
+            "diminished"
+          ]
+        },
+        {
+          "term": "diminished",
+          "pos": "adj.",
+          "meaning": "diminished：减少的；减弱的",
+          "example": "Lack of sleep left him with diminished concentration.",
+          "translation": "睡眠不足使他的专注力下降了。",
+          "exampleHighlights": [
+            "diminished"
+          ]
+        }
+      ],
+      "meaning": "减少；减弱；降低",
+      "example": "The noise gradually diminished.",
+      "translation": "噪声逐渐减弱了。"
+    },
+    "original": "diminished",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "inherent",
+    "originals": [
+      "inherent"
+    ],
+    "back": {
+      "core": "不是后来附加的，而是事物本身就带有的特点。常用 inherent in。",
+      "senses": [
+        {
+          "term": "inherent",
+          "pos": "adj.",
+          "meaning": "内在的；固有的",
+          "example": "There are risks inherent in any investment.",
+          "translation": "任何投资都存在固有风险。",
+          "exampleHighlights": [
+            "inherent"
+          ]
+        }
+      ],
+      "meaning": "内在的；固有的",
+      "example": "There are risks inherent in any investment.",
+      "translation": "任何投资都存在固有风险。"
+    },
+    "original": "inherent",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "notification",
+    "originals": [
+      "notifications"
+    ],
+    "back": {
+      "core": "把一条消息正式送到你面前：手机里是通知，正式事务中是告知。",
+      "senses": [
+        {
+          "term": "notification",
+          "pos": "n.",
+          "meaning": "通知；提醒；告知",
+          "example": "I turned off notifications while reading.",
+          "translation": "阅读时我关闭了通知。",
+          "exampleHighlights": [
+            "notifications"
+          ]
+        }
+      ],
+      "meaning": "通知；提醒；告知",
+      "example": "I turned off notifications while reading.",
+      "translation": "阅读时我关闭了通知。"
+    },
+    "original": "notifications",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "disable",
+    "originals": [
+      "disable"
+    ],
+    "back": {
+      "core": "让某项能力或功能无法继续使用：软件里常指关闭功能，动作也可使设备失效。",
+      "senses": [
+        {
+          "term": "disable",
+          "pos": "v.",
+          "meaning": "禁用；使失去功能",
+          "example": "You can disable automatic updates.",
+          "translation": "你可以禁用自动更新。",
+          "exampleHighlights": [
+            "disable"
+          ]
+        }
+      ],
+      "meaning": "禁用；使失去功能",
+      "example": "You can disable automatic updates.",
+      "translation": "你可以禁用自动更新。"
+    },
+    "original": "disable",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "helmet",
+    "originals": [
+      "helmet"
+    ],
+    "back": {
+      "core": "保护头部的硬质帽子，不是普通保暖或遮阳的帽子。",
+      "senses": [
+        {
+          "term": "helmet",
+          "pos": "n.",
+          "meaning": "头盔；安全帽",
+          "example": "Always wear a helmet when cycling.",
+          "translation": "骑自行车时一定要戴头盔。",
+          "exampleHighlights": [
+            "helmet"
+          ]
+        }
+      ],
+      "meaning": "头盔；安全帽",
+      "example": "Always wear a helmet when cycling.",
+      "translation": "骑自行车时一定要戴头盔。"
+    },
+    "original": "helmet",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "contend",
+    "originals": [
+      "contend"
+    ],
+    "back": {
+      "core": "面对反对或困难努力争取：可以与对手竞争、应付困难，也可以坚持某种观点。",
+      "senses": [
+        {
+          "term": "contend",
+          "pos": "v.",
+          "meaning": "声称；主张（contend that）",
+          "example": "The authors contend that attention can be trained.",
+          "translation": "作者们主张，注意力可以训练。",
+          "exampleHighlights": [
+            "contend"
+          ]
+        },
+        {
+          "term": "contend",
+          "pos": "v.",
+          "meaning": "竞争；争夺；应付（contend with）",
+          "example": "Small firms must contend with rising costs.",
+          "translation": "小公司必须应付不断上涨的成本。",
+          "exampleHighlights": [
+            "contend with"
+          ]
+        }
+      ],
+      "meaning": "声称；主张（contend that）",
+      "example": "The authors contend that attention can be trained.",
+      "translation": "作者们主张，注意力可以训练。"
+    },
+    "original": "contend",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "monastic",
+    "originals": [
+      "monastic"
+    ],
+    "back": {
+      "core": "与修道院生活有关：也可比喻生活极其简朴、清静而自律。",
+      "senses": [
+        {
+          "term": "monastic",
+          "pos": "adj.",
+          "meaning": "修道院的；清修般的",
+          "example": "He lived a quiet, almost monastic life.",
+          "translation": "他过着安静、近乎清修的生活。",
+          "exampleHighlights": [
+            "monastic"
+          ]
+        }
+      ],
+      "meaning": "修道院的；清修般的",
+      "example": "He lived a quiet, almost monastic life.",
+      "translation": "他过着安静、近乎清修的生活。"
+    },
+    "original": "monastic",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "suffocation",
+    "originals": [
+      "suffocation"
+    ],
+    "back": {
+      "core": "空气被切断、无法呼吸：也可用来形容令人喘不过气的压抑感。",
+      "senses": [
+        {
+          "term": "suffocation",
+          "pos": "n.",
+          "meaning": "窒息；令人窒息的感觉",
+          "example": "The smoke created a risk of suffocation.",
+          "translation": "烟雾造成了窒息危险。",
+          "exampleHighlights": [
+            "suffocation"
+          ]
+        }
+      ],
+      "meaning": "窒息；令人窒息的感觉",
+      "example": "The smoke created a risk of suffocation.",
+      "translation": "烟雾造成了窒息危险。"
+    },
+    "original": "suffocation",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "assault",
+    "originals": [
+      "assault"
+    ],
+    "back": {
+      "core": "强烈地冲击某人或某物：具体是袭击，抽象地也可指声音或信息的猛烈冲击。",
+      "senses": [
+        {
+          "term": "assault",
+          "pos": "n./v.",
+          "meaning": "袭击；攻击",
+          "example": "The loud music was an assault on the senses.",
+          "translation": "嘈杂的音乐猛烈刺激着感官。",
+          "exampleHighlights": [
+            "assault"
+          ]
+        }
+      ],
+      "meaning": "袭击；攻击",
+      "example": "The loud music was an assault on the senses.",
+      "translation": "嘈杂的音乐猛烈刺激着感官。"
+    },
+    "original": "assault",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "acute",
+    "originals": [
+      "acute"
+    ],
+    "back": {
+      "core": "像一个尖点：感觉或问题尖锐强烈，观察力敏锐；医学中“急性”与“慢性”相对。",
+      "senses": [
+        {
+          "term": "acute",
+          "pos": "adj.",
+          "meaning": "严重的；强烈的；敏锐的",
+          "example": "There is an acute shortage of nurses.",
+          "translation": "护士严重短缺。",
+          "exampleHighlights": [
+            "acute"
+          ]
+        },
+        {
+          "term": "acute",
+          "pos": "adj.",
+          "meaning": "急性的；突然发生或病程较短的",
+          "example": "The report distinguishes acute illness from chronic illness.",
+          "translation": "报告区分了急性疾病和慢性疾病。",
+          "exampleHighlights": [
+            "acute"
+          ]
+        }
+      ],
+      "meaning": "严重的；强烈的；敏锐的",
+      "example": "There is an acute shortage of nurses.",
+      "translation": "护士严重短缺。"
+    },
+    "original": "acute",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "multiply",
+    "originals": [
+      "multiply"
+    ],
+    "back": {
+      "core": "一个数量变成多倍：计算中是乘，现实中可以是数量迅速增加。",
+      "senses": [
+        {
+          "term": "multiply",
+          "pos": "v.",
+          "meaning": "乘；使成倍增加",
+          "example": "Multiply six by three to get eighteen.",
+          "translation": "六乘三等于十八。",
+          "exampleHighlights": [
+            "Multiply"
+          ]
+        },
+        {
+          "term": "multiply",
+          "pos": "v.",
+          "meaning": "迅速增加；繁殖",
+          "example": "Problems multiplied as the project grew.",
+          "translation": "随着项目扩大，问题越来越多。",
+          "exampleHighlights": [
+            "multiplied"
+          ]
+        }
+      ],
+      "meaning": "乘；使成倍增加",
+      "example": "Multiply six by three to get eighteen.",
+      "translation": "六乘三等于十八。"
+    },
+    "original": "multiply",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "plot",
+    "originals": [
+      "plot"
+    ],
+    "back": {
+      "core": "分几支记：故事安排是情节，秘密安排是阴谋；图上标点与一小块土地也常见。",
+      "senses": [
+        {
+          "term": "plot",
+          "pos": "n.",
+          "meaning": "故事情节；阴谋",
+          "example": "The novel has a complicated plot.",
+          "translation": "这部小说的情节很复杂。",
+          "exampleHighlights": [
+            "plot"
+          ]
+        },
+        {
+          "term": "plot",
+          "pos": "v.",
+          "meaning": "密谋；策划",
+          "example": "They plotted to remove him from office.",
+          "translation": "他们密谋将他赶下台。",
+          "exampleHighlights": [
+            "plotted"
+          ]
+        },
+        {
+          "term": "plot",
+          "pos": "v./n.",
+          "meaning": "在图上标绘；小块土地",
+          "example": "Plot the results on a graph.",
+          "translation": "把结果标绘在图表上。",
+          "exampleHighlights": [
+            "Plot"
+          ]
+        }
+      ],
+      "meaning": "故事情节；阴谋",
+      "example": "The novel has a complicated plot.",
+      "translation": "这部小说的情节很复杂。"
+    },
+    "original": "plot",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "nuanced",
+    "originals": [
+      "nuanced"
+    ],
+    "back": {
+      "core": "不是简单的非黑即白，而是能体现细小差别、层次和条件。",
+      "senses": [
+        {
+          "term": "nuanced",
+          "pos": "adj.",
+          "meaning": "有细微差别的；细腻而有层次的",
+          "example": "We need a more nuanced explanation.",
+          "translation": "我们需要一个更细致、有层次的解释。",
+          "exampleHighlights": [
+            "nuanced"
+          ]
+        }
+      ],
+      "meaning": "有细微差别的；细腻而有层次的",
+      "example": "We need a more nuanced explanation.",
+      "translation": "我们需要一个更细致、有层次的解释。"
+    },
+    "original": "nuanced",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "flit",
+    "originals": [
+      "flit"
+    ],
+    "back": {
+      "core": "轻快而短暂地从一处移到另一处：人或鸟可以这样移动，注意力也可以这样跳转。",
+      "senses": [
+        {
+          "term": "flit",
+          "pos": "v.",
+          "meaning": "轻快地移动；掠过；跳来跳去",
+          "example": "Her attention flitted from one task to another.",
+          "translation": "她的注意力在不同任务之间跳来跳去。",
+          "exampleHighlights": [
+            "flitted"
+          ]
+        }
+      ],
+      "meaning": "轻快地移动；掠过；跳来跳去",
+      "example": "Her attention flitted from one task to another.",
+      "translation": "她的注意力在不同任务之间跳来跳去。"
+    },
+    "original": "flit",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "detrimental",
+    "originals": [
+      "detrimental"
+    ],
+    "back": {
+      "core": "对某人或某物造成不利影响，常接 to。",
+      "senses": [
+        {
+          "term": "detrimental",
+          "pos": "adj.",
+          "meaning": "有害的；不利的",
+          "example": "Constant interruptions are detrimental to concentration.",
+          "translation": "不断的打断不利于集中注意力。",
+          "exampleHighlights": [
+            "detrimental"
+          ]
+        }
+      ],
+      "meaning": "有害的；不利的",
+      "example": "Constant interruptions are detrimental to concentration.",
+      "translation": "不断的打断不利于集中注意力。"
+    },
+    "original": "detrimental",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "impaired",
+    "originals": [
+      "impaired"
+    ],
+    "back": {
+      "core": "功能受损、不能像原来那样正常发挥；不等于完全丧失功能。",
+      "senses": [
+        {
+          "term": "impaired",
+          "pos": "adj.",
+          "meaning": "受损的；减弱的",
+          "example": "His hearing was impaired by years of loud noise.",
+          "translation": "多年噪声损害了他的听力。",
+          "exampleHighlights": [
+            "impaired"
+          ]
+        }
+      ],
+      "meaning": "受损的；减弱的",
+      "example": "His hearing was impaired by years of loud noise.",
+      "translation": "多年噪声损害了他的听力。"
+    },
+    "original": "impaired",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "flurry",
+    "originals": [
+      "flurry"
+    ],
+    "back": {
+      "core": "像短时间内一阵纷飞的雪：很多小动作、消息或情绪突然密集出现。",
+      "senses": [
+        {
+          "term": "flurry",
+          "pos": "n.",
+          "meaning": "一阵忙乱；一连串；小阵雪",
+          "example": "The announcement triggered a flurry of emails.",
+          "translation": "公告引来了一连串邮件。",
+          "exampleHighlights": [
+            "flurry"
+          ]
+        }
+      ],
+      "meaning": "一阵忙乱；一连串；小阵雪",
+      "example": "The announcement triggered a flurry of emails.",
+      "translation": "公告引来了一连串邮件。"
+    },
+    "original": "flurry",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "constantly",
+    "originals": [
+      "constantly"
+    ],
+    "back": {
+      "core": "某种状态一直存在，或某件事频繁到让人感觉不停发生。",
+      "senses": [
+        {
+          "term": "constantly",
+          "pos": "adv.",
+          "meaning": "不断地；经常地；始终",
+          "example": "She constantly checks her phone.",
+          "translation": "她不停地查看手机。",
+          "exampleHighlights": [
+            "constantly"
+          ]
+        }
+      ],
+      "meaning": "不断地；经常地；始终",
+      "example": "She constantly checks her phone.",
+      "translation": "她不停地查看手机。"
+    },
+    "original": "constantly",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "distracted",
+    "originals": [
+      "distracted"
+    ],
+    "back": {
+      "core": "注意力被别的东西拉走，心不在眼前这件事上。与 distraction“分心”相关。",
+      "senses": [
+        {
+          "term": "distracted",
+          "pos": "adj.",
+          "meaning": "分心的；心不在焉的",
+          "example": "He looked distracted during the meeting.",
+          "translation": "开会时他显得心不在焉。",
+          "exampleHighlights": [
+            "distracted"
+          ]
+        }
+      ],
+      "meaning": "分心的；心不在焉的",
+      "example": "He looked distracted during the meeting.",
+      "translation": "开会时他显得心不在焉。"
+    },
+    "original": "distracted",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "respond",
+    "originals": [
+      "responded"
+    ],
+    "back": {
+      "core": "接收到问题、刺激或变化后作出回应；常接 to。",
+      "senses": [
+        {
+          "term": "respond",
+          "pos": "v.",
+          "meaning": "回答；回应；作出反应",
+          "example": "She responded to the message immediately.",
+          "translation": "她立即回复了那条消息。",
+          "exampleHighlights": [
+            "responded"
+          ]
+        }
+      ],
+      "meaning": "回答；回应；作出反应",
+      "example": "She responded to the message immediately.",
+      "translation": "她立即回复了那条消息。"
+    },
+    "original": "responded",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "perception",
+    "originals": [
+      "perception"
+    ],
+    "back": {
+      "core": "外界信息进入感官，再成为头脑中的认识：既是感知，也可以是主观看法。",
+      "senses": [
+        {
+          "term": "perception",
+          "pos": "n.",
+          "meaning": "感知；知觉",
+          "example": "The experiment tested visual perception.",
+          "translation": "实验测试了视觉感知。",
+          "exampleHighlights": [
+            "perception"
+          ]
+        },
+        {
+          "term": "perception",
+          "pos": "n.",
+          "meaning": "看法；印象；理解",
+          "example": "Public perception of the policy has changed.",
+          "translation": "公众对这项政策的看法发生了变化。",
+          "exampleHighlights": [
+            "perception"
+          ]
+        }
+      ],
+      "meaning": "感知；知觉",
+      "example": "The experiment tested visual perception.",
+      "translation": "实验测试了视觉感知。"
+    },
+    "original": "perception",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "modular",
+    "originals": [
+      "modular"
+    ],
+    "back": {
+      "core": "像积木一样由可独立组合、更换的单元组成。",
+      "senses": [
+        {
+          "term": "modular",
+          "pos": "adj.",
+          "meaning": "模块化的；由独立单元组成的",
+          "example": "The modular design makes repairs easier.",
+          "translation": "模块化设计让维修更容易。",
+          "exampleHighlights": [
+            "modular"
+          ]
+        }
+      ],
+      "meaning": "模块化的；由独立单元组成的",
+      "example": "The modular design makes repairs easier.",
+      "translation": "模块化设计让维修更容易。"
+    },
+    "original": "modular",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "digestible",
+    "originals": [
+      "digestible"
+    ],
+    "back": {
+      "core": "容易被消化吸收：对食物是好消化，对信息则是好理解。",
+      "senses": [
+        {
+          "term": "digestible",
+          "pos": "adj.",
+          "meaning": "易消化的；易理解的",
+          "example": "The guide presents information in digestible chunks.",
+          "translation": "指南把信息分成容易理解的小块来呈现。",
+          "exampleHighlights": [
+            "digestible"
+          ]
+        }
+      ],
+      "meaning": "易消化的；易理解的",
+      "example": "The guide presents information in digestible chunks.",
+      "translation": "指南把信息分成容易理解的小块来呈现。"
+    },
+    "original": "digestible",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "extract",
+    "originals": [
+      "extracts"
+    ],
+    "back": {
+      "core": "从一个整体里取出一部分：取出物质是提取，取出文字是摘录。",
+      "senses": [
+        {
+          "term": "extract",
+          "pos": "v.",
+          "meaning": "提取；取出；拔出",
+          "example": "The machine extracts oil from seeds.",
+          "translation": "这台机器从种子中提取油。",
+          "exampleHighlights": [
+            "extracts"
+          ]
+        },
+        {
+          "term": "extract",
+          "pos": "n.",
+          "meaning": "摘录；提取物",
+          "example": "The book contains extracts from her diary.",
+          "translation": "这本书收录了她日记的摘录。",
+          "exampleHighlights": [
+            "extracts"
+          ]
+        }
+      ],
+      "meaning": "提取；取出；拔出",
+      "example": "The machine extracts oil from seeds.",
+      "translation": "这台机器从种子中提取油。"
+    },
+    "original": "extracts",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "novelist",
+    "originals": [
+      "novelist"
+    ],
+    "back": {
+      "core": "以创作小说为职业或主要写作方向的人。注意 novel 是小说，不是新闻。",
+      "senses": [
+        {
+          "term": "novelist",
+          "pos": "n.",
+          "meaning": "小说家",
+          "example": "The novelist spent years researching the period.",
+          "translation": "这位小说家花了多年研究那个时期。",
+          "exampleHighlights": [
+            "novelist"
+          ]
+        }
+      ],
+      "meaning": "小说家",
+      "example": "The novelist spent years researching the period.",
+      "translation": "这位小说家花了多年研究那个时期。"
+    },
+    "original": "novelist",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "break A into B",
+    "originals": [
+      "break ... into .."
+    ],
+    "back": {
+      "core": "把一个整体拆成较小的部分。注意 break into a house 又可以表示闯入房屋。",
+      "senses": [
+        {
+          "term": "break A into B",
+          "pos": "phr.",
+          "meaning": "把 A 分成 B；拆解成若干部分",
+          "example": "Break the task into smaller steps.",
+          "translation": "把任务分成更小的步骤。",
+          "exampleHighlights": [
+            "Break",
+            "into"
+          ]
+        }
+      ],
+      "meaning": "把 A 分成 B；拆解成若干部分",
+      "example": "Break the task into smaller steps.",
+      "translation": "把任务分成更小的步骤。"
+    },
+    "original": "break ... into ..",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "tangle",
+    "originals": [
+      "tangle"
+    ],
+    "back": {
+      "core": "像线缠成一团：实体可以纠缠，事情或思路也可以复杂得理不清。",
+      "senses": [
+        {
+          "term": "tangle",
+          "pos": "n.",
+          "meaning": "纠结的一团；复杂混乱的局面",
+          "example": "The wires lay in a tangle.",
+          "translation": "这些电线乱缠成了一团。",
+          "exampleHighlights": [
+            "tangle"
+          ]
+        },
+        {
+          "term": "tangle",
+          "pos": "v.",
+          "meaning": "使缠结；纠缠",
+          "example": "The wind tangled her hair.",
+          "translation": "风把她的头发吹乱缠在一起。",
+          "exampleHighlights": [
+            "tangled"
+          ]
+        }
+      ],
+      "meaning": "纠结的一团；复杂混乱的局面",
+      "example": "The wires lay in a tangle.",
+      "translation": "这些电线乱缠成了一团。"
+    },
+    "original": "tangle",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "appeal",
+    "originals": [
+      "appeal"
+    ],
+    "back": {
+      "core": "让别人产生回应：吸引人、恳求帮助或请求重新裁决，都在不同意义上呼唤回应。",
+      "senses": [
+        {
+          "term": "appeal",
+          "pos": "n./v.",
+          "meaning": "吸引力；有吸引力（appeal to）",
+          "example": "The idea appeals to younger readers.",
+          "translation": "这个想法吸引年轻读者。",
+          "exampleHighlights": [
+            "appeals to"
+          ]
+        },
+        {
+          "term": "appeal",
+          "pos": "n./v.",
+          "meaning": "呼吁；恳求",
+          "example": "They appealed for more volunteers.",
+          "translation": "他们呼吁更多志愿者加入。",
+          "exampleHighlights": [
+            "appealed"
+          ]
+        },
+        {
+          "term": "appeal",
+          "pos": "n./v.",
+          "meaning": "上诉；申诉",
+          "example": "She decided to appeal against the decision.",
+          "translation": "她决定对这一裁决提出上诉。",
+          "exampleHighlights": [
+            "appeal"
+          ]
+        }
+      ],
+      "meaning": "吸引力；有吸引力（appeal to）",
+      "example": "The idea appeals to younger readers.",
+      "translation": "这个想法吸引年轻读者。"
+    },
+    "original": "appeal",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "prioritize",
+    "originals": [
+      "prioritize"
+    ],
+    "back": {
+      "core": "先决定什么更重要，再把它排在前面处理。",
+      "senses": [
+        {
+          "term": "prioritize",
+          "pos": "v.",
+          "meaning": "确定优先顺序；优先处理",
+          "example": "We need to prioritize the most urgent tasks.",
+          "translation": "我们需要优先处理最紧急的任务。",
+          "exampleHighlights": [
+            "prioritize"
+          ]
+        }
+      ],
+      "meaning": "确定优先顺序；优先处理",
+      "example": "We need to prioritize the most urgent tasks.",
+      "translation": "我们需要优先处理最紧急的任务。"
+    },
+    "original": "prioritize",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "executive",
+    "originals": [
+      "executive"
+    ],
+    "back": {
+      "core": "与执行决策和管理有关：人是管理人员，形容词则指管理或行政执行方面。",
+      "senses": [
+        {
+          "term": "executive",
+          "pos": "n.",
+          "meaning": "高管；管理人员",
+          "example": "A senior executive approved the plan.",
+          "translation": "一位高管批准了计划。",
+          "exampleHighlights": [
+            "executive"
+          ]
+        },
+        {
+          "term": "executive",
+          "pos": "adj.",
+          "meaning": "执行的；管理的；行政的",
+          "example": "Executive functions help us plan and control actions.",
+          "translation": "执行功能帮助我们规划和控制行动。",
+          "exampleHighlights": [
+            "Executive"
+          ]
+        }
+      ],
+      "meaning": "高管；管理人员",
+      "example": "A senior executive approved the plan.",
+      "translation": "一位高管批准了计划。"
+    },
+    "original": "executive",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "in line with",
+    "originals": [
+      "in line with"
+    ],
+    "back": {
+      "core": "像站在同一条线上：与规则、预期或方向保持一致。",
+      "senses": [
+        {
+          "term": "in line with",
+          "pos": "phr.",
+          "meaning": "符合；与……一致",
+          "example": "The changes are in line with our goals.",
+          "translation": "这些变化与我们的目标一致。",
+          "exampleHighlights": [
+            "in line with"
+          ]
+        }
+      ],
+      "meaning": "符合；与……一致",
+      "example": "The changes are in line with our goals.",
+      "translation": "这些变化与我们的目标一致。"
+    },
+    "original": "in line with",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "distinguish",
+    "originals": [
+      "distinguish"
+    ],
+    "back": {
+      "core": "看出事物之间的界限：既可区分两者，也可认出某物；使某人突出则是让他与众不同。",
+      "senses": [
+        {
+          "term": "distinguish",
+          "pos": "v.",
+          "meaning": "区分；辨别（distinguish A from B）",
+          "example": "It is hard to distinguish fact from opinion.",
+          "translation": "事实与观点很难区分。",
+          "exampleHighlights": [
+            "distinguish"
+          ]
+        },
+        {
+          "term": "distinguish",
+          "pos": "v.",
+          "meaning": "使有别于；使突出",
+          "example": "Her patience distinguishes her from other teachers.",
+          "translation": "她的耐心使她有别于其他老师。",
+          "exampleHighlights": [
+            "distinguishes"
+          ]
+        }
+      ],
+      "meaning": "区分；辨别（distinguish A from B）",
+      "example": "It is hard to distinguish fact from opinion.",
+      "translation": "事实与观点很难区分。"
+    },
+    "original": "distinguish",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "engaged",
+    "originals": [
+      "engaged"
+    ],
+    "back": {
+      "core": "处于某种投入或约定之中：忙于活动、全神贯注，以及订婚，都是常见分支。",
+      "senses": [
+        {
+          "term": "engaged",
+          "pos": "adj.",
+          "meaning": "忙于；投入的（engaged in）",
+          "example": "The students were actively engaged in discussion.",
+          "translation": "学生们积极参与讨论。",
+          "exampleHighlights": [
+            "engaged in"
+          ]
+        },
+        {
+          "term": "engaged",
+          "pos": "adj.",
+          "meaning": "已订婚的（engaged to）",
+          "example": "She is engaged to her childhood friend.",
+          "translation": "她和儿时的朋友订婚了。",
+          "exampleHighlights": [
+            "engaged to"
+          ]
+        }
+      ],
+      "meaning": "忙于；投入的（engaged in）",
+      "example": "The students were actively engaged in discussion.",
+      "translation": "学生们积极参与讨论。"
+    },
+    "original": "engaged",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "tedious",
+    "originals": [
+      "tedious"
+    ],
+    "back": {
+      "core": "事情冗长、重复，因而让人觉得乏味而疲惫。",
+      "senses": [
+        {
+          "term": "tedious",
+          "pos": "adj.",
+          "meaning": "冗长乏味的；令人厌烦的",
+          "example": "Checking every entry was tedious work.",
+          "translation": "逐条核查是一项乏味的工作。",
+          "exampleHighlights": [
+            "tedious"
+          ]
+        }
+      ],
+      "meaning": "冗长乏味的；令人厌烦的",
+      "example": "Checking every entry was tedious work.",
+      "translation": "逐条核查是一项乏味的工作。"
+    },
+    "original": "tedious",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "apparently",
+    "originals": [
+      "apparently"
+    ],
+    "back": {
+      "core": "按眼前迹象或听到的信息来看，但说话人未必亲自确认。",
+      "senses": [
+        {
+          "term": "apparently",
+          "pos": "adv.",
+          "meaning": "看来；似乎；据说",
+          "example": "Apparently, the train has been cancelled.",
+          "translation": "看来这班火车取消了。",
+          "exampleHighlights": [
+            "Apparently"
+          ]
+        }
+      ],
+      "meaning": "看来；似乎；据说",
+      "example": "Apparently, the train has been cancelled.",
+      "translation": "看来这班火车取消了。"
+    },
+    "original": "apparently",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "naturally",
+    "originals": [
+      "naturally"
+    ],
+    "back": {
+      "core": "顺着自然状态或常理发生：可以是天然地，也可以是理所当然地。",
+      "senses": [
+        {
+          "term": "naturally",
+          "pos": "adv.",
+          "meaning": "自然地；天然地",
+          "example": "The plant grows naturally in this region.",
+          "translation": "这种植物自然生长在这个地区。",
+          "exampleHighlights": [
+            "naturally"
+          ]
+        },
+        {
+          "term": "naturally",
+          "pos": "adv.",
+          "meaning": "当然；不出所料地",
+          "example": "Naturally, she was worried about the delay.",
+          "translation": "她自然会担心这次延误。",
+          "exampleHighlights": [
+            "Naturally"
+          ]
+        }
+      ],
+      "meaning": "自然地；天然地",
+      "example": "The plant grows naturally in this region.",
+      "translation": "这种植物自然生长在这个地区。"
+    },
+    "original": "naturally",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "fluctuate",
+    "originals": [
+      "fluctuates"
+    ],
+    "back": {
+      "core": "不是只增或只减，而是在一段范围内上下变化。",
+      "senses": [
+        {
+          "term": "fluctuate",
+          "pos": "v.",
+          "meaning": "波动；起伏",
+          "example": "My concentration fluctuates throughout the day.",
+          "translation": "我的专注力在一天中不断起伏。",
+          "exampleHighlights": [
+            "fluctuates"
+          ]
+        }
+      ],
+      "meaning": "波动；起伏",
+      "example": "My concentration fluctuates throughout the day.",
+      "translation": "我的专注力在一天中不断起伏。"
+    },
+    "original": "fluctuates",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "burst",
+    "originals": [
+      "bursts"
+    ],
+    "back": {
+      "core": "突然冲破界限、释放出来：实体可以爆裂，声音、情绪或活动可以短促地爆发。",
+      "senses": [
+        {
+          "term": "burst",
+          "pos": "v.",
+          "meaning": "爆裂；突然爆发（过去式仍为 burst）",
+          "example": "The balloon burst with a loud bang.",
+          "translation": "气球砰的一声爆了。",
+          "exampleHighlights": [
+            "burst"
+          ]
+        },
+        {
+          "term": "burst",
+          "pos": "n.",
+          "meaning": "短暂的一阵；突然迸发",
+          "example": "She worked in short bursts of energy.",
+          "translation": "她靠一阵阵短暂的精力集中工作。",
+          "exampleHighlights": [
+            "bursts"
+          ]
+        }
+      ],
+      "meaning": "爆裂；突然爆发（过去式仍为 burst）",
+      "example": "The balloon burst with a loud bang.",
+      "translation": "气球砰的一声爆了。"
+    },
+    "original": "bursts",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "lapse",
+    "originals": [
+      "lapses"
+    ],
+    "back": {
+      "core": "原本持续的东西中断或滑落：注意力一时断开是走神，权利到期则是失效。",
+      "senses": [
+        {
+          "term": "lapse",
+          "pos": "n.",
+          "meaning": "疏忽；短暂失误；间隔",
+          "example": "Small lapses in attention can cause mistakes.",
+          "translation": "短暂的注意力疏忽可能造成错误。",
+          "exampleHighlights": [
+            "lapses"
+          ]
+        },
+        {
+          "term": "lapse",
+          "pos": "v.",
+          "meaning": "失效；终止；陷入某种状态",
+          "example": "Her membership lapsed last month.",
+          "translation": "她的会员资格上个月到期了。",
+          "exampleHighlights": [
+            "lapsed"
+          ]
+        }
+      ],
+      "meaning": "疏忽；短暂失误；间隔",
+      "example": "Small lapses in attention can cause mistakes.",
+      "translation": "短暂的注意力疏忽可能造成错误。"
+    },
+    "original": "lapses",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "basis",
+    "originals": [
+      "basis"
+    ],
+    "back": {
+      "core": "支撑判断或行动的基础；on a ... basis 则表示按某种方式或频率。",
+      "senses": [
+        {
+          "term": "basis",
+          "pos": "n.",
+          "meaning": "基础；根据",
+          "example": "There is no basis for that claim.",
+          "translation": "那个说法没有根据。",
+          "exampleHighlights": [
+            "basis"
+          ]
+        },
+        {
+          "term": "basis",
+          "pos": "phr.",
+          "meaning": "on a regular/daily basis：定期／每天",
+          "example": "The data is checked on a daily basis.",
+          "translation": "这些数据每天核查一次。",
+          "exampleHighlights": [
+            "basis"
+          ]
+        }
+      ],
+      "meaning": "基础；根据",
+      "example": "There is no basis for that claim.",
+      "translation": "那个说法没有根据。"
+    },
+    "original": "basis",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "juggle",
+    "originals": [
+      "juggle"
+    ],
+    "back": {
+      "core": "像杂耍一样让几个球轮流在手中、空中移动；引申为同时兼顾多项任务。",
+      "senses": [
+        {
+          "term": "juggle",
+          "pos": "v.",
+          "meaning": "抛接杂耍；兼顾；腾挪安排",
+          "example": "She juggles work and family responsibilities.",
+          "translation": "她同时兼顾工作和家庭责任。",
+          "exampleHighlights": [
+            "juggles"
+          ]
+        }
+      ],
+      "meaning": "抛接杂耍；兼顾；腾挪安排",
+      "example": "She juggles work and family responsibilities.",
+      "translation": "她同时兼顾工作和家庭责任。"
+    },
+    "original": "juggle",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "irrelevant",
+    "originals": [
+      "irrelevant"
+    ],
+    "back": {
+      "core": "与当前问题没有关联；不等于这件事在任何地方都没价值。常接 to。",
+      "senses": [
+        {
+          "term": "irrelevant",
+          "pos": "adj.",
+          "meaning": "不相关的；不切题的",
+          "example": "That detail is irrelevant to the question.",
+          "translation": "那个细节与这个问题无关。",
+          "exampleHighlights": [
+            "irrelevant"
+          ]
+        }
+      ],
+      "meaning": "不相关的；不切题的",
+      "example": "That detail is irrelevant to the question.",
+      "translation": "那个细节与这个问题无关。"
+    },
+    "original": "irrelevant",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "correlation",
+    "originals": [
+      "correlations"
+    ],
+    "back": {
+      "core": "两件事的变化存在统计或规律上的关联，但关联本身不证明谁导致谁。",
+      "senses": [
+        {
+          "term": "correlation",
+          "pos": "n.",
+          "meaning": "相关性；相互关联",
+          "example": "The study found a correlation between sleep and attention.",
+          "translation": "研究发现睡眠与注意力之间存在相关性。",
+          "exampleHighlights": [
+            "correlation"
+          ]
+        }
+      ],
+      "meaning": "相关性；相互关联",
+      "example": "The study found a correlation between sleep and attention.",
+      "translation": "研究发现睡眠与注意力之间存在相关性。"
+    },
+    "original": "correlations",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "tendency",
+    "originals": [
+      "tendencies"
+    ],
+    "back": {
+      "core": "经常朝某个方向发展，或经常作出某种行为。",
+      "senses": [
+        {
+          "term": "tendency",
+          "pos": "n.",
+          "meaning": "倾向；趋势（tendency to do）",
+          "example": "He has a tendency to interrupt people.",
+          "translation": "他常常打断别人说话。",
+          "exampleHighlights": [
+            "tendency"
+          ]
+        }
+      ],
+      "meaning": "倾向；趋势（tendency to do）",
+      "example": "He has a tendency to interrupt people.",
+      "translation": "他常常打断别人说话。"
+    },
+    "original": "tendencies",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "observation",
+    "originals": [
+      "observations"
+    ],
+    "back": {
+      "core": "认真看并留意：可指观察过程、观察结果，也可指由此说出的看法。",
+      "senses": [
+        {
+          "term": "observation",
+          "pos": "n.",
+          "meaning": "观察；观察记录",
+          "example": "The theory was based on repeated observations.",
+          "translation": "这一理论以反复观察为基础。",
+          "exampleHighlights": [
+            "observations"
+          ]
+        },
+        {
+          "term": "observation",
+          "pos": "n.",
+          "meaning": "评论；看法",
+          "example": "She made an interesting observation about the problem.",
+          "translation": "她对这个问题发表了一个有趣的看法。",
+          "exampleHighlights": [
+            "observation"
+          ]
+        }
+      ],
+      "meaning": "观察；观察记录",
+      "example": "The theory was based on repeated observations.",
+      "translation": "这一理论以反复观察为基础。"
+    },
+    "original": "observations",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "causally",
+    "originals": [
+      "causally"
+    ],
+    "back": {
+      "core": "强调原因导致结果，不只是同时出现。不要和 casually“随意地”混淆。",
+      "senses": [
+        {
+          "term": "causally",
+          "pos": "adv.",
+          "meaning": "在因果关系上；有因果地",
+          "example": "The two events may be causally linked.",
+          "translation": "这两件事可能存在因果联系。",
+          "exampleHighlights": [
+            "causally"
+          ]
+        }
+      ],
+      "meaning": "在因果关系上；有因果地",
+      "example": "The two events may be causally linked.",
+      "translation": "这两件事可能存在因果联系。"
+    },
+    "original": "causally",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "deficit",
+    "originals": [
+      "deficit"
+    ],
+    "back": {
+      "core": "比需要或应有的数量少了一块：财务上是赤字，能力或资源上是不足。",
+      "senses": [
+        {
+          "term": "deficit",
+          "pos": "n.",
+          "meaning": "不足；缺乏；赤字",
+          "example": "The country faces a large budget deficit.",
+          "translation": "这个国家面临巨额预算赤字。",
+          "exampleHighlights": [
+            "deficit"
+          ]
+        }
+      ],
+      "meaning": "不足；缺乏；赤字",
+      "example": "The country faces a large budget deficit.",
+      "translation": "这个国家面临巨额预算赤字。"
+    },
+    "original": "deficit",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "attribute",
+    "originals": [
+      "attribute"
+    ],
+    "back": {
+      "core": "两个词性分开看：名词是事物的特点；动词把结果归到某个来源，常用 attribute A to B。",
+      "senses": [
+        {
+          "term": "attribute",
+          "pos": "v.",
+          "meaning": "把……归因于；认为……出自",
+          "example": "They attribute the improvement to better training.",
+          "translation": "他们把进步归因于更好的训练。",
+          "exampleHighlights": [
+            "attribute"
+          ]
+        },
+        {
+          "term": "attribute",
+          "pos": "n.",
+          "meaning": "属性；特征；品质",
+          "example": "Patience is an important attribute for a teacher.",
+          "translation": "耐心是教师的一项重要品质。",
+          "exampleHighlights": [
+            "attribute"
+          ]
+        }
+      ],
+      "meaning": "把……归因于；认为……出自",
+      "example": "They attribute the improvement to better training.",
+      "translation": "他们把进步归因于更好的训练。"
+    },
+    "original": "attribute",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "access to something",
+    "originals": [
+      "access to something"
+    ],
+    "back": {
+      "core": "能够接近、进入或使用某物：有入口，也可能是有机会获得服务或信息。",
+      "senses": [
+        {
+          "term": "access to something",
+          "pos": "phr.",
+          "meaning": "使用／获得某物的机会或权利",
+          "example": "All students have access to the library.",
+          "translation": "所有学生都可以使用图书馆。",
+          "exampleHighlights": [
+            "access to"
+          ]
+        }
+      ],
+      "meaning": "使用／获得某物的机会或权利",
+      "example": "All students have access to the library.",
+      "translation": "所有学生都可以使用图书馆。"
+    },
+    "original": "access to something",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "reversible",
+    "originals": [
+      "reversible"
+    ],
+    "back": {
+      "core": "变化可以朝反方向退回，恢复原状；也可指物品两面都能用。",
+      "senses": [
+        {
+          "term": "reversible",
+          "pos": "adj.",
+          "meaning": "可逆的；可恢复原状的；可两面使用的",
+          "example": "The change is reversible if problems arise.",
+          "translation": "如果出现问题，这项改变可以撤销。",
+          "exampleHighlights": [
+            "reversible"
+          ]
+        }
+      ],
+      "meaning": "可逆的；可恢复原状的；可两面使用的",
+      "example": "The change is reversible if problems arise.",
+      "translation": "如果出现问题，这项改变可以撤销。"
+    },
+    "original": "reversible",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "steadily",
+    "originals": [
+      "steadily"
+    ],
+    "back": {
+      "core": "过程保持稳定、连续，不忽快忽慢或大起大落。",
+      "senses": [
+        {
+          "term": "steadily",
+          "pos": "adv.",
+          "meaning": "稳步地；稳定地；持续地",
+          "example": "Sales have risen steadily this year.",
+          "translation": "今年销量稳步增长。",
+          "exampleHighlights": [
+            "steadily"
+          ]
+        }
+      ],
+      "meaning": "稳步地；稳定地；持续地",
+      "example": "Sales have risen steadily this year.",
+      "translation": "今年销量稳步增长。"
+    },
+    "original": "steadily",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "trivial",
+    "originals": [
+      "trivial"
+    ],
+    "back": {
+      "core": "分量很小、不值得太在意；有时强调对方为小事大费周章。",
+      "senses": [
+        {
+          "term": "trivial",
+          "pos": "adj.",
+          "meaning": "琐碎的；微不足道的",
+          "example": "We wasted time arguing over trivial details.",
+          "translation": "我们在争论琐碎细节上浪费了时间。",
+          "exampleHighlights": [
+            "trivial"
+          ]
+        }
+      ],
+      "meaning": "琐碎的；微不足道的",
+      "example": "We wasted time arguing over trivial details.",
+      "translation": "我们在争论琐碎细节上浪费了时间。"
+    },
+    "original": "trivial",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "annoy",
+    "originals": [
+      "annoy"
+    ],
+    "back": {
+      "core": "让人感到烦躁或不快，通常比使人愤怒更轻。",
+      "senses": [
+        {
+          "term": "annoy",
+          "pos": "v.",
+          "meaning": "使烦恼；使恼火",
+          "example": "The constant noise annoyed her.",
+          "translation": "持续的噪声让她很烦。",
+          "exampleHighlights": [
+            "annoyed"
+          ]
+        }
+      ],
+      "meaning": "使烦恼；使恼火",
+      "example": "The constant noise annoyed her.",
+      "translation": "持续的噪声让她很烦。"
+    },
+    "original": "annoy",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "dedicated",
+    "originals": [
+      "dedicated"
+    ],
+    "back": {
+      "core": "把时间、精力或用途专门交给某件事：人可以很投入，设备也可以是专用的。",
+      "senses": [
+        {
+          "term": "dedicated",
+          "pos": "adj.",
+          "meaning": "投入的；尽心尽力的",
+          "example": "She is a dedicated teacher.",
+          "translation": "她是一位尽职尽责的老师。",
+          "exampleHighlights": [
+            "dedicated"
+          ]
+        },
+        {
+          "term": "dedicated",
+          "pos": "adj.",
+          "meaning": "专用的；专门用于某事的",
+          "example": "The office has a dedicated meeting room.",
+          "translation": "办公室有一间专用会议室。",
+          "exampleHighlights": [
+            "dedicated"
+          ]
+        }
+      ],
+      "meaning": "投入的；尽心尽力的",
+      "example": "She is a dedicated teacher.",
+      "translation": "她是一位尽职尽责的老师。"
+    },
+    "original": "dedicated",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "retain",
+    "originals": [
+      "retain"
+    ],
+    "back": {
+      "core": "把已经有的东西继续留住：留住人、信息、性质或控制权。",
+      "senses": [
+        {
+          "term": "retain",
+          "pos": "v.",
+          "meaning": "保留；保持；记住",
+          "example": "Short breaks can help us retain information.",
+          "translation": "短暂休息能帮助我们记住信息。",
+          "exampleHighlights": [
+            "retain"
+          ]
+        }
+      ],
+      "meaning": "保留；保持；记住",
+      "example": "Short breaks can help us retain information.",
+      "translation": "短暂休息能帮助我们记住信息。"
+    },
+    "original": "retain",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "maligned",
+    "originals": [
+      "maligned"
+    ],
+    "back": {
+      "core": "受到恶意或不公正的批评；原动词 malign 是诋毁。",
+      "senses": [
+        {
+          "term": "maligned",
+          "pos": "adj./分词",
+          "meaning": "受诋毁的；被恶评的",
+          "example": "The much-maligned plan proved useful.",
+          "translation": "这个饱受诟病的计划后来证明很有用。",
+          "exampleHighlights": [
+            "maligned"
+          ]
+        }
+      ],
+      "meaning": "受诋毁的；被恶评的",
+      "example": "The much-maligned plan proved useful.",
+      "translation": "这个饱受诟病的计划后来证明很有用。"
+    },
+    "original": "maligned",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "spike",
+    "originals": [
+      "spikes"
+    ],
+    "back": {
+      "core": "像突然凸起的尖刺：具体是尖钉，图表里是短时间的陡升。",
+      "senses": [
+        {
+          "term": "spike",
+          "pos": "n.",
+          "meaning": "尖刺；尖钉；突然上升",
+          "example": "There was a spike in online activity.",
+          "translation": "网络活动量突然激增。",
+          "exampleHighlights": [
+            "spike"
+          ]
+        },
+        {
+          "term": "spike",
+          "pos": "v.",
+          "meaning": "突然激增；给饮料偷偷掺东西",
+          "example": "Demand spiked after the announcement.",
+          "translation": "公告发布后需求突然激增。",
+          "exampleHighlights": [
+            "spiked"
+          ]
+        }
+      ],
+      "meaning": "尖刺；尖钉；突然上升",
+      "example": "There was a spike in online activity.",
+      "translation": "网络活动量突然激增。"
+    },
+    "original": "spikes",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "fairly",
+    "originals": [
+      "fairly"
+    ],
+    "back": {
+      "core": "分两支：表示程度时是“相当、还算”，表示方式时是“公平地”。",
+      "senses": [
+        {
+          "term": "fairly",
+          "pos": "adv.",
+          "meaning": "相当；还算；颇为",
+          "example": "The task was fairly easy.",
+          "translation": "这项任务还算容易。",
+          "exampleHighlights": [
+            "fairly"
+          ]
+        },
+        {
+          "term": "fairly",
+          "pos": "adv.",
+          "meaning": "公平地；公正地",
+          "example": "Everyone should be treated fairly.",
+          "translation": "每个人都应该受到公平对待。",
+          "exampleHighlights": [
+            "fairly"
+          ]
+        }
+      ],
+      "meaning": "相当；还算；颇为",
+      "example": "The task was fairly easy.",
+      "translation": "这项任务还算容易。"
+    },
+    "original": "fairly",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "accomplish",
+    "originals": [
+      "accomplish"
+    ],
+    "back": {
+      "core": "把计划中的事真正做成，强调达成结果而不是只尝试。",
+      "senses": [
+        {
+          "term": "accomplish",
+          "pos": "v.",
+          "meaning": "完成；实现",
+          "example": "We accomplished more than we expected.",
+          "translation": "我们完成的比预期更多。",
+          "exampleHighlights": [
+            "accomplished"
+          ]
+        }
+      ],
+      "meaning": "完成；实现",
+      "example": "We accomplished more than we expected.",
+      "translation": "我们完成的比预期更多。"
+    },
+    "original": "accomplish",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "sequentially",
+    "originals": [
+      "sequentially"
+    ],
+    "back": {
+      "core": "按照先后顺序，一个接着一个，而不是同时做。",
+      "senses": [
+        {
+          "term": "sequentially",
+          "pos": "adv.",
+          "meaning": "按顺序地；依次地",
+          "example": "The tasks must be completed sequentially.",
+          "translation": "这些任务必须依次完成。",
+          "exampleHighlights": [
+            "sequentially"
+          ]
+        }
+      ],
+      "meaning": "按顺序地；依次地",
+      "example": "The tasks must be completed sequentially.",
+      "translation": "这些任务必须依次完成。"
+    },
+    "original": "sequentially",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "divert",
+    "originals": [
+      "diverts"
+    ],
+    "back": {
+      "core": "让原来沿某条路线走的东西转向：交通改道，资金转用，注意力被转移。",
+      "senses": [
+        {
+          "term": "divert",
+          "pos": "v.",
+          "meaning": "转移；使改道",
+          "example": "A notification diverts attention from the task.",
+          "translation": "一条通知会把注意力从任务上转移开。",
+          "exampleHighlights": [
+            "diverts"
+          ]
+        }
+      ],
+      "meaning": "转移；使改道",
+      "example": "A notification diverts attention from the task.",
+      "translation": "一条通知会把注意力从任务上转移开。"
+    },
+    "original": "diverts",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "utilize",
+    "originals": [
+      "utilizing"
+    ],
+    "back": {
+      "core": "把可用的资源派上用场，常见于正式表达，通常可理解为 use。",
+      "senses": [
+        {
+          "term": "utilize",
+          "pos": "v.",
+          "meaning": "利用；使用",
+          "example": "The system utilizes existing equipment.",
+          "translation": "这个系统利用现有设备。",
+          "exampleHighlights": [
+            "utilizes"
+          ]
+        }
+      ],
+      "meaning": "利用；使用",
+      "example": "The system utilizes existing equipment.",
+      "translation": "这个系统利用现有设备。"
+    },
+    "original": "utilizing",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "deliberation",
+    "originals": [
+      "deliberation"
+    ],
+    "back": {
+      "core": "慢下来认真想过再决定；另一用法强调动作有意而不急。",
+      "senses": [
+        {
+          "term": "deliberation",
+          "pos": "n.",
+          "meaning": "仔细考虑；商议",
+          "example": "After much deliberation, they chose the safer option.",
+          "translation": "经过深思熟虑，他们选择了更稳妥的方案。",
+          "exampleHighlights": [
+            "deliberation"
+          ]
+        },
+        {
+          "term": "deliberation",
+          "pos": "n.",
+          "meaning": "从容；审慎；有意的缓慢",
+          "example": "She spoke with quiet deliberation.",
+          "translation": "她从容审慎地说着话。",
+          "exampleHighlights": [
+            "deliberation"
+          ]
+        }
+      ],
+      "meaning": "仔细考虑；商议",
+      "example": "After much deliberation, they chose the safer option.",
+      "translation": "经过深思熟虑，他们选择了更稳妥的方案。"
+    },
+    "original": "deliberation",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "malaise",
+    "originals": [
+      "malaise"
+    ],
+    "back": {
+      "core": "一种说不清具体来源的不舒服或低落状态；既可形容个人，也可形容社会、经济的不振。",
+      "senses": [
+        {
+          "term": "malaise",
+          "pos": "n.",
+          "meaning": "不适感；低落；萎靡不振",
+          "example": "The report describes a growing social malaise.",
+          "translation": "报告描述了一种日益加重的社会低迷状态。",
+          "exampleHighlights": [
+            "malaise"
+          ]
+        }
+      ],
+      "meaning": "不适感；低落；萎靡不振",
+      "example": "The report describes a growing social malaise.",
+      "translation": "报告描述了一种日益加重的社会低迷状态。"
+    },
+    "original": "malaise",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "superficial",
+    "originals": [
+      "superficial"
+    ],
+    "back": {
+      "core": "只停在表面、没有深入：伤口可指表浅，思考则指肤浅。",
+      "senses": [
+        {
+          "term": "superficial",
+          "pos": "adj.",
+          "meaning": "表面的；肤浅的；不深入的",
+          "example": "The report offers only a superficial analysis.",
+          "translation": "报告只提供了表面的分析。",
+          "exampleHighlights": [
+            "superficial"
+          ]
+        }
+      ],
+      "meaning": "表面的；肤浅的；不深入的",
+      "example": "The report offers only a superficial analysis.",
+      "translation": "报告只提供了表面的分析。"
+    },
+    "original": "superficial",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "progress",
+    "originals": [
+      "progress"
+    ],
+    "back": {
+      "core": "朝目标向前走：名词是取得的进展，动词是逐步发展或推进。",
+      "senses": [
+        {
+          "term": "progress",
+          "pos": "n.",
+          "meaning": "进展；进步（通常不可数）",
+          "example": "We are making steady progress.",
+          "translation": "我们正在稳步取得进展。",
+          "exampleHighlights": [
+            "progress"
+          ]
+        },
+        {
+          "term": "progress",
+          "pos": "v.",
+          "meaning": "进展；发展；推进",
+          "example": "The work progressed more slowly than expected.",
+          "translation": "工作进展比预期慢。",
+          "exampleHighlights": [
+            "progressed"
+          ]
+        }
+      ],
+      "meaning": "进展；进步（通常不可数）",
+      "example": "We are making steady progress.",
+      "translation": "我们正在稳步取得进展。"
+    },
+    "original": "progress",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "generation",
+    "originals": [
+      "generation"
+    ],
+    "back": {
+      "core": "产生出来的一批或产生过程：可指一代人、一代产品，也可指能源等的产生。",
+      "senses": [
+        {
+          "term": "generation",
+          "pos": "n.",
+          "meaning": "一代人；一代产品",
+          "example": "Each generation faces different challenges.",
+          "translation": "每一代人都面临不同的挑战。",
+          "exampleHighlights": [
+            "generation"
+          ]
+        },
+        {
+          "term": "generation",
+          "pos": "n.",
+          "meaning": "产生；生产（如发电）",
+          "example": "The project focuses on electricity generation.",
+          "translation": "这个项目重点研究发电。",
+          "exampleHighlights": [
+            "generation"
+          ]
+        }
+      ],
+      "meaning": "一代人；一代产品",
+      "example": "Each generation faces different challenges.",
+      "translation": "每一代人都面临不同的挑战。"
+    },
+    "original": "generation",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "panic",
+    "originals": [
+      "panic"
+    ],
+    "back": {
+      "core": "恐惧突然强到使人难以冷静思考；既可以作名词，也可以作动词。",
+      "senses": [
+        {
+          "term": "panic",
+          "pos": "n./v.",
+          "meaning": "恐慌；惊慌失措",
+          "example": "Do not panic if you make a mistake.",
+          "translation": "犯错时不要惊慌。",
+          "exampleHighlights": [
+            "panic"
+          ]
+        }
+      ],
+      "meaning": "恐慌；惊慌失措",
+      "example": "Do not panic if you make a mistake.",
+      "translation": "犯错时不要惊慌。"
+    },
+    "original": "panic",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "pull",
+    "originals": [
+      "pulls"
+    ],
+    "back": {
+      "core": "朝自己或某方向施力：实际是拉，引申为吸引力、影响力或拉走注意力。",
+      "senses": [
+        {
+          "term": "pull",
+          "pos": "v.",
+          "meaning": "拉；拖；吸引",
+          "example": "The noise pulled my attention away from the book.",
+          "translation": "噪声把我的注意力从书上拉走了。",
+          "exampleHighlights": [
+            "pulled"
+          ]
+        },
+        {
+          "term": "pull",
+          "pos": "n.",
+          "meaning": "拉力；吸引力；影响力",
+          "example": "She felt the pull of home.",
+          "translation": "她感受到了家的吸引力。",
+          "exampleHighlights": [
+            "pull"
+          ]
+        }
+      ],
+      "meaning": "拉；拖；吸引",
+      "example": "The noise pulled my attention away from the book.",
+      "translation": "噪声把我的注意力从书上拉走了。"
+    },
+    "original": "pulls",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "impose",
+    "originals": [
+      "impose"
+    ],
+    "back": {
+      "core": "把某种要求或负担加到别人身上；常用 impose A on B。",
+      "senses": [
+        {
+          "term": "impose",
+          "pos": "v.",
+          "meaning": "强加；施加；实施（限制、税等）",
+          "example": "The school imposed limits on phone use.",
+          "translation": "学校对手机使用施加了限制。",
+          "exampleHighlights": [
+            "imposed"
+          ]
+        }
+      ],
+      "meaning": "强加；施加；实施（限制、税等）",
+      "example": "The school imposed limits on phone use.",
+      "translation": "学校对手机使用施加了限制。"
+    },
+    "original": "impose",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "alternative",
+    "originals": [
+      "alternatives"
+    ],
+    "back": {
+      "core": "在当前选项之外的另一种选择：可作名词，也可形容其他可选的方案。",
+      "senses": [
+        {
+          "term": "alternative",
+          "pos": "n.",
+          "meaning": "替代方案；其他选择",
+          "example": "We need to consider the alternatives.",
+          "translation": "我们需要考虑其他选择。",
+          "exampleHighlights": [
+            "alternatives"
+          ]
+        },
+        {
+          "term": "alternative",
+          "pos": "adj.",
+          "meaning": "替代的；其他可选的",
+          "example": "They found an alternative route.",
+          "translation": "他们找到了一条替代路线。",
+          "exampleHighlights": [
+            "alternative"
+          ]
+        }
+      ],
+      "meaning": "替代方案；其他选择",
+      "example": "We need to consider the alternatives.",
+      "translation": "我们需要考虑其他选择。"
+    },
+    "original": "alternatives",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "validation",
+    "originals": [
+      "validation"
+    ],
+    "back": {
+      "core": "让某事得到确认：可以验证它有效，也可以认可一个人的感受或价值。",
+      "senses": [
+        {
+          "term": "validation",
+          "pos": "n.",
+          "meaning": "验证；确认有效",
+          "example": "The results require independent validation.",
+          "translation": "这些结果需要独立验证。",
+          "exampleHighlights": [
+            "validation"
+          ]
+        },
+        {
+          "term": "validation",
+          "pos": "n.",
+          "meaning": "认可；肯定",
+          "example": "He constantly seeks validation from others.",
+          "translation": "他不断寻求他人的认可。",
+          "exampleHighlights": [
+            "validation"
+          ]
+        }
+      ],
+      "meaning": "验证；确认有效",
+      "example": "The results require independent validation.",
+      "translation": "这些结果需要独立验证。"
+    },
+    "original": "validation",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "drift",
+    "originals": [
+      "drift"
+    ],
+    "back": {
+      "core": "没有坚定控制地慢慢移动：东西漂走，思绪也可逐渐偏离。",
+      "senses": [
+        {
+          "term": "drift",
+          "pos": "v./n.",
+          "meaning": "漂流；缓慢移动；走神",
+          "example": "My mind began to drift during the lecture.",
+          "translation": "听讲时我开始走神了。",
+          "exampleHighlights": [
+            "drift"
+          ]
+        },
+        {
+          "term": "drift",
+          "pos": "n.",
+          "meaning": "大意；主要意思（get the drift）",
+          "example": "I did not hear every word, but I got the drift.",
+          "translation": "我没听清每个词，但听懂了大意。",
+          "exampleHighlights": [
+            "drift"
+          ]
+        }
+      ],
+      "meaning": "漂流；缓慢移动；走神",
+      "example": "My mind began to drift during the lecture.",
+      "translation": "听讲时我开始走神了。"
+    },
+    "original": "drift",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "absence",
+    "originals": [
+      "absence"
+    ],
+    "back": {
+      "core": "某人或某物不在该在的地方：人是缺席，事物是缺乏。",
+      "senses": [
+        {
+          "term": "absence",
+          "pos": "n.",
+          "meaning": "缺席；不在；缺乏",
+          "example": "The absence of evidence does not prove the claim.",
+          "translation": "缺乏证据并不能证明那个说法。",
+          "exampleHighlights": [
+            "absence"
+          ]
+        }
+      ],
+      "meaning": "缺席；不在；缺乏",
+      "example": "The absence of evidence does not prove the claim.",
+      "translation": "缺乏证据并不能证明那个说法。"
+    },
+    "original": "absence",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "solely",
+    "originals": [
+      "solely"
+    ],
+    "back": {
+      "core": "限定来源、原因或目的只有这一个，不包含其他。",
+      "senses": [
+        {
+          "term": "solely",
+          "pos": "adv.",
+          "meaning": "仅仅；完全；只",
+          "example": "The decision was based solely on cost.",
+          "translation": "这个决定完全基于成本。",
+          "exampleHighlights": [
+            "solely"
+          ]
+        }
+      ],
+      "meaning": "仅仅；完全；只",
+      "example": "The decision was based solely on cost.",
+      "translation": "这个决定完全基于成本。"
+    },
+    "original": "solely",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "decrease",
+    "originals": [
+      "decrease"
+    ],
+    "back": {
+      "core": "数量或程度往下走；可用作动词，也可用作名词。",
+      "senses": [
+        {
+          "term": "decrease",
+          "pos": "v./n.",
+          "meaning": "减少；降低；减小",
+          "example": "The number of errors decreased after training.",
+          "translation": "培训后错误数量减少了。",
+          "exampleHighlights": [
+            "decreased"
+          ]
+        }
+      ],
+      "meaning": "减少；降低；减小",
+      "example": "The number of errors decreased after training.",
+      "translation": "培训后错误数量减少了。"
+    },
+    "original": "decrease",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "fragmented",
+    "originals": [
+      "fragmented"
+    ],
+    "back": {
+      "core": "一个整体被分成不连贯的小片段：可以是时间、记忆、信息或组织。",
+      "senses": [
+        {
+          "term": "fragmented",
+          "pos": "adj.",
+          "meaning": "碎片化的；支离破碎的",
+          "example": "Her working day was fragmented by interruptions.",
+          "translation": "不断的打断让她的工作时间变得碎片化。",
+          "exampleHighlights": [
+            "fragmented"
+          ]
+        }
+      ],
+      "meaning": "碎片化的；支离破碎的",
+      "example": "Her working day was fragmented by interruptions.",
+      "translation": "不断的打断让她的工作时间变得碎片化。"
+    },
+    "original": "fragmented",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "messy",
+    "originals": [
+      "messy"
+    ],
+    "back": {
+      "core": "东西没有整理好；引申为事情复杂混乱、很难处理。",
+      "senses": [
+        {
+          "term": "messy",
+          "pos": "adj.",
+          "meaning": "凌乱的；混乱难处理的",
+          "example": "The situation became increasingly messy.",
+          "translation": "局面变得越来越混乱。",
+          "exampleHighlights": [
+            "messy"
+          ]
+        }
+      ],
+      "meaning": "凌乱的；混乱难处理的",
+      "example": "The situation became increasingly messy.",
+      "translation": "局面变得越来越混乱。"
+    },
+    "original": "messy",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "generate",
+    "originals": [
+      "generate"
+    ],
+    "back": {
+      "core": "使原本没有的东西出现：可产生电力、热量，也可产生想法、收入或问题。",
+      "senses": [
+        {
+          "term": "generate",
+          "pos": "v.",
+          "meaning": "产生；生成；引起",
+          "example": "The discussion generated several new ideas.",
+          "translation": "讨论产生了几个新想法。",
+          "exampleHighlights": [
+            "generated"
+          ]
+        }
+      ],
+      "meaning": "产生；生成；引起",
+      "example": "The discussion generated several new ideas.",
+      "translation": "讨论产生了几个新想法。"
+    },
+    "original": "generate",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "implication",
+    "originals": [
+      "implications"
+    ],
+    "back": {
+      "core": "没有直接说出却连带着的东西：话语中的含意，或某个决定带来的潜在影响。",
+      "senses": [
+        {
+          "term": "implication",
+          "pos": "n.",
+          "meaning": "可能的影响；后果（常用复数）",
+          "example": "We must consider the implications of the change.",
+          "translation": "我们必须考虑这项变化的潜在影响。",
+          "exampleHighlights": [
+            "implications"
+          ]
+        },
+        {
+          "term": "implication",
+          "pos": "n.",
+          "meaning": "暗示；言外之意",
+          "example": "I disliked the implication that I was careless.",
+          "translation": "我不喜欢那种暗示我粗心的言外之意。",
+          "exampleHighlights": [
+            "implication"
+          ]
+        }
+      ],
+      "meaning": "可能的影响；后果（常用复数）",
+      "example": "We must consider the implications of the change.",
+      "translation": "我们必须考虑这项变化的潜在影响。"
+    },
+    "original": "implications",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "volume",
+    "originals": [
+      "volume"
+    ],
+    "back": {
+      "core": "可从“有多少”入手：空间里的体积、总体数量、声音的大小；书的一卷另记。",
+      "senses": [
+        {
+          "term": "volume",
+          "pos": "n.",
+          "meaning": "量；体积；容量",
+          "example": "The volume of messages has increased.",
+          "translation": "消息数量增加了。",
+          "exampleHighlights": [
+            "volume"
+          ]
+        },
+        {
+          "term": "volume",
+          "pos": "n.",
+          "meaning": "音量",
+          "example": "Please turn down the volume.",
+          "translation": "请把音量调小。",
+          "exampleHighlights": [
+            "volume"
+          ]
+        },
+        {
+          "term": "volume",
+          "pos": "n.",
+          "meaning": "书的一卷；一册",
+          "example": "The history was published in three volumes.",
+          "translation": "这部历史著作分三卷出版。",
+          "exampleHighlights": [
+            "volumes"
+          ]
+        }
+      ],
+      "meaning": "量；体积；容量",
+      "example": "The volume of messages has increased.",
+      "translation": "消息数量增加了。"
+    },
+    "original": "volume",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "accurate",
+    "originals": [
+      "accurate"
+    ],
+    "back": {
+      "core": "与事实或正确数值吻合，偏差小。",
+      "senses": [
+        {
+          "term": "accurate",
+          "pos": "adj.",
+          "meaning": "准确的；精确的",
+          "example": "The report provides accurate figures.",
+          "translation": "报告提供了准确的数据。",
+          "exampleHighlights": [
+            "accurate"
+          ]
+        }
+      ],
+      "meaning": "准确的；精确的",
+      "example": "The report provides accurate figures.",
+      "translation": "报告提供了准确的数据。"
+    },
+    "original": "accurate",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "principle",
+    "originals": [
+      "principle"
+    ],
+    "back": {
+      "core": "用来支撑行为、判断或解释的基本规则。不要与 principal“主要的／校长”混淆。",
+      "senses": [
+        {
+          "term": "principle",
+          "pos": "n.",
+          "meaning": "原则；原理；基本准则",
+          "example": "Fairness is a central principle of the system.",
+          "translation": "公平是这个制度的核心原则。",
+          "exampleHighlights": [
+            "principle"
+          ]
+        }
+      ],
+      "meaning": "原则；原理；基本准则",
+      "example": "Fairness is a central principle of the system.",
+      "translation": "公平是这个制度的核心原则。"
+    },
+    "original": "principle",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "cohort",
+    "originals": [
+      "cohorts"
+    ],
+    "back": {
+      "core": "因共同特点或共同时间经历被看作一组的人；研究中常指一批受观察的参与者。",
+      "senses": [
+        {
+          "term": "cohort",
+          "pos": "n.",
+          "meaning": "群体；同批人员；队列",
+          "example": "The study followed a cohort of university students.",
+          "translation": "研究跟踪了一批大学生。",
+          "exampleHighlights": [
+            "cohort"
+          ]
+        }
+      ],
+      "meaning": "群体；同批人员；队列",
+      "example": "The study followed a cohort of university students.",
+      "translation": "研究跟踪了一批大学生。"
+    },
+    "original": "cohorts",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "signature",
+    "originals": [
+      "signature"
+    ],
+    "back": {
+      "core": "能代表“这是某个人的”的标记：纸上是签名，其他地方是可辨认的特征。",
+      "senses": [
+        {
+          "term": "signature",
+          "pos": "n.",
+          "meaning": "签名；签字",
+          "example": "The document needs your signature.",
+          "translation": "这份文件需要你的签名。",
+          "exampleHighlights": [
+            "signature"
+          ]
+        },
+        {
+          "term": "signature",
+          "pos": "n./adj.",
+          "meaning": "特征；标志性的；招牌的",
+          "example": "The chef served her signature dish.",
+          "translation": "厨师端上了她的招牌菜。",
+          "exampleHighlights": [
+            "signature"
+          ]
+        }
+      ],
+      "meaning": "签名；签字",
+      "example": "The document needs your signature.",
+      "translation": "这份文件需要你的签名。"
+    },
+    "original": "signature",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "cerebellum",
+    "originals": [
+      "cerebellum"
+    ],
+    "back": {
+      "core": "大脑后下方的小脑，主要参与协调运动、平衡等功能；与 cerebrum“大脑”区分。",
+      "senses": [
+        {
+          "term": "cerebellum",
+          "pos": "n.",
+          "meaning": "小脑",
+          "example": "The cerebellum helps coordinate movement.",
+          "translation": "小脑帮助协调运动。",
+          "exampleHighlights": [
+            "cerebellum"
+          ]
+        }
+      ],
+      "meaning": "小脑",
+      "example": "The cerebellum helps coordinate movement.",
+      "translation": "小脑帮助协调运动。"
+    },
+    "original": "cerebellum",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "stable",
+    "originals": [
+      "stable"
+    ],
+    "back": {
+      "core": "保持原来的状态、不容易变动；名词“马厩”是另一常见用法。",
+      "senses": [
+        {
+          "term": "stable",
+          "pos": "adj.",
+          "meaning": "稳定的；稳固的",
+          "example": "The results remained stable over time.",
+          "translation": "结果随着时间推移仍保持稳定。",
+          "exampleHighlights": [
+            "stable"
+          ]
+        },
+        {
+          "term": "stable",
+          "pos": "n.",
+          "meaning": "马厩；马房",
+          "example": "The horses were kept in a stable.",
+          "translation": "马匹被养在马厩里。",
+          "exampleHighlights": [
+            "stable"
+          ]
+        }
+      ],
+      "meaning": "稳定的；稳固的",
+      "example": "The results remained stable over time.",
+      "translation": "结果随着时间推移仍保持稳定。"
+    },
+    "original": "stable",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "so far",
+    "originals": [
+      "so far"
+    ],
+    "back": {
+      "core": "把时间范围划到现在为止，常与现在完成时搭配；不是说永远如此。",
+      "senses": [
+        {
+          "term": "so far",
+          "pos": "phr.",
+          "meaning": "到目前为止；迄今",
+          "example": "So far, we have found no clear explanation.",
+          "translation": "到目前为止，我们还没有找到明确解释。",
+          "exampleHighlights": [
+            "So far"
+          ]
+        }
+      ],
+      "meaning": "到目前为止；迄今",
+      "example": "So far, we have found no clear explanation.",
+      "translation": "到目前为止，我们还没有找到明确解释。"
+    },
+    "original": "so far",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "faint",
+    "originals": [
+      "faint"
+    ],
+    "back": {
+      "core": "强度弱到不容易感觉到：声音、光或希望很微弱；人失去知觉则是昏倒。",
+      "senses": [
+        {
+          "term": "faint",
+          "pos": "adj.",
+          "meaning": "微弱的；模糊的；快晕倒的",
+          "example": "We heard a faint sound in the distance.",
+          "translation": "我们听到远处有微弱的声音。",
+          "exampleHighlights": [
+            "faint"
+          ]
+        },
+        {
+          "term": "faint",
+          "pos": "v.",
+          "meaning": "昏倒；晕厥",
+          "example": "He fainted in the heat.",
+          "translation": "他在高温中晕倒了。",
+          "exampleHighlights": [
+            "fainted"
+          ]
+        }
+      ],
+      "meaning": "微弱的；模糊的；快晕倒的",
+      "example": "We heard a faint sound in the distance.",
+      "translation": "我们听到远处有微弱的声音。"
+    },
+    "original": "faint",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "inflate",
+    "originals": [
+      "inflate"
+    ],
+    "back": {
+      "core": "往里面充气使它膨大；引申为把数字、价格或重要性人为抬高。",
+      "senses": [
+        {
+          "term": "inflate",
+          "pos": "v.",
+          "meaning": "充气；使膨胀",
+          "example": "They inflated the balloons.",
+          "translation": "他们给气球充了气。",
+          "exampleHighlights": [
+            "inflated"
+          ]
+        },
+        {
+          "term": "inflate",
+          "pos": "v.",
+          "meaning": "夸大；抬高",
+          "example": "The report inflated the project's benefits.",
+          "translation": "报告夸大了项目的好处。",
+          "exampleHighlights": [
+            "inflated"
+          ]
+        }
+      ],
+      "meaning": "充气；使膨胀",
+      "example": "They inflated the balloons.",
+      "translation": "他们给气球充了气。"
+    },
+    "original": "inflate",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "consistency",
+    "originals": [
+      "consistency"
+    ],
+    "back": {
+      "core": "前后保持一致、不忽高忽低；描述液体或混合物时则是稠度、质地。",
+      "senses": [
+        {
+          "term": "consistency",
+          "pos": "n.",
+          "meaning": "一致性；稳定性",
+          "example": "The team needs greater consistency.",
+          "translation": "这个团队需要更稳定的表现。",
+          "exampleHighlights": [
+            "consistency"
+          ]
+        },
+        {
+          "term": "consistency",
+          "pos": "n.",
+          "meaning": "稠度；质地",
+          "example": "Add water until the sauce has the right consistency.",
+          "translation": "加水，直到酱汁达到合适的稠度。",
+          "exampleHighlights": [
+            "consistency"
+          ]
+        }
+      ],
+      "meaning": "一致性；稳定性",
+      "example": "The team needs greater consistency.",
+      "translation": "这个团队需要更稳定的表现。"
+    },
+    "original": "consistency",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "conscious",
+    "originals": [
+      "conscious"
+    ],
+    "back": {
+      "core": "头脑处于能够觉察的状态：可以是有意识、清醒，也可以是明知而刻意做某事。",
+      "senses": [
+        {
+          "term": "conscious",
+          "pos": "adj.",
+          "meaning": "意识到的；察觉到的（conscious of）",
+          "example": "I became conscious of the noise.",
+          "translation": "我开始注意到那阵噪声。",
+          "exampleHighlights": [
+            "conscious of"
+          ]
+        },
+        {
+          "term": "conscious",
+          "pos": "adj.",
+          "meaning": "清醒的；有知觉的；有意的",
+          "example": "She made a conscious effort to listen.",
+          "translation": "她有意识地努力倾听。",
+          "exampleHighlights": [
+            "conscious"
+          ]
+        }
+      ],
+      "meaning": "意识到的；察觉到的（conscious of）",
+      "example": "I became conscious of the noise.",
+      "translation": "我开始注意到那阵噪声。"
+    },
+    "original": "conscious",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "fluctuation",
+    "originals": [
+      "fluctuations"
+    ],
+    "back": {
+      "core": "与 fluctuate 对应的名词：数值在高低之间来回变化，而非单向增加或减少。",
+      "senses": [
+        {
+          "term": "fluctuation",
+          "pos": "n.",
+          "meaning": "波动；起伏",
+          "example": "The chart shows daily fluctuations in attention.",
+          "translation": "图表显示了注意力每天的波动。",
+          "exampleHighlights": [
+            "fluctuations"
+          ]
+        }
+      ],
+      "meaning": "波动；起伏",
+      "example": "The chart shows daily fluctuations in attention.",
+      "translation": "图表显示了注意力每天的波动。"
+    },
+    "original": "fluctuations",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "flickering",
+    "originals": [
+      "flickering"
+    ],
+    "back": {
+      "core": "像火苗或屏幕一明一暗：既可说光闪烁，也可比喻注意力不稳定。",
+      "senses": [
+        {
+          "term": "flickering",
+          "pos": "adj./分词",
+          "meaning": "闪烁的；忽明忽暗的",
+          "example": "The flickering light made reading difficult.",
+          "translation": "闪烁的灯光让阅读变得困难。",
+          "exampleHighlights": [
+            "flickering"
+          ]
+        }
+      ],
+      "meaning": "闪烁的；忽明忽暗的",
+      "example": "The flickering light made reading difficult.",
+      "translation": "闪烁的灯光让阅读变得困难。"
+    },
+    "original": "flickering",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "rumination",
+    "originals": [
+      "ruminations"
+    ],
+    "back": {
+      "core": "把某件事反复在脑中翻来覆去地想；也指动物反刍。",
+      "senses": [
+        {
+          "term": "rumination",
+          "pos": "n.",
+          "meaning": "反复思考；沉思；反刍",
+          "example": "His ruminations kept returning to the same mistake.",
+          "translation": "他的思绪总是反复回到同一个错误上。",
+          "exampleHighlights": [
+            "ruminations"
+          ]
+        }
+      ],
+      "meaning": "反复思考；沉思；反刍",
+      "example": "His ruminations kept returning to the same mistake.",
+      "translation": "他的思绪总是反复回到同一个错误上。"
+    },
+    "original": "ruminations",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "period",
+    "originals": [
+      "periods"
+    ],
+    "back": {
+      "core": "有起止或可划分的一段：常指时期、课时或月经；美式英语中也指句号。",
+      "senses": [
+        {
+          "term": "period",
+          "pos": "n.",
+          "meaning": "一段时间；时期；课时",
+          "example": "She worked for long periods without a break.",
+          "translation": "她长时间连续工作，不休息。",
+          "exampleHighlights": [
+            "periods"
+          ]
+        },
+        {
+          "term": "period",
+          "pos": "n.",
+          "meaning": "月经；经期",
+          "example": "Her period started yesterday.",
+          "translation": "她昨天来了月经。",
+          "exampleHighlights": [
+            "period"
+          ]
+        },
+        {
+          "term": "period",
+          "pos": "n.",
+          "meaning": "句号（美式；英式 full stop）",
+          "example": "Put a period at the end of the sentence.",
+          "translation": "在句末加一个句号。",
+          "exampleHighlights": [
+            "period"
+          ]
+        }
+      ],
+      "meaning": "一段时间；时期；课时",
+      "example": "She worked for long periods without a break.",
+      "translation": "她长时间连续工作，不休息。"
+    },
+    "original": "periods",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "riddled",
+    "originals": [
+      "riddled"
+    ],
+    "back": {
+      "core": "像被打出很多小孔一样遍布某种东西；常用 riddled with 表示充斥问题、错误等。",
+      "senses": [
+        {
+          "term": "riddled",
+          "pos": "adj./分词",
+          "meaning": "充斥的；遍布的（riddled with）",
+          "example": "The report was riddled with errors.",
+          "translation": "这份报告错误百出。",
+          "exampleHighlights": [
+            "riddled with"
+          ]
+        }
+      ],
+      "meaning": "充斥的；遍布的（riddled with）",
+      "example": "The report was riddled with errors.",
+      "translation": "这份报告错误百出。"
+    },
+    "original": "riddled",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "inevitable",
+    "originals": [
+      "inevitable"
+    ],
+    "back": {
+      "core": "无论怎样都很难避开，事情必然会发生。",
+      "senses": [
+        {
+          "term": "inevitable",
+          "pos": "adj.",
+          "meaning": "不可避免的；必然发生的",
+          "example": "Some changes are inevitable.",
+          "translation": "有些变化是不可避免的。",
+          "exampleHighlights": [
+            "inevitable"
+          ]
+        }
+      ],
+      "meaning": "不可避免的；必然发生的",
+      "example": "Some changes are inevitable.",
+      "translation": "有些变化是不可避免的。"
+    },
+    "original": "inevitable",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "interpret",
+    "originals": [
+      "interpret"
+    ],
+    "back": {
+      "core": "把接收到的内容转换成可以理解的意思：解释信息、口译语言或演绎作品。",
+      "senses": [
+        {
+          "term": "interpret",
+          "pos": "v.",
+          "meaning": "解释；理解为；解读",
+          "example": "People interpreted the results differently.",
+          "translation": "人们对结果作出了不同解读。",
+          "exampleHighlights": [
+            "interpreted"
+          ]
+        },
+        {
+          "term": "interpret",
+          "pos": "v.",
+          "meaning": "口译；演绎",
+          "example": "She interpreted for the visitors.",
+          "translation": "她为访客做口译。",
+          "exampleHighlights": [
+            "interpreted"
+          ]
+        }
+      ],
+      "meaning": "解释；理解为；解读",
+      "example": "People interpreted the results differently.",
+      "translation": "人们对结果作出了不同解读。"
+    },
+    "original": "interpret",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "loom",
+    "originals": [
+      "loom"
+    ],
+    "back": {
+      "core": "令人感觉某物正变得巨大、逼近：可能是眼前轮廓，也可能是未来的威胁；名词织布机另记。",
+      "senses": [
+        {
+          "term": "loom",
+          "pos": "v.",
+          "meaning": "隐约显现；逼近",
+          "example": "A deadline loomed as the work continued.",
+          "translation": "工作还在继续，截止日期却逼近了。",
+          "exampleHighlights": [
+            "loomed"
+          ]
+        },
+        {
+          "term": "loom",
+          "pos": "n.",
+          "meaning": "织布机",
+          "example": "The cloth was woven on a traditional loom.",
+          "translation": "这块布是在传统织布机上织成的。",
+          "exampleHighlights": [
+            "loom"
+          ]
+        }
+      ],
+      "meaning": "隐约显现；逼近",
+      "example": "A deadline loomed as the work continued.",
+      "translation": "工作还在继续，截止日期却逼近了。"
+    },
+    "original": "loom",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "attraction",
+    "originals": [
+      "attractions"
+    ],
+    "back": {
+      "core": "把人吸引过去的力量，或具有这种力量的事物：吸引力、景点和好感都常见。",
+      "senses": [
+        {
+          "term": "attraction",
+          "pos": "n.",
+          "meaning": "吸引力；吸引人的事物；景点",
+          "example": "The museum is one of the city's main attractions.",
+          "translation": "这座博物馆是城市的主要景点之一。",
+          "exampleHighlights": [
+            "attractions"
+          ]
+        },
+        {
+          "term": "attraction",
+          "pos": "n.",
+          "meaning": "好感；吸引；物理引力",
+          "example": "She felt a strong attraction to him.",
+          "translation": "她对他有强烈的好感。",
+          "exampleHighlights": [
+            "attraction"
+          ]
+        }
+      ],
+      "meaning": "吸引力；吸引人的事物；景点",
+      "example": "The museum is one of the city's main attractions.",
+      "translation": "这座博物馆是城市的主要景点之一。"
+    },
+    "original": "attractions",
+    "batches": [
+      {
+        "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
   }
 ]
