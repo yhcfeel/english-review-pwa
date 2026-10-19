@@ -1,0 +1,341 @@
+{
+  "date": "2026-10-19",
+  "inputCount": 80,
+  "uniqueInputs": 79,
+  "newCards": 77,
+  "latestCount": 79,
+  "totalCount": 423,
+  "repeatedOldWords": [
+    "conduct",
+    "come up with"
+  ],
+  "duplicateInputs": [
+    "intimacy"
+  ],
+  "ignoredEmptyFile": "world.txt",
+  "sources": [
+    "https://goldbook.iupac.org/terms/view/T06484"
+  ],
+  "mapping": [
+    {
+      "original": "sturdy",
+      "front": "sturdy"
+    },
+    {
+      "original": "resin",
+      "front": "resin"
+    },
+    {
+      "original": "typically",
+      "front": "typically"
+    },
+    {
+      "original": "outperforms",
+      "front": "outperform"
+    },
+    {
+      "original": "fracture",
+      "front": "fracture"
+    },
+    {
+      "original": "aesthetic",
+      "front": "aesthetic"
+    },
+    {
+      "original": "grain",
+      "front": "grain"
+    },
+    {
+      "original": "lending",
+      "front": "lend"
+    },
+    {
+      "original": "insulator",
+      "front": "insulator"
+    },
+    {
+      "original": "hazier",
+      "front": "hazy"
+    },
+    {
+      "original": "scatters",
+      "front": "scatter"
+    },
+    {
+      "original": "transmittance",
+      "front": "transmittance"
+    },
+    {
+      "original": "drops",
+      "front": "drop"
+    },
+    {
+      "original": "lignin-removing",
+      "front": "lignin-removing"
+    },
+    {
+      "original": "tailoring",
+      "front": "tailor"
+    },
+    {
+      "original": "recyclable",
+      "front": "recyclable"
+    },
+    {
+      "original": "architectural",
+      "front": "architectural"
+    },
+    {
+      "original": "polymer",
+      "front": "polymer"
+    },
+    {
+      "original": "infiltrate",
+      "front": "infiltrate"
+    },
+    {
+      "original": "profile",
+      "front": "profile"
+    },
+    {
+      "original": "conducts",
+      "front": "conduct"
+    },
+    {
+      "original": "tweaks",
+      "front": "tweak"
+    },
+    {
+      "original": "flip",
+      "front": "flip"
+    },
+    {
+      "original": "are coming up with other tweaks",
+      "front": "come up with"
+    },
+    {
+      "original": "incorporating",
+      "front": "incorporate"
+    },
+    {
+      "original": "ambient",
+      "front": "ambient"
+    },
+    {
+      "original": "toy with",
+      "front": "toy with"
+    },
+    {
+      "original": "bestow",
+      "front": "bestow"
+    },
+    {
+      "original": "tinted",
+      "front": "tinted"
+    },
+    {
+      "original": "sandwich A between B and C",
+      "front": "sandwich A between B and C"
+    },
+    {
+      "original": "pane",
+      "front": "pane"
+    },
+    {
+      "original": "wood scaffolding",
+      "front": "wood scaffolding"
+    },
+    {
+      "original": "petroleum",
+      "front": "petroleum"
+    },
+    {
+      "original": "citrus",
+      "front": "citrus"
+    },
+    {
+      "original": "peels",
+      "front": "peel"
+    },
+    {
+      "original": "rind",
+      "front": "rind"
+    },
+    {
+      "original": "essential oil",
+      "front": "essential oil"
+    },
+    {
+      "original": "impregnate A with B",
+      "front": "impregnate A with B"
+    },
+    {
+      "original": "fruity",
+      "front": "fruity"
+    },
+    {
+      "original": "withstand",
+      "front": "withstand"
+    },
+    {
+      "original": "brush",
+      "front": "brush"
+    },
+    {
+      "original": "brush something with something",
+      "front": "brush something with something"
+    },
+    {
+      "original": "slices",
+      "front": "slice"
+    },
+    {
+      "original": "pigment",
+      "front": "pigment"
+    },
+    {
+      "original": "intact",
+      "front": "intact"
+    },
+    {
+      "original": "end-of-life",
+      "front": "end-of-life"
+    },
+    {
+      "original": "scaling",
+      "front": "scale"
+    },
+    {
+      "original": "archival",
+      "front": "archival"
+    },
+    {
+      "original": "aromas",
+      "front": "aroma"
+    },
+    {
+      "original": "mummies",
+      "front": "mummy"
+    },
+    {
+      "original": "primal",
+      "front": "primal"
+    },
+    {
+      "original": "intimacy",
+      "front": "intimacy"
+    },
+    {
+      "original": "deputy",
+      "front": "deputy"
+    },
+    {
+      "original": "devoted",
+      "front": "devoted"
+    },
+    {
+      "original": "interdisciplinary",
+      "front": "interdisciplinary"
+    },
+    {
+      "original": "scents",
+      "front": "scent"
+    },
+    {
+      "original": "odor",
+      "front": "odor"
+    },
+    {
+      "original": "intimacy",
+      "front": "intimacy"
+    },
+    {
+      "original": "gallery",
+      "front": "gallery"
+    },
+    {
+      "original": "exhibits",
+      "front": "exhibit"
+    },
+    {
+      "original": "uninitiated",
+      "front": "uninitiated"
+    },
+    {
+      "original": "formalized",
+      "front": "formalize"
+    },
+    {
+      "original": "disciplines",
+      "front": "discipline"
+    },
+    {
+      "original": "olfactory",
+      "front": "olfactory"
+    },
+    {
+      "original": "beloved",
+      "front": "beloved"
+    },
+    {
+      "original": "scheduled",
+      "front": "scheduled"
+    },
+    {
+      "original": "set about doing something",
+      "front": "set about doing something"
+    },
+    {
+      "original": "wafting",
+      "front": "waft"
+    },
+    {
+      "original": "furnishings",
+      "front": "furnishings"
+    },
+    {
+      "original": "quantify",
+      "front": "quantify"
+    },
+    {
+      "original": "volatile",
+      "front": "volatile"
+    },
+    {
+      "original": "compounds",
+      "front": "compound"
+    },
+    {
+      "original": "whittle",
+      "front": "whittle"
+    },
+    {
+      "original": "cathedral",
+      "front": "cathedral"
+    },
+    {
+      "original": "commonly",
+      "front": "commonly"
+    },
+    {
+      "original": "sniff",
+      "front": "sniff"
+    },
+    {
+      "original": "evoke",
+      "front": "evoke"
+    },
+    {
+      "original": "almond",
+      "front": "almond"
+    },
+    {
+      "original": "conservators",
+      "front": "conservator"
+    },
+    {
+      "original": "hay",
+      "front": "hay"
+    }
+  ]
+}

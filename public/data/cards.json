@@ -614,15 +614,43 @@
           "exampleHighlights": [
             "conduct"
           ]
+        },
+        {
+          "term": "conduct",
+          "pos": "v.",
+          "meaning": "传导（热、电等）",
+          "example": "The material conducts heat efficiently.",
+          "translation": "这种材料能高效传导热量。",
+          "exampleHighlights": [
+            "conducts"
+          ]
+        },
+        {
+          "term": "conduct",
+          "pos": "v.",
+          "meaning": "指挥（乐队、合唱等）",
+          "example": "She conducted the orchestra.",
+          "translation": "她指挥了乐团。",
+          "exampleHighlights": [
+            "conducted"
+          ]
         }
       ],
-      "core": "围绕“如何进行”理解：conduct a study 是开展研究；人的 conduct 是行为表现。"
+      "core": "让过程沿着方向进行：开展活动、指挥音乐都在引导过程；材料让热或电通过就是传导。名词 conduct 指行为举止。"
     },
     "batches": [
       {
         "date": "2026-10-14",
         "repeat": false
+      },
+      {
+        "date": "2026-10-19",
+        "repeat": true
       }
+    ],
+    "originals": [
+      "conduct",
+      "conducts"
     ]
   },
   {
@@ -3850,7 +3878,8 @@
   {
     "front": "come up with",
     "originals": [
-      "come up with"
+      "come up with",
+      "are coming up with other tweaks"
     ],
     "back": {
       "senses": [
@@ -3863,18 +3892,34 @@
           "exampleHighlights": [
             "come up with"
           ]
+        },
+        {
+          "term": "come up with",
+          "pos": "phr.",
+          "meaning": "想出进一步的调整方案",
+          "example": "They are coming up with other tweaks.",
+          "translation": "他们正在想出其他微调方案。",
+          "exampleHighlights": [
+            "coming up with",
+            "tweaks"
+          ]
         }
       ],
       "meaning": "想出；提出；设法提供",
       "explanation": "",
       "example": "We need to come up with a better plan.",
-      "translation": "我们需要想出一个更好的计划。"
+      "translation": "我们需要想出一个更好的计划。",
+      "core": "把一个原先没有拿出的想法或方案想出来、提出来；也可以是设法提供需要的东西。tweak 指小幅调整。"
     },
     "original": "come up with",
     "batches": [
       {
         "date": "2026-10-15",
         "repeat": false
+      },
+      {
+        "date": "2026-10-19",
+        "repeat": true
       }
     ]
   },
@@ -12310,6 +12355,2699 @@
     "batches": [
       {
         "date": "2026-10-16",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "sturdy",
+    "originals": [
+      "sturdy"
+    ],
+    "back": {
+      "core": "结实到能承受压力、不容易损坏；形容人时也可指身体健壮。",
+      "senses": [
+        {
+          "term": "sturdy",
+          "pos": "adj.",
+          "meaning": "结实的；坚固的；健壮的",
+          "example": "The table has sturdy wooden legs.",
+          "translation": "这张桌子的木腿很结实。",
+          "exampleHighlights": [
+            "sturdy"
+          ]
+        }
+      ],
+      "meaning": "结实的；坚固的；健壮的",
+      "example": "The table has sturdy wooden legs.",
+      "translation": "这张桌子的木腿很结实。"
+    },
+    "original": "sturdy",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "resin",
+    "originals": [
+      "resin"
+    ],
+    "back": {
+      "core": "常见于树木分泌物或人造材料：通常黏稠，固化后可形成坚硬的材料。",
+      "senses": [
+        {
+          "term": "resin",
+          "pos": "n.",
+          "meaning": "树脂；合成树脂",
+          "example": "The gaps were filled with resin.",
+          "translation": "缝隙用树脂填满了。",
+          "exampleHighlights": [
+            "resin"
+          ]
+        }
+      ],
+      "meaning": "树脂；合成树脂",
+      "example": "The gaps were filled with resin.",
+      "translation": "缝隙用树脂填满了。"
+    },
+    "original": "resin",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "typically",
+    "originals": [
+      "typically"
+    ],
+    "back": {
+      "core": "说明一般情况或典型特征，不代表每次都这样。",
+      "senses": [
+        {
+          "term": "typically",
+          "pos": "adv.",
+          "meaning": "通常；典型地",
+          "example": "This process typically takes several hours.",
+          "translation": "这个过程通常需要几个小时。",
+          "exampleHighlights": [
+            "typically"
+          ]
+        }
+      ],
+      "meaning": "通常；典型地",
+      "example": "This process typically takes several hours.",
+      "translation": "这个过程通常需要几个小时。"
+    },
+    "original": "typically",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "outperform",
+    "originals": [
+      "outperforms"
+    ],
+    "back": {
+      "core": "out- 在这里表示超过：在表现、效果或成绩上比对方更好。",
+      "senses": [
+        {
+          "term": "outperform",
+          "pos": "v.",
+          "meaning": "胜过；表现优于",
+          "example": "The new material outperforms ordinary glass in this test.",
+          "translation": "新材料在这项测试中的表现优于普通玻璃。",
+          "exampleHighlights": [
+            "outperforms"
+          ]
+        }
+      ],
+      "meaning": "胜过；表现优于",
+      "example": "The new material outperforms ordinary glass in this test.",
+      "translation": "新材料在这项测试中的表现优于普通玻璃。"
+    },
+    "original": "outperforms",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "fracture",
+    "originals": [
+      "fracture"
+    ],
+    "back": {
+      "core": "坚硬的整体出现裂缝或断开：可以指骨头、材料，也可以比喻关系破裂。",
+      "senses": [
+        {
+          "term": "fracture",
+          "pos": "n./v.",
+          "meaning": "裂缝；断裂；骨折",
+          "example": "The scan revealed a small fracture in the bone.",
+          "translation": "扫描发现骨头上有一处小骨折。",
+          "exampleHighlights": [
+            "fracture"
+          ]
+        },
+        {
+          "term": "fracture",
+          "pos": "v.",
+          "meaning": "使破裂；使分裂",
+          "example": "The dispute fractured their relationship.",
+          "translation": "这场争执使他们的关系破裂了。",
+          "exampleHighlights": [
+            "fractured"
+          ]
+        }
+      ],
+      "meaning": "裂缝；断裂；骨折",
+      "example": "The scan revealed a small fracture in the bone.",
+      "translation": "扫描发现骨头上有一处小骨折。"
+    },
+    "original": "fracture",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "aesthetic",
+    "originals": [
+      "aesthetic"
+    ],
+    "back": {
+      "core": "与美感、外观和审美体验有关，而不是只看功能是否实用。",
+      "senses": [
+        {
+          "term": "aesthetic",
+          "pos": "adj.",
+          "meaning": "审美的；美学的；外观上的",
+          "example": "The design has both practical and aesthetic benefits.",
+          "translation": "这个设计兼具实用价值和美感。",
+          "exampleHighlights": [
+            "aesthetic"
+          ]
+        },
+        {
+          "term": "aesthetic",
+          "pos": "n.",
+          "meaning": "审美风格；美学观念",
+          "example": "The room has a simple, modern aesthetic.",
+          "translation": "这个房间呈现简洁的现代风格。",
+          "exampleHighlights": [
+            "aesthetic"
+          ]
+        }
+      ],
+      "meaning": "审美的；美学的；外观上的",
+      "example": "The design has both practical and aesthetic benefits.",
+      "translation": "这个设计兼具实用价值和美感。"
+    },
+    "original": "aesthetic",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "grain",
+    "originals": [
+      "grain"
+    ],
+    "back": {
+      "core": "小颗粒是一条含义线；木材和皮革上细密排列的纹理是另一条。",
+      "senses": [
+        {
+          "term": "grain",
+          "pos": "n.",
+          "meaning": "谷物；谷粒；小颗粒",
+          "example": "A grain of sand was caught in the mechanism.",
+          "translation": "一粒沙子卡进了装置里。",
+          "exampleHighlights": [
+            "grain"
+          ]
+        },
+        {
+          "term": "grain",
+          "pos": "n.",
+          "meaning": "木纹；纹理；纹路",
+          "example": "The clear coating reveals the grain of the wood.",
+          "translation": "透明涂层显露出木材的纹理。",
+          "exampleHighlights": [
+            "grain"
+          ]
+        }
+      ],
+      "meaning": "谷物；谷粒；小颗粒",
+      "example": "A grain of sand was caught in the mechanism.",
+      "translation": "一粒沙子卡进了装置里。"
+    },
+    "original": "grain",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "lend",
+    "originals": [
+      "lending"
+    ],
+    "back": {
+      "core": "暂时把东西给别人用是借出；让某物多出一种性质或支持，也可用 lend。",
+      "senses": [
+        {
+          "term": "lend",
+          "pos": "v.",
+          "meaning": "借出；借给（过去式 lent）",
+          "example": "Could you lend me your notes?",
+          "translation": "你能把笔记借给我吗？",
+          "exampleHighlights": [
+            "lend"
+          ]
+        },
+        {
+          "term": "lend",
+          "pos": "v.",
+          "meaning": "赋予；增添（lend A to B）",
+          "example": "The wood is lending warmth to the room.",
+          "translation": "木材正在为房间增添温暖感。",
+          "exampleHighlights": [
+            "lending"
+          ]
+        }
+      ],
+      "meaning": "借出；借给（过去式 lent）",
+      "example": "Could you lend me your notes?",
+      "translation": "你能把笔记借给我吗？"
+    },
+    "original": "lending",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "insulator",
+    "originals": [
+      "insulator"
+    ],
+    "back": {
+      "core": "阻止某种传递的材料或物体：阻止电流是绝缘体，阻止热传递是隔热材料。",
+      "senses": [
+        {
+          "term": "insulator",
+          "pos": "n.",
+          "meaning": "绝缘体；隔热材料",
+          "example": "Air can act as a thermal insulator.",
+          "translation": "空气可以起到隔热作用。",
+          "exampleHighlights": [
+            "insulator"
+          ]
+        }
+      ],
+      "meaning": "绝缘体；隔热材料",
+      "example": "Air can act as a thermal insulator.",
+      "translation": "空气可以起到隔热作用。"
+    },
+    "original": "insulator",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "hazy",
+    "originals": [
+      "hazier"
+    ],
+    "back": {
+      "core": "像隔着一层薄雾：实物看不清，记忆或概念也可以模糊。hazier 是比较级。",
+      "senses": [
+        {
+          "term": "hazy",
+          "pos": "adj.",
+          "meaning": "雾蒙蒙的；朦胧的；模糊的",
+          "example": "The view became hazier as the mist thickened.",
+          "translation": "随着雾变浓，景色变得更模糊了。",
+          "exampleHighlights": [
+            "hazier"
+          ]
+        },
+        {
+          "term": "hazy",
+          "pos": "adj.",
+          "meaning": "记忆或理解不清晰的",
+          "example": "I have only a hazy memory of that day.",
+          "translation": "我对那天只有模糊的记忆。",
+          "exampleHighlights": [
+            "hazy"
+          ]
+        }
+      ],
+      "meaning": "雾蒙蒙的；朦胧的；模糊的",
+      "example": "The view became hazier as the mist thickened.",
+      "translation": "随着雾变浓，景色变得更模糊了。"
+    },
+    "original": "hazier",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "scatter",
+    "originals": [
+      "scatters"
+    ],
+    "back": {
+      "core": "从集中状态向不同方向散开：人、颗粒可以散开，光线也可以散射。",
+      "senses": [
+        {
+          "term": "scatter",
+          "pos": "v.",
+          "meaning": "撒开；散布；散射",
+          "example": "The rough surface scatters light in many directions.",
+          "translation": "粗糙表面使光向许多方向散射。",
+          "exampleHighlights": [
+            "scatters"
+          ]
+        }
+      ],
+      "meaning": "撒开；散布；散射",
+      "example": "The rough surface scatters light in many directions.",
+      "translation": "粗糙表面使光向许多方向散射。"
+    },
+    "original": "scatters",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "transmittance",
+    "originals": [
+      "transmittance"
+    ],
+    "back": {
+      "core": "比较穿过材料的光与照到材料上的光有多少：它是比例，不是单纯说看起来清不清楚。",
+      "senses": [
+        {
+          "term": "transmittance",
+          "pos": "n.",
+          "meaning": "透射率；透光率",
+          "example": "The researchers measured the sample's light transmittance.",
+          "translation": "研究人员测量了样品的透光率。",
+          "exampleHighlights": [
+            "transmittance"
+          ]
+        }
+      ],
+      "meaning": "透射率；透光率",
+      "example": "The researchers measured the sample's light transmittance.",
+      "translation": "研究人员测量了样品的透光率。"
+    },
+    "original": "transmittance",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ],
+    "sources": [
+      "https://goldbook.iupac.org/terms/view/T06484"
+    ]
+  },
+  {
+    "front": "drop",
+    "originals": [
+      "drops"
+    ],
+    "back": {
+      "core": "向下落是一条核心含义线：东西落下、数值下降；一小滴液体也叫 drop。",
+      "senses": [
+        {
+          "term": "drop",
+          "pos": "v./n.",
+          "meaning": "下降；落下；使掉落",
+          "example": "The temperature drops rapidly after sunset.",
+          "translation": "日落后气温迅速下降。",
+          "exampleHighlights": [
+            "drops"
+          ]
+        },
+        {
+          "term": "drop",
+          "pos": "n.",
+          "meaning": "滴；少量液体",
+          "example": "Add two drops of oil.",
+          "translation": "加两滴油。",
+          "exampleHighlights": [
+            "drops"
+          ]
+        },
+        {
+          "term": "drop",
+          "pos": "v.",
+          "meaning": "放弃；停止；取消",
+          "example": "They decided to drop the idea.",
+          "translation": "他们决定放弃这个想法。",
+          "exampleHighlights": [
+            "drop"
+          ]
+        }
+      ],
+      "meaning": "下降；落下；使掉落",
+      "example": "The temperature drops rapidly after sunset.",
+      "translation": "日落后气温迅速下降。"
+    },
+    "original": "drops",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "lignin-removing",
+    "originals": [
+      "lignin-removing"
+    ],
+    "back": {
+      "core": "lignin 是木质素；removing 表示去除。这个连字符结构整体修饰后面的工艺、步骤或处理。",
+      "senses": [
+        {
+          "term": "lignin-removing",
+          "pos": "adj. 复合词",
+          "meaning": "去除木质素的",
+          "example": "The lignin-removing treatment changed the wood's appearance.",
+          "translation": "去除木质素的处理改变了木材的外观。",
+          "exampleHighlights": [
+            "lignin-removing"
+          ]
+        }
+      ],
+      "meaning": "去除木质素的",
+      "example": "The lignin-removing treatment changed the wood's appearance.",
+      "translation": "去除木质素的处理改变了木材的外观。"
+    },
+    "original": "lignin-removing",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "tailor",
+    "originals": [
+      "tailoring"
+    ],
+    "back": {
+      "core": "原本是裁缝按人裁衣；引申为根据对象的具体需要调整方案或性质。",
+      "senses": [
+        {
+          "term": "tailor",
+          "pos": "v.",
+          "meaning": "量身定制；按需要调整",
+          "example": "The team is tailoring the design to local conditions.",
+          "translation": "团队正在根据当地条件调整设计。",
+          "exampleHighlights": [
+            "tailoring"
+          ]
+        },
+        {
+          "term": "tailor",
+          "pos": "n.",
+          "meaning": "裁缝",
+          "example": "A tailor adjusted the jacket.",
+          "translation": "裁缝修改了这件夹克。",
+          "exampleHighlights": [
+            "tailor"
+          ]
+        }
+      ],
+      "meaning": "量身定制；按需要调整",
+      "example": "The team is tailoring the design to local conditions.",
+      "translation": "团队正在根据当地条件调整设计。"
+    },
+    "original": "tailoring",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "recyclable",
+    "originals": [
+      "recyclable"
+    ],
+    "back": {
+      "core": "材料使用后能够回收加工，再成为可用的材料；不等于会自然降解。",
+      "senses": [
+        {
+          "term": "recyclable",
+          "pos": "adj.",
+          "meaning": "可回收利用的",
+          "example": "The container is made from recyclable plastic.",
+          "translation": "这个容器由可回收塑料制成。",
+          "exampleHighlights": [
+            "recyclable"
+          ]
+        }
+      ],
+      "meaning": "可回收利用的",
+      "example": "The container is made from recyclable plastic.",
+      "translation": "这个容器由可回收塑料制成。"
+    },
+    "original": "recyclable",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "architectural",
+    "originals": [
+      "architectural"
+    ],
+    "back": {
+      "core": "与建筑设计、建筑结构或建筑风格有关。",
+      "senses": [
+        {
+          "term": "architectural",
+          "pos": "adj.",
+          "meaning": "建筑的；建筑设计的",
+          "example": "The city is known for its architectural diversity.",
+          "translation": "这座城市以多样的建筑风格闻名。",
+          "exampleHighlights": [
+            "architectural"
+          ]
+        }
+      ],
+      "meaning": "建筑的；建筑设计的",
+      "example": "The city is known for its architectural diversity.",
+      "translation": "这座城市以多样的建筑风格闻名。"
+    },
+    "original": "architectural",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "polymer",
+    "originals": [
+      "polymer"
+    ],
+    "back": {
+      "core": "由许多重复单元连接而成的大分子；聚合物可以是天然的，也可以是合成的。",
+      "senses": [
+        {
+          "term": "polymer",
+          "pos": "n.",
+          "meaning": "聚合物；高分子材料",
+          "example": "The coating contains a flexible polymer.",
+          "translation": "涂层含有一种柔性聚合物。",
+          "exampleHighlights": [
+            "polymer"
+          ]
+        }
+      ],
+      "meaning": "聚合物；高分子材料",
+      "example": "The coating contains a flexible polymer.",
+      "translation": "涂层含有一种柔性聚合物。"
+    },
+    "original": "polymer",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "infiltrate",
+    "originals": [
+      "infiltrate"
+    ],
+    "back": {
+      "core": "不从大入口直接进入，而是逐渐渗透或悄悄混入内部。",
+      "senses": [
+        {
+          "term": "infiltrate",
+          "pos": "v.",
+          "meaning": "渗入；渗透",
+          "example": "Water infiltrated the porous material.",
+          "translation": "水渗入了多孔材料。",
+          "exampleHighlights": [
+            "infiltrated"
+          ]
+        },
+        {
+          "term": "infiltrate",
+          "pos": "v.",
+          "meaning": "潜入；打入组织内部",
+          "example": "An undercover officer infiltrated the group.",
+          "translation": "一名卧底警员打入了这个组织。",
+          "exampleHighlights": [
+            "infiltrated"
+          ]
+        }
+      ],
+      "meaning": "渗入；渗透",
+      "example": "Water infiltrated the porous material.",
+      "translation": "水渗入了多孔材料。"
+    },
+    "original": "infiltrate",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "profile",
+    "originals": [
+      "profile"
+    ],
+    "back": {
+      "core": "勾勒出一个人或事物的样子：可指侧面轮廓、人物简介或一组特征。",
+      "senses": [
+        {
+          "term": "profile",
+          "pos": "n.",
+          "meaning": "侧面轮廓；外形",
+          "example": "The mountain's profile stood out against the sky.",
+          "translation": "山的轮廓在天空映衬下十分醒目。",
+          "exampleHighlights": [
+            "profile"
+          ]
+        },
+        {
+          "term": "profile",
+          "pos": "n.",
+          "meaning": "简介；概况；特征组合",
+          "example": "The report describes the material's environmental profile.",
+          "translation": "报告描述了这种材料的环境表现概况。",
+          "exampleHighlights": [
+            "profile"
+          ]
+        },
+        {
+          "term": "profile",
+          "pos": "n.",
+          "meaning": "公众关注度；形象（high/low profile）",
+          "example": "The campaign raised the company's profile.",
+          "translation": "这场活动提高了公司的知名度。",
+          "exampleHighlights": [
+            "profile"
+          ]
+        }
+      ],
+      "meaning": "侧面轮廓；外形",
+      "example": "The mountain's profile stood out against the sky.",
+      "translation": "山的轮廓在天空映衬下十分醒目。"
+    },
+    "original": "profile",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "tweak",
+    "originals": [
+      "tweaks"
+    ],
+    "back": {
+      "core": "只动一点点来改善效果，强调小幅调整，不是推倒重来。",
+      "senses": [
+        {
+          "term": "tweak",
+          "pos": "n./v.",
+          "meaning": "微调；小改动",
+          "example": "A few tweaks improved the design.",
+          "translation": "几处微调改善了设计。",
+          "exampleHighlights": [
+            "tweaks"
+          ]
+        }
+      ],
+      "meaning": "微调；小改动",
+      "example": "A few tweaks improved the design.",
+      "translation": "几处微调改善了设计。"
+    },
+    "original": "tweaks",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "flip",
+    "originals": [
+      "flip"
+    ],
+    "back": {
+      "core": "快速翻到另一面：可指翻转物体、翻页，也可指迅速拨动开关。",
+      "senses": [
+        {
+          "term": "flip",
+          "pos": "v.",
+          "meaning": "翻转；快速翻动；拨动",
+          "example": "Flip the card to see the answer.",
+          "translation": "翻转卡片查看答案。",
+          "exampleHighlights": [
+            "Flip"
+          ]
+        },
+        {
+          "term": "flip",
+          "pos": "v./n.",
+          "meaning": "突然反转；迅速转变",
+          "example": "The discussion flipped from optimism to concern.",
+          "translation": "讨论气氛突然从乐观转向担忧。",
+          "exampleHighlights": [
+            "flipped"
+          ]
+        }
+      ],
+      "meaning": "翻转；快速翻动；拨动",
+      "example": "Flip the card to see the answer.",
+      "translation": "翻转卡片查看答案。"
+    },
+    "original": "flip",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "incorporate",
+    "originals": [
+      "incorporating"
+    ],
+    "back": {
+      "core": "把新成分放进已有整体，使它成为其中的一部分。",
+      "senses": [
+        {
+          "term": "incorporate",
+          "pos": "v.",
+          "meaning": "纳入；包含；把……并入",
+          "example": "The design incorporates recycled materials.",
+          "translation": "这个设计使用了回收材料。",
+          "exampleHighlights": [
+            "incorporates"
+          ]
+        }
+      ],
+      "meaning": "纳入；包含；把……并入",
+      "example": "The design incorporates recycled materials.",
+      "translation": "这个设计使用了回收材料。"
+    },
+    "original": "incorporating",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "ambient",
+    "originals": [
+      "ambient"
+    ],
+    "back": {
+      "core": "围绕某物的周围环境：常说环境温度、环境光或背景声音。",
+      "senses": [
+        {
+          "term": "ambient",
+          "pos": "adj.",
+          "meaning": "周围的；环境的",
+          "example": "The samples were stored at ambient temperature.",
+          "translation": "样品保存在环境温度下。",
+          "exampleHighlights": [
+            "ambient"
+          ]
+        }
+      ],
+      "meaning": "周围的；环境的",
+      "example": "The samples were stored at ambient temperature.",
+      "translation": "样品保存在环境温度下。"
+    },
+    "original": "ambient",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "toy with",
+    "originals": [
+      "toy with"
+    ],
+    "back": {
+      "core": "像拿着玩具随意摆弄：对想法是尚未认真决定地考虑，对情感则可能是玩弄。",
+      "senses": [
+        {
+          "term": "toy with",
+          "pos": "phr.",
+          "meaning": "随便考虑；不太认真地想尝试",
+          "example": "They are toying with the idea of opening a cafe.",
+          "translation": "他们在考虑开咖啡馆的想法，还没有认真定下来。",
+          "exampleHighlights": [
+            "toying with"
+          ]
+        },
+        {
+          "term": "toy with",
+          "pos": "phr.",
+          "meaning": "玩弄；轻率地对待",
+          "example": "Do not toy with her feelings.",
+          "translation": "不要玩弄她的感情。",
+          "exampleHighlights": [
+            "toy with"
+          ]
+        }
+      ],
+      "meaning": "随便考虑；不太认真地想尝试",
+      "example": "They are toying with the idea of opening a cafe.",
+      "translation": "他们在考虑开咖啡馆的想法，还没有认真定下来。"
+    },
+    "original": "toy with",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "bestow",
+    "originals": [
+      "bestow"
+    ],
+    "back": {
+      "core": "较正式地把荣誉、好处或某种品质给予对方，常用 bestow A on/upon B。",
+      "senses": [
+        {
+          "term": "bestow",
+          "pos": "v.",
+          "meaning": "授予；赋予；赐予",
+          "example": "The award bestowed recognition on her work.",
+          "translation": "这个奖项给予了她的工作认可。",
+          "exampleHighlights": [
+            "bestowed"
+          ]
+        }
+      ],
+      "meaning": "授予；赋予；赐予",
+      "example": "The award bestowed recognition on her work.",
+      "translation": "这个奖项给予了她的工作认可。"
+    },
+    "original": "bestow",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "tinted",
+    "originals": [
+      "tinted"
+    ],
+    "back": {
+      "core": "带有一层淡淡的颜色，通常没有完全遮盖原本的东西。",
+      "senses": [
+        {
+          "term": "tinted",
+          "pos": "adj./分词",
+          "meaning": "着色的；带淡色的",
+          "example": "The car has tinted windows.",
+          "translation": "这辆车装有着色玻璃车窗。",
+          "exampleHighlights": [
+            "tinted"
+          ]
+        }
+      ],
+      "meaning": "着色的；带淡色的",
+      "example": "The car has tinted windows.",
+      "translation": "这辆车装有着色玻璃车窗。"
+    },
+    "original": "tinted",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "sandwich A between B and C",
+    "originals": [
+      "sandwich A between B and C"
+    ],
+    "back": {
+      "core": "像做三明治一样，把 A 夹在 B 和 C 之间；既可用于材料，也可用于位置或日程。",
+      "senses": [
+        {
+          "term": "sandwich A between B and C",
+          "pos": "phr.",
+          "meaning": "把 A 夹在 B 与 C 之间",
+          "example": "Sandwich the film between two sheets of glass.",
+          "translation": "把薄膜夹在两片玻璃之间。",
+          "exampleHighlights": [
+            "Sandwich",
+            "between"
+          ]
+        }
+      ],
+      "meaning": "把 A 夹在 B 与 C 之间",
+      "example": "Sandwich the film between two sheets of glass.",
+      "translation": "把薄膜夹在两片玻璃之间。"
+    },
+    "original": "sandwich A between B and C",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "pane",
+    "originals": [
+      "pane"
+    ],
+    "back": {
+      "core": "窗或门上的一整片玻璃，不是整扇窗，也不是 glass 这种材料的总称。",
+      "senses": [
+        {
+          "term": "pane",
+          "pos": "n.",
+          "meaning": "一片窗玻璃；玻璃板",
+          "example": "One pane of the window was cracked.",
+          "translation": "窗户的一片玻璃裂了。",
+          "exampleHighlights": [
+            "pane"
+          ]
+        }
+      ],
+      "meaning": "一片窗玻璃；玻璃板",
+      "example": "One pane of the window was cracked.",
+      "translation": "窗户的一片玻璃裂了。"
+    },
+    "original": "pane",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "wood scaffolding",
+    "originals": [
+      "wood scaffolding"
+    ],
+    "back": {
+      "core": "scaffolding 是支撑用的架构：建筑中是脚手架；材料语境中可能是木材保留下来的支撑骨架。",
+      "senses": [
+        {
+          "term": "wood scaffolding",
+          "pos": "n. 短语",
+          "meaning": "木质支撑骨架；木制脚手架",
+          "example": "The polymer filled the spaces in the wood scaffolding.",
+          "translation": "聚合物填充了木质支撑骨架中的空隙。",
+          "exampleHighlights": [
+            "wood scaffolding"
+          ]
+        }
+      ],
+      "meaning": "木质支撑骨架；木制脚手架",
+      "example": "The polymer filled the spaces in the wood scaffolding.",
+      "translation": "聚合物填充了木质支撑骨架中的空隙。"
+    },
+    "original": "wood scaffolding",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "petroleum",
+    "originals": [
+      "petroleum"
+    ],
+    "back": {
+      "core": "从地下开采的石油类原料，不要直接等同于汽油 petrol。",
+      "senses": [
+        {
+          "term": "petroleum",
+          "pos": "n.",
+          "meaning": "石油",
+          "example": "Many plastics are made from petroleum.",
+          "translation": "许多塑料以石油为原料制成。",
+          "exampleHighlights": [
+            "petroleum"
+          ]
+        }
+      ],
+      "meaning": "石油",
+      "example": "Many plastics are made from petroleum.",
+      "translation": "许多塑料以石油为原料制成。"
+    },
+    "original": "petroleum",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "citrus",
+    "originals": [
+      "citrus"
+    ],
+    "back": {
+      "core": "柑橘类植物或水果的统称，包括橙、柠檬等。",
+      "senses": [
+        {
+          "term": "citrus",
+          "pos": "n./adj.",
+          "meaning": "柑橘类水果；柑橘类的",
+          "example": "The cleaner has a fresh citrus scent.",
+          "translation": "这种清洁剂带有清新的柑橘香味。",
+          "exampleHighlights": [
+            "citrus"
+          ]
+        }
+      ],
+      "meaning": "柑橘类水果；柑橘类的",
+      "example": "The cleaner has a fresh citrus scent.",
+      "translation": "这种清洁剂带有清新的柑橘香味。"
+    },
+    "original": "citrus",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "peel",
+    "originals": [
+      "peels"
+    ],
+    "back": {
+      "core": "从表面把皮剥开：动作是剥皮，剥下的薄皮也是 peel。",
+      "senses": [
+        {
+          "term": "peel",
+          "pos": "n.",
+          "meaning": "果皮；蔬菜皮",
+          "example": "The orange peels were dried in the sun.",
+          "translation": "这些橙皮被放在太阳下晒干。",
+          "exampleHighlights": [
+            "peels"
+          ]
+        },
+        {
+          "term": "peel",
+          "pos": "v.",
+          "meaning": "剥皮；脱落",
+          "example": "Peel the carrots before cooking.",
+          "translation": "烹饪前给胡萝卜削皮。",
+          "exampleHighlights": [
+            "Peel"
+          ]
+        }
+      ],
+      "meaning": "果皮；蔬菜皮",
+      "example": "The orange peels were dried in the sun.",
+      "translation": "这些橙皮被放在太阳下晒干。"
+    },
+    "original": "peels",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "rind",
+    "originals": [
+      "rind"
+    ],
+    "back": {
+      "core": "包在食物外面的较硬、较厚的一层，常说柑橘皮、瓜皮或奶酪外皮。",
+      "senses": [
+        {
+          "term": "rind",
+          "pos": "n.",
+          "meaning": "厚外皮；硬皮",
+          "example": "Grate a little lemon rind into the bowl.",
+          "translation": "往碗里磨入少许柠檬皮。",
+          "exampleHighlights": [
+            "rind"
+          ]
+        }
+      ],
+      "meaning": "厚外皮；硬皮",
+      "example": "Grate a little lemon rind into the bowl.",
+      "translation": "往碗里磨入少许柠檬皮。"
+    },
+    "original": "rind",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "essential oil",
+    "originals": [
+      "essential oil"
+    ],
+    "back": {
+      "core": "这里 essential 与植物的香味精华有关；整个短语是“精油”，不是“必不可少的油”。",
+      "senses": [
+        {
+          "term": "essential oil",
+          "pos": "n. 短语",
+          "meaning": "精油；植物挥发油",
+          "example": "The peel contains essential oil.",
+          "translation": "果皮含有精油。",
+          "exampleHighlights": [
+            "essential oil"
+          ]
+        }
+      ],
+      "meaning": "精油；植物挥发油",
+      "example": "The peel contains essential oil.",
+      "translation": "果皮含有精油。"
+    },
+    "original": "essential oil",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "impregnate A with B",
+    "originals": [
+      "impregnate A with B"
+    ],
+    "back": {
+      "core": "把 B 引入 A 的内部，使 A 被它浸透；材料语境中不是只在表面涂一层。",
+      "senses": [
+        {
+          "term": "impregnate A with B",
+          "pos": "phr.",
+          "meaning": "用 B 浸渍 A；使 A 充满 B",
+          "example": "They impregnated the wood with resin.",
+          "translation": "他们用树脂浸渍木材。",
+          "exampleHighlights": [
+            "impregnated",
+            "with"
+          ]
+        }
+      ],
+      "meaning": "用 B 浸渍 A；使 A 充满 B",
+      "example": "They impregnated the wood with resin.",
+      "translation": "他们用树脂浸渍木材。"
+    },
+    "original": "impregnate A with B",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "fruity",
+    "originals": [
+      "fruity"
+    ],
+    "back": {
+      "core": "气味或味道让人联想到水果，不一定真的含有水果。",
+      "senses": [
+        {
+          "term": "fruity",
+          "pos": "adj.",
+          "meaning": "有水果香味的；果味的",
+          "example": "The drink has a fruity aroma.",
+          "translation": "这款饮料有果香。",
+          "exampleHighlights": [
+            "fruity"
+          ]
+        }
+      ],
+      "meaning": "有水果香味的；果味的",
+      "example": "The drink has a fruity aroma.",
+      "translation": "这款饮料有果香。"
+    },
+    "original": "fruity",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "withstand",
+    "originals": [
+      "withstand"
+    ],
+    "back": {
+      "core": "面对压力、冲击或困难仍能保持完好或不屈服。过去式为 withstood。",
+      "senses": [
+        {
+          "term": "withstand",
+          "pos": "v.",
+          "meaning": "承受；经受住；抵挡",
+          "example": "The material can withstand high temperatures.",
+          "translation": "这种材料能耐受高温。",
+          "exampleHighlights": [
+            "withstand"
+          ]
+        }
+      ],
+      "meaning": "承受；经受住；抵挡",
+      "example": "The material can withstand high temperatures.",
+      "translation": "这种材料能耐受高温。"
+    },
+    "original": "withstand",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "brush",
+    "originals": [
+      "brush"
+    ],
+    "back": {
+      "core": "用刷毛轻扫是基本画面；既是刷子和刷的动作，也可表示轻轻擦过或短暂接触。",
+      "senses": [
+        {
+          "term": "brush",
+          "pos": "n./v.",
+          "meaning": "刷子；刷；轻扫",
+          "example": "Use a soft brush to clean the surface.",
+          "translation": "用软刷清洁表面。",
+          "exampleHighlights": [
+            "brush"
+          ]
+        },
+        {
+          "term": "brush",
+          "pos": "v.",
+          "meaning": "轻擦；掠过",
+          "example": "Her sleeve brushed against the wall.",
+          "translation": "她的袖子轻轻擦过墙面。",
+          "exampleHighlights": [
+            "brushed"
+          ]
+        },
+        {
+          "term": "brush",
+          "pos": "n.",
+          "meaning": "短暂接触或遭遇（a brush with）",
+          "example": "He had a brush with danger on the trip.",
+          "translation": "他在旅途中曾短暂遭遇险情。",
+          "exampleHighlights": [
+            "brush"
+          ]
+        }
+      ],
+      "meaning": "刷子；刷；轻扫",
+      "example": "Use a soft brush to clean the surface.",
+      "translation": "用软刷清洁表面。"
+    },
+    "original": "brush",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "brush something with something",
+    "originals": [
+      "brush something with something"
+    ],
+    "back": {
+      "core": "用刷子把某种液体轻轻涂到物体表面；注意物体和涂料的位置。",
+      "senses": [
+        {
+          "term": "brush something with something",
+          "pos": "phr.",
+          "meaning": "在某物上刷上某种东西",
+          "example": "Brush the wood with oil.",
+          "translation": "在木材表面刷上油。",
+          "exampleHighlights": [
+            "Brush",
+            "with"
+          ]
+        }
+      ],
+      "meaning": "在某物上刷上某种东西",
+      "example": "Brush the wood with oil.",
+      "translation": "在木材表面刷上油。"
+    },
+    "original": "brush something with something",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "slice",
+    "originals": [
+      "slices"
+    ],
+    "back": {
+      "core": "从整体切下一片薄的部分：可以是食物薄片，也可以是份额或切片动作。",
+      "senses": [
+        {
+          "term": "slice",
+          "pos": "n.",
+          "meaning": "薄片；一部分；份额",
+          "example": "Cut the bread into thin slices.",
+          "translation": "把面包切成薄片。",
+          "exampleHighlights": [
+            "slices"
+          ]
+        },
+        {
+          "term": "slice",
+          "pos": "v.",
+          "meaning": "切成薄片；切开",
+          "example": "Slice the fruit carefully.",
+          "translation": "小心把水果切片。",
+          "exampleHighlights": [
+            "Slice"
+          ]
+        }
+      ],
+      "meaning": "薄片；一部分；份额",
+      "example": "Cut the bread into thin slices.",
+      "translation": "把面包切成薄片。"
+    },
+    "original": "slices",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "pigment",
+    "originals": [
+      "pigment"
+    ],
+    "back": {
+      "core": "赋予物体颜色的物质：既可指颜料，也可指皮肤、植物等中的色素。",
+      "senses": [
+        {
+          "term": "pigment",
+          "pos": "n.",
+          "meaning": "颜料；色素",
+          "example": "The pigment gives the coating its blue colour.",
+          "translation": "这种颜料使涂层呈蓝色。",
+          "exampleHighlights": [
+            "pigment"
+          ]
+        }
+      ],
+      "meaning": "颜料；色素",
+      "example": "The pigment gives the coating its blue colour.",
+      "translation": "这种颜料使涂层呈蓝色。"
+    },
+    "original": "pigment",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "intact",
+    "originals": [
+      "intact"
+    ],
+    "back": {
+      "core": "整体没有被破坏，关键部分仍完整保留。",
+      "senses": [
+        {
+          "term": "intact",
+          "pos": "adj.",
+          "meaning": "完整无损的；未受损的",
+          "example": "The original structure remained intact.",
+          "translation": "原有结构保持完整。",
+          "exampleHighlights": [
+            "intact"
+          ]
+        }
+      ],
+      "meaning": "完整无损的；未受损的",
+      "example": "The original structure remained intact.",
+      "translation": "原有结构保持完整。"
+    },
+    "original": "intact",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "end-of-life",
+    "originals": [
+      "end-of-life"
+    ],
+    "back": {
+      "core": "描述产品到达使用寿命末端的阶段；医疗语境也可指生命末期，具体看被修饰的对象。",
+      "senses": [
+        {
+          "term": "end-of-life",
+          "pos": "adj./n. 短语",
+          "meaning": "寿命终结阶段的；报废阶段",
+          "example": "The study examined end-of-life recycling options.",
+          "translation": "研究考察了产品报废后的回收方案。",
+          "exampleHighlights": [
+            "end-of-life"
+          ]
+        }
+      ],
+      "meaning": "寿命终结阶段的；报废阶段",
+      "example": "The study examined end-of-life recycling options.",
+      "translation": "研究考察了产品报废后的回收方案。"
+    },
+    "original": "end-of-life",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "scale",
+    "originals": [
+      "scaling"
+    ],
+    "back": {
+      "core": "本次 scaling 可按“规模改变”理解；scale up 扩大，scale down 缩小。scale 另有刻度、秤等常见名词义。",
+      "senses": [
+        {
+          "term": "scale",
+          "pos": "v.",
+          "meaning": "扩大或缩小规模；按比例调整",
+          "example": "The company is scaling up production.",
+          "translation": "公司正在扩大生产规模。",
+          "exampleHighlights": [
+            "scaling"
+          ]
+        },
+        {
+          "term": "scale",
+          "pos": "n.",
+          "meaning": "规模；程度；比例尺；刻度",
+          "example": "The project operates on a large scale.",
+          "translation": "这个项目规模很大。",
+          "exampleHighlights": [
+            "scale"
+          ]
+        },
+        {
+          "term": "scale",
+          "pos": "n.",
+          "meaning": "秤；鳞片",
+          "example": "The fish's scales shone in the light.",
+          "translation": "鱼鳞在光下闪亮。",
+          "exampleHighlights": [
+            "scales"
+          ]
+        }
+      ],
+      "meaning": "扩大或缩小规模；按比例调整",
+      "example": "The company is scaling up production.",
+      "translation": "公司正在扩大生产规模。"
+    },
+    "original": "scaling",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "archival",
+    "originals": [
+      "archival"
+    ],
+    "back": {
+      "core": "与档案保存和长期留存有关：既可形容档案中的资料，也可形容适合长期保存的材料。",
+      "senses": [
+        {
+          "term": "archival",
+          "pos": "adj.",
+          "meaning": "档案的；适合长期保存的",
+          "example": "The museum uses archival boxes to store documents.",
+          "translation": "博物馆用档案保存盒存放文献。",
+          "exampleHighlights": [
+            "archival"
+          ]
+        }
+      ],
+      "meaning": "档案的；适合长期保存的",
+      "example": "The museum uses archival boxes to store documents.",
+      "translation": "博物馆用档案保存盒存放文献。"
+    },
+    "original": "archival",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "aroma",
+    "originals": [
+      "aromas"
+    ],
+    "back": {
+      "core": "通常带有令人愉快、可辨认的香气，常用于食物、饮料或植物。",
+      "senses": [
+        {
+          "term": "aroma",
+          "pos": "n.",
+          "meaning": "香气；芳香",
+          "example": "The kitchen was filled with the aroma of coffee.",
+          "translation": "厨房里弥漫着咖啡香。",
+          "exampleHighlights": [
+            "aroma"
+          ]
+        }
+      ],
+      "meaning": "香气；芳香",
+      "example": "The kitchen was filled with the aroma of coffee.",
+      "translation": "厨房里弥漫着咖啡香。"
+    },
+    "original": "aromas",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "mummy",
+    "originals": [
+      "mummies"
+    ],
+    "back": {
+      "core": "文物语境通常是保存下来的干燥遗体；英式口语中同形词也可表示“妈妈”。",
+      "senses": [
+        {
+          "term": "mummy",
+          "pos": "n.",
+          "meaning": "木乃伊",
+          "example": "The museum displayed an ancient mummy.",
+          "translation": "博物馆展出了一具古代木乃伊。",
+          "exampleHighlights": [
+            "mummy"
+          ]
+        },
+        {
+          "term": "mummy",
+          "pos": "n.",
+          "meaning": "妈妈（英式儿童用语）",
+          "example": "The child called for her mummy.",
+          "translation": "小女孩喊妈妈。",
+          "exampleHighlights": [
+            "mummy"
+          ]
+        }
+      ],
+      "meaning": "木乃伊",
+      "example": "The museum displayed an ancient mummy.",
+      "translation": "博物馆展出了一具古代木乃伊。"
+    },
+    "original": "mummies",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "primal",
+    "originals": [
+      "primal"
+    ],
+    "back": {
+      "core": "来自很早或很深层的本能，不是后来经过复杂思考形成的。",
+      "senses": [
+        {
+          "term": "primal",
+          "pos": "adj.",
+          "meaning": "原始的；本能的；根本的",
+          "example": "The smell triggered a primal fear.",
+          "translation": "这种气味触发了一种本能的恐惧。",
+          "exampleHighlights": [
+            "primal"
+          ]
+        }
+      ],
+      "meaning": "原始的；本能的；根本的",
+      "example": "The smell triggered a primal fear.",
+      "translation": "这种气味触发了一种本能的恐惧。"
+    },
+    "original": "primal",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "intimacy",
+    "originals": [
+      "intimacy"
+    ],
+    "back": {
+      "core": "关系上的距离很近：可以指亲密，也可以指对某事非常熟悉。",
+      "senses": [
+        {
+          "term": "intimacy",
+          "pos": "n.",
+          "meaning": "亲密；亲近感",
+          "example": "Sharing memories created a sense of intimacy.",
+          "translation": "分享回忆让人产生了亲近感。",
+          "exampleHighlights": [
+            "intimacy"
+          ]
+        },
+        {
+          "term": "intimacy",
+          "pos": "n.",
+          "meaning": "熟悉；深入了解（intimacy with）",
+          "example": "The book reveals her intimacy with the city.",
+          "translation": "这本书展现了她对这座城市的深入了解。",
+          "exampleHighlights": [
+            "intimacy"
+          ]
+        }
+      ],
+      "meaning": "亲密；亲近感",
+      "example": "Sharing memories created a sense of intimacy.",
+      "translation": "分享回忆让人产生了亲近感。"
+    },
+    "original": "intimacy",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "deputy",
+    "originals": [
+      "deputy"
+    ],
+    "back": {
+      "core": "在主要负责人之下协助工作，并可代替其履职的人。",
+      "senses": [
+        {
+          "term": "deputy",
+          "pos": "n./adj.",
+          "meaning": "副手；代理人；副职的",
+          "example": "The deputy director opened the meeting.",
+          "translation": "副主任宣布会议开始。",
+          "exampleHighlights": [
+            "deputy"
+          ]
+        }
+      ],
+      "meaning": "副手；代理人；副职的",
+      "example": "The deputy director opened the meeting.",
+      "translation": "副主任宣布会议开始。"
+    },
+    "original": "deputy",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "devoted",
+    "originals": [
+      "devoted"
+    ],
+    "back": {
+      "core": "把心力和注意力持续投入某人或某事；常用 devoted to。",
+      "senses": [
+        {
+          "term": "devoted",
+          "pos": "adj.",
+          "meaning": "忠诚的；挚爱的；专心投入的",
+          "example": "She is devoted to her family.",
+          "translation": "她全心全意地关爱家人。",
+          "exampleHighlights": [
+            "devoted"
+          ]
+        },
+        {
+          "term": "devoted",
+          "pos": "分词",
+          "meaning": "专门用于；致力于",
+          "example": "The exhibition is devoted to local history.",
+          "translation": "这个展览专门介绍当地历史。",
+          "exampleHighlights": [
+            "devoted to"
+          ]
+        }
+      ],
+      "meaning": "忠诚的；挚爱的；专心投入的",
+      "example": "She is devoted to her family.",
+      "translation": "她全心全意地关爱家人。"
+    },
+    "original": "devoted",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "interdisciplinary",
+    "originals": [
+      "interdisciplinary"
+    ],
+    "back": {
+      "core": "跨越单一学科的边界，让多个学科共同研究同一问题。",
+      "senses": [
+        {
+          "term": "interdisciplinary",
+          "pos": "adj.",
+          "meaning": "跨学科的",
+          "example": "The project needs an interdisciplinary team.",
+          "translation": "这个项目需要一支跨学科团队。",
+          "exampleHighlights": [
+            "interdisciplinary"
+          ]
+        }
+      ],
+      "meaning": "跨学科的",
+      "example": "The project needs an interdisciplinary team.",
+      "translation": "这个项目需要一支跨学科团队。"
+    },
+    "original": "interdisciplinary",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "scent",
+    "originals": [
+      "scents"
+    ],
+    "back": {
+      "core": "能被嗅觉捕捉的气味：可能是香味，也可能是供动物追踪的气味痕迹。",
+      "senses": [
+        {
+          "term": "scent",
+          "pos": "n.",
+          "meaning": "气味；香味；气味踪迹",
+          "example": "The dog followed the scent through the forest.",
+          "translation": "狗循着气味穿过森林。",
+          "exampleHighlights": [
+            "scent"
+          ]
+        },
+        {
+          "term": "scent",
+          "pos": "v.",
+          "meaning": "闻到；嗅出；使带香味",
+          "example": "The room was scented with lavender.",
+          "translation": "房间里散发着薰衣草香味。",
+          "exampleHighlights": [
+            "scented"
+          ]
+        }
+      ],
+      "meaning": "气味；香味；气味踪迹",
+      "example": "The dog followed the scent through the forest.",
+      "translation": "狗循着气味穿过森林。"
+    },
+    "original": "scents",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "odor",
+    "originals": [
+      "odor"
+    ],
+    "back": {
+      "core": "指气味本身，常用于较技术或正式的语境，也常指不悦的气味；英式拼写为 odour。",
+      "senses": [
+        {
+          "term": "odor",
+          "pos": "n.",
+          "meaning": "气味；臭味",
+          "example": "A strong odor came from the container.",
+          "translation": "容器里传出浓烈的气味。",
+          "exampleHighlights": [
+            "odor"
+          ]
+        }
+      ],
+      "meaning": "气味；臭味",
+      "example": "A strong odor came from the container.",
+      "translation": "容器里传出浓烈的气味。"
+    },
+    "original": "odor",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "gallery",
+    "originals": [
+      "gallery"
+    ],
+    "back": {
+      "core": "展示作品或物品的空间是常见义；建筑中也可指长廊或楼上的看台。",
+      "senses": [
+        {
+          "term": "gallery",
+          "pos": "n.",
+          "meaning": "画廊；美术馆；展厅",
+          "example": "The gallery opened a new exhibition.",
+          "translation": "美术馆开办了一场新展览。",
+          "exampleHighlights": [
+            "gallery"
+          ]
+        },
+        {
+          "term": "gallery",
+          "pos": "n.",
+          "meaning": "楼座；旁听席；长廊",
+          "example": "Visitors watched from the upper gallery.",
+          "translation": "访客从上层看台观看。",
+          "exampleHighlights": [
+            "gallery"
+          ]
+        }
+      ],
+      "meaning": "画廊；美术馆；展厅",
+      "example": "The gallery opened a new exhibition.",
+      "translation": "美术馆开办了一场新展览。"
+    },
+    "original": "gallery",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "exhibit",
+    "originals": [
+      "exhibits"
+    ],
+    "back": {
+      "core": "把东西展示给别人看：东西是展品，动作是展示；也可表现出某种特征。",
+      "senses": [
+        {
+          "term": "exhibit",
+          "pos": "n.",
+          "meaning": "展品；展览中的陈列物",
+          "example": "The exhibits include ancient tools.",
+          "translation": "展品包括古代工具。",
+          "exampleHighlights": [
+            "exhibits"
+          ]
+        },
+        {
+          "term": "exhibit",
+          "pos": "v.",
+          "meaning": "展出；表现出",
+          "example": "The material exhibits unusual properties.",
+          "translation": "这种材料表现出不同寻常的性质。",
+          "exampleHighlights": [
+            "exhibits"
+          ]
+        }
+      ],
+      "meaning": "展品；展览中的陈列物",
+      "example": "The exhibits include ancient tools.",
+      "translation": "展品包括古代工具。"
+    },
+    "original": "exhibits",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "uninitiated",
+    "originals": [
+      "uninitiated"
+    ],
+    "back": {
+      "core": "还没有接触某个专门领域、不了解其规则或知识的人；不等于没受过教育。",
+      "senses": [
+        {
+          "term": "uninitiated",
+          "pos": "adj./n.",
+          "meaning": "外行的；缺乏相关知识的人",
+          "example": "The terms may confuse the uninitiated.",
+          "translation": "这些术语可能让外行感到困惑。",
+          "exampleHighlights": [
+            "uninitiated"
+          ]
+        }
+      ],
+      "meaning": "外行的；缺乏相关知识的人",
+      "example": "The terms may confuse the uninitiated.",
+      "translation": "这些术语可能让外行感到困惑。"
+    },
+    "original": "uninitiated",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "formalize",
+    "originals": [
+      "formalized"
+    ],
+    "back": {
+      "core": "把原本非正式或模糊的安排变成明确、正式的规则或协议。",
+      "senses": [
+        {
+          "term": "formalize",
+          "pos": "v.",
+          "meaning": "使正式化；明确规定",
+          "example": "They formalized the agreement in writing.",
+          "translation": "他们以书面形式正式确定了协议。",
+          "exampleHighlights": [
+            "formalized"
+          ]
+        }
+      ],
+      "meaning": "使正式化；明确规定",
+      "example": "They formalized the agreement in writing.",
+      "translation": "他们以书面形式正式确定了协议。"
+    },
+    "original": "formalized",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "discipline",
+    "originals": [
+      "disciplines"
+    ],
+    "back": {
+      "core": "围绕训练、规则和系统知识来理解：可以是纪律，也可以是一门有体系的学科。",
+      "senses": [
+        {
+          "term": "discipline",
+          "pos": "n.",
+          "meaning": "学科；研究领域",
+          "example": "The project brings together several disciplines.",
+          "translation": "这个项目汇集了多个学科。",
+          "exampleHighlights": [
+            "disciplines"
+          ]
+        },
+        {
+          "term": "discipline",
+          "pos": "n.",
+          "meaning": "纪律；自律；训练",
+          "example": "Writing every day requires discipline.",
+          "translation": "每天写作需要自律。",
+          "exampleHighlights": [
+            "discipline"
+          ]
+        },
+        {
+          "term": "discipline",
+          "pos": "v.",
+          "meaning": "训练；管教；惩戒",
+          "example": "The school disciplined students who broke the rules.",
+          "translation": "学校处分了违反规定的学生。",
+          "exampleHighlights": [
+            "disciplined"
+          ]
+        }
+      ],
+      "meaning": "学科；研究领域",
+      "example": "The project brings together several disciplines.",
+      "translation": "这个项目汇集了多个学科。"
+    },
+    "original": "disciplines",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "olfactory",
+    "originals": [
+      "olfactory"
+    ],
+    "back": {
+      "core": "专指与嗅觉有关的，常见于感官、记忆和神经科学的描述。",
+      "senses": [
+        {
+          "term": "olfactory",
+          "pos": "adj.",
+          "meaning": "嗅觉的",
+          "example": "The study explored olfactory memory.",
+          "translation": "研究探讨了嗅觉记忆。",
+          "exampleHighlights": [
+            "olfactory"
+          ]
+        }
+      ],
+      "meaning": "嗅觉的",
+      "example": "The study explored olfactory memory.",
+      "translation": "研究探讨了嗅觉记忆。"
+    },
+    "original": "olfactory",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "beloved",
+    "originals": [
+      "beloved"
+    ],
+    "back": {
+      "core": "被深深喜爱或珍爱，语气比普通的 liked 更强。",
+      "senses": [
+        {
+          "term": "beloved",
+          "pos": "adj.",
+          "meaning": "深受喜爱的；心爱的",
+          "example": "The old theatre is a beloved local landmark.",
+          "translation": "这座老剧院是深受当地人喜爱的地标。",
+          "exampleHighlights": [
+            "beloved"
+          ]
+        }
+      ],
+      "meaning": "深受喜爱的；心爱的",
+      "example": "The old theatre is a beloved local landmark.",
+      "translation": "这座老剧院是深受当地人喜爱的地标。"
+    },
+    "original": "beloved",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "scheduled",
+    "originals": [
+      "scheduled"
+    ],
+    "back": {
+      "core": "已经被放进时间安排中；它表示按计划，不保证绝不会变动。",
+      "senses": [
+        {
+          "term": "scheduled",
+          "pos": "adj./分词",
+          "meaning": "预定的；按计划安排的",
+          "example": "The scheduled visit was postponed.",
+          "translation": "原定的参观被推迟了。",
+          "exampleHighlights": [
+            "scheduled"
+          ]
+        }
+      ],
+      "meaning": "预定的；按计划安排的",
+      "example": "The scheduled visit was postponed.",
+      "translation": "原定的参观被推迟了。"
+    },
+    "original": "scheduled",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "set about doing something",
+    "originals": [
+      "set about doing something"
+    ],
+    "back": {
+      "core": "开始着手一项需要行动的事情。about 是介词，后面接 doing。",
+      "senses": [
+        {
+          "term": "set about doing something",
+          "pos": "phr.",
+          "meaning": "开始着手做某事",
+          "example": "They set about restoring the building.",
+          "translation": "他们着手修复这栋建筑。",
+          "exampleHighlights": [
+            "set about"
+          ]
+        }
+      ],
+      "meaning": "开始着手做某事",
+      "example": "They set about restoring the building.",
+      "translation": "他们着手修复这栋建筑。"
+    },
+    "original": "set about doing something",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "waft",
+    "originals": [
+      "wafting"
+    ],
+    "back": {
+      "core": "随空气轻柔地飘动，常用于香味、烟或音乐。",
+      "senses": [
+        {
+          "term": "waft",
+          "pos": "v.",
+          "meaning": "飘荡；随风送来",
+          "example": "The smell of bread was wafting through the kitchen.",
+          "translation": "面包香在厨房里飘荡。",
+          "exampleHighlights": [
+            "wafting"
+          ]
+        }
+      ],
+      "meaning": "飘荡；随风送来",
+      "example": "The smell of bread was wafting through the kitchen.",
+      "translation": "面包香在厨房里飘荡。"
+    },
+    "original": "wafting",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "furnishings",
+    "originals": [
+      "furnishings"
+    ],
+    "back": {
+      "core": "让室内可用、舒适的家具和陈设的总称，通常用复数。",
+      "senses": [
+        {
+          "term": "furnishings",
+          "pos": "n. 复数",
+          "meaning": "家具陈设；室内装饰物",
+          "example": "The room's furnishings were simple but comfortable.",
+          "translation": "房间的家具陈设简单却舒适。",
+          "exampleHighlights": [
+            "furnishings"
+          ]
+        }
+      ],
+      "meaning": "家具陈设；室内装饰物",
+      "example": "The room's furnishings were simple but comfortable.",
+      "translation": "房间的家具陈设简单却舒适。"
+    },
+    "original": "furnishings",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "quantify",
+    "originals": [
+      "quantify"
+    ],
+    "back": {
+      "core": "把笼统的“多、少、强、弱”转换成可以用数字表达的量。",
+      "senses": [
+        {
+          "term": "quantify",
+          "pos": "v.",
+          "meaning": "量化；用数量表示",
+          "example": "It is difficult to quantify the benefits.",
+          "translation": "这些好处很难量化。",
+          "exampleHighlights": [
+            "quantify"
+          ]
+        }
+      ],
+      "meaning": "量化；用数量表示",
+      "example": "It is difficult to quantify the benefits.",
+      "translation": "这些好处很难量化。"
+    },
+    "original": "quantify",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "volatile",
+    "originals": [
+      "volatile"
+    ],
+    "back": {
+      "core": "容易迅速发生变化：液体容易变成气体是易挥发；市场或情绪变化剧烈是不稳定。",
+      "senses": [
+        {
+          "term": "volatile",
+          "pos": "adj.",
+          "meaning": "易挥发的",
+          "example": "The liquid contains volatile compounds.",
+          "translation": "这种液体含有易挥发的化合物。",
+          "exampleHighlights": [
+            "volatile"
+          ]
+        },
+        {
+          "term": "volatile",
+          "pos": "adj.",
+          "meaning": "不稳定的；易突变的；情绪无常的",
+          "example": "Prices remain volatile.",
+          "translation": "价格仍然波动剧烈。",
+          "exampleHighlights": [
+            "volatile"
+          ]
+        }
+      ],
+      "meaning": "易挥发的",
+      "example": "The liquid contains volatile compounds.",
+      "translation": "这种液体含有易挥发的化合物。"
+    },
+    "original": "volatile",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "compound",
+    "originals": [
+      "compounds"
+    ],
+    "back": {
+      "core": "把多个部分放在一起：物质可形成化合物，词可组成复合词；问题叠加则变得更严重。",
+      "senses": [
+        {
+          "term": "compound",
+          "pos": "n.",
+          "meaning": "化合物；复合物",
+          "example": "The sample contains several organic compounds.",
+          "translation": "样品含有几种有机化合物。",
+          "exampleHighlights": [
+            "compounds"
+          ]
+        },
+        {
+          "term": "compound",
+          "pos": "v.",
+          "meaning": "加重；使复杂化",
+          "example": "The delay compounded the problem.",
+          "translation": "延误使问题更加严重。",
+          "exampleHighlights": [
+            "compounded"
+          ]
+        },
+        {
+          "term": "compound",
+          "pos": "adj./n.",
+          "meaning": "复合的；有围墙的院落",
+          "example": "They entered the embassy compound.",
+          "translation": "他们进入了大使馆院区。",
+          "exampleHighlights": [
+            "compound"
+          ]
+        }
+      ],
+      "meaning": "化合物；复合物",
+      "example": "The sample contains several organic compounds.",
+      "translation": "样品含有几种有机化合物。"
+    },
+    "original": "compounds",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "whittle",
+    "originals": [
+      "whittle"
+    ],
+    "back": {
+      "core": "用刀一点一点削木头；引申为逐步削减，常用 whittle down。",
+      "senses": [
+        {
+          "term": "whittle",
+          "pos": "v.",
+          "meaning": "削刻；逐步削减",
+          "example": "They whittled down the list to five names.",
+          "translation": "他们把名单逐步缩减到五个人。",
+          "exampleHighlights": [
+            "whittled down"
+          ]
+        }
+      ],
+      "meaning": "削刻；逐步削减",
+      "example": "They whittled down the list to five names.",
+      "translation": "他们把名单逐步缩减到五个人。"
+    },
+    "original": "whittle",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "cathedral",
+    "originals": [
+      "cathedral"
+    ],
+    "back": {
+      "core": "作为主教座堂的教堂，常是城市中的大型重要教堂，但关键在于其宗教地位。",
+      "senses": [
+        {
+          "term": "cathedral",
+          "pos": "n.",
+          "meaning": "主教座堂；大教堂",
+          "example": "The cathedral stands in the city centre.",
+          "translation": "大教堂坐落在市中心。",
+          "exampleHighlights": [
+            "cathedral"
+          ]
+        }
+      ],
+      "meaning": "主教座堂；大教堂",
+      "example": "The cathedral stands in the city centre.",
+      "translation": "大教堂坐落在市中心。"
+    },
+    "original": "cathedral",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "commonly",
+    "originals": [
+      "commonly"
+    ],
+    "back": {
+      "core": "某种情况经常出现，或某种做法被很多人采用。",
+      "senses": [
+        {
+          "term": "commonly",
+          "pos": "adv.",
+          "meaning": "通常；普遍地；常见地",
+          "example": "This material is commonly used in packaging.",
+          "translation": "这种材料常用于包装。",
+          "exampleHighlights": [
+            "commonly"
+          ]
+        }
+      ],
+      "meaning": "通常；普遍地；常见地",
+      "example": "This material is commonly used in packaging.",
+      "translation": "这种材料常用于包装。"
+    },
+    "original": "commonly",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "sniff",
+    "originals": [
+      "sniff"
+    ],
+    "back": {
+      "core": "短促地用鼻子吸气：为了闻气味可以嗅，也可能是抽鼻子。",
+      "senses": [
+        {
+          "term": "sniff",
+          "pos": "v./n.",
+          "meaning": "嗅；闻；抽鼻子",
+          "example": "She sniffed the air for smoke.",
+          "translation": "她嗅了嗅空气，看看有没有烟味。",
+          "exampleHighlights": [
+            "sniffed"
+          ]
+        }
+      ],
+      "meaning": "嗅；闻；抽鼻子",
+      "example": "She sniffed the air for smoke.",
+      "translation": "她嗅了嗅空气，看看有没有烟味。"
+    },
+    "original": "sniff",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "evoke",
+    "originals": [
+      "evoke"
+    ],
+    "back": {
+      "core": "让某种感觉、记忆或画面在心中出现；不是直接把事实讲出来。",
+      "senses": [
+        {
+          "term": "evoke",
+          "pos": "v.",
+          "meaning": "唤起；引起；使人想起",
+          "example": "The scent evoked memories of childhood.",
+          "translation": "这种气味唤起了童年回忆。",
+          "exampleHighlights": [
+            "evoked"
+          ]
+        }
+      ],
+      "meaning": "唤起；引起；使人想起",
+      "example": "The scent evoked memories of childhood.",
+      "translation": "这种气味唤起了童年回忆。"
+    },
+    "original": "evoke",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "almond",
+    "originals": [
+      "almond"
+    ],
+    "back": {
+      "core": "常见坚果名称，食品语境通常指扁桃仁，也称巴旦木；不要默认等同于所有中文“杏仁”。",
+      "senses": [
+        {
+          "term": "almond",
+          "pos": "n.",
+          "meaning": "扁桃仁；巴旦木；扁桃树",
+          "example": "The cake contains ground almonds.",
+          "translation": "这块蛋糕含有磨碎的扁桃仁。",
+          "exampleHighlights": [
+            "almonds"
+          ]
+        }
+      ],
+      "meaning": "扁桃仁；巴旦木；扁桃树",
+      "example": "The cake contains ground almonds.",
+      "translation": "这块蛋糕含有磨碎的扁桃仁。"
+    },
+    "original": "almond",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "conservator",
+    "originals": [
+      "conservators"
+    ],
+    "back": {
+      "core": "负责照料、保护某种对象的人；博物馆语境通常指文物保护修复人员。",
+      "senses": [
+        {
+          "term": "conservator",
+          "pos": "n.",
+          "meaning": "文物保护修复人员；保管者",
+          "example": "Conservators carefully cleaned the painting.",
+          "translation": "文物修复人员仔细清理了这幅画。",
+          "exampleHighlights": [
+            "Conservators"
+          ]
+        }
+      ],
+      "meaning": "文物保护修复人员；保管者",
+      "example": "Conservators carefully cleaned the painting.",
+      "translation": "文物修复人员仔细清理了这幅画。"
+    },
+    "original": "conservators",
+    "batches": [
+      {
+        "date": "2026-10-19",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "front": "hay",
+    "originals": [
+      "hay"
+    ],
+    "back": {
+      "core": "晒干、用作动物饲料的草；不同于主要来自谷物茎秆的 straw“稻草、麦秆”。",
+      "senses": [
+        {
+          "term": "hay",
+          "pos": "n.",
+          "meaning": "干草（饲料）",
+          "example": "The farmer stored hay for the winter.",
+          "translation": "农民储存了过冬用的干草。",
+          "exampleHighlights": [
+            "hay"
+          ]
+        }
+      ],
+      "meaning": "干草（饲料）",
+      "example": "The farmer stored hay for the winter.",
+      "translation": "农民储存了过冬用的干草。"
+    },
+    "original": "hay",
+    "batches": [
+      {
+        "date": "2026-10-19",
         "repeat": false
       }
     ]

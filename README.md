@@ -120,3 +120,12 @@ Safari 打开 HTTPS 网址，分享 → 添加到主屏幕。首次联网访问�
 - 最新队列 109 张，全部 346 张。之前的 10 月 15 日批次仍为 142 张。
 - 新词都含核心理解、释义、例句；多义词按可用空间同屏展开，放不下再分页。
 - public/data/imports/2026-10-16.json 记录输入词形、归并目标和本次统计。
+
+## 2026-10-19 Mac 词表导入
+
+- 使用 UTF-8、LF 换行的生词.txt；一行一个完整词或短语。world.txt 为 0 字节，跳过，不视为清空词库指令。
+- 80 条输入，intimacy 在本批重复一次，归并后 79 张。新增 77 张，全部词库共 423 张。
+- conducts → conduct；are coming up with other tweaks → come up with。两张旧卡加入当日队列并标黄星，分别补充传导用法和完整新例句。
+- 原始词形记录在 originals 中；tinted、devoted、scheduled 等常见分词形容词保留。批次内重复不误标为重复旧词。
+- public/data/imports/2026-10-19.json 保存原始条目映射、导入统计、空文件信息和术语核对来源。
+- transmittance 的技术含义依据 [IUPAC Gold Book](https://goldbook.iupac.org/terms/view/T06484) 核对；其余例句均为配合学习自行编写，不冒充原文章完整句子。

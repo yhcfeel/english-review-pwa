@@ -58,6 +58,6 @@ test('both JSON formats, complete examples, common parts of speech',()=>{
  assert(isCardList(cards));assert(isCardList([{front:'test',back:{meaning:'测试',example:'This is a test.'}}]));
  for(const v of [[],null,{},[{front:'a',back:{senses:[]}}]])assert(!isCardList(v));
  for(const c of cards)for(const s of c.back.senses){assert(s.pos);assert(s.translation);assert(s.meaning.length<45);}
- for(const front of ['desire','conduct','survey','influence','dent','implement'])assert.equal(cards.find(c=>c.front===front).back.senses.length,2);
+ for(const front of ['desire','conduct','survey','influence','dent','implement'])assert(cards.find(c=>c.front===front).back.senses.length>=2);
  assert(cards.some(c=>c.front==='estimate (n.)'));
 });

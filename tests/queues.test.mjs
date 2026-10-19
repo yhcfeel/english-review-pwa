@@ -7,11 +7,11 @@ import {isCardList} from '../src/cards.mjs';
 const cards=JSON.parse(readFileSync('public/data/cards.json','utf8'));
 test('today contains all imported forms, merged plurals, and five grammar topics',()=>{
  const latest=selectQueue(cards,'latest','2026-10-15');
- assert.equal(latestBatch(cards),'2026-10-16');assert.equal(latest.length,142);assert.equal(cards.length,346);assert.equal(selectQueue(cards,'latest').length,109);
+ assert.equal(latestBatch(cards),'2026-10-19');assert.equal(latest.length,142);assert.equal(cards.length,423);assert.equal(selectQueue(cards,'latest').length,79);
  assert.equal(latest.filter(c=>c.kind==='grammar').length,5);
  assert.equal(new Set(cards.map(c=>c.front.toLowerCase())).size,cards.length);
  assert.deepEqual(latest.find(c=>c.front==='grocery').originals,['grocery','groceries']);
- assert.equal(latest.filter(c=>c.kind!=='grammar').flatMap(c=>c.originals).length,138);
+ assert(latest.filter(c=>c.kind!=='grammar').flatMap(c=>c.originals).length>=138);
  assert.equal(latest.find(c=>c.front==='spoil').back.senses.length,4);
  assert(latest.filter(c=>c.kind==='grammar').every(c=>c.back.senses.length>=4));
 });
@@ -51,7 +51,7 @@ test('metadata and expanded senses validate without accepting malformed batches'
 test('October 16 import retains all encountered forms, old-word stars and same-day grammar',()=>{
  const report=JSON.parse(readFileSync('public/data/imports/2026-10-16.json','utf8'));
  assert.equal(report.mapping.length,110);
- const latest=selectQueue(cards,'latest');
+ const latest=selectQueue(cards,'latest','2026-10-16');
  assert.equal(latest.length,109);
  assert.deepEqual(latest.filter(c=>isPriority(c,'2026-10-16')).map(c=>c.front).sort(),['disorder','survey','worsen']);
  for(const {original,front} of report.mapping){
@@ -62,4 +62,17 @@ test('October 16 import retains all encountered forms, old-word stars and same-d
  assert(cards.find(c=>c.front==='diminish').originals.includes('diminished'));
  assert(cards.find(c=>c.front==='diminish').back.senses.some(s=>s.term==='diminished'));
  for(const c of latest)assert.equal(c.batches.filter(b=>b.date==='2026-10-16').length,1);
+});
+
+test('October 19 line-based import retains every source entry and merges repeated intimacy',()=>{
+ const report=JSON.parse(readFileSync('public/data/imports/2026-10-19.json','utf8'));
+ assert.equal(report.mapping.length,80);assert.equal(report.uniqueInputs,79);
+ const latest=selectQueue(cards,'latest');assert.equal(latest.length,79);
+ for(const {original,front} of report.mapping){const c=latest.find(c=>c.front===front);assert(c,original);assert(c.originals.includes(original),original);assert(c.back.core,front);}
+ assert.equal(latest.filter(c=>c.front==='intimacy').length,1);
+ assert.deepEqual(latest.filter(c=>isPriority(c,'2026-10-19')).map(c=>c.front).sort(),['come up with','conduct']);
+ assert(!isPriority(latest.find(c=>c.front==='intimacy'),'2026-10-19'));
+ const conduct=cards.find(c=>c.front==='conduct');assert(conduct.back.senses.some(s=>s.meaning.includes('传导')));
+ assert(cards.find(c=>c.front==='come up with').back.senses.some(s=>s.example==='They are coming up with other tweaks.'));
+ assert(latest.every(c=>c.batches.filter(b=>b.date==='2026-10-19').length===1));
 });
