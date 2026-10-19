@@ -3,11 +3,11 @@ import { createRoot } from 'react-dom/client';
 import { getSenses, isCardList } from './cards.mjs';
 import { Answer } from './Answer';
 import { deckKey, newRound, rateCard, restoreRound } from './review.mjs';
-import { latestBatch, selectQueue, isPriority, queueStorage } from './queues.mjs';
+import { batchLabel, latestBatch, selectQueue, isPriority, queueStorage } from './queues.mjs';
 import './style.css';
 
 type Sense={term:string;pos?:string;meaning:string;core?:string;example:string;translation?:string;exampleHighlights?:string[];coreHighlights?:string[]};
-type Card={front:string;batches?:{date:string;repeat:boolean}[];back:{core?:string;senses?:Sense[];meaning?:string;explanation?:string;example?:string;translation?:string;pos?:string}};
+type Card={front:string;batches?:{date:string;id?:string;repeat:boolean}[];back:{core?:string;senses?:Sense[];meaning?:string;explanation?:string;example?:string;translation?:string;pos?:string}};
 type Round={version:number;order:number[];current:number|null;step:number;last:number|null;states:{seen:boolean;score:number;done:boolean;due:number|null}[]};
 type Mode='latest'|'all';
 type Rating='known'|'vague'|'forgot';
@@ -68,7 +68,7 @@ function App(){
     <button disabled={!allCards.length} aria-pressed={mode==='latest'} onClick={()=>switchQueue('latest')}>最新加入</button>
     <button disabled={!allCards.length} aria-pressed={mode==='all'} onClick={()=>switchQueue('all')}>全部复习</button>
    </div>
-   {!!cards.length&&<p className="queue-info">{mode==='latest'?`${date} · `:''}{cards.length} 张{priority&&<span className="priority-note"> · ★ 今日再次遇到</span>}</p>}
+   {!!cards.length&&<p className="queue-info">{mode==='latest'?`${batchLabel(date)} · `:''}{cards.length} 张{priority&&<span className="priority-note"> · ★ 今日再次遇到</span>}</p>}
   </header>
   <section ref={stage} className={`stage ${card?'interactive':''} ${flipped?'show-answer':''}`} role={card?'button':undefined} tabIndex={card?0:undefined} aria-label={card?(flipped?'返回英文':`${card.front}，查看答案`):undefined} aria-pressed={card?flipped:undefined} onClick={flip} onKeyDown={e=>{if(card&&(e.key==='Enter'||e.key===' ')){e.preventDefault();flip();}}}>
    {error?<div className="message" role="alert"><p>{error}</p><button onClick={e=>{e.stopPropagation();setAttempt(n=>n+1);}}>重试</button></div>:

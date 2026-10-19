@@ -1,13 +1,13 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
-import {latestBatch,selectQueue,isPriority,queueStorage} from '../src/queues.mjs';
+import {batchKey,batchLabel,latestBatch,selectQueue,isPriority,queueStorage} from '../src/queues.mjs';
 import {newRound,rateCard,restoreRound,deckKey,validRound} from '../src/review.mjs';
 import {isCardList} from '../src/cards.mjs';
 const cards=JSON.parse(readFileSync('public/data/cards.json','utf8'));
 test('today contains all imported forms, merged plurals, and five grammar topics',()=>{
  const latest=selectQueue(cards,'latest','2026-10-15');
- assert.equal(latestBatch(cards),'2026-10-19');assert.equal(latest.length,142);assert.equal(cards.length,423);assert.equal(selectQueue(cards,'latest').length,79);
+ assert.equal(latestBatch(cards),'2026-10-19-02');assert.equal(latest.length,142);assert.equal(cards.length,530);assert.equal(selectQueue(cards,'latest').length,110);
  assert.equal(latest.filter(c=>c.kind==='grammar').length,5);
  assert.equal(new Set(cards.map(c=>c.front.toLowerCase())).size,cards.length);
  assert.deepEqual(latest.find(c=>c.front==='grocery').originals,['grocery','groceries']);
@@ -67,12 +67,30 @@ test('October 16 import retains all encountered forms, old-word stars and same-d
 test('October 19 line-based import retains every source entry and merges repeated intimacy',()=>{
  const report=JSON.parse(readFileSync('public/data/imports/2026-10-19.json','utf8'));
  assert.equal(report.mapping.length,80);assert.equal(report.uniqueInputs,79);
- const latest=selectQueue(cards,'latest');assert.equal(latest.length,79);
+ const latest=selectQueue(cards,'latest','2026-10-19');assert.equal(latest.length,79);
  for(const {original,front} of report.mapping){const c=latest.find(c=>c.front===front);assert(c,original);assert(c.originals.includes(original),original);assert(c.back.core,front);}
  assert.equal(latest.filter(c=>c.front==='intimacy').length,1);
  assert.deepEqual(latest.filter(c=>isPriority(c,'2026-10-19')).map(c=>c.front).sort(),['come up with','conduct']);
  assert(!isPriority(latest.find(c=>c.front==='intimacy'),'2026-10-19'));
  const conduct=cards.find(c=>c.front==='conduct');assert(conduct.back.senses.some(s=>s.meaning.includes('传导')));
  assert(cards.find(c=>c.front==='come up with').back.senses.some(s=>s.example==='They are coming up with other tweaks.'));
- assert(latest.every(c=>c.batches.filter(b=>b.date==='2026-10-19').length===1));
+ assert(latest.every(c=>c.batches.filter(b=>batchKey(b)==='2026-10-19').length===1));
+});
+
+
+test('second October 19 file is a separate latest queue while all earlier words survive',()=>{
+ const report=JSON.parse(readFileSync('public/data/imports/2026-10-19-02.json','utf8'));
+ const latest=selectQueue(cards,'latest');
+ assert.equal(report.mapping.length,111);assert.equal(latest.length,110);assert.equal(report.newCards,107);
+ assert.deepEqual(latest.filter(c=>isPriority(c,latestBatch(cards))).map(c=>c.front).sort(),['olfactory','pigment','resin']);
+ for(const {original,front} of report.mapping){const c=latest.find(c=>c.front===front);assert(c,original);assert(c.originals.includes(original),original);assert(c.back.core,front);}
+ assert.deepEqual(latest.find(c=>c.front==='dub').originals,['dub','dubbed']);
+ assert(!latest.some(c=>c.front==='intimacy'));assert(selectQueue(cards,'all').some(c=>c.front==='intimacy'));
+ assert.equal(selectQueue(cards,'latest','2026-10-19').length,79);
+ assert.notEqual(queueStorage('test','latest','2026-10-19'),queueStorage('test','latest','2026-10-19-02'));
+ assert.equal(batchLabel('2026-10-19-02'),'2026-10-19 · 第 2 批');
+ assert.equal(latestBatch([...cards,{batches:[{date:'2026-10-20',repeat:false}]}]),'2026-10-20');
+ const c=structuredClone(cards[0]);c.batches=[{date:'2026-10-19',repeat:false},{date:'2026-10-19',id:'2026-10-19-02',repeat:true}];assert(isCardList([c]));
+ c.batches[1].id='2026-10-20-02';assert(!isCardList([c]));
+ c.batches[1].id='2026-10-19-02';c.batches.push({...c.batches[1]});assert(!isCardList([c]));
 });

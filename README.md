@@ -129,3 +129,13 @@ Safari 打开 HTTPS 网址，分享 → 添加到主屏幕。首次联网访问�
 - 原始词形记录在 originals 中；tinted、devoted、scheduled 等常见分词形容词保留。批次内重复不误标为重复旧词。
 - public/data/imports/2026-10-19.json 保存原始条目映射、导入统计、空文件信息和术语核对来源。
 - transmittance 的技术含义依据 [IUPAC Gold Book](https://goldbook.iupac.org/terms/view/T06484) 核对；其余例句均为配合学习自行编写，不冒充原文章完整句子。
+
+
+## 2026-10-19 第二批：Downloads/word.txt
+
+- 111 条输入，dub / dubbed 合并，最新队列独立为 110 张；新增 107 张，全部共 530 张。
+- olfactory、resin、pigment（输入 pigments）是重复旧词，本批标黄星。前一份生词.txt 的 79 张继续保留在全部复习。
+- encourag → encourage；pedestianise → pedestrianise；清除结尾句点及 catch up 的中文注释。原始内容保留在 originals 和导入报告中。
+- 所有新增卡片含核心理解，常见多义分别配例句；should she ever move 解释为省略 if 的条件倒装。
+- 批次可选 id 格式为日期加两位序号（2026-10-19-02），日期仍为实际导入日期。同日第二批独立存储学习进度，下一日期自动排在其后。旧批次无 id 时以 date 为键，兼容历史进度。
+- public/data/imports/2026-10-19-02.json 保存逐条映射和统计。学习页显示“2026-10-19 · 第 2 批”。

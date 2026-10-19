@@ -1,0 +1,461 @@
+{
+  "date": "2026-10-19",
+  "id": "2026-10-19-02",
+  "source": "Downloads/word.txt",
+  "inputCount": 111,
+  "uniqueInputs": 111,
+  "newCards": 107,
+  "latestCount": 110,
+  "totalCount": 530,
+  "repeatedOldWords": [
+    "olfactory",
+    "resin",
+    "pigment"
+  ],
+  "mapping": [
+    {
+      "original": "district",
+      "front": "district"
+    },
+    {
+      "original": "tuck",
+      "front": "tuck"
+    },
+    {
+      "original": "blessing",
+      "front": "blessing"
+    },
+    {
+      "original": "strike",
+      "front": "strike"
+    },
+    {
+      "original": "consider",
+      "front": "consider"
+    },
+    {
+      "original": "affordable",
+      "front": "affordable"
+    },
+    {
+      "original": "complicated",
+      "front": "complicated"
+    },
+    {
+      "original": "carpenter",
+      "front": "carpenter"
+    },
+    {
+      "original": "the nitty-gritty",
+      "front": "the nitty-gritty"
+    },
+    {
+      "original": "take down",
+      "front": "take down"
+    },
+    {
+      "original": "come around",
+      "front": "come around"
+    },
+    {
+      "original": "retractable",
+      "front": "retractable"
+    },
+    {
+      "original": "figure out",
+      "front": "figure out"
+    },
+    {
+      "original": "get rid of",
+      "front": "get rid of"
+    },
+    {
+      "original": "should she ever move",
+      "front": "should she ever move"
+    },
+    {
+      "original": "nick",
+      "front": "nick"
+    },
+    {
+      "original": "accolade",
+      "front": "accolade"
+    },
+    {
+      "original": "obscure",
+      "front": "obscure"
+    },
+    {
+      "original": "mobility",
+      "front": "mobility"
+    },
+    {
+      "original": "encourag",
+      "front": "encourage"
+    },
+    {
+      "original": "asphalt",
+      "front": "asphalt"
+    },
+    {
+      "original": "commit to",
+      "front": "commit to"
+    },
+    {
+      "original": "warm someone up to something",
+      "front": "warm someone up to something"
+    },
+    {
+      "original": "tactical",
+      "front": "tactical"
+    },
+    {
+      "original": "collaboration",
+      "front": "collaboration"
+    },
+    {
+      "original": "pedestianise",
+      "front": "pedestrianise"
+    },
+    {
+      "original": "pluses",
+      "front": "plus"
+    },
+    {
+      "original": "hang out",
+      "front": "hang out"
+    },
+    {
+      "original": "characterise A as B",
+      "front": "characterise A as B"
+    },
+    {
+      "original": "grumpy",
+      "front": "grumpy"
+    },
+    {
+      "original": "drizzle",
+      "front": "drizzle"
+    },
+    {
+      "original": "catch up 叙旧",
+      "front": "catch up"
+    },
+    {
+      "original": "one block over",
+      "front": "one block over"
+    },
+    {
+      "original": "tree-lined",
+      "front": "tree-lined"
+    },
+    {
+      "original": "make way for",
+      "front": "make way for"
+    },
+    {
+      "original": "for the sake of something",
+      "front": "for the sake of something"
+    },
+    {
+      "original": "bumblebee",
+      "front": "bumblebee"
+    },
+    {
+      "original": "sesame",
+      "front": "sesame"
+    },
+    {
+      "original": "assumption",
+      "front": "assumption"
+    },
+    {
+      "original": "semblance",
+      "front": "semblance"
+    },
+    {
+      "original": "traits",
+      "front": "trait"
+    },
+    {
+      "original": "taught",
+      "front": "teach"
+    },
+    {
+      "original": "grasp",
+      "front": "grasp"
+    },
+    {
+      "original": "in spite of",
+      "front": "in spite of"
+    },
+    {
+      "original": "literally",
+      "front": "literally"
+    },
+    {
+      "original": "designate",
+      "front": "designate"
+    },
+    {
+      "original": "sugary",
+      "front": "sugary"
+    },
+    {
+      "original": "earning",
+      "front": "earn"
+    },
+    {
+      "original": "astonished",
+      "front": "astonished"
+    },
+    {
+      "original": "boon",
+      "front": "boon"
+    },
+    {
+      "original": "hierarchy",
+      "front": "hierarchy"
+    },
+    {
+      "original": "far removed from",
+      "front": "far removed from"
+    },
+    {
+      "original": "morphologically",
+      "front": "morphologically"
+    },
+    {
+      "original": "faux",
+      "front": "faux"
+    },
+    {
+      "original": "forage",
+      "front": "forage"
+    },
+    {
+      "original": "insight",
+      "front": "insight"
+    },
+    {
+      "original": "magnet",
+      "front": "magnet"
+    },
+    {
+      "original": "flair",
+      "front": "flair"
+    },
+    {
+      "original": "electromagnetic",
+      "front": "electromagnetic"
+    },
+    {
+      "original": "gravity",
+      "front": "gravity"
+    },
+    {
+      "original": "olfactory",
+      "front": "olfactory"
+    },
+    {
+      "original": "tactile",
+      "front": "tactile"
+    },
+    {
+      "original": "pursue",
+      "front": "pursue"
+    },
+    {
+      "original": "venues",
+      "front": "venue"
+    },
+    {
+      "original": "dub",
+      "front": "dub"
+    },
+    {
+      "original": "dubbed",
+      "front": "dub"
+    },
+    {
+      "original": "democracy",
+      "front": "democracy"
+    },
+    {
+      "original": "heated debates",
+      "front": "heated debate"
+    },
+    {
+      "original": "colonies",
+      "front": "colony"
+    },
+    {
+      "original": "en masse.",
+      "front": "en masse"
+    },
+    {
+      "original": "be famed for",
+      "front": "be famed for"
+    },
+    {
+      "original": "gestures",
+      "front": "gesture"
+    },
+    {
+      "original": "strengths",
+      "front": "strength"
+    },
+    {
+      "original": "multifaceted",
+      "front": "multifaceted"
+    },
+    {
+      "original": "populations.",
+      "front": "population"
+    },
+    {
+      "original": "decimated",
+      "front": "decimate"
+    },
+    {
+      "original": "pollinator",
+      "front": "pollinator"
+    },
+    {
+      "original": "pesticides",
+      "front": "pesticide"
+    },
+    {
+      "original": "agricultural",
+      "front": "agricultural"
+    },
+    {
+      "original": "it’s up to us",
+      "front": "it's up to us"
+    },
+    {
+      "original": "resin",
+      "front": "resin"
+    },
+    {
+      "original": "botanist",
+      "front": "botanist"
+    },
+    {
+      "original": "dissect",
+      "front": "dissect"
+    },
+    {
+      "original": "pigments",
+      "front": "pigment"
+    },
+    {
+      "original": "bleaching",
+      "front": "bleaching"
+    },
+    {
+      "original": "last word on",
+      "front": "last word on"
+    },
+    {
+      "original": "stumbled across",
+      "front": "stumble across"
+    },
+    {
+      "original": "specializes",
+      "front": "specialize"
+    },
+    {
+      "original": "composites",
+      "front": "composite"
+    },
+    {
+      "original": "virtues",
+      "front": "virtue"
+    },
+    {
+      "original": "purposes",
+      "front": "purpose"
+    },
+    {
+      "original": "nontraditional",
+      "front": "nontraditional"
+    },
+    {
+      "original": "harnessing",
+      "front": "harness"
+    },
+    {
+      "original": "bear fruit",
+      "front": "bear fruit"
+    },
+    {
+      "original": "glowing",
+      "front": "glowing"
+    },
+    {
+      "original": "fixtures",
+      "front": "fixture"
+    },
+    {
+      "original": "nanotechnologist",
+      "front": "nanotechnologist"
+    },
+    {
+      "original": "vertical",
+      "front": "vertical"
+    },
+    {
+      "original": "tight",
+      "front": "tight"
+    },
+    {
+      "original": "bundle",
+      "front": "bundle"
+    },
+    {
+      "original": "straws",
+      "front": "straw"
+    },
+    {
+      "original": "bound",
+      "front": "bound"
+    },
+    {
+      "original": "moisture",
+      "front": "moisture"
+    },
+    {
+      "original": "modify",
+      "front": "modify"
+    },
+    {
+      "original": "rid",
+      "front": "rid"
+    },
+    {
+      "original": "hues",
+      "front": "hue"
+    },
+    {
+      "original": "otherwise",
+      "front": "otherwise"
+    },
+    {
+      "original": "skeleton",
+      "front": "skeleton"
+    },
+    {
+      "original": "opaque",
+      "front": "opaque"
+    },
+    {
+      "original": "bend",
+      "front": "bend"
+    },
+    {
+      "original": "index",
+      "front": "index"
+    }
+  ]
+}
