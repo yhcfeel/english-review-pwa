@@ -139,3 +139,12 @@ Safari 打开 HTTPS 网址，分享 → 添加到主屏幕。首次联网访问�
 - 所有新增卡片含核心理解，常见多义分别配例句；should she ever move 解释为省略 if 的条件倒装。
 - 批次可选 id 格式为日期加两位序号（2026-10-19-02），日期仍为实际导入日期。同日第二批独立存储学习进度，下一日期自动排在其后。旧批次无 id 时以 date 为键，兼容历史进度。
 - public/data/imports/2026-10-19-02.json 保存逐条映射和统计。学习页显示“2026-10-19 · 第 2 批”。
+
+
+## PWA 内检查更新
+
+队列信息右侧提供“↻ 检查更新”：主动检查应用 Service Worker 和词库。词库变化通过原有进度迁移逻辑载入；无变化不重置当前卡片。应用新版本安装激活后自动重新载入。无需删除桌面图标或重新添加。
+
+手动更新请求强制联网并验证格式，成功后写入离线缓存；失败保留现有词库和进度，并提示重试。普通打开仍支持离线缓存。检查过程有超时和重复点击保护，不清除 localStorage 或注销 Service Worker。
+
+实现参考 [MDN ServiceWorkerRegistration.update](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerRegistration/update)。真实 iOS 主屏幕运行尚需设备验收。

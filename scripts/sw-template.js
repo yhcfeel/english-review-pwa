@@ -3,8 +3,8 @@ const SHELL_CACHE = `${CACHE_PREFIX}shell-${VERSION}`;
 // Keep vocabulary separate so replacing cards.json needs no app rebuild.
 const DATA_CACHE = `${CACHE_PREFIX}data-v1`;
 const DATA_URL = `${BASE}data/cards.json`;
-async function freshCards() {
-  const response = await fetch(DATA_URL, { cache: 'no-store', signal: AbortSignal.timeout(6000) });
+async function freshCards(refresh=false) {
+  const response = await fetch(refresh?`${DATA_URL}?refresh=${Date.now()}`:DATA_URL, { cache: 'no-store', signal: AbortSignal.timeout(6000) });
   if (!response.ok || !isCardList(await response.clone().json())) throw new Error('Invalid vocabulary');
   const cache = await caches.open(DATA_CACHE);
   await cache.put(DATA_URL, response.clone());
@@ -31,8 +31,9 @@ self.addEventListener('fetch', event => {
   if (event.request.method !== 'GET' || url.origin !== self.location.origin || !url.pathname.startsWith(BASE)) return;
   if (url.pathname === DATA_URL) {
     event.respondWith((async () => {
-      try { return await freshCards(); }
+      try { return await freshCards(url.searchParams.has('refresh')); }
       catch {
+        if(url.searchParams.has('refresh'))return new Response('Update unavailable', { status: 503 });
         return await (await caches.open(DATA_CACHE)).match(DATA_URL) || new Response('Vocabulary unavailable', { status: 503 });
       }
     })());

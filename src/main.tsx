@@ -4,6 +4,7 @@ import { getSenses, isCardList } from './cards.mjs';
 import { Answer } from './Answer';
 import { deckKey, newRound, rateCard, restoreRound } from './review.mjs';
 import { batchLabel, latestBatch, selectQueue, isPriority, queueStorage } from './queues.mjs';
+import { checkAppUpdate, fetchLatestCards } from './updates.mjs';
 import './style.css';
 
 type Sense={term:string;pos?:string;meaning:string;core?:string;example:string;translation?:string;exampleHighlights?:string[];coreHighlights?:string[]};
@@ -21,6 +22,9 @@ function App(){
  const [attempt,setAttempt]=useState(0);
  const [storageWarning,setStorageWarning]=useState(false);
  const updating=useRef(false);
+ const checking=useRef(false);
+ const [refreshing,setRefreshing]=useState(false);
+ const [updateMessage,setUpdateMessage]=useState('');
  const lastRating=useRef(0);
  const stage=useRef<HTMLElement>(null);
  const date=latestBatch(allCards);
@@ -46,9 +50,23 @@ function App(){
   navigator.serviceWorker.register(`${import.meta.env.BASE_URL}sw.js`,{updateViaCache:'none'}).catch(()=>{});
   return()=>navigator.serviceWorker.removeEventListener('controllerchange',refresh);
  },[]);
+ const refreshContent=async()=>{
+  if(checking.current)return;
+  checking.current=true;setRefreshing(true);setUpdateMessage('正在检查词库和应用更新…');
+  try{
+   const [data,appResult]=await Promise.all([
+    fetchLatestCards(import.meta.env.BASE_URL),
+    checkAppUpdate(import.meta.env.PROD?navigator.serviceWorker:undefined,import.meta.env.BASE_URL).then(()=>true,()=>false)
+   ]);
+   const changed=JSON.stringify(data)!==JSON.stringify(allCards);
+   if(changed||error){const batch=latestBatch(data);setAllCards(data);load(selectQueue(data,mode,batch),mode,batch);setFlipped(false);setError('');}
+   setUpdateMessage(appResult?(changed?'词库已更新，学习进度已保留。':'已是最新版本。'):'词库已同步，应用检查未完成，请稍后重试。');
+  }catch{setUpdateMessage('更新失败，请检查网络后重试；原词库和进度已保留。');}
+  finally{checking.current=false;setRefreshing(false);}
+ };
  useEffect(()=>{if(stage.current)stage.current.scrollTop=0;},[flipped,round?.current,mode]);
  const switchQueue=(next:Mode)=>{
-  if(next===mode||!allCards.length)return;
+  if(checking.current||next===mode||!allCards.length)return;
   setMode(next);try{localStorage.setItem(`${STORAGE}:mode`,next);}catch{setStorageWarning(true);}
   load(selectQueue(allCards,next,date),next,date);setFlipped(false);lastRating.current=0;
  };
@@ -58,17 +76,20 @@ function App(){
  const priority=isPriority(card,date);
  const flip=()=>{if(card){setFlipped(v=>!v);}};
  const rate=(rating:Rating)=>{
-  if(!round||!card||performance.now()-lastRating.current<300)return;
+  if(checking.current||!round||!card||performance.now()-lastRating.current<300)return;
   lastRating.current=performance.now();save(rateCard(round,rating));setFlipped(false);
  };
- const restart=()=>{save(newRound(cards.length));setFlipped(false);lastRating.current=0;};
+ const restart=()=>{if(checking.current)return;save(newRound(cards.length));setFlipped(false);lastRating.current=0;};
  return <main className="app">
   <header><h1>英语复习</h1>
    <div className="queue-picker" role="group" aria-label="选择复习队列">
-    <button disabled={!allCards.length} aria-pressed={mode==='latest'} onClick={()=>switchQueue('latest')}>最新加入</button>
-    <button disabled={!allCards.length} aria-pressed={mode==='all'} onClick={()=>switchQueue('all')}>全部复习</button>
+    <button disabled={refreshing||!allCards.length} aria-pressed={mode==='latest'} onClick={()=>switchQueue('latest')}>最新加入</button>
+    <button disabled={refreshing||!allCards.length} aria-pressed={mode==='all'} onClick={()=>switchQueue('all')}>全部复习</button>
    </div>
-   {!!cards.length&&<p className="queue-info">{mode==='latest'?`${batchLabel(date)} · `:''}{cards.length} 张{priority&&<span className="priority-note"> · ★ 今日再次遇到</span>}</p>}
+   <div className="queue-meta">{!!cards.length&&<p className="queue-info">{mode==='latest'?`${batchLabel(date)} · `:''}{cards.length} 张{priority&&<span className="priority-note"> · ★ 今日再次遇到</span>}</p>}
+    <button className="update-button" disabled={refreshing||(!round&&!error)} onClick={refreshContent}>{refreshing?'更新中…':'↻ 检查更新'}</button>
+   </div>
+   {updateMessage&&<p className="update-status" role="status">{updateMessage}</p>}
   </header>
   <section ref={stage} className={`stage ${card?'interactive':''} ${flipped?'show-answer':''}`} role={card?'button':undefined} tabIndex={card?0:undefined} aria-label={card?(flipped?'返回英文':`${card.front}，查看答案`):undefined} aria-pressed={card?flipped:undefined} onClick={flip} onKeyDown={e=>{if(card&&(e.key==='Enter'||e.key===' ')){e.preventDefault();flip();}}}>
    {error?<div className="message" role="alert"><p>{error}</p><button onClick={e=>{e.stopPropagation();setAttempt(n=>n+1);}}>重试</button></div>:
@@ -81,9 +102,9 @@ function App(){
   </section>
   <footer>
 
-   {done?<button className="primary restart" onClick={restart}>重新复习</button>:<>
+   {done?<button className="primary restart" disabled={refreshing} onClick={restart}>重新复习</button>:<>
    <button className="flip-control" disabled={!card} onClick={flip}>{flipped?'返回英文':`查看答案${senses.length>1?` · ${senses.length} 个常见用法`:''}`}</button>
-   <div className="actions"><button disabled={!card} onClick={()=>rate('forgot')}>忘记</button><button disabled={!card} onClick={()=>rate('vague')}>模糊</button><button className="primary" disabled={!card} onClick={()=>rate('known')}>认识</button></div>
+   <div className="actions"><button disabled={refreshing||!card} onClick={()=>rate('forgot')}>忘记</button><button disabled={refreshing||!card} onClick={()=>rate('vague')}>模糊</button><button className="primary" disabled={refreshing||!card} onClick={()=>rate('known')}>认识</button></div>
   </>}{storageWarning&&<p className="storage-warning">当前浏览器无法保存进度，关闭后会重新开始。</p>}</footer>
  </main>;
 }

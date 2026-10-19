@@ -54,3 +54,11 @@
 - TypeScript 检查、生产构建及 Service Worker 生成成功。
 - 本地生产页面：390×844 检查本批全部 110 张；320×568 和 1024×900 各检查 strike、bound、otherwise、should she ever move、fixture、nick。内容不丢失、无横向溢出，页脚可见；无浏览器脚本错误。
 - strike 三义在 390×844 同页；spoil 从窄屏切换回手机尺寸后恢复四义同页。截图位于 work/oct19-second-strike.png。
+
+
+## PWA 内检查更新（2026-10-19）
+
+- 本地生产包浏览器验证：无变化时进度完全不变；模拟新增卡片后总数更新且旧得分、当前卡片保留；非法词库及离线更新均提示失败。
+- 更新后离线重新打开可读取新词库；模拟更换 Service Worker 版本，按钮触发新版本激活和页面重载，进度保留。
+- 模拟新的每日批次后最新队列切换正确；320px/390px 无横向溢出且底部按钮可见；无页面脚本错误。
+- 验证脚本：work/test-pwa-update.cjs；截图：work/pwa-update-button.png。未在实体 iPhone 上运行，不将移动 Chromium 验证等同于 iOS 真机验证。
