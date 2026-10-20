@@ -7,7 +7,7 @@ import {isCardList} from '../src/cards.mjs';
 const cards=JSON.parse(readFileSync('public/data/cards.json','utf8'));
 test('today contains all imported forms, merged plurals, and five grammar topics',()=>{
  const latest=selectQueue(cards,'latest','2026-10-15');
- assert.equal(latestBatch(cards),'2026-10-19-02');assert.equal(latest.length,142);assert.equal(cards.length,530);assert.equal(selectQueue(cards,'latest').length,110);
+ assert.equal(latestBatch(cards),'2026-10-20');assert.equal(latest.length,142);assert.equal(cards.length,763);assert.equal(selectQueue(cards,'latest').length,235);
  assert.equal(latest.filter(c=>c.kind==='grammar').length,5);
  assert.equal(new Set(cards.map(c=>c.front.toLowerCase())).size,cards.length);
  assert.deepEqual(latest.find(c=>c.front==='grocery').originals,['grocery','groceries']);
@@ -80,9 +80,9 @@ test('October 19 line-based import retains every source entry and merges repeate
 
 test('second October 19 file is a separate latest queue while all earlier words survive',()=>{
  const report=JSON.parse(readFileSync('public/data/imports/2026-10-19-02.json','utf8'));
- const latest=selectQueue(cards,'latest');
+ const latest=selectQueue(cards,'latest','2026-10-19-02');
  assert.equal(report.mapping.length,111);assert.equal(latest.length,110);assert.equal(report.newCards,107);
- assert.deepEqual(latest.filter(c=>isPriority(c,latestBatch(cards))).map(c=>c.front).sort(),['olfactory','pigment','resin']);
+ assert.deepEqual(latest.filter(c=>isPriority(c,'2026-10-19-02')).map(c=>c.front).sort(),['olfactory','pigment','resin']);
  for(const {original,front} of report.mapping){const c=latest.find(c=>c.front===front);assert(c,original);assert(c.originals.includes(original),original);assert(c.back.core,front);}
  assert.deepEqual(latest.find(c=>c.front==='dub').originals,['dub','dubbed']);
  assert(!latest.some(c=>c.front==='intimacy'));assert(selectQueue(cards,'all').some(c=>c.front==='intimacy'));
@@ -93,4 +93,19 @@ test('second October 19 file is a separate latest queue while all earlier words 
  const c=structuredClone(cards[0]);c.batches=[{date:'2026-10-19',repeat:false},{date:'2026-10-19',id:'2026-10-19-02',repeat:true}];assert(isCardList([c]));
  c.batches[1].id='2026-10-20-02';assert(!isCardList([c]));
  c.batches[1].id='2026-10-19-02';c.batches.push({...c.batches[1]});assert(!isCardList([c]));
+});
+
+
+test('October 20 import covers all 240 lines with preserved forms and exactly two old-word stars',()=>{
+ const report=JSON.parse(readFileSync('public/data/imports/2026-10-20.json','utf8'));
+ const latest=selectQueue(cards,'latest');assert.equal(latestBatch(cards),'2026-10-20');assert.equal(latest.length,235);assert.equal(cards.length,763);
+ assert.equal(report.mapping.length,240);assert.equal(report.newCards,233);
+ for(const {original,front} of report.mapping){const c=latest.find(c=>c.front===front);assert(c,original);assert(c.originals.includes(original),original);assert(c.back.core,front);}
+ assert.deepEqual(latest.filter(c=>isPriority(c,'2026-10-20')).map(c=>c.front).sort(),['instant','take off']);
+ for(const front of ['former','aquatic','optimise','scour','achievement'])assert.equal(latest.filter(c=>c.front===front).length,1);
+ assert(latest.find(c=>c.front==='comatose').originals.includes('omatose.'));
+ assert(latest.find(c=>c.front==='arrest').back.senses.some(s=>s.meaning.includes('骤停')));
+ assert(latest.find(c=>c.front==='cone').back.senses.some(s=>s.meaning.includes('视锥')));
+ for(const front of ['be of + 名词','there is more to A than B'])assert(latest.find(c=>c.front===front).back.senses.length>=3);
+ assert.equal(selectQueue(cards,'latest','2026-10-19-02').length,110);assert.equal(selectQueue(cards,'latest','2026-10-19').length,79);
 });

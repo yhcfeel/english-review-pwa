@@ -148,3 +148,13 @@ Safari 打开 HTTPS 网址，分享 → 添加到主屏幕。首次联网访问�
 手动更新请求强制联网并验证格式，成功后写入离线缓存；失败保留现有词库和进度，并提示重试。普通打开仍支持离线缓存。检查过程有超时和重复点击保护，不清除 localStorage 或注销 Service Worker。
 
 实现参考 [MDN ServiceWorkerRegistration.update](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerRegistration/update)。真实 iOS 主屏幕运行尚需设备验收。
+
+
+## 2026-10-20 生词.txt
+
+- 240 行输入归并为 235 张当日卡片；新增 233 张，全部共 763 张。
+- instant、take off 为重复旧词，今日标黄星。合并 former、aquatic 的重复行，以及 optimized / optimise、scoured / scour、achievement / achievements；所有原始输入保留。
+- omatose. 按疑似漏字修正为 comatose；jumble of unregulated 作为不完整片段解释，例句补名词。输入文件保持原样。
+- 语法卡 be of + 名词、there is more to A than B 提供结构解释和多例句；arrest 补充骤停用法，train 保留长尾羽用法，cone 包含视锥细胞。
+- 继续使用核心理解与自适应同页排版；前面所有批次保留。public/data/imports/2026-10-20.json 保存完整映射和统计。
+- 术语核对参考 NEI 的视网膜／感光细胞资料、Merriam-Webster 的 conspecific / lability 词条、Cambridge 的 entropy 词条，链接记录在对应卡片 sources 中。例句为学习用途编写。
