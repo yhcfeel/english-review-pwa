@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { getSenses, isCardList } from './cards.mjs';
 import { Answer } from './Answer';
-import { deckKey, newRound, rateCard, restoreRound } from './review.mjs';
+import { deckKey, newRound, rateCard, restoreVocabularyRound, vocabularyRevision } from './review.mjs';
 import { batchLabel, latestBatch, selectQueue, isPriority, queueStorage } from './queues.mjs';
 import { checkAppUpdate, fetchLatestCards } from './updates.mjs';
 import './style.css';
@@ -27,18 +27,19 @@ function App(){
  const [updateMessage,setUpdateMessage]=useState('');
  const lastRating=useRef(0);
  const stage=useRef<HTMLElement>(null);
+ const revision=useRef('');
  const date=latestBatch(allCards);
  const cards=selectQueue(allCards,mode,date) as Card[];
- const save=(next:Round,data=cards,scope=mode,batch=date)=>{try{localStorage.setItem(queueStorage(STORAGE,scope,batch),JSON.stringify({key:deckKey(data),round:next}));}catch{setStorageWarning(true);}setRound(next);};
+ const save=(next:Round,data=cards,scope=mode,batch=date)=>{try{localStorage.setItem(queueStorage(STORAGE,scope,batch),JSON.stringify({revision:revision.current,key:deckKey(data),round:next}));}catch{setStorageWarning(true);}setRound(next);};
  const load=(data:Card[],scope:Mode,batch:string)=>{
-  let raw='';try{raw=localStorage.getItem(queueStorage(STORAGE,scope,batch))||(scope==='all'?localStorage.getItem(STORAGE):'')||'';}catch{setStorageWarning(true);}
-  save(restoreRound(raw,data),data,scope,batch);
+  let raw='';try{raw=localStorage.getItem(queueStorage(STORAGE,scope,batch))||'';}catch{setStorageWarning(true);}
+  save(restoreVocabularyRound(raw,data,revision.current),data,scope,batch);
  };
  useEffect(()=>{
   let cancelled=false;const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),10000);setError('');
   fetch(`${import.meta.env.BASE_URL}data/cards.json`,{cache:'no-store',signal:controller.signal}).then(async r=>{
    if(!r.ok)throw Error('load');const data=await r.json();if(!isCardList(data))throw Error('format');
-   if(!cancelled){const batch=latestBatch(data);setAllCards(data);load(selectQueue(data,mode,batch),mode,batch);setFlipped(false);}
+   if(!cancelled){const batch=latestBatch(data);revision.current=vocabularyRevision(data);setAllCards(data);load(selectQueue(data,mode,batch),mode,batch);setFlipped(false);}
   }).catch(e=>{if(!cancelled)setError(e.message==='format'?'词库为空或格式不正确，请检查 cards.json。':'无法读取词库，请联网后重试。');}).finally(()=>clearTimeout(timer));
   return()=>{cancelled=true;clearTimeout(timer);controller.abort();};
  },[attempt]);
@@ -59,8 +60,8 @@ function App(){
     checkAppUpdate(import.meta.env.PROD?navigator.serviceWorker:undefined,import.meta.env.BASE_URL).then(()=>true,()=>false)
    ]);
    const changed=JSON.stringify(data)!==JSON.stringify(allCards);
-   if(changed||error){const batch=latestBatch(data);setAllCards(data);load(selectQueue(data,mode,batch),mode,batch);setFlipped(false);setError('');}
-   setUpdateMessage(appResult?(changed?'词库已更新，学习进度已保留。':'已是最新版本。'):'词库已同步，应用检查未完成，请稍后重试。');
+   if(changed||error){const batch=latestBatch(data);revision.current=vocabularyRevision(data);setAllCards(data);load(selectQueue(data,mode,batch),mode,batch);setFlipped(false);setError('');}
+   setUpdateMessage(appResult?(changed?'词库已更新，两个队列已重新随机开始。':'已是最新版本。'):'词库已同步，应用检查未完成，请稍后重试。');
   }catch{setUpdateMessage('更新失败，请检查网络后重试；原词库和进度已保留。');}
   finally{checking.current=false;setRefreshing(false);}
  };

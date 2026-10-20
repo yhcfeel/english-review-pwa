@@ -46,41 +46,17 @@ export function validRound(r,n) {
   })&&(r.current!==null||r.states.every(s=>s.done));
 }
 export function deckKey(cards){return JSON.stringify(cards.map(c=>c.front));}
+// Content revision includes batches: an import of only repeated words is still an update.
+export function vocabularyRevision(cards){
+ const text=JSON.stringify(cards);let a=2166136261,b=5381;
+ for(let i=0;i<text.length;i++){const c=text.charCodeAt(i);a=Math.imul(a^c,16777619);b=Math.imul(b,33)^c;}
+ return `vocab-reset-1:${text.length}:${a>>>0}:${b>>>0}`;
+}
 export function restoreRound(raw,cards,random=Math.random){
-  try{
-    const saved=JSON.parse(raw);
-    if(saved.key===deckKey(cards)){
-      if(validRound(saved.round,cards.length)){
-        // One-time repair for queues previously saved with new words appended.
-        return saved.round.mixingVersion===1?saved.round:{...saved.round,mixingVersion:1,order:shuffle(saved.round.order,random)};
-      }
-      // The previous app had no ratings: keep its place but don't assume mastery.
-      const old=saved.round;
-      if(old&&old.version===undefined&&Array.isArray(old.order)&&old.order.length===cards.length&&new Set(old.order).size===cards.length&&old.order.every(i=>Number.isInteger(i)&&i>=0&&i<cards.length)&&Number.isInteger(old.position)&&old.position>=0&&old.position<cards.length){
-        const order=[...old.order.slice(old.position),...old.order.slice(0,old.position)];
-        return {...newRound(cards.length),current:order[0],order:order.slice(1)};
-      }
-    }
-    // New imports append cards. Remap by stable front rather than discarding
-    // completed cards and scores when the deck grows or is reordered.
-    const previous=JSON.parse(saved.key);
-    if(Array.isArray(previous)&&previous.every(x=>typeof x==='string')&&new Set(previous).size===previous.length&&validRound(saved.round,previous.length)){
-      const indices=new Map(cards.map((c,i)=>[c.front,i]));
-      if(previous.every(front=>indices.has(front))){
-        const old=saved.round;
-        const remap=i=>i===null?null:indices.get(previous[i]);
-        const grew=cards.length>previous.length;
-        // A finished round is not lifetime mastery. New vocabulary opens a full round.
-        if(grew&&old.current===null)return newRound(cards.length,random);
-        const next=newRound(cards.length,random);
-        const added=next.order.concat(next.current===null?[]:[next.current]).filter(i=>!previous.includes(cards[i].front));
-        previous.forEach((front,i)=>{next.states[indices.get(front)]={...old.states[i]};});
-        next.step=old.step;next.last=remap(old.last);next.current=remap(old.current);
-        next.order=grew?shuffle(old.order.map(remap).concat(added),random):old.order.map(remap);
-        if(next.current===null)next.current=next.order.shift()??null;
-        if(validRound(next,cards.length))return next;
-      }
-    }
-  }catch{}
-  return newRound(cards.length,random);
+ try{const saved=JSON.parse(raw);if(saved.key===deckKey(cards)&&validRound(saved.round,cards.length))return saved.round;}catch{}
+ return newRound(cards.length,random);
+}
+export function restoreVocabularyRound(raw,cards,revision,random=Math.random){
+ try{if(JSON.parse(raw).revision===revision)return restoreRound(raw,cards,random);}catch{}
+ return newRound(cards.length,random);
 }

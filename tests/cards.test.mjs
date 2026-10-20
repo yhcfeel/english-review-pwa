@@ -48,9 +48,9 @@ test('save and resume queue, scores and completion; restart clears all',()=>{
  while(r.current!==null)r=rateCard(r,'known');assert.equal(restoreRound(JSON.stringify({key:deckKey(cards),round:r}),cards).current,null);
  const fresh=newRound(cards.length);assert(fresh.states.every(s=>!s.seen&&s.score===0));
 });
-test('old progress migrates without assuming mastery; corrupt progress resets',()=>{
+test('legacy and corrupt progress start valid fresh rounds',()=>{
  const old={order:Array.from({length:cards.length},(_,i)=>i),position:5};const r=restoreRound(JSON.stringify({key:deckKey(cards),round:old}),cards);
- assert.equal(r.current,5);assert(r.states.every(s=>!s.done));assert(validRound(r,cards.length));
+ assert(validRound(r,cards.length));assert(r.states.every(s=>!s.done));assert(validRound(r,cards.length));
  for(const raw of ['broken','null',JSON.stringify({key:deckKey(cards),round:{version:2,states:[]}})])assert(validRound(restoreRound(raw,cards),cards.length));
  const corrupt=newRound(2);corrupt.states[0].score=99;assert(!validRound(corrupt,2));
 });
