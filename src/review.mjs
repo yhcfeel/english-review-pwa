@@ -1,8 +1,13 @@
+/** Shuffle only the pending unseen pool; scores and due reviews are separate. */
+function shuffle(values,random=Math.random){
+ const order=[...values];
+ for(let i=order.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[order[i],order[j]]=[order[j],order[i]];}
+ return order;
+}
 /** Every card is either current, unseen, scheduled, or completed. */
 export function newRound(length, random = Math.random) {
-  const order=Array.from({length},(_,i)=>i);
-  for(let i=length-1;i>0;i--){const j=Math.floor(random()*(i+1));[order[i],order[j]]=[order[j],order[i]];}
-  return {version:2,order:order.slice(1),current:order[0]??null,step:0,last:null,
+  const order=shuffle(Array.from({length},(_,i)=>i),random);
+  return {version:2,mixingVersion:1,order:order.slice(1),current:order[0]??null,step:0,last:null,
     states:Array.from({length},()=>({seen:false,score:0,done:false,due:null}))};
 }
 export function rateCard(round,rating,random=Math.random) {
@@ -41,11 +46,14 @@ export function validRound(r,n) {
   })&&(r.current!==null||r.states.every(s=>s.done));
 }
 export function deckKey(cards){return JSON.stringify(cards.map(c=>c.front));}
-export function restoreRound(raw,cards){
+export function restoreRound(raw,cards,random=Math.random){
   try{
     const saved=JSON.parse(raw);
     if(saved.key===deckKey(cards)){
-      if(validRound(saved.round,cards.length))return saved.round;
+      if(validRound(saved.round,cards.length)){
+        // One-time repair for queues previously saved with new words appended.
+        return saved.round.mixingVersion===1?saved.round:{...saved.round,mixingVersion:1,order:shuffle(saved.round.order,random)};
+      }
       // The previous app had no ratings: keep its place but don't assume mastery.
       const old=saved.round;
       if(old&&old.version===undefined&&Array.isArray(old.order)&&old.order.length===cards.length&&new Set(old.order).size===cards.length&&old.order.every(i=>Number.isInteger(i)&&i>=0&&i<cards.length)&&Number.isInteger(old.position)&&old.position>=0&&old.position<cards.length){
@@ -61,15 +69,18 @@ export function restoreRound(raw,cards){
       if(previous.every(front=>indices.has(front))){
         const old=saved.round;
         const remap=i=>i===null?null:indices.get(previous[i]);
-        const next=newRound(cards.length);
+        const grew=cards.length>previous.length;
+        // A finished round is not lifetime mastery. New vocabulary opens a full round.
+        if(grew&&old.current===null)return newRound(cards.length,random);
+        const next=newRound(cards.length,random);
         const added=next.order.concat(next.current===null?[]:[next.current]).filter(i=>!previous.includes(cards[i].front));
         previous.forEach((front,i)=>{next.states[indices.get(front)]={...old.states[i]};});
         next.step=old.step;next.last=remap(old.last);next.current=remap(old.current);
-        next.order=old.order.map(remap).concat(added);
+        next.order=grew?shuffle(old.order.map(remap).concat(added),random):old.order.map(remap);
         if(next.current===null)next.current=next.order.shift()??null;
         if(validRound(next,cards.length))return next;
       }
     }
   }catch{}
-  return newRound(cards.length);
+  return newRound(cards.length,random);
 }

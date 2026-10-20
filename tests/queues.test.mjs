@@ -36,11 +36,11 @@ test('adding cards and reordering preserves current card, completed cards and sc
  assert.equal(next[migrated.current].front,old[round.current].front);
  assert(migrated.order.includes(0));
 });
-test('finished old round accepts new words without resetting completed words',()=>{
+test('finished old round starts a full fresh round when new words arrive',()=>{
  const old=[{front:'old'}];let round=rateCard(newRound(1),'known');
  const next=[...old,{front:'new'}];
  const r=restoreRound(JSON.stringify({key:deckKey(old),round}),next);
- assert(validRound(r,2));assert(r.states[0].done);assert.equal(r.current,1);
+ assert(validRound(r,2));assert(r.states.every(s=>!s.done&&!s.seen));assert.equal(r.order.length,1);
 });
 test('metadata and expanded senses validate without accepting malformed batches',()=>{
  assert(isCardList(cards));
@@ -108,4 +108,25 @@ test('October 20 import covers all 240 lines with preserved forms and exactly tw
  assert(latest.find(c=>c.front==='cone').back.senses.some(s=>s.meaning.includes('视锥')));
  for(const front of ['be of + 名词','there is more to A than B'])assert(latest.find(c=>c.front===front).back.senses.length>=3);
  assert.equal(selectQueue(cards,'latest','2026-10-19-02').length,110);assert.equal(selectQueue(cards,'latest','2026-10-19').length,79);
+});
+
+
+test('imports mix new and unseen old cards without changing active round progress',()=>{
+ const old=Array.from({length:12},(_,i)=>({front:`old${i}`}));
+ let round={...newRound(12),current:0,order:Array.from({length:11},(_,i)=>i+1)};
+ round=rateCard(round,'known',()=>0);round=rateCard(round,'forgot',()=>0);
+ const next=[...old,...Array.from({length:12},(_,i)=>({front:`new${i}`}))];
+ const r=restoreRound(JSON.stringify({key:deckKey(old),round}),next,()=>0);
+ assert(validRound(r,24));assert.equal(r.current,round.current);assert.equal(r.step,round.step);
+ assert.deepEqual(r.states.slice(0,12),round.states);
+ assert.equal(new Set(r.order).size,r.order.length);
+ assert(r.order.indexOf(12)<r.order.findLastIndex(i=>i<12),'new cards must not form an appended tail');
+ assert.deepEqual(restoreRound(JSON.stringify({key:deckKey(next),round:r}),next,()=>.99),r,'reopening must not reshuffle');
+});
+test('legacy saved queue repairs unseen order once without resetting scores or current card',()=>{
+ const cards=Array.from({length:10},(_,i)=>({front:String(i)}));
+ const round={...newRound(10),current:0,order:[1,2,3,4,5,6,7,8,9]};delete round.mixingVersion;
+ const r=restoreRound(JSON.stringify({key:deckKey(cards),round}),cards,()=>0);
+ assert(validRound(r,10));assert.equal(r.current,0);assert.deepEqual(r.states,round.states);assert.notDeepEqual(r.order,round.order);
+ assert.deepEqual(restoreRound(JSON.stringify({key:deckKey(cards),round:r}),cards,()=>.5),r);
 });
