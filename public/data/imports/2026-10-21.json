@@ -1,0 +1,794 @@
+{
+  "date": "2026-10-21",
+  "source": "生词.txt",
+  "sourceSHA256": "3520c7165f498847cb1cb1777e8226e39a78ed0bd4554fa40fadc1b31b52a7ee",
+  "inputCount": 186,
+  "uniqueInputs": 184,
+  "latestCount": 182,
+  "newCards": 180,
+  "totalCount": 943,
+  "repeatedOldWords": [
+    "modify",
+    "fluctuate"
+  ],
+  "notes": [
+    "lucid、synchronize 的文件内重复只保留一张，不因此标黄星。",
+    "aroused / arouse、arousal / arousals 合并各自的屈折形式；动词和派生名词仍是不同卡片。",
+    "olled out 疑似缺 r，补为 rolled out 后归并 roll out；保留原文。",
+    "earn a trade 疑似缺 l，按 learn a trade 补全；保留原文。",
+    "right as 缺少后续上下文，保留原文并解释 right as + 从句与可能的完整习语，不擅自替换。",
+    "Innovations are overdue 作为完整输入保留，复习卡使用 be overdue；-proof 按有效后缀处理。",
+    "全部例句为学习用途编写，不声称来自用户原文章。"
+  ],
+  "corrections": [
+    {
+      "original": "olled out",
+      "completed": "rolled out",
+      "front": "roll out",
+      "confidence": "suspected missing initial r"
+    },
+    {
+      "original": "earn a trade",
+      "completed": "learn a trade",
+      "front": "learn a trade",
+      "confidence": "suspected missing initial l"
+    }
+  ],
+  "reviewFlags": [
+    {
+      "original": "right as",
+      "reason": "fragment without source sentence; retain and explain alternatives"
+    }
+  ],
+  "sources": [
+    "https://dictionary.cambridge.org/dictionary/english/trade",
+    "https://dictionary.cambridge.org/dictionary/english/roll-something-out",
+    "https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep"
+  ],
+  "mapping": [
+    {
+      "original": "Zinc",
+      "front": "zinc"
+    },
+    {
+      "original": "Innovations are overdue",
+      "front": "be overdue"
+    },
+    {
+      "original": "restoring",
+      "front": "restore"
+    },
+    {
+      "original": "admiring",
+      "front": "admire"
+    },
+    {
+      "original": "backdrop",
+      "front": "backdrop"
+    },
+    {
+      "original": "delight",
+      "front": "delight"
+    },
+    {
+      "original": "showcasing",
+      "front": "showcase"
+    },
+    {
+      "original": "toned down",
+      "front": "tone down"
+    },
+    {
+      "original": "a touch of",
+      "front": "a touch of"
+    },
+    {
+      "original": "stunning",
+      "front": "stunning"
+    },
+    {
+      "original": "contrast",
+      "front": "contrast"
+    },
+    {
+      "original": "vibrantly",
+      "front": "vibrantly"
+    },
+    {
+      "original": "malleable",
+      "front": "malleable"
+    },
+    {
+      "original": "downpours",
+      "front": "downpour"
+    },
+    {
+      "original": "ovens",
+      "front": "oven"
+    },
+    {
+      "original": "exquisite",
+      "front": "exquisite"
+    },
+    {
+      "original": "intricate",
+      "front": "intricate"
+    },
+    {
+      "original": "decorations",
+      "front": "decoration"
+    },
+    {
+      "original": "dome",
+      "front": "dome"
+    },
+    {
+      "original": "renovation",
+      "front": "renovation"
+    },
+    {
+      "original": "disposable",
+      "front": "disposable"
+    },
+    {
+      "original": "coveralls",
+      "front": "coveralls"
+    },
+    {
+      "original": "pandemic",
+      "front": "pandemic"
+    },
+    {
+      "original": "containment",
+      "front": "containment"
+    },
+    {
+      "original": "stretched",
+      "front": "stretch"
+    },
+    {
+      "original": "lead",
+      "front": "lead"
+    },
+    {
+      "original": "colonnade",
+      "front": "colonnade"
+    },
+    {
+      "original": "courtyard",
+      "front": "courtyard"
+    },
+    {
+      "original": "apply",
+      "front": "apply"
+    },
+    {
+      "original": "soldering",
+      "front": "soldering"
+    },
+    {
+      "original": "grand",
+      "front": "grand"
+    },
+    {
+      "original": "boulevards",
+      "front": "boulevard"
+    },
+    {
+      "original": "clay",
+      "front": "clay"
+    },
+    {
+      "original": "tiles",
+      "front": "tile"
+    },
+    {
+      "original": "slate",
+      "front": "slate"
+    },
+    {
+      "original": "frenzy",
+      "front": "frenzy"
+    },
+    {
+      "original": "bourgeoisie",
+      "front": "bourgeoisie"
+    },
+    {
+      "original": "facade",
+      "front": "facade"
+    },
+    {
+      "original": "dormer",
+      "front": "dormer"
+    },
+    {
+      "original": "custom fit",
+      "front": "custom fit"
+    },
+    {
+      "original": "ridges",
+      "front": "ridge"
+    },
+    {
+      "original": "decorative",
+      "front": "decorative"
+    },
+    {
+      "original": "fit the bill",
+      "front": "fit the bill"
+    },
+    {
+      "original": "boutique-atelier",
+      "front": "boutique-atelier"
+    },
+    {
+      "original": "bustling",
+      "front": "bustling"
+    },
+    {
+      "original": "outfits",
+      "front": "outfit"
+    },
+    {
+      "original": "ornaments",
+      "front": "ornament"
+    },
+    {
+      "original": "heron",
+      "front": "heron"
+    },
+    {
+      "original": "earn a trade",
+      "front": "learn a trade"
+    },
+    {
+      "original": "shears",
+      "front": "shears"
+    },
+    {
+      "original": "continent",
+      "front": "continent"
+    },
+    {
+      "original": "Frequent",
+      "front": "frequent"
+    },
+    {
+      "original": "hem",
+      "front": "hem"
+    },
+    {
+      "original": "drain",
+      "front": "drain"
+    },
+    {
+      "original": "groove",
+      "front": "groove"
+    },
+    {
+      "original": "instructing",
+      "front": "instruct"
+    },
+    {
+      "original": "crank",
+      "front": "crank"
+    },
+    {
+      "original": "coil",
+      "front": "coil"
+    },
+    {
+      "original": "albeit",
+      "front": "albeit"
+    },
+    {
+      "original": "smelting",
+      "front": "smelting"
+    },
+    {
+      "original": "foundry",
+      "front": "foundry"
+    },
+    {
+      "original": "olled out",
+      "front": "roll out"
+    },
+    {
+      "original": "vulgar",
+      "front": "vulgar"
+    },
+    {
+      "original": "characteristic",
+      "front": "characteristic"
+    },
+    {
+      "original": "tout",
+      "front": "tout"
+    },
+    {
+      "original": "repairs",
+      "front": "repair"
+    },
+    {
+      "original": "condensation",
+      "front": "condensation"
+    },
+    {
+      "original": "capsule",
+      "front": "capsule"
+    },
+    {
+      "original": "coursework",
+      "front": "coursework"
+    },
+    {
+      "original": "proficient",
+      "front": "proficient"
+    },
+    {
+      "original": "shortfall",
+      "front": "shortfall"
+    },
+    {
+      "original": "passion",
+      "front": "passion"
+    },
+    {
+      "original": "spell the end (of something)",
+      "front": "spell the end (of something)"
+    },
+    {
+      "original": "mortality",
+      "front": "mortality"
+    },
+    {
+      "original": "Fahrenheit",
+      "front": "Fahrenheit"
+    },
+    {
+      "original": "scorching",
+      "front": "scorching"
+    },
+    {
+      "original": "fry",
+      "front": "fry"
+    },
+    {
+      "original": "illegal",
+      "front": "illegal"
+    },
+    {
+      "original": "architect",
+      "front": "architect"
+    },
+    {
+      "original": "desperate",
+      "front": "desperate"
+    },
+    {
+      "original": "ventilation",
+      "front": "ventilation"
+    },
+    {
+      "original": "proper",
+      "front": "proper"
+    },
+    {
+      "original": "-proof",
+      "front": "-proof"
+    },
+    {
+      "original": "state-appointed",
+      "front": "state-appointed"
+    },
+    {
+      "original": "on the basis that",
+      "front": "on the basis that"
+    },
+    {
+      "original": "distinctive",
+      "front": "distinctive"
+    },
+    {
+      "original": "slanted",
+      "front": "slanted"
+    },
+    {
+      "original": "load-bearing",
+      "front": "load-bearing"
+    },
+    {
+      "original": "masonry",
+      "front": "masonry"
+    },
+    {
+      "original": "probing",
+      "front": "probing"
+    },
+    {
+      "original": "boundary",
+      "front": "boundary"
+    },
+    {
+      "original": "transitions",
+      "front": "transition"
+    },
+    {
+      "original": "liminal",
+      "front": "liminal"
+    },
+    {
+      "original": "cheek",
+      "front": "cheek"
+    },
+    {
+      "original": "creak",
+      "front": "creak"
+    },
+    {
+      "original": "cryptic",
+      "front": "cryptic"
+    },
+    {
+      "original": "tissues",
+      "front": "tissue"
+    },
+    {
+      "original": "attest",
+      "front": "attest"
+    },
+    {
+      "original": "affiliate",
+      "front": "affiliate"
+    },
+    {
+      "original": "flow",
+      "front": "flow"
+    },
+    {
+      "original": "Massachusetts Institute of Technology.",
+      "front": "Massachusetts Institute of Technology"
+    },
+    {
+      "original": "cerebrospinal",
+      "front": "cerebrospinal"
+    },
+    {
+      "original": "fluid",
+      "front": "fluid"
+    },
+    {
+      "original": "in sync",
+      "front": "in sync"
+    },
+    {
+      "original": "warp",
+      "front": "warp"
+    },
+    {
+      "original": "unravel",
+      "front": "unravel"
+    },
+    {
+      "original": "underpinning",
+      "front": "underpinning"
+    },
+    {
+      "original": "yield",
+      "front": "yield"
+    },
+    {
+      "original": "all-or-nothing",
+      "front": "all-or-nothing"
+    },
+    {
+      "original": "millionaire",
+      "front": "millionaire"
+    },
+    {
+      "original": "napped",
+      "front": "nap"
+    },
+    {
+      "original": "mansion",
+      "front": "mansion"
+    },
+    {
+      "original": "tycoon",
+      "front": "tycoon"
+    },
+    {
+      "original": "noninvasively",
+      "front": "noninvasively"
+    },
+    {
+      "original": "troughs",
+      "front": "trough"
+    },
+    {
+      "original": "gross",
+      "front": "gross"
+    },
+    {
+      "original": "synchronize",
+      "front": "synchronize"
+    },
+    {
+      "original": "frequency",
+      "front": "frequency"
+    },
+    {
+      "original": "amplitude",
+      "front": "amplitude"
+    },
+    {
+      "original": "in a ... fashion",
+      "front": "in a ... fashion"
+    },
+    {
+      "original": "nomenclature",
+      "front": "nomenclature"
+    },
+    {
+      "original": "catalyze",
+      "front": "catalyze"
+    },
+    {
+      "original": "invasive",
+      "front": "invasive"
+    },
+    {
+      "original": "surgery",
+      "front": "surgery"
+    },
+    {
+      "original": "go-to",
+      "front": "go-to"
+    },
+    {
+      "original": "schema",
+      "front": "schema"
+    },
+    {
+      "original": "modified",
+      "front": "modify"
+    },
+    {
+      "original": "subtleties",
+      "front": "subtlety"
+    },
+    {
+      "original": "variable",
+      "front": "variable"
+    },
+    {
+      "original": "counter to",
+      "front": "counter to"
+    },
+    {
+      "original": "tightly defined",
+      "front": "tightly defined"
+    },
+    {
+      "original": "little by little",
+      "front": "little by little"
+    },
+    {
+      "original": "status quo",
+      "front": "status quo"
+    },
+    {
+      "original": "Drift off",
+      "front": "drift off"
+    },
+    {
+      "original": "surrealist",
+      "front": "surrealist"
+    },
+    {
+      "original": "bony",
+      "front": "bony"
+    },
+    {
+      "original": "palm",
+      "front": "palm"
+    },
+    {
+      "original": "slacken",
+      "front": "slacken"
+    },
+    {
+      "original": "clack",
+      "front": "clack"
+    },
+    {
+      "original": "Convinced that ...",
+      "front": "be convinced that ..."
+    },
+    {
+      "original": "aroused",
+      "front": "arouse"
+    },
+    {
+      "original": "mathematical",
+      "front": "mathematical"
+    },
+    {
+      "original": "emerge from",
+      "front": "emerge from"
+    },
+    {
+      "original": "guide",
+      "front": "guide"
+    },
+    {
+      "original": "lucid",
+      "front": "lucid"
+    },
+    {
+      "original": "lucid",
+      "front": "lucid"
+    },
+    {
+      "original": "semantic",
+      "front": "semantic"
+    },
+    {
+      "original": "free-wheeling",
+      "front": "free-wheeling"
+    },
+    {
+      "original": "shackle",
+      "front": "shackle"
+    },
+    {
+      "original": "slumber",
+      "front": "slumber"
+    },
+    {
+      "original": "gradually",
+      "front": "gradually"
+    },
+    {
+      "original": "suppress",
+      "front": "suppress"
+    },
+    {
+      "original": "arousal",
+      "front": "arousal"
+    },
+    {
+      "original": "relay",
+      "front": "relay"
+    },
+    {
+      "original": "follow suit",
+      "front": "follow suit"
+    },
+    {
+      "original": "remnants",
+      "front": "remnant"
+    },
+    {
+      "original": "fluctuates",
+      "front": "fluctuate"
+    },
+    {
+      "original": "preliminary",
+      "front": "preliminary"
+    },
+    {
+      "original": "not yet peer-reviewed",
+      "front": "not yet peer-reviewed"
+    },
+    {
+      "original": "voluntary",
+      "front": "voluntary"
+    },
+    {
+      "original": "crawling",
+      "front": "crawl"
+    },
+    {
+      "original": "arousals",
+      "front": "arousal"
+    },
+    {
+      "original": "emanated",
+      "front": "emanate"
+    },
+    {
+      "original": "be up all night",
+      "front": "be up all night"
+    },
+    {
+      "original": "preceding",
+      "front": "preceding"
+    },
+    {
+      "original": "correlated",
+      "front": "correlated"
+    },
+    {
+      "original": "drowsy",
+      "front": "drowsy"
+    },
+    {
+      "original": "portrait",
+      "front": "portrait"
+    },
+    {
+      "original": "coarse",
+      "front": "coarse"
+    },
+    {
+      "original": "unearthed",
+      "front": "unearth"
+    },
+    {
+      "original": "instructions",
+      "front": "instruction"
+    },
+    {
+      "original": "Shed",
+      "front": "shed"
+    },
+    {
+      "original": "inertia",
+      "front": "inertia"
+    },
+    {
+      "original": "neurons",
+      "front": "neuron"
+    },
+    {
+      "original": "synchronize",
+      "front": "synchronize"
+    },
+    {
+      "original": "cacophony",
+      "front": "cacophony"
+    },
+    {
+      "original": "rhythms",
+      "front": "rhythm"
+    },
+    {
+      "original": "mosaic",
+      "front": "mosaic"
+    },
+    {
+      "original": "defined",
+      "front": "define"
+    },
+    {
+      "original": "manifest",
+      "front": "manifest"
+    },
+    {
+      "original": "properly",
+      "front": "properly"
+    },
+    {
+      "original": "vice versa",
+      "front": "vice versa"
+    },
+    {
+      "original": "fundamentally",
+      "front": "fundamentally"
+    },
+    {
+      "original": "right as",
+      "front": "right as"
+    },
+    {
+      "original": "be supposed to",
+      "front": "be supposed to"
+    },
+    {
+      "original": "arouse",
+      "front": "arouse"
+    }
+  ]
+}
