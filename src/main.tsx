@@ -8,6 +8,7 @@ import { rateCard, vocabularyRevision } from './review.mjs';
 import { batchLabel, latestBatch, isPriority } from './queues.mjs';
 import {emptyKnowledge,readKnowledge,knowledgeKey,activeQueue,openQueue,saveQueue,recordKnowledge,restoreActiveRound} from './knowledge.mjs';
 import { checkAppUpdate, fetchLatestCards } from './updates.mjs';
+import {isProtected,syncImports,milestone} from './importPolicy.mjs';
 import './style.css';
 
 type Sense={term:string;pos?:string;meaning:string;core?:string;example:string;translation?:string;exampleHighlights?:string[];coreHighlights?:string[]};
@@ -41,7 +42,7 @@ function App(){
   try{if(writeBlocked.current)throw Error('Unreadable saved record');localStorage.setItem(knowledgeKey(STORAGE),JSON.stringify(data));}catch{setStorageWarning(true);}
  };
  const load=(data:Card[],scope:Mode,batch:string,restart=false)=>{
-  const opened=openQueue(knowledgeRef.current,data,scope,batch,revision.current,restart);
+  const opened=openQueue(syncImports(knowledgeRef.current,data),data,scope,batch,revision.current,restart);
   commit(opened.data,opened.round);
  };
  useEffect(()=>{
@@ -88,7 +89,7 @@ function App(){
  const flip=()=>{if(card){setFlipped(v=>!v);}};
  const rate=(rating:Rating)=>{
   if(checking.current||!round||!card||!claimRating())return;
-  const data=recordKnowledge(knowledgeRef.current,card.front,rating,mode,!round.states[round.current!].seen);
+  const data=recordKnowledge(knowledgeRef.current,card.front,rating,mode,!round.states[round.current!].seen,isProtected(card));
   const next=rateCard(round,rating);
   const nextCards=activeQueue(allCards,mode,date,data) as Card[];
   const saved=saveQueue(data,cards,next,mode,date,revision.current);
@@ -108,7 +109,7 @@ function App(){
    </div>
    {updateMessage&&<p className="update-status" role="status">{updateMessage}</p>}
   </header>
-  <section ref={stage} className={`stage ${card?'interactive':''} ${flipped?'show-answer':''}`} role={card?'button':undefined} tabIndex={card?0:undefined} aria-label={card?(flipped?'返回英文':`${card.front}，查看答案`):undefined} aria-pressed={card?flipped:undefined} onClick={flip} onKeyDown={e=>{if(card&&(e.key==='Enter'||e.key===' ')){e.preventDefault();flip();}}}>
+  <section ref={stage} className={`stage ${card?'interactive':''} ${flipped?'show-answer':''} ${milestone(round,mode)}`} role={card?'button':undefined} tabIndex={card?0:undefined} aria-label={card?(flipped?'返回英文':`${card.front}，查看答案`):undefined} aria-pressed={card?flipped:undefined} onClick={flip} onKeyDown={e=>{if(card&&(e.key==='Enter'||e.key===' ')){e.preventDefault();flip();}}}>
    {error?<div className="message" role="alert"><p>{error}</p><button onClick={e=>{e.stopPropagation();setAttempt(n=>n+1);}}>重试</button></div>:
     !round?<p className="message" role="status">正在读取词库…</p>:
     done?<div className="message"><h2>{cards.length?'本轮复习完成':'当前队列没有待复习词'}</h2><p>{cards.length?'当前队列所有词已完成':'已掌握词仍保留在词库与导出词表中'}</p></div>:

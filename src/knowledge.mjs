@@ -3,7 +3,7 @@ import {selectQueue} from './queues.mjs';
 import {deckKey,newRound,validRound} from './review.mjs';
 
 /** @typedef {{known:number,difficult:boolean,mastered:boolean,forgot:number,permanent:boolean,candidate:number|null,ratedRound:number,firstForgot:boolean}} Word */
-/** @typedef {{version:number,allRound:number,words:Record<string,Word>,queues:Record<string,string>}} Knowledge */
+/** @typedef {{version:number,allRound:number,words:Record<string,Word>,queues:Record<string,string>,imports?:Record<string,string[]>}} Knowledge */
 /** @returns {Knowledge} */
 export function emptyKnowledge(){return {version:1,allRound:0,words:{},queues:{}};}
 /** @returns {Word} */
@@ -16,7 +16,8 @@ const integer=n=>Number.isSafeInteger(n)&&n>=0;
 export function validKnowledge(data){
  return !!data&&data.version===1&&integer(data.allRound)&&data.words&&typeof data.words==='object'&&!Array.isArray(data.words)&&data.queues&&typeof data.queues==='object'&&!Array.isArray(data.queues)
  &&Object.values(data.words).every(w=>w&&integer(w.known)&&w.known<=3&&integer(w.forgot)&&w.forgot<=3&&['difficult','mastered','permanent','firstForgot'].every(k=>typeof w[k]==='boolean')&&integer(w.ratedRound)&&w.ratedRound<=data.allRound&&(w.candidate===null||(integer(w.candidate)&&w.candidate>0&&w.candidate<=data.allRound))&&(!w.mastered||!w.difficult))
- &&Object.entries(data.queues).every(([key,value])=>(key==='all'||key.startsWith('latest:'))&&typeof value==='string');
+ &&Object.entries(data.queues).every(([key,value])=>(key==='all'||key.startsWith('latest:'))&&typeof value==='string')
+ &&(data.imports===undefined||(data.imports&&typeof data.imports==='object'&&!Array.isArray(data.imports)&&Object.values(data.imports).every(keys=>Array.isArray(keys)&&new Set(keys).size===keys.length&&keys.every(k=>typeof k==='string'&&/^\d{4}-\d{2}-\d{2}(?:-\d{2})?$/.test(k)))));
 }
 export function readKnowledge(storage,base){
  const raw=storage.getItem(knowledgeKey(base));
@@ -58,7 +59,7 @@ export function openQueue(data,cards,mode,batch,revision,restart=false){
  const next=mode==='all'&&(!restored||data.allRound===0)?{...data,allRound:data.allRound+1}:data;
  return {data:saveQueue(next,active,round,mode,batch,revision),cards:active,round};
 }
-export function recordKnowledge(data,front,rating,mode,first){
+export function recordKnowledge(data,front,rating,mode,first,protectedWord=false){
  if(!['known','vague','forgot'].includes(rating))throw Error('Invalid rating');
  if(mode!=='all')return data;
  const id=data.allRound;if(id<1)throw Error('No all-review round');
@@ -69,7 +70,7 @@ export function recordKnowledge(data,front,rating,mode,first){
   const bad=rating!=='known';
   if(old.candidate===id-1&&bad)word.difficult=true;
   word.candidate=null;
-  word.known=rating==='known'?(consecutive?old.known:0)+1:0;
+  word.known=rating==='known'&&!protectedWord?(consecutive?old.known:0)+1:0;
   word.forgot=rating==='forgot'?Math.min(3,(consecutive?old.forgot:0)+1):0;
   word.permanent=old.permanent||word.forgot===3;
   word.ratedRound=id;word.firstForgot=rating==='forgot';

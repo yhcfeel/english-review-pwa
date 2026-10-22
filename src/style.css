@@ -17,3 +17,5 @@ header{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-betw
 .tables-heading{display:flex;align-items:center;justify-content:space-between;gap:10px}.tables-heading h2{font-size:18px;margin:0}.tables-heading button{min-height:40px;padding:6px 12px;font-size:13px}
 .tables-tabs{display:flex;gap:4px;margin-top:12px}.tables-tabs button{flex:1;min-width:0;min-height:44px;padding:6px 3px;font-size:12px}.tables-tabs button[aria-pressed=true]{background:#eaf1fb;color:var(--blue);font-weight:600}.tables-help{font-size:12px;line-height:1.6;color:var(--secondary)}
 .tables-exports{display:flex;flex-wrap:wrap;gap:8px}.tables-exports button{flex:1;min-width:110px;min-height:44px;padding:8px;font-size:13px;color:var(--blue)}.tables-list{padding:0;margin:12px 0 0;list-style:none;overflow-wrap:anywhere}.tables-list li{padding:12px 0;border-bottom:1px solid #e8e8eb}.tables-list strong{color:var(--blue);font-size:16px}.tables-list p{font-size:13px;line-height:1.5;color:var(--secondary);margin:5px 0 0}.tables-empty{text-align:center;font-size:14px;color:var(--secondary)}
+
+.stage.halfway{background:#eaf2ff}.stage.last-hundred{background:#fff0dc}
