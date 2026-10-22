@@ -112,7 +112,7 @@ test('malformed knowledge is rejected without overwriting and prototype-like wor
 });
 test('October 21 import preserves all 186 inputs, old content, duplicates, corrections, and historical batches',()=>{
  const full=JSON.parse(readFileSync('public/data/cards.json','utf8')),report=JSON.parse(readFileSync('public/data/imports/2026-10-21.json','utf8'));
- assert.equal(full.length,943);assert.equal(report.inputCount,186);assert.equal(report.mapping.length,186);assert.equal(report.newCards,180);assert.equal(report.latestCount,182);
+ assert.equal(report.totalCount,943);assert.equal(report.inputCount,186);assert.equal(report.mapping.length,186);assert.equal(report.newCards,180);assert.equal(report.latestCount,182);
  for(const {front,original} of report.mapping){const c=full.find(c=>c.front===front);assert(c);assert(c.originals.includes(original));assert(c.batches.some(b=>b.date===batch));}
  assert.deepEqual(report.repeatedOldWords,['modify','fluctuate']);assert(full.find(c=>c.front==='roll out').originals.includes('olled out'));assert(full.find(c=>c.front==='learn a trade').originals.includes('earn a trade'));
  assert.equal(full.filter(c=>c.front==='lucid').length,1);assert.equal(full.filter(c=>c.front==='synchronize').length,1);

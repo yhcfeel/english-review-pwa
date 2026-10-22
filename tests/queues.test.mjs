@@ -5,9 +5,32 @@ import {batchKey,batchLabel,latestBatch,selectQueue,isPriority,queueStorage} fro
 import {newRound,rateCard,restoreRound,deckKey,validRound} from '../src/review.mjs';
 import {isCardList} from '../src/cards.mjs';
 const cards=JSON.parse(readFileSync('public/data/cards.json','utf8'));
+test('October 22 import covers every source line and distinguishes old repeats from same-file duplicates',()=>{
+ const report=JSON.parse(readFileSync('public/data/imports/2026-10-22.json','utf8'));
+ const latest=selectQueue(cards,'latest','2026-10-22');
+ assert.equal(report.mapping.length,245);assert.equal(report.uniqueInputs,242);
+ assert.equal(latest.length,240);assert.equal(report.newCards,236);assert.equal(report.totalCount,1179);
+ for(const {original,front} of report.mapping){
+  const card=latest.find(c=>c.front===front);assert(card,original);assert(card.originals.includes(original),original);
+  assert.equal(card.batches.filter(b=>batchKey(b)==='2026-10-22').length,1);
+ }
+ assert.deepEqual(latest.filter(c=>isPriority(c,'2026-10-22')).map(c=>c.front).sort(),['criterion','decimate','status quo','sturdy']);
+ for(const front of ['be subject to','harbor','crucial','entrench','cultivate']){
+  assert.equal(latest.filter(c=>c.front===front).length,1);assert(!isPriority(latest.find(c=>c.front===front),'2026-10-22'));
+ }
+ assert.deepEqual(latest.find(c=>c.front==='entrench').originals,['entrenches','entrench']);
+ assert.deepEqual(latest.find(c=>c.front==='cultivate').originals,['cultivated','cultivate']);
+ assert(latest.find(c=>c.front==='sturdy').originals.includes('sturdier'));
+ assert(latest.some(c=>c.front==='supposed'));assert(cards.some(c=>c.front==='be supposed to'));
+ assert.equal(selectQueue(cards,'latest','2026-10-21').length,182);
+ for(const card of latest.filter(c=>!isPriority(c,'2026-10-22'))){
+  assert(card.back.core,card.front);
+  for(const sense of card.back.senses){assert(sense.pos);assert(sense.translation);assert(sense.exampleHighlights.length);assert(sense.exampleHighlights.every(h=>sense.example.includes(h)));}
+ }
+});
 test('today contains all imported forms, merged plurals, and five grammar topics',()=>{
  const latest=selectQueue(cards,'latest','2026-10-15');
- assert.equal(latestBatch(cards),'2026-10-21');assert.equal(latest.length,142);assert.equal(cards.length,943);assert.equal(selectQueue(cards,'latest').length,182);
+ assert.equal(latestBatch(cards),'2026-10-22');assert.equal(latest.length,142);assert.equal(cards.length,1179);assert.equal(selectQueue(cards,'latest').length,240);
  assert.equal(latest.filter(c=>c.kind==='grammar').length,5);
  assert.equal(new Set(cards.map(c=>c.front.toLowerCase())).size,cards.length);
  assert.deepEqual(latest.find(c=>c.front==='grocery').originals,['grocery','groceries']);
@@ -72,7 +95,7 @@ test('second October 19 file is a separate latest queue while all earlier words 
  assert.equal(selectQueue(cards,'latest','2026-10-19').length,79);
  assert.notEqual(queueStorage('test','latest','2026-10-19'),queueStorage('test','latest','2026-10-19-02'));
  assert.equal(batchLabel('2026-10-19-02'),'2026-10-19 · 第 2 批');
- assert.equal(latestBatch([...cards,{batches:[{date:'2026-10-20',repeat:false}]}]),'2026-10-21');
+ assert.equal(latestBatch([...cards,{batches:[{date:'2026-10-20',repeat:false}]}]),'2026-10-22');
  const c=structuredClone(cards[0]);c.batches=[{date:'2026-10-19',repeat:false},{date:'2026-10-19',id:'2026-10-19-02',repeat:true}];assert(isCardList([c]));
  c.batches[1].id='2026-10-20-02';assert(!isCardList([c]));
  c.batches[1].id='2026-10-19-02';c.batches.push({...c.batches[1]});assert(!isCardList([c]));
@@ -81,7 +104,7 @@ test('second October 19 file is a separate latest queue while all earlier words 
 
 test('October 20 import covers all 240 lines with preserved forms and exactly two old-word stars',()=>{
  const report=JSON.parse(readFileSync('public/data/imports/2026-10-20.json','utf8'));
- const latest=selectQueue(cards,'latest','2026-10-20');assert.equal(latest.length,235);assert.equal(report.totalCount,763);assert.equal(cards.length,943);
+ const latest=selectQueue(cards,'latest','2026-10-20');assert.equal(latest.length,235);assert.equal(report.totalCount,763);assert.equal(cards.length,1179);
  assert.equal(report.mapping.length,240);assert.equal(report.newCards,233);
  for(const {original,front} of report.mapping){const c=latest.find(c=>c.front===front);assert(c,original);assert(c.originals.includes(original),original);assert(c.back.core,front);}
  assert.deepEqual(latest.filter(c=>isPriority(c,'2026-10-20')).map(c=>c.front).sort(),['instant','take off']);

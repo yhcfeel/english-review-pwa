@@ -1,0 +1,1015 @@
+{
+  "date": "2026-10-22",
+  "source": "生词.txt",
+  "sourceSHA256": "f0ce14243e9f81fdc438fea74585dbaf4c24d13548e2d3b5dc27725a8ff7bba9",
+  "inputCount": 245,
+  "uniqueInputs": 242,
+  "latestCount": 240,
+  "newCards": 236,
+  "totalCount": 1179,
+  "repeatedOldWords": [
+    "criterion",
+    "decimate",
+    "sturdy",
+    "status quo"
+  ],
+  "notes": [
+    "be subject to、harbors、crucial 为文件内重复，只保留一张且不因此标星。",
+    "entrenches / entrench、cultivated / cultivate 合并词形；复数、过去式、比较级等归并原形，全部原始输入保存在 originals 与 mapping。",
+    "criteria → criterion、decimated → decimate、sturdier → sturdy，以及 status quo 为重复旧词，保留旧释义并标星。",
+    "supposed 独立解释“所谓的／据说的”，不并入已有 be supposed to；派生形容词和副词不强行合并。",
+    "\"Wanted\" poster. 仅移除外层标点，保留原始输入；本批未发现需要猜补字母的片段。",
+    "the mid-aughts 按现代语境解释为二〇〇〇年代中期；at the turn of the 20th century 为约 1900 年前后。",
+    "例句均为学习用途自拟，不是用户原文章摘录；未改变旧卡内容、词库格式或复习功能。"
+  ],
+  "corrections": [],
+  "reviewFlags": [],
+  "sources": [
+    "https://www.merriam-webster.com/dictionary/aughts",
+    "https://www.kew.org/science/collections-and-resources/collections/herbarium",
+    "https://assets.publishing.service.gov.uk/media/5a7db5b2e5274a5eb14e6b72/CMA_response_to_TSI_Call_for_Evidence_on_PPG.pdf",
+    "https://scrabble.merriam.com/finder/goatherd"
+  ],
+  "mapping": [
+    {
+      "original": "boil down to",
+      "front": "boil down to"
+    },
+    {
+      "original": "results are in",
+      "front": "results are in"
+    },
+    {
+      "original": "occasional",
+      "front": "occasional"
+    },
+    {
+      "original": "formulas",
+      "front": "formula"
+    },
+    {
+      "original": "cram",
+      "front": "cram"
+    },
+    {
+      "original": "quotes",
+      "front": "quote"
+    },
+    {
+      "original": "fuss",
+      "front": "fuss"
+    },
+    {
+      "original": "finely",
+      "front": "finely"
+    },
+    {
+      "original": "precise",
+      "front": "precise"
+    },
+    {
+      "original": "criteria",
+      "front": "criterion"
+    },
+    {
+      "original": "opportunities",
+      "front": "opportunity"
+    },
+    {
+      "original": "stakes",
+      "front": "stake"
+    },
+    {
+      "original": "be subject to",
+      "front": "be subject to"
+    },
+    {
+      "original": "accountability",
+      "front": "accountability"
+    },
+    {
+      "original": "wring",
+      "front": "wring"
+    },
+    {
+      "original": "hold somebody/something responsible",
+      "front": "hold somebody/something responsible"
+    },
+    {
+      "original": "bald fact",
+      "front": "bald fact"
+    },
+    {
+      "original": "attainment",
+      "front": "attainment"
+    },
+    {
+      "original": "meritocratic",
+      "front": "meritocratic"
+    },
+    {
+      "original": "level playing field",
+      "front": "level playing field"
+    },
+    {
+      "original": "steady and persistent",
+      "front": "steady and persistent"
+    },
+    {
+      "original": "marginalised",
+      "front": "marginalised"
+    },
+    {
+      "original": "entrenches",
+      "front": "entrench"
+    },
+    {
+      "original": "privilege",
+      "front": "privilege"
+    },
+    {
+      "original": "given",
+      "front": "given"
+    },
+    {
+      "original": "tutors",
+      "front": "tutor"
+    },
+    {
+      "original": "Continuous",
+      "front": "continuous"
+    },
+    {
+      "original": "forgiving",
+      "front": "forgiving"
+    },
+    {
+      "original": "compelling",
+      "front": "compelling"
+    },
+    {
+      "original": "syllabus",
+      "front": "syllabus"
+    },
+    {
+      "original": "defer",
+      "front": "defer"
+    },
+    {
+      "original": "cement",
+      "front": "cement"
+    },
+    {
+      "original": "gusto",
+      "front": "gusto"
+    },
+    {
+      "original": "penalised",
+      "front": "penalise"
+    },
+    {
+      "original": "colon",
+      "front": "colon"
+    },
+    {
+      "original": "punctuation",
+      "front": "punctuation"
+    },
+    {
+      "original": "an argument for",
+      "front": "an argument for"
+    },
+    {
+      "original": "screwdrivers",
+      "front": "screwdriver"
+    },
+    {
+      "original": "make about as much sense as",
+      "front": "make about as much sense as"
+    },
+    {
+      "original": "brutally",
+      "front": "brutally"
+    },
+    {
+      "original": "algorithm",
+      "front": "algorithm"
+    },
+    {
+      "original": "scandalously",
+      "front": "scandalously"
+    },
+    {
+      "original": "explicitly",
+      "front": "explicitly"
+    },
+    {
+      "original": "beat the odds",
+      "front": "beat the odds"
+    },
+    {
+      "original": "lose out",
+      "front": "lose out"
+    },
+    {
+      "original": "deserving",
+      "front": "deserving"
+    },
+    {
+      "original": "correct",
+      "front": "correct"
+    },
+    {
+      "original": "laid bare",
+      "front": "lay bare"
+    },
+    {
+      "original": "buy into something",
+      "front": "buy into something"
+    },
+    {
+      "original": "meritocracy",
+      "front": "meritocracy"
+    },
+    {
+      "original": "myth",
+      "front": "myth"
+    },
+    {
+      "original": "genuinely",
+      "front": "genuinely"
+    },
+    {
+      "original": "seamlessly",
+      "front": "seamlessly"
+    },
+    {
+      "original": "occupations",
+      "front": "occupation"
+    },
+    {
+      "original": "afforded",
+      "front": "afford"
+    },
+    {
+      "original": "entrench",
+      "front": "entrench"
+    },
+    {
+      "original": "fine-grained",
+      "front": "fine-grained"
+    },
+    {
+      "original": "rigorous",
+      "front": "rigorous"
+    },
+    {
+      "original": "twist",
+      "front": "twist"
+    },
+    {
+      "original": "give somebody the benefit of the doubt",
+      "front": "give somebody the benefit of the doubt"
+    },
+    {
+      "original": "hyper-",
+      "front": "hyper-"
+    },
+    {
+      "original": "competence",
+      "front": "competence"
+    },
+    {
+      "original": "leading botanist",
+      "front": "leading botanist"
+    },
+    {
+      "original": "mug",
+      "front": "mug"
+    },
+    {
+      "original": "lay claim to something",
+      "front": "lay claim to something"
+    },
+    {
+      "original": "\"Wanted\" poster.",
+      "front": "wanted poster"
+    },
+    {
+      "original": "track down",
+      "front": "track down"
+    },
+    {
+      "original": "flyer",
+      "front": "flyer"
+    },
+    {
+      "original": "fang",
+      "front": "fang"
+    },
+    {
+      "original": "hand out",
+      "front": "hand out"
+    },
+    {
+      "original": "consumes",
+      "front": "consume"
+    },
+    {
+      "original": "as many as",
+      "front": "as many as"
+    },
+    {
+      "original": "relative",
+      "front": "relative"
+    },
+    {
+      "original": "per capita",
+      "front": "per capita"
+    },
+    {
+      "original": "opting",
+      "front": "opt"
+    },
+    {
+      "original": "genome",
+      "front": "genome"
+    },
+    {
+      "original": "brewing",
+      "front": "brew"
+    },
+    {
+      "original": "floral",
+      "front": "floral"
+    },
+    {
+      "original": "fungal",
+      "front": "fungal"
+    },
+    {
+      "original": "leaf",
+      "front": "leaf"
+    },
+    {
+      "original": "decimated",
+      "front": "decimate"
+    },
+    {
+      "original": "at the turn of the 20th century",
+      "front": "at the turn of the 20th century"
+    },
+    {
+      "original": "fragile",
+      "front": "fragile"
+    },
+    {
+      "original": "gain ground",
+      "front": "gain ground"
+    },
+    {
+      "original": "harsh",
+      "front": "harsh"
+    },
+    {
+      "original": "wettest",
+      "front": "wet"
+    },
+    {
+      "original": "rainfall",
+      "front": "rainfall"
+    },
+    {
+      "original": "a dry spell",
+      "front": "a dry spell"
+    },
+    {
+      "original": "skeptical",
+      "front": "skeptical"
+    },
+    {
+      "original": "habitat",
+      "front": "habitat"
+    },
+    {
+      "original": "solution",
+      "front": "solution"
+    },
+    {
+      "original": "mythical",
+      "front": "mythical"
+    },
+    {
+      "original": "crossbreed",
+      "front": "crossbreed"
+    },
+    {
+      "original": "partly",
+      "front": "partly"
+    },
+    {
+      "original": "sturdier",
+      "front": "sturdy"
+    },
+    {
+      "original": "strains",
+      "front": "strain"
+    },
+    {
+      "original": "resilient",
+      "front": "resilient"
+    },
+    {
+      "original": "impart",
+      "front": "impart"
+    },
+    {
+      "original": "crucial",
+      "front": "crucial"
+    },
+    {
+      "original": "harbors",
+      "front": "harbor"
+    },
+    {
+      "original": "green thumb",
+      "front": "green thumb"
+    },
+    {
+      "original": "PhD",
+      "front": "PhD"
+    },
+    {
+      "original": "drafted",
+      "front": "draft"
+    },
+    {
+      "original": "obsession",
+      "front": "obsession"
+    },
+    {
+      "original": "shelves",
+      "front": "shelf"
+    },
+    {
+      "original": "harbors",
+      "front": "harbor"
+    },
+    {
+      "original": "extensive",
+      "front": "extensive"
+    },
+    {
+      "original": "grinders",
+      "front": "grinder"
+    },
+    {
+      "original": "stashed",
+      "front": "stash"
+    },
+    {
+      "original": "hardly",
+      "front": "hardly"
+    },
+    {
+      "original": "at one point",
+      "front": "at one point"
+    },
+    {
+      "original": "be laced with",
+      "front": "be laced with"
+    },
+    {
+      "original": "preservatives",
+      "front": "preservative"
+    },
+    {
+      "original": "goatherd",
+      "front": "goatherd"
+    },
+    {
+      "original": "agitated",
+      "front": "agitated"
+    },
+    {
+      "original": "Curious",
+      "front": "curious"
+    },
+    {
+      "original": "end up + 形容词 / doing",
+      "front": "end up + 形容词 / doing"
+    },
+    {
+      "original": "infusion",
+      "front": "infusion"
+    },
+    {
+      "original": "domesticated",
+      "front": "domesticate"
+    },
+    {
+      "original": "cultivated",
+      "front": "cultivate"
+    },
+    {
+      "original": "conquered",
+      "front": "conquer"
+    },
+    {
+      "original": "cinnamon",
+      "front": "cinnamon"
+    },
+    {
+      "original": "spiced",
+      "front": "spiced"
+    },
+    {
+      "original": "savored",
+      "front": "savor"
+    },
+    {
+      "original": "fought",
+      "front": "fight"
+    },
+    {
+      "original": "dosed",
+      "front": "dose"
+    },
+    {
+      "original": "rations",
+      "front": "ration"
+    },
+    {
+      "original": "rifle",
+      "front": "rifle"
+    },
+    {
+      "original": "diaries",
+      "front": "diary"
+    },
+    {
+      "original": "genus",
+      "front": "genus"
+    },
+    {
+      "original": "caramel",
+      "front": "caramel"
+    },
+    {
+      "original": "sausage",
+      "front": "sausage"
+    },
+    {
+      "original": "secluded",
+      "front": "secluded"
+    },
+    {
+      "original": "brimming",
+      "front": "brimming"
+    },
+    {
+      "original": "endemic",
+      "front": "endemic"
+    },
+    {
+      "original": "tricky",
+      "front": "tricky"
+    },
+    {
+      "original": "seek out",
+      "front": "seek out"
+    },
+    {
+      "original": "trek",
+      "front": "trek"
+    },
+    {
+      "original": "taxonomist",
+      "front": "taxonomist"
+    },
+    {
+      "original": "diversity",
+      "front": "diversity"
+    },
+    {
+      "original": "get caught in",
+      "front": "get caught in"
+    },
+    {
+      "original": "hookworm",
+      "front": "hookworm"
+    },
+    {
+      "original": "insane",
+      "front": "insane"
+    },
+    {
+      "original": "in honor of",
+      "front": "in honor of"
+    },
+    {
+      "original": "mentor",
+      "front": "mentor"
+    },
+    {
+      "original": "wilt",
+      "front": "wilt"
+    },
+    {
+      "original": "the mid-aughts",
+      "front": "the mid-aughts"
+    },
+    {
+      "original": "in the space of + 一段时间",
+      "front": "in the space of + 一段时间"
+    },
+    {
+      "original": "run out of something",
+      "front": "run out of something"
+    },
+    {
+      "original": "die back",
+      "front": "die back"
+    },
+    {
+      "original": "tipping point",
+      "front": "tipping point"
+    },
+    {
+      "original": "prospers",
+      "front": "prosper"
+    },
+    {
+      "original": "fuel",
+      "front": "fuel"
+    },
+    {
+      "original": "Reserve",
+      "front": "reserve"
+    },
+    {
+      "original": "shrub",
+      "front": "shrub"
+    },
+    {
+      "original": "specimens",
+      "front": "specimen"
+    },
+    {
+      "original": "measly",
+      "front": "measly"
+    },
+    {
+      "original": "bizarrely",
+      "front": "bizarrely"
+    },
+    {
+      "original": "scrawny",
+      "front": "scrawny"
+    },
+    {
+      "original": "undergrowth",
+      "front": "undergrowth"
+    },
+    {
+      "original": "expedition",
+      "front": "expedition"
+    },
+    {
+      "original": "cultivate",
+      "front": "cultivate"
+    },
+    {
+      "original": "grams",
+      "front": "gram"
+    },
+    {
+      "original": "awaited",
+      "front": "await"
+    },
+    {
+      "original": "to begin with",
+      "front": "to begin with"
+    },
+    {
+      "original": "patio",
+      "front": "patio"
+    },
+    {
+      "original": "sip",
+      "front": "sip"
+    },
+    {
+      "original": "premium",
+      "front": "premium"
+    },
+    {
+      "original": "undertone",
+      "front": "undertone"
+    },
+    {
+      "original": "Herbarium",
+      "front": "herbarium"
+    },
+    {
+      "original": "well-worn",
+      "front": "well-worn"
+    },
+    {
+      "original": "brittle",
+      "front": "brittle"
+    },
+    {
+      "original": "invaluable",
+      "front": "invaluable"
+    },
+    {
+      "original": "electron",
+      "front": "electron"
+    },
+    {
+      "original": "minuscule",
+      "front": "minuscule"
+    },
+    {
+      "original": "mint",
+      "front": "mint"
+    },
+    {
+      "original": "buds",
+      "front": "bud"
+    },
+    {
+      "original": "reservoir",
+      "front": "reservoir"
+    },
+    {
+      "original": "quantities",
+      "front": "quantity"
+    },
+    {
+      "original": "problematic",
+      "front": "problematic"
+    },
+    {
+      "original": "niche",
+      "front": "niche"
+    },
+    {
+      "original": "connoisseurs",
+      "front": "connoisseur"
+    },
+    {
+      "original": "promote",
+      "front": "promote"
+    },
+    {
+      "original": "from a ... standpoint",
+      "front": "from a ... standpoint"
+    },
+    {
+      "original": "hybrids",
+      "front": "hybrid"
+    },
+    {
+      "original": "directly",
+      "front": "directly"
+    },
+    {
+      "original": "urgent",
+      "front": "urgent"
+    },
+    {
+      "original": "That's where somebody comes in",
+      "front": "that's where somebody comes in"
+    },
+    {
+      "original": "specialty",
+      "front": "specialty"
+    },
+    {
+      "original": "enshrine",
+      "front": "enshrine"
+    },
+    {
+      "original": "defrauded",
+      "front": "defraud"
+    },
+    {
+      "original": "punished",
+      "front": "punish"
+    },
+    {
+      "original": "state-of-the-art",
+      "front": "state-of-the-art"
+    },
+    {
+      "original": "violated",
+      "front": "violate"
+    },
+    {
+      "original": "fine print",
+      "front": "fine print"
+    },
+    {
+      "original": "crucial",
+      "front": "crucial"
+    },
+    {
+      "original": "enrol",
+      "front": "enrol"
+    },
+    {
+      "original": "drip pricing",
+      "front": "drip pricing"
+    },
+    {
+      "original": "quote somebody a price",
+      "front": "quote somebody a price"
+    },
+    {
+      "original": "additional",
+      "front": "additional"
+    },
+    {
+      "original": "only to do",
+      "front": "only to do"
+    },
+    {
+      "original": "embark on",
+      "front": "embark on"
+    },
+    {
+      "original": "consent",
+      "front": "consent"
+    },
+    {
+      "original": "reflective",
+      "front": "reflective"
+    },
+    {
+      "original": "deliberative",
+      "front": "deliberative"
+    },
+    {
+      "original": "seductive",
+      "front": "seductive"
+    },
+    {
+      "original": "supposed",
+      "front": "supposed"
+    },
+    {
+      "original": "profoundly",
+      "front": "profoundly"
+    },
+    {
+      "original": "insidiously",
+      "front": "insidiously"
+    },
+    {
+      "original": "enlist somebody/something",
+      "front": "enlist somebody/something"
+    },
+    {
+      "original": "rationality",
+      "front": "rationality"
+    },
+    {
+      "original": "depart",
+      "front": "depart"
+    },
+    {
+      "original": "in this regard",
+      "front": "in this regard"
+    },
+    {
+      "original": "be subject to",
+      "front": "be subject to"
+    },
+    {
+      "original": "elaborated",
+      "front": "elaborate"
+    },
+    {
+      "original": "bias",
+      "front": "bias"
+    },
+    {
+      "original": "Tactics",
+      "front": "tactic"
+    },
+    {
+      "original": "aversion",
+      "front": "aversion"
+    },
+    {
+      "original": "exploit",
+      "front": "exploit"
+    },
+    {
+      "original": "status quo",
+      "front": "status quo"
+    },
+    {
+      "original": "won't bother",
+      "front": "won't bother"
+    },
+    {
+      "original": "subset",
+      "front": "subset"
+    },
+    {
+      "original": "radars",
+      "front": "radar"
+    },
+    {
+      "original": "transaction",
+      "front": "transaction"
+    },
+    {
+      "original": "inviting",
+      "front": "inviting"
+    },
+    {
+      "original": "specify",
+      "front": "specify"
+    },
+    {
+      "original": "broadly",
+      "front": "broadly"
+    },
+    {
+      "original": "egregious",
+      "front": "egregious"
+    },
+    {
+      "original": "justify",
+      "front": "justify"
+    },
+    {
+      "original": "prohibition",
+      "front": "prohibition"
+    },
+    {
+      "original": "in accordance with",
+      "front": "in accordance with"
+    },
+    {
+      "original": "bill somebody",
+      "front": "bill somebody"
+    },
+    {
+      "original": "autonomy",
+      "front": "autonomy"
+    },
+    {
+      "original": "up front / upfront",
+      "front": "up front / upfront"
+    },
+    {
+      "original": "reservation",
+      "front": "reservation"
+    },
+    {
+      "original": "standardized",
+      "front": "standardized"
+    },
+    {
+      "original": "broadband",
+      "front": "broadband"
+    },
+    {
+      "original": "allowance",
+      "front": "allowance"
+    },
+    {
+      "original": "like-for-like",
+      "front": "like-for-like"
+    },
+    {
+      "original": "obfuscate",
+      "front": "obfuscate"
+    },
+    {
+      "original": "privacy",
+      "front": "privacy"
+    },
+    {
+      "original": "bedrock",
+      "front": "bedrock"
+    },
+    {
+      "original": "launch a thousand ships",
+      "front": "launch a thousand ships"
+    },
+    {
+      "original": "surveillance",
+      "front": "surveillance"
+    },
+    {
+      "original": "cautiously",
+      "front": "cautiously"
+    }
+  ]
+}

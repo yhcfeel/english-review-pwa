@@ -213,3 +213,13 @@ Safari 打开 HTTPS 网址，分享 → 添加到主屏幕。首次联网访问�
 - 术语核对参照 [NINDS 睡眠基础](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)、[Cambridge 的 trade](https://dictionary.cambridge.org/dictionary/english/trade) 与 [roll something out](https://dictionary.cambridge.org/dictionary/english/roll-something-out)。例句不是用户原文摘录。
 
 后续用户以 Add 开头的消息只加入待办，明确要求更新后再实施、验证、推送。部署仍使用原 main／GitHub Pages，不更换网址或清空浏览器数据。
+
+## 2026-10-22 今日词库
+
+- `生词.txt` 共 245 行、242 条不重复原文，归并为 240 张今日卡片；新增 236 张，总词库 1,179 张。
+- `criteria → criterion`、`decimated → decimate`、`sturdier → sturdy`、`status quo` 为 4 个旧词，保留原释义并在本批标星。`be subject to`、`harbors`、`crucial` 的文件内重复不额外标星；`entrenches / entrench`、`cultivated / cultivate` 分别合为一张。
+- 新卡补充核心理解、常用义、词性和自拟双语例句；保留全部原始词形。`supposed` 与已有的 `be supposed to` 分开，`"Wanted" poster.` 只规范标点。本批没有猜补缺失字母。
+- 旧 943 张卡片的 back 内容完整保留，词库格式及应用代码不变。导入映射、源文件校验值与来源记录在 `public/data/imports/2026-10-22.json`。
+- 专门核对了 [Merriam-Webster 的 aughts](https://www.merriam-webster.com/dictionary/aughts)、[Kew 的植物标本馆说明](https://www.kew.org/science/collections-and-resources/collections/herbarium)、[goatherd](https://scrabble.merriam.com/finder/goatherd) 以及 [CMA 对 drip pricing 的词义说明](https://assets.publishing.service.gov.uk/media/5a7db5b2e5274a5eb14e6b72/CMA_response_to_TSI_Call_for_Evidence_on_PPG.pdf)。例句均为自拟。
+- 在 PWA 点击「检查更新」获取今日词库。按现有规则，词库变化重开最新／全部队列的本轮进度，保留长期掌握、难记、永久表及必要计数；已掌握的重复词仍不进入待复习队列。
+- 本次仅发布词库。无尽模式已按用户要求搁置，不属于待更新队列；以后普通更新／上线指令也不包含该模式，需用户明确要求重新加入后再讨论。
