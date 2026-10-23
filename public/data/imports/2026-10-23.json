@@ -1,0 +1,629 @@
+{
+  "date": "2026-10-23",
+  "source": "生词.txt（仅第246—392行）",
+  "sourceSHA256": "4ea1c64b2ba9234bf333ef675658d785d1ca10f919185ca449530bc7f15ff13e",
+  "todaySHA256": "7d95f21f1e7836987bfd00de2f5f8f27c52afb61c53a2db91e75b59e2399ff4f",
+  "excludedYesterdayLines": 245,
+  "inputCount": 147,
+  "uniqueInputs": 144,
+  "latestCount": 143,
+  "newCards": 142,
+  "totalCount": 1321,
+  "repeatedOldWords": [
+    "preceding"
+  ],
+  "modifiedOldWords": [
+    "preceding"
+  ],
+  "notes": [
+    "前245行与2026-10-22原始映射逐条同序一致，全部排除，未计作今天再次导入。",
+    "integrated、preceding、significance同批重复合并；两条establish含中文释义注解的输入合并，保留全部原文。",
+    "应用分词Add：通常以动词原形及主要动词义为主，分词形容词义补充；disused、unheralded等独立形容词保留并解释来源。",
+    "preceding保留已有词头及旧形容词义项，增加precede动词首义，不新建重复词头或迁移学习键。",
+    "agency与share优先保留用户提供的指定语义。",
+    "Many folded按企业倒闭语境解释fold，同时补充折叠义。",
+    "at distance缺上下文，原文保留，示范常见at a distance形式，不声称原文必错。",
+    "所有例句为自拟；源文件未修改，原1179张中仅preceding补充内容，其余1178张back未改。"
+  ],
+  "reviewFlags": [
+    {
+      "original": "at distance",
+      "reason": "缺上下文，保留原文，讲解常见at a distance形式"
+    }
+  ],
+  "sources": [
+    "https://www.rhs.org.uk/shows-events/rhs-urban-show/urban-gardening/guerrilla-gardening",
+    "https://dictionary.cambridge.org/dictionary/english/if-it-wasn-t-weren-t-for?topic=lacking-things",
+    "https://www.dictionary.com/browse/synchronism"
+  ],
+  "mapping": [
+    {
+      "original": "completed",
+      "front": "complete"
+    },
+    {
+      "original": "wheat",
+      "front": "wheat"
+    },
+    {
+      "original": "bucolic",
+      "front": "bucolic"
+    },
+    {
+      "original": "Confrontation",
+      "front": "confrontation"
+    },
+    {
+      "original": "paradox",
+      "front": "paradox"
+    },
+    {
+      "original": "absurdity",
+      "front": "absurdity"
+    },
+    {
+      "original": "prophet",
+      "front": "prophet"
+    },
+    {
+      "original": "guerrilla gardening",
+      "front": "guerrilla gardening"
+    },
+    {
+      "original": "fringe",
+      "front": "fringe"
+    },
+    {
+      "original": "victory gardens",
+      "front": "victory garden"
+    },
+    {
+      "original": "vacant",
+      "front": "vacant"
+    },
+    {
+      "original": "vacant lots",
+      "front": "vacant lot"
+    },
+    {
+      "original": "besiege",
+      "front": "besiege"
+    },
+    {
+      "original": "spur",
+      "front": "spur"
+    },
+    {
+      "original": "startups",
+      "front": "startup"
+    },
+    {
+      "original": "Many folded",
+      "front": "fold"
+    },
+    {
+      "original": "tenacious",
+      "front": "tenacious"
+    },
+    {
+      "original": "sprout",
+      "front": "sprout"
+    },
+    {
+      "original": "container",
+      "front": "container"
+    },
+    {
+      "original": "subterranean",
+      "front": "subterranean"
+    },
+    {
+      "original": "shelter",
+      "front": "shelter"
+    },
+    {
+      "original": "legume",
+      "front": "legume"
+    },
+    {
+      "original": "tuber",
+      "front": "tuber"
+    },
+    {
+      "original": "calories",
+      "front": "calorie"
+    },
+    {
+      "original": "responsible",
+      "front": "responsible"
+    },
+    {
+      "original": "meet the goals",
+      "front": "meet the goals"
+    },
+    {
+      "original": "conventional",
+      "front": "conventional"
+    },
+    {
+      "original": "eases",
+      "front": "ease"
+    },
+    {
+      "original": "stressed soils",
+      "front": "stressed soil"
+    },
+    {
+      "original": "overburdened",
+      "front": "overburden"
+    },
+    {
+      "original": "closed loop systems",
+      "front": "closed-loop system"
+    },
+    {
+      "original": "sovereignty",
+      "front": "sovereignty"
+    },
+    {
+      "original": "utopian",
+      "front": "utopian"
+    },
+    {
+      "original": "whereas",
+      "front": "whereas"
+    },
+    {
+      "original": "hectares",
+      "front": "hectare"
+    },
+    {
+      "original": "occupy",
+      "front": "occupy"
+    },
+    {
+      "original": "scale up",
+      "front": "scale up"
+    },
+    {
+      "original": "patchwork",
+      "front": "patchwork"
+    },
+    {
+      "original": "Gulf",
+      "front": "gulf"
+    },
+    {
+      "original": "holistic",
+      "front": "holistic"
+    },
+    {
+      "original": "be responsive to something",
+      "front": "be responsive to something"
+    },
+    {
+      "original": "convert A into B",
+      "front": "convert A into B"
+    },
+    {
+      "original": "allotments",
+      "front": "allotment"
+    },
+    {
+      "original": "orchards",
+      "front": "orchard"
+    },
+    {
+      "original": "meadow",
+      "front": "meadow"
+    },
+    {
+      "original": "a flat",
+      "front": "flat"
+    },
+    {
+      "original": "radical",
+      "front": "radical"
+    },
+    {
+      "original": "recourse",
+      "front": "recourse"
+    },
+    {
+      "original": "integrated",
+      "front": "integrate"
+    },
+    {
+      "original": "municipal",
+      "front": "municipal"
+    },
+    {
+      "original": "disused",
+      "front": "disused"
+    },
+    {
+      "original": "halt",
+      "front": "halt"
+    },
+    {
+      "original": "oversight",
+      "front": "oversight"
+    },
+    {
+      "original": "integrated",
+      "front": "integrate"
+    },
+    {
+      "original": "progenitors",
+      "front": "progenitor"
+    },
+    {
+      "original": "vicinity",
+      "front": "vicinity"
+    },
+    {
+      "original": "minority",
+      "front": "minority"
+    },
+    {
+      "original": "convergences",
+      "front": "convergence"
+    },
+    {
+      "original": "due north",
+      "front": "due north"
+    },
+    {
+      "original": "scenario",
+      "front": "scenario"
+    },
+    {
+      "original": "the latter",
+      "front": "the latter"
+    },
+    {
+      "original": "establish",
+      "front": "establish"
+    },
+    {
+      "original": "ethnolinguistic",
+      "front": "ethnolinguistic"
+    },
+    {
+      "original": "by and large",
+      "front": "by and large"
+    },
+    {
+      "original": "proto-",
+      "front": "proto-"
+    },
+    {
+      "original": "be credited with",
+      "front": "be credited with"
+    },
+    {
+      "original": "transmit",
+      "front": "transmit"
+    },
+    {
+      "original": "current",
+      "front": "current"
+    },
+    {
+      "original": "anchored",
+      "front": "anchor"
+    },
+    {
+      "original": "expanse",
+      "front": "expanse"
+    },
+    {
+      "original": "boreal",
+      "front": "boreal"
+    },
+    {
+      "original": "concentrate in",
+      "front": "concentrate in"
+    },
+    {
+      "original": "bronze",
+      "front": "bronze"
+    },
+    {
+      "original": "transformative",
+      "front": "transformative"
+    },
+    {
+      "original": "institutions",
+      "front": "institution"
+    },
+    {
+      "original": "advent",
+      "front": "advent"
+    },
+    {
+      "original": "succession",
+      "front": "succession"
+    },
+    {
+      "original": "agency —— 能动性、自主行动能力",
+      "front": "agency"
+    },
+    {
+      "original": "numerically",
+      "front": "numerically"
+    },
+    {
+      "original": "longstanding",
+      "front": "longstanding"
+    },
+    {
+      "original": "establish —— 建立；确立；证实",
+      "front": "establish"
+    },
+    {
+      "original": "share —— 共有、具有相同特征",
+      "front": "share"
+    },
+    {
+      "original": "ruled out",
+      "front": "rule out"
+    },
+    {
+      "original": "obscure time periods",
+      "front": "obscure time periods"
+    },
+    {
+      "original": "vary in",
+      "front": "vary in"
+    },
+    {
+      "original": "vary",
+      "front": "vary"
+    },
+    {
+      "original": "distribution",
+      "front": "distribution"
+    },
+    {
+      "original": "cluster",
+      "front": "cluster"
+    },
+    {
+      "original": "方向 + -most = 位于最……端的",
+      "front": "方向 + -most"
+    },
+    {
+      "original": "separate",
+      "front": "separate"
+    },
+    {
+      "original": "survivor",
+      "front": "survivor"
+    },
+    {
+      "original": "endangered",
+      "front": "endanger"
+    },
+    {
+      "original": "alike",
+      "front": "alike"
+    },
+    {
+      "original": "toponym",
+      "front": "toponym"
+    },
+    {
+      "original": "tentative",
+      "front": "tentative"
+    },
+    {
+      "original": "fluent",
+      "front": "fluent"
+    },
+    {
+      "original": "ubiquitous",
+      "front": "ubiquitous"
+    },
+    {
+      "original": "inhabit",
+      "front": "inhabit"
+    },
+    {
+      "original": "right up to",
+      "front": "right up to"
+    },
+    {
+      "original": "the passage of years",
+      "front": "the passage of years"
+    },
+    {
+      "original": "preceding",
+      "front": "preceding"
+    },
+    {
+      "original": "preceding",
+      "front": "preceding"
+    },
+    {
+      "original": "antiquity",
+      "front": "antiquity"
+    },
+    {
+      "original": "throne",
+      "front": "throne"
+    },
+    {
+      "original": "monarch",
+      "front": "monarch"
+    },
+    {
+      "original": "geographically",
+      "front": "geographically"
+    },
+    {
+      "original": "localised",
+      "front": "localise"
+    },
+    {
+      "original": "transcendent",
+      "front": "transcendent"
+    },
+    {
+      "original": "translocal",
+      "front": "translocal"
+    },
+    {
+      "original": "outbreak",
+      "front": "outbreak"
+    },
+    {
+      "original": "intimately",
+      "front": "intimately"
+    },
+    {
+      "original": "bureaucratic",
+      "front": "bureaucratic"
+    },
+    {
+      "original": "coordinating",
+      "front": "coordinate"
+    },
+    {
+      "original": "not really A at all, so much as B",
+      "front": "not really A at all, so much as B"
+    },
+    {
+      "original": "synchronism",
+      "front": "synchronism"
+    },
+    {
+      "original": "occurrence",
+      "front": "occurrence"
+    },
+    {
+      "original": "invasion",
+      "front": "invasion"
+    },
+    {
+      "original": "independence",
+      "front": "independence"
+    },
+    {
+      "original": "in such a manner",
+      "front": "in such a manner"
+    },
+    {
+      "original": "go on to do something",
+      "front": "go on to do something"
+    },
+    {
+      "original": "reckon",
+      "front": "reckon"
+    },
+    {
+      "original": "tally",
+      "front": "tally"
+    },
+    {
+      "original": "ancestor",
+      "front": "ancestor"
+    },
+    {
+      "original": "subsequent",
+      "front": "subsequent"
+    },
+    {
+      "original": "unheralded",
+      "front": "unheralded"
+    },
+    {
+      "original": "successors",
+      "front": "successor"
+    },
+    {
+      "original": "freestanding",
+      "front": "freestanding"
+    },
+    {
+      "original": "scribe",
+      "front": "scribe"
+    },
+    {
+      "original": "correlate",
+      "front": "correlate"
+    },
+    {
+      "original": "at distance",
+      "front": "at distance"
+    },
+    {
+      "original": "permit",
+      "front": "permit"
+    },
+    {
+      "original": "reign",
+      "front": "reign"
+    },
+    {
+      "original": "conceive",
+      "front": "conceive"
+    },
+    {
+      "original": "uniform",
+      "front": "uniform"
+    },
+    {
+      "original": "envelop",
+      "front": "envelop"
+    },
+    {
+      "original": "significance",
+      "front": "significance"
+    },
+    {
+      "original": "Were it not for + 名词 = If it were not for + 名词",
+      "front": "were it not for + 名词"
+    },
+    {
+      "original": "significance",
+      "front": "significance"
+    },
+    {
+      "original": "exclusively",
+      "front": "exclusively"
+    },
+    {
+      "original": "materialised",
+      "front": "materialise"
+    },
+    {
+      "original": "homogeneous",
+      "front": "homogeneous"
+    },
+    {
+      "original": "unprecedented",
+      "front": "unprecedented"
+    },
+    {
+      "original": "affixed",
+      "front": "affix"
+    },
+    {
+      "original": "sheer",
+      "front": "sheer"
+    },
+    {
+      "original": "precedent",
+      "front": "precedent"
+    },
+    {
+      "original": "comprehensive",
+      "front": "comprehensive"
+    },
+    {
+      "original": "chronology",
+      "front": "chronology"
+    }
+  ]
+}

@@ -34720,11 +34720,25 @@
       {
         "date": "2026-10-21",
         "repeat": false
+      },
+      {
+        "date": "2026-10-23",
+        "repeat": true
       }
     ],
     "back": {
-      "core": "在时间或顺序上位于当前事物之前；不一定只指紧邻的一个。",
+      "core": "preceding 来自动词 precede，先理解“先于、在……之前发生”；保留原词头与学习记录，补充形容词“先前的”。",
       "senses": [
+        {
+          "term": "precede",
+          "pos": "v.",
+          "meaning": "先于；在……之前发生",
+          "example": "A short introduction precedes the main text.",
+          "translation": "正文前有一段简短介绍。",
+          "exampleHighlights": [
+            "precedes"
+          ]
+        },
         {
           "term": "preceding",
           "pos": "adj.",
@@ -34736,9 +34750,9 @@
           ]
         }
       ],
-      "meaning": "在前的；先前的",
-      "example": "See the preceding section for details.",
-      "translation": "详情请见前一节。"
+      "meaning": "先于；在……之前发生",
+      "example": "A short introduction precedes the main text.",
+      "translation": "正文前有一段简短介绍。"
     }
   },
   {
@@ -43809,6 +43823,5117 @@
       "meaning": "谨慎地；小心地",
       "example": "They moved cautiously across the wet floor.",
       "translation": "他们小心地走过湿地板。"
+    }
+  },
+  {
+    "front": "complete",
+    "original": "completed",
+    "originals": [
+      "completed"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "输入 completed 是 complete 的过去式／分词，先掌握动词“完成”，再看形容词“完整的、已完成的”。",
+      "senses": [
+        {
+          "term": "complete",
+          "pos": "v.",
+          "meaning": "完成；使完整",
+          "example": "They completed the survey yesterday.",
+          "translation": "他们昨天完成了调查。",
+          "exampleHighlights": [
+            "completed"
+          ]
+        },
+        {
+          "term": "complete",
+          "pos": "adj.",
+          "meaning": "完整的；全部的",
+          "example": "We need a complete list of names.",
+          "translation": "我们需要一份完整的名单。",
+          "exampleHighlights": [
+            "complete"
+          ]
+        },
+        {
+          "term": "complete",
+          "pos": "adj.",
+          "meaning": "已完成的（completed）",
+          "example": "Store the completed forms here.",
+          "translation": "把填好的表格放在这里。",
+          "exampleHighlights": [
+            "completed"
+          ]
+        }
+      ],
+      "meaning": "完成；使完整",
+      "example": "They completed the survey yesterday.",
+      "translation": "他们昨天完成了调查。"
+    }
+  },
+  {
+    "front": "wheat",
+    "original": "wheat",
+    "originals": [
+      "wheat"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "一种谷物，其籽粒常磨成面粉。",
+      "senses": [
+        {
+          "term": "wheat",
+          "pos": "n.",
+          "meaning": "小麦",
+          "example": "The field is planted with wheat.",
+          "translation": "这块田种着小麦。",
+          "exampleHighlights": [
+            "wheat"
+          ]
+        }
+      ],
+      "meaning": "小麦",
+      "example": "The field is planted with wheat.",
+      "translation": "这块田种着小麦。"
+    }
+  },
+  {
+    "front": "bucolic",
+    "original": "bucolic",
+    "originals": [
+      "bucolic"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "描述乡村生活或田园风光，常带宁静、优美的意味。",
+      "senses": [
+        {
+          "term": "bucolic",
+          "pos": "adj.",
+          "meaning": "田园的；乡村风情的",
+          "example": "They enjoyed the bucolic scenery.",
+          "translation": "他们欣赏着田园风光。",
+          "exampleHighlights": [
+            "bucolic"
+          ]
+        }
+      ],
+      "meaning": "田园的；乡村风情的",
+      "example": "They enjoyed the bucolic scenery.",
+      "translation": "他们欣赏着田园风光。"
+    }
+  },
+  {
+    "front": "confrontation",
+    "original": "Confrontation",
+    "originals": [
+      "Confrontation"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "confront 面对、对抗，加 -ation 构成名词。",
+      "senses": [
+        {
+          "term": "confrontation",
+          "pos": "n.",
+          "meaning": "对抗；冲突；对峙",
+          "example": "Both sides wanted to avoid a confrontation.",
+          "translation": "双方都想避免冲突。",
+          "exampleHighlights": [
+            "confrontation"
+          ]
+        }
+      ],
+      "meaning": "对抗；冲突；对峙",
+      "example": "Both sides wanted to avoid a confrontation.",
+      "translation": "双方都想避免冲突。"
+    }
+  },
+  {
+    "front": "paradox",
+    "original": "paradox",
+    "originals": [
+      "paradox"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "表面矛盾却可能有道理的说法或情况。",
+      "senses": [
+        {
+          "term": "paradox",
+          "pos": "n.",
+          "meaning": "悖论；看似矛盾的情况",
+          "example": "It is a paradox that more choice can make decisions harder.",
+          "translation": "更多选择反而会让决定更难，这是一个看似矛盾的现象。",
+          "exampleHighlights": [
+            "paradox"
+          ]
+        }
+      ],
+      "meaning": "悖论；看似矛盾的情况",
+      "example": "It is a paradox that more choice can make decisions harder.",
+      "translation": "更多选择反而会让决定更难，这是一个看似矛盾的现象。"
+    }
+  },
+  {
+    "front": "absurdity",
+    "original": "absurdity",
+    "originals": [
+      "absurdity"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "absurd 荒谬的，加 -ity；也指一件荒唐的事。",
+      "senses": [
+        {
+          "term": "absurdity",
+          "pos": "n.",
+          "meaning": "荒谬；荒唐事",
+          "example": "She pointed out the absurdity of the rule.",
+          "translation": "她指出了这条规则的荒谬之处。",
+          "exampleHighlights": [
+            "absurdity"
+          ]
+        }
+      ],
+      "meaning": "荒谬；荒唐事",
+      "example": "She pointed out the absurdity of the rule.",
+      "translation": "她指出了这条规则的荒谬之处。"
+    }
+  },
+  {
+    "front": "prophet",
+    "original": "prophet",
+    "originals": [
+      "prophet"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "宗教中的先知，也可指预言未来趋势的人；勿与 profit 利润混淆。",
+      "senses": [
+        {
+          "term": "prophet",
+          "pos": "n.",
+          "meaning": "先知；预言者",
+          "example": "He was regarded as a prophet of technological change.",
+          "translation": "他被视为技术变革的预言者。",
+          "exampleHighlights": [
+            "prophet"
+          ]
+        }
+      ],
+      "meaning": "先知；预言者",
+      "example": "He was regarded as a prophet of technological change.",
+      "translation": "他被视为技术变革的预言者。"
+    }
+  },
+  {
+    "front": "guerrilla gardening",
+    "original": "guerrilla gardening",
+    "originals": [
+      "guerrilla gardening"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "指未经土地所有者正式许可，在闲置地等处进行种植的活动；guerrilla 为“游击”的比喻。",
+      "senses": [
+        {
+          "term": "guerrilla gardening",
+          "pos": "n. phr.",
+          "meaning": "游击园艺",
+          "example": "The article explores guerrilla gardening in cities.",
+          "translation": "这篇文章探讨城市中的游击园艺。",
+          "exampleHighlights": [
+            "guerrilla gardening"
+          ]
+        }
+      ],
+      "meaning": "游击园艺",
+      "example": "The article explores guerrilla gardening in cities.",
+      "translation": "这篇文章探讨城市中的游击园艺。"
+    }
+  },
+  {
+    "front": "fringe",
+    "original": "fringe",
+    "originals": [
+      "fringe"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "物体外缘，也可比喻主流之外的边缘群体。",
+      "senses": [
+        {
+          "term": "fringe",
+          "pos": "n.",
+          "meaning": "边缘；外围",
+          "example": "New houses appeared on the fringe of the town.",
+          "translation": "城镇边缘出现了新房屋。",
+          "exampleHighlights": [
+            "fringe"
+          ]
+        },
+        {
+          "term": "fringe",
+          "pos": "adj.",
+          "meaning": "边缘的；非主流的",
+          "example": "It began as a fringe movement.",
+          "translation": "它最初是一场非主流运动。",
+          "exampleHighlights": [
+            "fringe"
+          ]
+        },
+        {
+          "term": "fringe",
+          "pos": "n.",
+          "meaning": "刘海；流苏",
+          "example": "She brushed her fringe aside.",
+          "translation": "她把刘海拨到一旁。",
+          "exampleHighlights": [
+            "fringe"
+          ]
+        }
+      ],
+      "meaning": "边缘；外围",
+      "example": "New houses appeared on the fringe of the town.",
+      "translation": "城镇边缘出现了新房屋。"
+    }
+  },
+  {
+    "front": "victory garden",
+    "original": "victory gardens",
+    "originals": [
+      "victory gardens"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "通常指战争时期为补充食物供应而开辟的家庭或社区菜园。",
+      "senses": [
+        {
+          "term": "victory garden",
+          "pos": "n. phr.",
+          "meaning": "胜利菜园；战时自给菜园",
+          "example": "The family grew beans in a victory garden.",
+          "translation": "这家人在战时自给菜园里种豆子。",
+          "exampleHighlights": [
+            "victory garden"
+          ]
+        }
+      ],
+      "meaning": "胜利菜园；战时自给菜园",
+      "example": "The family grew beans in a victory garden.",
+      "translation": "这家人在战时自给菜园里种豆子。"
+    }
+  },
+  {
+    "front": "vacant",
+    "original": "vacant",
+    "originals": [
+      "vacant"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "地方无人占用，职位无人担任，也可形容目光茫然。",
+      "senses": [
+        {
+          "term": "vacant",
+          "pos": "adj.",
+          "meaning": "空着的；闲置的",
+          "example": "The building has been vacant for months.",
+          "translation": "这座楼已经空置数月。",
+          "exampleHighlights": [
+            "vacant"
+          ]
+        },
+        {
+          "term": "vacant",
+          "pos": "adj.",
+          "meaning": "空缺的",
+          "example": "The post is still vacant.",
+          "translation": "这个职位仍然空缺。",
+          "exampleHighlights": [
+            "vacant"
+          ]
+        }
+      ],
+      "meaning": "空着的；闲置的",
+      "example": "The building has been vacant for months.",
+      "translation": "这座楼已经空置数月。"
+    }
+  },
+  {
+    "front": "vacant lot",
+    "original": "vacant lots",
+    "originals": [
+      "vacant lots"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "lot 在这里是地块，美式常用；不是“许多”。",
+      "senses": [
+        {
+          "term": "vacant lot",
+          "pos": "n. phr.",
+          "meaning": "空地；闲置地块",
+          "example": "Residents turned a vacant lot into a garden.",
+          "translation": "居民把一块空地改造成了花园。",
+          "exampleHighlights": [
+            "vacant lot"
+          ]
+        }
+      ],
+      "meaning": "空地；闲置地块",
+      "example": "Residents turned a vacant lot into a garden.",
+      "translation": "居民把一块空地改造成了花园。"
+    }
+  },
+  {
+    "front": "besiege",
+    "original": "besiege",
+    "originals": [
+      "besiege"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "包围某地以迫使其投降，也可比喻请求等大量涌来。",
+      "senses": [
+        {
+          "term": "besiege",
+          "pos": "v.",
+          "meaning": "围攻；包围",
+          "example": "The army tried to besiege the city.",
+          "translation": "军队试图围攻这座城市。",
+          "exampleHighlights": [
+            "besiege"
+          ]
+        },
+        {
+          "term": "besiege",
+          "pos": "v.",
+          "meaning": "使应接不暇",
+          "example": "Reporters besieged the office with calls.",
+          "translation": "记者的电话让办公室应接不暇。",
+          "exampleHighlights": [
+            "besieged"
+          ]
+        }
+      ],
+      "meaning": "围攻；包围",
+      "example": "The army tried to besiege the city.",
+      "translation": "军队试图围攻这座城市。"
+    }
+  },
+  {
+    "front": "spur",
+    "original": "spur",
+    "originals": [
+      "spur"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "原指马刺；比喻促使人向前行动的刺激。",
+      "senses": [
+        {
+          "term": "spur",
+          "pos": "v.",
+          "meaning": "激励；促使",
+          "example": "The shortage spurred them to act.",
+          "translation": "短缺促使他们采取行动。",
+          "exampleHighlights": [
+            "spurred"
+          ]
+        },
+        {
+          "term": "spur",
+          "pos": "n.",
+          "meaning": "刺激；推动力",
+          "example": "The award was a spur to further work.",
+          "translation": "这个奖项推动了后续工作。",
+          "exampleHighlights": [
+            "spur"
+          ]
+        }
+      ],
+      "meaning": "激励；促使",
+      "example": "The shortage spurred them to act.",
+      "translation": "短缺促使他们采取行动。"
+    }
+  },
+  {
+    "front": "startup",
+    "original": "startups",
+    "originals": [
+      "startups"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "新成立的企业，尤指希望快速成长的创业公司；也写 start-up。",
+      "senses": [
+        {
+          "term": "startup",
+          "pos": "n.",
+          "meaning": "初创企业",
+          "example": "The startup develops farming tools.",
+          "translation": "这家初创企业开发农具。",
+          "exampleHighlights": [
+            "startup"
+          ]
+        }
+      ],
+      "meaning": "初创企业",
+      "example": "The startup develops farming tools.",
+      "translation": "这家初创企业开发农具。"
+    }
+  },
+  {
+    "front": "fold",
+    "original": "Many folded",
+    "originals": [
+      "Many folded"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "原输入 Many folded 保留；在企业语境中 fold 常指倒闭，而非折叠。",
+      "senses": [
+        {
+          "term": "fold",
+          "pos": "v.",
+          "meaning": "倒闭；停业",
+          "example": "Many small businesses folded that year.",
+          "translation": "那年许多小企业倒闭了。",
+          "exampleHighlights": [
+            "folded"
+          ]
+        },
+        {
+          "term": "fold",
+          "pos": "v.",
+          "meaning": "折叠",
+          "example": "Fold the paper in half.",
+          "translation": "把纸对折。",
+          "exampleHighlights": [
+            "Fold"
+          ]
+        }
+      ],
+      "meaning": "倒闭；停业",
+      "example": "Many small businesses folded that year.",
+      "translation": "那年许多小企业倒闭了。"
+    }
+  },
+  {
+    "front": "tenacious",
+    "original": "tenacious",
+    "originals": [
+      "tenacious"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "牢牢抓住不放，引申为坚持不懈或难以消除。",
+      "senses": [
+        {
+          "term": "tenacious",
+          "pos": "adj.",
+          "meaning": "顽强的；坚持不懈的",
+          "example": "She is a tenacious campaigner.",
+          "translation": "她是一位坚韧不拔的倡导者。",
+          "exampleHighlights": [
+            "tenacious"
+          ]
+        }
+      ],
+      "meaning": "顽强的；坚持不懈的",
+      "example": "She is a tenacious campaigner.",
+      "translation": "她是一位坚韧不拔的倡导者。"
+    }
+  },
+  {
+    "front": "sprout",
+    "original": "sprout",
+    "originals": [
+      "sprout"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "种子长出嫩芽，也可比喻事物迅速出现。",
+      "senses": [
+        {
+          "term": "sprout",
+          "pos": "v.",
+          "meaning": "发芽；萌发",
+          "example": "The seeds began to sprout.",
+          "translation": "种子开始发芽。",
+          "exampleHighlights": [
+            "sprout"
+          ]
+        },
+        {
+          "term": "sprout",
+          "pos": "n.",
+          "meaning": "芽；嫩苗",
+          "example": "Green sprouts appeared in the tray.",
+          "translation": "托盘里冒出了绿色嫩芽。",
+          "exampleHighlights": [
+            "sprouts"
+          ]
+        }
+      ],
+      "meaning": "发芽；萌发",
+      "example": "The seeds began to sprout.",
+      "translation": "种子开始发芽。"
+    }
+  },
+  {
+    "front": "container",
+    "original": "container",
+    "originals": [
+      "container"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "contain 容纳，加 -er；可指一般容器或运输集装箱。",
+      "senses": [
+        {
+          "term": "container",
+          "pos": "n.",
+          "meaning": "容器；集装箱",
+          "example": "Keep the seeds in a dry container.",
+          "translation": "把种子放在干燥的容器里。",
+          "exampleHighlights": [
+            "container"
+          ]
+        }
+      ],
+      "meaning": "容器；集装箱",
+      "example": "Keep the seeds in a dry container.",
+      "translation": "把种子放在干燥的容器里。"
+    }
+  },
+  {
+    "front": "subterranean",
+    "original": "subterranean",
+    "originals": [
+      "subterranean"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "sub- 在下方，与表示土地的词根相连，指地下的。",
+      "senses": [
+        {
+          "term": "subterranean",
+          "pos": "adj.",
+          "meaning": "地下的",
+          "example": "They explored a subterranean passage.",
+          "translation": "他们探索了一条地下通道。",
+          "exampleHighlights": [
+            "subterranean"
+          ]
+        }
+      ],
+      "meaning": "地下的",
+      "example": "They explored a subterranean passage.",
+      "translation": "他们探索了一条地下通道。"
+    }
+  },
+  {
+    "front": "shelter",
+    "original": "shelter",
+    "originals": [
+      "shelter"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "遮挡风雨、危险的地方或保护，也可作动词。",
+      "senses": [
+        {
+          "term": "shelter",
+          "pos": "n.",
+          "meaning": "遮蔽；庇护所",
+          "example": "The trees provided shelter from the wind.",
+          "translation": "这些树提供了避风之处。",
+          "exampleHighlights": [
+            "shelter"
+          ]
+        },
+        {
+          "term": "shelter",
+          "pos": "v.",
+          "meaning": "保护；躲避",
+          "example": "We sheltered under a bridge.",
+          "translation": "我们在桥下躲避风雨。",
+          "exampleHighlights": [
+            "sheltered"
+          ]
+        }
+      ],
+      "meaning": "遮蔽；庇护所",
+      "example": "The trees provided shelter from the wind.",
+      "translation": "这些树提供了避风之处。"
+    }
+  },
+  {
+    "front": "legume",
+    "original": "legume",
+    "originals": [
+      "legume"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "通常指豆科植物，也可指其可食用种子或荚果。",
+      "senses": [
+        {
+          "term": "legume",
+          "pos": "n.",
+          "meaning": "豆科植物；豆类",
+          "example": "Lentils are a type of legume.",
+          "translation": "扁豆是一种豆类。",
+          "exampleHighlights": [
+            "legume"
+          ]
+        }
+      ],
+      "meaning": "豆科植物；豆类",
+      "example": "Lentils are a type of legume.",
+      "translation": "扁豆是一种豆类。"
+    }
+  },
+  {
+    "front": "tuber",
+    "original": "tuber",
+    "originals": [
+      "tuber"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "植物膨大的地下储藏器官；土豆是常见例子。",
+      "senses": [
+        {
+          "term": "tuber",
+          "pos": "n.",
+          "meaning": "块茎",
+          "example": "The plant stores nutrients in a tuber.",
+          "translation": "这种植物把养分储存在块茎里。",
+          "exampleHighlights": [
+            "tuber"
+          ]
+        }
+      ],
+      "meaning": "块茎",
+      "example": "The plant stores nutrients in a tuber.",
+      "translation": "这种植物把养分储存在块茎里。"
+    }
+  },
+  {
+    "front": "calorie",
+    "original": "calories",
+    "originals": [
+      "calories"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "能量单位；食品语境中的 calorie 通常指千卡，复数 calories。",
+      "senses": [
+        {
+          "term": "calorie",
+          "pos": "n.",
+          "meaning": "卡路里；热量单位",
+          "example": "The label lists the number of calories.",
+          "translation": "标签列出了热量数值。",
+          "exampleHighlights": [
+            "calories"
+          ]
+        }
+      ],
+      "meaning": "卡路里；热量单位",
+      "example": "The label lists the number of calories.",
+      "translation": "标签列出了热量数值。"
+    }
+  },
+  {
+    "front": "responsible",
+    "original": "responsible",
+    "originals": [
+      "responsible"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "有责任或造成某种结果，也可形容可靠、负责任的人。",
+      "senses": [
+        {
+          "term": "responsible",
+          "pos": "adj.",
+          "meaning": "负责的；负有责任的",
+          "example": "Who is responsible for watering the plants?",
+          "translation": "谁负责给植物浇水？",
+          "exampleHighlights": [
+            "responsible"
+          ]
+        },
+        {
+          "term": "responsible",
+          "pos": "adj.",
+          "meaning": "引起……的；造成……的",
+          "example": "Heavy rain was responsible for the delay.",
+          "translation": "大雨造成了延误。",
+          "exampleHighlights": [
+            "responsible"
+          ]
+        },
+        {
+          "term": "responsible",
+          "pos": "adj.",
+          "meaning": "可靠的；负责任的",
+          "example": "She is a responsible worker.",
+          "translation": "她是一位负责任的员工。",
+          "exampleHighlights": [
+            "responsible"
+          ]
+        }
+      ],
+      "meaning": "负责的；负有责任的",
+      "example": "Who is responsible for watering the plants?",
+      "translation": "谁负责给植物浇水？"
+    }
+  },
+  {
+    "front": "meet the goals",
+    "original": "meet the goals",
+    "originals": [
+      "meet the goals"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "meet 在这里表示达到要求，不是见面；goal 指目标。",
+      "senses": [
+        {
+          "term": "meet the goals",
+          "pos": "v. phr.",
+          "meaning": "实现目标；达到目标",
+          "example": "The project failed to meet the goals.",
+          "translation": "这个项目未能实现目标。",
+          "exampleHighlights": [
+            "meet the goals"
+          ]
+        }
+      ],
+      "meaning": "实现目标；达到目标",
+      "example": "The project failed to meet the goals.",
+      "translation": "这个项目未能实现目标。"
+    }
+  },
+  {
+    "front": "conventional",
+    "original": "conventional",
+    "originals": [
+      "conventional"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "遵循惯例或传统方法，未必意味着过时。",
+      "senses": [
+        {
+          "term": "conventional",
+          "pos": "adj.",
+          "meaning": "传统的；常规的",
+          "example": "The farm uses conventional equipment.",
+          "translation": "这家农场使用常规设备。",
+          "exampleHighlights": [
+            "conventional"
+          ]
+        }
+      ],
+      "meaning": "传统的；常规的",
+      "example": "The farm uses conventional equipment.",
+      "translation": "这家农场使用常规设备。"
+    }
+  },
+  {
+    "front": "ease",
+    "original": "eases",
+    "originals": [
+      "eases"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "输入 eases 为动词第三人称单数；可指减轻困难，也可作名词表示轻松。",
+      "senses": [
+        {
+          "term": "ease",
+          "pos": "v.",
+          "meaning": "减轻；缓解",
+          "example": "Better drainage eases pressure on the soil.",
+          "translation": "改善排水能减轻土壤承受的压力。",
+          "exampleHighlights": [
+            "eases"
+          ]
+        },
+        {
+          "term": "ease",
+          "pos": "n.",
+          "meaning": "轻松；容易",
+          "example": "She solved the problem with ease.",
+          "translation": "她轻松解决了问题。",
+          "exampleHighlights": [
+            "ease"
+          ]
+        }
+      ],
+      "meaning": "减轻；缓解",
+      "example": "Better drainage eases pressure on the soil.",
+      "translation": "改善排水能减轻土壤承受的压力。"
+    }
+  },
+  {
+    "front": "stressed soil",
+    "original": "stressed soils",
+    "originals": [
+      "stressed soils"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "输入 stressed soils 指受胁迫的土壤；先理解动词 stress 对环境施加压力，再理解分词状态。",
+      "senses": [
+        {
+          "term": "stressed soil",
+          "pos": "v.",
+          "meaning": "使承受压力或胁迫（stress）",
+          "example": "Drought can stress the soil ecosystem.",
+          "translation": "干旱会使土壤生态系统承受压力。",
+          "exampleHighlights": [
+            "stress"
+          ]
+        },
+        {
+          "term": "stressed soil",
+          "pos": "n. phr.",
+          "meaning": "受胁迫的土壤",
+          "example": "The project aims to restore stressed soils.",
+          "translation": "这个项目旨在修复受胁迫的土壤。",
+          "exampleHighlights": [
+            "stressed soils"
+          ]
+        }
+      ],
+      "meaning": "使承受压力或胁迫（stress）",
+      "example": "Drought can stress the soil ecosystem.",
+      "translation": "干旱会使土壤生态系统承受压力。"
+    }
+  },
+  {
+    "front": "overburden",
+    "original": "overburdened",
+    "originals": [
+      "overburdened"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "over- 过度，加 burden 负担；输入 overburdened 为过去分词。",
+      "senses": [
+        {
+          "term": "overburden",
+          "pos": "v.",
+          "meaning": "使负担过重",
+          "example": "Excessive demand can overburden the system.",
+          "translation": "过多的需求会使系统负担过重。",
+          "exampleHighlights": [
+            "overburden"
+          ]
+        },
+        {
+          "term": "overburden",
+          "pos": "adj.",
+          "meaning": "负担过重的（overburdened）",
+          "example": "The overburdened staff needed help.",
+          "translation": "工作负担过重的员工需要帮助。",
+          "exampleHighlights": [
+            "overburdened"
+          ]
+        }
+      ],
+      "meaning": "使负担过重",
+      "example": "Excessive demand can overburden the system.",
+      "translation": "过多的需求会使系统负担过重。"
+    }
+  },
+  {
+    "front": "closed-loop system",
+    "original": "closed loop systems",
+    "originals": [
+      "closed loop systems"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "closed 为 close 的分词，核心是使循环闭合；完整短语在资源或控制语境中有专门含义。",
+      "senses": [
+        {
+          "term": "closed-loop system",
+          "pos": "n. phr.",
+          "meaning": "闭环系统；循环利用系统",
+          "example": "The farm reuses water in a closed-loop system.",
+          "translation": "这家农场在闭环系统中重复利用水。",
+          "exampleHighlights": [
+            "closed-loop system"
+          ]
+        },
+        {
+          "term": "closed-loop system",
+          "pos": "v. phr.",
+          "meaning": "闭合循环（close the loop）",
+          "example": "Recycling helps close the loop between production and reuse.",
+          "translation": "回收有助于打通生产与再利用的循环。",
+          "exampleHighlights": [
+            "close the loop"
+          ]
+        }
+      ],
+      "meaning": "闭环系统；循环利用系统",
+      "example": "The farm reuses water in a closed-loop system.",
+      "translation": "这家农场在闭环系统中重复利用水。"
+    }
+  },
+  {
+    "front": "sovereignty",
+    "original": "sovereignty",
+    "originals": [
+      "sovereignty"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "sovereign 主权的，加 -ty；也可在食物等语境中指自主决定权。",
+      "senses": [
+        {
+          "term": "sovereignty",
+          "pos": "n.",
+          "meaning": "主权；自主权",
+          "example": "The debate centred on national sovereignty.",
+          "translation": "辩论围绕国家主权展开。",
+          "exampleHighlights": [
+            "sovereignty"
+          ]
+        }
+      ],
+      "meaning": "主权；自主权",
+      "example": "The debate centred on national sovereignty.",
+      "translation": "辩论围绕国家主权展开。"
+    }
+  },
+  {
+    "front": "utopian",
+    "original": "utopian",
+    "originals": [
+      "utopian"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "来自 utopia 乌托邦，指理想化的社会愿景，常暗示不切实际。",
+      "senses": [
+        {
+          "term": "utopian",
+          "pos": "adj.",
+          "meaning": "乌托邦式的；理想化的",
+          "example": "Critics called the proposal utopian.",
+          "translation": "批评者称这个提议过于理想化。",
+          "exampleHighlights": [
+            "utopian"
+          ]
+        }
+      ],
+      "meaning": "乌托邦式的；理想化的",
+      "example": "Critics called the proposal utopian.",
+      "translation": "批评者称这个提议过于理想化。"
+    }
+  },
+  {
+    "front": "whereas",
+    "original": "whereas",
+    "originals": [
+      "whereas"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "用于对照两种事实，意为然而、而。",
+      "senses": [
+        {
+          "term": "whereas",
+          "pos": "conj.",
+          "meaning": "然而；而；相比之下",
+          "example": "This field is dry, whereas that one is wet.",
+          "translation": "这块田很干，而那块田很湿。",
+          "exampleHighlights": [
+            "whereas"
+          ]
+        }
+      ],
+      "meaning": "然而；而；相比之下",
+      "example": "This field is dry, whereas that one is wet.",
+      "translation": "这块田很干，而那块田很湿。"
+    }
+  },
+  {
+    "front": "hectare",
+    "original": "hectares",
+    "originals": [
+      "hectares"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "面积单位，一公顷等于一万平方米。",
+      "senses": [
+        {
+          "term": "hectare",
+          "pos": "n.",
+          "meaning": "公顷",
+          "example": "The garden covers one hectare.",
+          "translation": "这座花园占地一公顷。",
+          "exampleHighlights": [
+            "hectare"
+          ]
+        }
+      ],
+      "meaning": "公顷",
+      "example": "The garden covers one hectare.",
+      "translation": "这座花园占地一公顷。"
+    }
+  },
+  {
+    "front": "occupy",
+    "original": "occupy",
+    "originals": [
+      "occupy"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "占据空间、时间或位置，也可指军事占领。",
+      "senses": [
+        {
+          "term": "occupy",
+          "pos": "v.",
+          "meaning": "占据；占用",
+          "example": "The garden will occupy the empty lot.",
+          "translation": "花园将占用这块空地。",
+          "exampleHighlights": [
+            "occupy"
+          ]
+        },
+        {
+          "term": "occupy",
+          "pos": "v.",
+          "meaning": "使忙于",
+          "example": "The puzzle occupied her for an hour.",
+          "translation": "这道谜题让她忙了一个小时。",
+          "exampleHighlights": [
+            "occupied"
+          ]
+        },
+        {
+          "term": "occupy",
+          "pos": "v.",
+          "meaning": "占领",
+          "example": "Troops occupied the town.",
+          "translation": "军队占领了这座城镇。",
+          "exampleHighlights": [
+            "occupied"
+          ]
+        }
+      ],
+      "meaning": "占据；占用",
+      "example": "The garden will occupy the empty lot.",
+      "translation": "花园将占用这块空地。"
+    }
+  },
+  {
+    "front": "scale up",
+    "original": "scale up",
+    "originals": [
+      "scale up"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "scale 指规模，加 up 表示扩大；常用于把试验推广到更大范围。",
+      "senses": [
+        {
+          "term": "scale up",
+          "pos": "phr. v.",
+          "meaning": "扩大规模",
+          "example": "They plan to scale up production.",
+          "translation": "他们计划扩大生产规模。",
+          "exampleHighlights": [
+            "scale up"
+          ]
+        }
+      ],
+      "meaning": "扩大规模",
+      "example": "They plan to scale up production.",
+      "translation": "他们计划扩大生产规模。"
+    }
+  },
+  {
+    "front": "patchwork",
+    "original": "patchwork",
+    "originals": [
+      "patchwork"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "由许多小块拼成的东西，也可比喻零散拼接的系统。",
+      "senses": [
+        {
+          "term": "patchwork",
+          "pos": "n.",
+          "meaning": "拼布；拼凑物",
+          "example": "The valley is a patchwork of small fields.",
+          "translation": "山谷由一块块小田地拼成。",
+          "exampleHighlights": [
+            "patchwork"
+          ]
+        }
+      ],
+      "meaning": "拼布；拼凑物",
+      "example": "The valley is a patchwork of small fields.",
+      "translation": "山谷由一块块小田地拼成。"
+    }
+  },
+  {
+    "front": "gulf",
+    "original": "Gulf",
+    "originals": [
+      "Gulf"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "可指较大的海湾，也可比喻巨大的分歧；大写 Gulf 的具体地区需看上下文。",
+      "senses": [
+        {
+          "term": "gulf",
+          "pos": "n.",
+          "meaning": "海湾",
+          "example": "The river flows into a gulf.",
+          "translation": "这条河流入一个海湾。",
+          "exampleHighlights": [
+            "gulf"
+          ]
+        },
+        {
+          "term": "gulf",
+          "pos": "n.",
+          "meaning": "鸿沟；巨大分歧",
+          "example": "A wide gulf separates their views.",
+          "translation": "他们的观点之间存在巨大鸿沟。",
+          "exampleHighlights": [
+            "gulf"
+          ]
+        }
+      ],
+      "meaning": "海湾",
+      "example": "The river flows into a gulf.",
+      "translation": "这条河流入一个海湾。"
+    }
+  },
+  {
+    "front": "holistic",
+    "original": "holistic",
+    "originals": [
+      "holistic"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "从整体及各部分关系来看待问题，而不是只看某一局部。",
+      "senses": [
+        {
+          "term": "holistic",
+          "pos": "adj.",
+          "meaning": "整体的；全面综合的",
+          "example": "The team took a holistic approach to planning.",
+          "translation": "团队采用整体规划的方法。",
+          "exampleHighlights": [
+            "holistic"
+          ]
+        }
+      ],
+      "meaning": "整体的；全面综合的",
+      "example": "The team took a holistic approach to planning.",
+      "translation": "团队采用整体规划的方法。"
+    }
+  },
+  {
+    "front": "be responsive to something",
+    "original": "be responsive to something",
+    "originals": [
+      "be responsive to something"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "responsive 来自 respond，表示能回应需求、变化等。",
+      "senses": [
+        {
+          "term": "be responsive to something",
+          "pos": "pattern",
+          "meaning": "对……有回应；能适应……",
+          "example": "The service should be responsive to local needs.",
+          "translation": "这项服务应能回应当地需求。",
+          "exampleHighlights": [
+            "be responsive to"
+          ]
+        }
+      ],
+      "meaning": "对……有回应；能适应……",
+      "example": "The service should be responsive to local needs.",
+      "translation": "这项服务应能回应当地需求。"
+    }
+  },
+  {
+    "front": "convert A into B",
+    "original": "convert A into B",
+    "originals": [
+      "convert A into B"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "convert 表示转变，into 引出转变后的结果。",
+      "senses": [
+        {
+          "term": "convert A into B",
+          "pos": "pattern",
+          "meaning": "把 A 转变为 B",
+          "example": "They converted the warehouse into flats.",
+          "translation": "他们把仓库改造成了公寓。",
+          "exampleHighlights": [
+            "converted",
+            "into"
+          ]
+        }
+      ],
+      "meaning": "把 A 转变为 B",
+      "example": "They converted the warehouse into flats.",
+      "translation": "他们把仓库改造成了公寓。"
+    },
+    "kind": "grammar"
+  },
+  {
+    "front": "allotment",
+    "original": "allotments",
+    "originals": [
+      "allotments"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "allot 分配，加 -ment；英式英语常指分配给个人种植的小块菜地。",
+      "senses": [
+        {
+          "term": "allotment",
+          "pos": "n.",
+          "meaning": "分配份额；分配物",
+          "example": "Each team received an allotment of equipment.",
+          "translation": "每个团队获得了一份分配的设备。",
+          "exampleHighlights": [
+            "allotment"
+          ]
+        },
+        {
+          "term": "allotment",
+          "pos": "n.",
+          "meaning": "租用的小块菜地（英式）",
+          "example": "She grows beans on her allotment.",
+          "translation": "她在租用的小菜地上种豆子。",
+          "exampleHighlights": [
+            "allotment"
+          ]
+        }
+      ],
+      "meaning": "分配份额；分配物",
+      "example": "Each team received an allotment of equipment.",
+      "translation": "每个团队获得了一份分配的设备。"
+    }
+  },
+  {
+    "front": "orchard",
+    "original": "orchards",
+    "originals": [
+      "orchards"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "种植果树的园地；区别于一般 garden。",
+      "senses": [
+        {
+          "term": "orchard",
+          "pos": "n.",
+          "meaning": "果园",
+          "example": "They planted an apple orchard.",
+          "translation": "他们种了一片苹果园。",
+          "exampleHighlights": [
+            "orchard"
+          ]
+        }
+      ],
+      "meaning": "果园",
+      "example": "They planted an apple orchard.",
+      "translation": "他们种了一片苹果园。"
+    }
+  },
+  {
+    "front": "meadow",
+    "original": "meadow",
+    "originals": [
+      "meadow"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "长草、常有野花的草地，可用于放牧或收割干草。",
+      "senses": [
+        {
+          "term": "meadow",
+          "pos": "n.",
+          "meaning": "草地；牧草地",
+          "example": "Wildflowers covered the meadow.",
+          "translation": "草地上开满野花。",
+          "exampleHighlights": [
+            "meadow"
+          ]
+        }
+      ],
+      "meaning": "草地；牧草地",
+      "example": "Wildflowers covered the meadow.",
+      "translation": "草地上开满野花。"
+    }
+  },
+  {
+    "front": "flat",
+    "original": "a flat",
+    "originals": [
+      "a flat"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "原输入 a flat，优先讲英式“公寓”；另有平坦、扁平等常见义。",
+      "senses": [
+        {
+          "term": "flat",
+          "pos": "n.",
+          "meaning": "公寓；一套住房（英式）",
+          "example": "They rented a flat near the station.",
+          "translation": "他们在车站附近租了一套公寓。",
+          "exampleHighlights": [
+            "flat"
+          ]
+        },
+        {
+          "term": "flat",
+          "pos": "adj.",
+          "meaning": "平坦的；扁平的",
+          "example": "The roof is flat.",
+          "translation": "屋顶是平的。",
+          "exampleHighlights": [
+            "flat"
+          ]
+        },
+        {
+          "term": "flat",
+          "pos": "adj.",
+          "meaning": "没气的；乏味的",
+          "example": "The bicycle has a flat tyre.",
+          "translation": "自行车有一个轮胎没气了。",
+          "exampleHighlights": [
+            "flat"
+          ]
+        }
+      ],
+      "meaning": "公寓；一套住房（英式）",
+      "example": "They rented a flat near the station.",
+      "translation": "他们在车站附近租了一套公寓。"
+    }
+  },
+  {
+    "front": "radical",
+    "original": "radical",
+    "originals": [
+      "radical"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "触及根本，也可形容大幅改变或激进立场。",
+      "senses": [
+        {
+          "term": "radical",
+          "pos": "adj.",
+          "meaning": "根本的；彻底的",
+          "example": "The plan needs radical changes.",
+          "translation": "这个计划需要根本改变。",
+          "exampleHighlights": [
+            "radical"
+          ]
+        },
+        {
+          "term": "radical",
+          "pos": "adj./n.",
+          "meaning": "激进的；激进分子",
+          "example": "Her views were considered radical.",
+          "translation": "她的观点被认为很激进。",
+          "exampleHighlights": [
+            "radical"
+          ]
+        }
+      ],
+      "meaning": "根本的；彻底的",
+      "example": "The plan needs radical changes.",
+      "translation": "这个计划需要根本改变。"
+    }
+  },
+  {
+    "front": "recourse",
+    "original": "recourse",
+    "originals": [
+      "recourse"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "遇到困难时可求助的办法，常用 recourse to。",
+      "senses": [
+        {
+          "term": "recourse",
+          "pos": "n.",
+          "meaning": "求助；可依靠的手段",
+          "example": "They had no recourse to outside help.",
+          "translation": "他们无法求助于外部力量。",
+          "exampleHighlights": [
+            "recourse"
+          ]
+        }
+      ],
+      "meaning": "求助；可依靠的手段",
+      "example": "They had no recourse to outside help.",
+      "translation": "他们无法求助于外部力量。"
+    }
+  },
+  {
+    "front": "integrate",
+    "original": "integrated",
+    "originals": [
+      "integrated"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "输入 integrated 为过去式／分词；先讲把部分结合成整体，再讲一体化状态。",
+      "senses": [
+        {
+          "term": "integrate",
+          "pos": "v.",
+          "meaning": "整合；使结合",
+          "example": "The design integrates gardens with housing.",
+          "translation": "这个设计把花园与住房结合起来。",
+          "exampleHighlights": [
+            "integrates"
+          ]
+        },
+        {
+          "term": "integrate",
+          "pos": "v.",
+          "meaning": "融入；使融入",
+          "example": "The programme helps newcomers integrate into the community.",
+          "translation": "这个项目帮助新来者融入社区。",
+          "exampleHighlights": [
+            "integrate"
+          ]
+        },
+        {
+          "term": "integrate",
+          "pos": "adj.",
+          "meaning": "整合的；一体化的（integrated）",
+          "example": "The city needs an integrated transport system.",
+          "translation": "城市需要一体化交通系统。",
+          "exampleHighlights": [
+            "integrated"
+          ]
+        }
+      ],
+      "meaning": "整合；使结合",
+      "example": "The design integrates gardens with housing.",
+      "translation": "这个设计把花园与住房结合起来。"
+    }
+  },
+  {
+    "front": "municipal",
+    "original": "municipal",
+    "originals": [
+      "municipal"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "指城市或地方市政机构管理的事务。",
+      "senses": [
+        {
+          "term": "municipal",
+          "pos": "adj.",
+          "meaning": "市政的；市立的",
+          "example": "The park is maintained by the municipal council.",
+          "translation": "公园由市政议会维护。",
+          "exampleHighlights": [
+            "municipal"
+          ]
+        }
+      ],
+      "meaning": "市政的；市立的",
+      "example": "The park is maintained by the municipal council.",
+      "translation": "公园由市政议会维护。"
+    }
+  },
+  {
+    "front": "disused",
+    "original": "disused",
+    "originals": [
+      "disused"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "来自 disuse 停止使用；现代常以形容词 disused 表示不再使用，故保留此形式为主。",
+      "senses": [
+        {
+          "term": "disused",
+          "pos": "adj.",
+          "meaning": "废弃不用的；闲置的",
+          "example": "They restored a disused railway station.",
+          "translation": "他们修复了一座废弃火车站。",
+          "exampleHighlights": [
+            "disused"
+          ]
+        },
+        {
+          "term": "disused",
+          "pos": "n.",
+          "meaning": "不使用；废置（disuse）",
+          "example": "The building fell into disuse.",
+          "translation": "这座建筑逐渐被弃用。",
+          "exampleHighlights": [
+            "disuse"
+          ]
+        }
+      ],
+      "meaning": "废弃不用的；闲置的",
+      "example": "They restored a disused railway station.",
+      "translation": "他们修复了一座废弃火车站。"
+    }
+  },
+  {
+    "front": "halt",
+    "original": "halt",
+    "originals": [
+      "halt"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "使运动或活动停止，既可作动词也可作名词。",
+      "senses": [
+        {
+          "term": "halt",
+          "pos": "v.",
+          "meaning": "停止；使中止",
+          "example": "Heavy rain halted the work.",
+          "translation": "大雨使工作中止。",
+          "exampleHighlights": [
+            "halted"
+          ]
+        },
+        {
+          "term": "halt",
+          "pos": "n.",
+          "meaning": "停止；暂停",
+          "example": "Production came to a halt.",
+          "translation": "生产停了下来。",
+          "exampleHighlights": [
+            "halt"
+          ]
+        }
+      ],
+      "meaning": "停止；使中止",
+      "example": "Heavy rain halted the work.",
+      "translation": "大雨使工作中止。"
+    }
+  },
+  {
+    "front": "oversight",
+    "original": "oversight",
+    "originals": [
+      "oversight"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "两个常见义方向不同：监督，以及因疏忽而漏做的事。",
+      "senses": [
+        {
+          "term": "oversight",
+          "pos": "n.",
+          "meaning": "监督；监管",
+          "example": "The project needs independent oversight.",
+          "translation": "这个项目需要独立监督。",
+          "exampleHighlights": [
+            "oversight"
+          ]
+        },
+        {
+          "term": "oversight",
+          "pos": "n.",
+          "meaning": "疏忽；遗漏",
+          "example": "The missing name was an oversight.",
+          "translation": "漏掉这个名字是一时疏忽。",
+          "exampleHighlights": [
+            "oversight"
+          ]
+        }
+      ],
+      "meaning": "监督；监管",
+      "example": "The project needs independent oversight.",
+      "translation": "这个项目需要独立监督。"
+    }
+  },
+  {
+    "front": "progenitor",
+    "original": "progenitors",
+    "originals": [
+      "progenitors"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "可指祖先，也可比喻一种思想、风格等的先驱。",
+      "senses": [
+        {
+          "term": "progenitor",
+          "pos": "n.",
+          "meaning": "祖先；起源者；先驱",
+          "example": "The device was a progenitor of modern computers.",
+          "translation": "这个装置是现代计算机的先驱。",
+          "exampleHighlights": [
+            "progenitor"
+          ]
+        }
+      ],
+      "meaning": "祖先；起源者；先驱",
+      "example": "The device was a progenitor of modern computers.",
+      "translation": "这个装置是现代计算机的先驱。"
+    }
+  },
+  {
+    "front": "vicinity",
+    "original": "vicinity",
+    "originals": [
+      "vicinity"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "某个地点附近的区域，常用 in the vicinity of。",
+      "senses": [
+        {
+          "term": "vicinity",
+          "pos": "n.",
+          "meaning": "附近；邻近地区",
+          "example": "Several farms lie in the vicinity.",
+          "translation": "附近有几家农场。",
+          "exampleHighlights": [
+            "vicinity"
+          ]
+        }
+      ],
+      "meaning": "附近；邻近地区",
+      "example": "Several farms lie in the vicinity.",
+      "translation": "附近有几家农场。"
+    }
+  },
+  {
+    "front": "minority",
+    "original": "minority",
+    "originals": [
+      "minority"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "整体中较少的一部分，也可指少数群体。",
+      "senses": [
+        {
+          "term": "minority",
+          "pos": "n.",
+          "meaning": "少数；少数群体",
+          "example": "Only a minority supported the proposal.",
+          "translation": "只有少数人支持这项提议。",
+          "exampleHighlights": [
+            "minority"
+          ]
+        }
+      ],
+      "meaning": "少数；少数群体",
+      "example": "Only a minority supported the proposal.",
+      "translation": "只有少数人支持这项提议。"
+    }
+  },
+  {
+    "front": "convergence",
+    "original": "convergences",
+    "originals": [
+      "convergences"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "converge 汇聚，加 -ence；指逐渐趋同或相交。",
+      "senses": [
+        {
+          "term": "convergence",
+          "pos": "n.",
+          "meaning": "汇聚；趋同",
+          "example": "The study examines the convergence of two traditions.",
+          "translation": "这项研究考察两种传统的融合。",
+          "exampleHighlights": [
+            "convergence"
+          ]
+        }
+      ],
+      "meaning": "汇聚；趋同",
+      "example": "The study examines the convergence of two traditions.",
+      "translation": "这项研究考察两种传统的融合。"
+    }
+  },
+  {
+    "front": "due north",
+    "original": "due north",
+    "originals": [
+      "due north"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "due 修饰方向时表示正好、正对，不是到期。",
+      "senses": [
+        {
+          "term": "due north",
+          "pos": "direction phr.",
+          "meaning": "正北；向正北",
+          "example": "The road runs due north.",
+          "translation": "这条路向正北延伸。",
+          "exampleHighlights": [
+            "due north"
+          ]
+        }
+      ],
+      "meaning": "正北；向正北",
+      "example": "The road runs due north.",
+      "translation": "这条路向正北延伸。"
+    }
+  },
+  {
+    "front": "scenario",
+    "original": "scenario",
+    "originals": [
+      "scenario"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "设想中的情况，也可指事件可能如何发展的方案。",
+      "senses": [
+        {
+          "term": "scenario",
+          "pos": "n.",
+          "meaning": "情景；可能发生的情况",
+          "example": "We considered the worst-case scenario.",
+          "translation": "我们考虑了最坏的情况。",
+          "exampleHighlights": [
+            "scenario"
+          ]
+        }
+      ],
+      "meaning": "情景；可能发生的情况",
+      "example": "We considered the worst-case scenario.",
+      "translation": "我们考虑了最坏的情况。"
+    }
+  },
+  {
+    "front": "the latter",
+    "original": "the latter",
+    "originals": [
+      "the latter"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "指前面提到的两者中的后者，与 the former 相对。",
+      "senses": [
+        {
+          "term": "the latter",
+          "pos": "pron. phr.",
+          "meaning": "后者",
+          "example": "We compared wheat and rice; the latter needs more water here.",
+          "translation": "我们比较了小麦和水稻；在这里，后者需要更多水。",
+          "exampleHighlights": [
+            "the latter"
+          ]
+        }
+      ],
+      "meaning": "后者",
+      "example": "We compared wheat and rice; the latter needs more water here.",
+      "translation": "我们比较了小麦和水稻；在这里，后者需要更多水。"
+    }
+  },
+  {
+    "front": "establish",
+    "original": "establish",
+    "originals": [
+      "establish",
+      "establish —— 建立；确立；证实"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "两条输入合并，保留用户补充的“建立、确立、证实”三个方向。",
+      "senses": [
+        {
+          "term": "establish",
+          "pos": "v.",
+          "meaning": "建立；设立",
+          "example": "They established a research centre.",
+          "translation": "他们建立了一所研究中心。",
+          "exampleHighlights": [
+            "established"
+          ]
+        },
+        {
+          "term": "establish",
+          "pos": "v.",
+          "meaning": "确立；使稳固",
+          "example": "The agreement established clear boundaries.",
+          "translation": "协议确立了明确界限。",
+          "exampleHighlights": [
+            "established"
+          ]
+        },
+        {
+          "term": "establish",
+          "pos": "v.",
+          "meaning": "证实；查明",
+          "example": "The evidence establishes that the account is accurate.",
+          "translation": "这些证据证实了记述的准确性。",
+          "exampleHighlights": [
+            "establishes"
+          ]
+        }
+      ],
+      "meaning": "建立；设立",
+      "example": "They established a research centre.",
+      "translation": "他们建立了一所研究中心。"
+    }
+  },
+  {
+    "front": "ethnolinguistic",
+    "original": "ethnolinguistic",
+    "originals": [
+      "ethnolinguistic"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "ethno- 民族，加 linguistic 语言的，讨论族群与语言的关系。",
+      "senses": [
+        {
+          "term": "ethnolinguistic",
+          "pos": "adj.",
+          "meaning": "民族语言的；族群与语言相关的",
+          "example": "The study maps ethnolinguistic groups.",
+          "translation": "这项研究绘制了民族语言群体的分布图。",
+          "exampleHighlights": [
+            "ethnolinguistic"
+          ]
+        }
+      ],
+      "meaning": "民族语言的；族群与语言相关的",
+      "example": "The study maps ethnolinguistic groups.",
+      "translation": "这项研究绘制了民族语言群体的分布图。"
+    }
+  },
+  {
+    "front": "by and large",
+    "original": "by and large",
+    "originals": [
+      "by and large"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "固定习语，用于概括整体情况而允许例外。",
+      "senses": [
+        {
+          "term": "by and large",
+          "pos": "idiom",
+          "meaning": "总的来说；大体上",
+          "example": "By and large, the plan worked.",
+          "translation": "总的来说，这个计划奏效了。",
+          "exampleHighlights": [
+            "By and large"
+          ]
+        }
+      ],
+      "meaning": "总的来说；大体上",
+      "example": "By and large, the plan worked.",
+      "translation": "总的来说，这个计划奏效了。"
+    }
+  },
+  {
+    "front": "proto-",
+    "original": "proto-",
+    "originals": [
+      "proto-"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "前缀，表示最早的、原始的或某物的前身；不能作为普通独立名词使用。",
+      "senses": [
+        {
+          "term": "proto-",
+          "pos": "prefix",
+          "meaning": "原始的；早期的；原型的",
+          "example": "The prefix proto- can indicate an early form.",
+          "translation": "前缀 proto- 可表示早期形式。",
+          "exampleHighlights": [
+            "proto-"
+          ]
+        }
+      ],
+      "meaning": "原始的；早期的；原型的",
+      "example": "The prefix proto- can indicate an early form.",
+      "translation": "前缀 proto- 可表示早期形式。"
+    },
+    "kind": "grammar"
+  },
+  {
+    "front": "be credited with",
+    "original": "be credited with",
+    "originals": [
+      "be credited with"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "credit 作动词表示把功劳或成果归于某人；with 后接名词或 doing。",
+      "senses": [
+        {
+          "term": "be credited with",
+          "pos": "pattern",
+          "meaning": "被认为具有……功劳；被归功于",
+          "example": "She is credited with discovering the site.",
+          "translation": "人们把发现这个遗址的功劳归于她。",
+          "exampleHighlights": [
+            "is credited with"
+          ]
+        },
+        {
+          "term": "be credited with",
+          "pos": "v.",
+          "meaning": "把功劳归于（credit）",
+          "example": "The report credits local workers with the success.",
+          "translation": "报告把成功归功于当地工人。",
+          "exampleHighlights": [
+            "credits"
+          ]
+        }
+      ],
+      "meaning": "被认为具有……功劳；被归功于",
+      "example": "She is credited with discovering the site.",
+      "translation": "人们把发现这个遗址的功劳归于她。"
+    }
+  },
+  {
+    "front": "transmit",
+    "original": "transmit",
+    "originals": [
+      "transmit"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "trans- 跨越，连接传送的概念；过去式 transmitted 要双写 t。",
+      "senses": [
+        {
+          "term": "transmit",
+          "pos": "v.",
+          "meaning": "传送；传播",
+          "example": "The device transmits a signal.",
+          "translation": "这个装置发送信号。",
+          "exampleHighlights": [
+            "transmits"
+          ]
+        },
+        {
+          "term": "transmit",
+          "pos": "v.",
+          "meaning": "传承",
+          "example": "Stories transmit knowledge across generations.",
+          "translation": "故事使知识代代相传。",
+          "exampleHighlights": [
+            "transmit"
+          ]
+        }
+      ],
+      "meaning": "传送；传播",
+      "example": "The device transmits a signal.",
+      "translation": "这个装置发送信号。"
+    }
+  },
+  {
+    "front": "current",
+    "original": "current",
+    "originals": [
+      "current"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "既指当前的，也指水、气流或电流。",
+      "senses": [
+        {
+          "term": "current",
+          "pos": "adj.",
+          "meaning": "当前的；现行的",
+          "example": "The current rules need review.",
+          "translation": "现行规则需要审查。",
+          "exampleHighlights": [
+            "current"
+          ]
+        },
+        {
+          "term": "current",
+          "pos": "n.",
+          "meaning": "水流；气流；电流",
+          "example": "A strong current carried the boat away.",
+          "translation": "强劲水流把船冲走了。",
+          "exampleHighlights": [
+            "current"
+          ]
+        }
+      ],
+      "meaning": "当前的；现行的",
+      "example": "The current rules need review.",
+      "translation": "现行规则需要审查。"
+    }
+  },
+  {
+    "front": "anchor",
+    "original": "anchored",
+    "originals": [
+      "anchored"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "输入 anchored 是过去式／分词；从用锚固定引申为使稳固、使扎根。",
+      "senses": [
+        {
+          "term": "anchor",
+          "pos": "v.",
+          "meaning": "使固定；使扎根",
+          "example": "The dates anchor the events in a clear timeline.",
+          "translation": "这些日期把事件固定在清晰的时间线上。",
+          "exampleHighlights": [
+            "anchor"
+          ]
+        },
+        {
+          "term": "anchor",
+          "pos": "n.",
+          "meaning": "锚；依靠",
+          "example": "The ship lowered its anchor.",
+          "translation": "船放下了锚。",
+          "exampleHighlights": [
+            "anchor"
+          ]
+        },
+        {
+          "term": "anchor",
+          "pos": "adj.",
+          "meaning": "牢牢依托于……的（anchored）",
+          "example": "The theory is anchored in evidence.",
+          "translation": "这个理论以证据为坚实基础。",
+          "exampleHighlights": [
+            "anchored"
+          ]
+        }
+      ],
+      "meaning": "使固定；使扎根",
+      "example": "The dates anchor the events in a clear timeline.",
+      "translation": "这些日期把事件固定在清晰的时间线上。"
+    }
+  },
+  {
+    "front": "expanse",
+    "original": "expanse",
+    "originals": [
+      "expanse"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "大片开阔的连续区域，常用 an expanse of。",
+      "senses": [
+        {
+          "term": "expanse",
+          "pos": "n.",
+          "meaning": "广阔区域；大片",
+          "example": "An expanse of grass stretched ahead.",
+          "translation": "前方延伸着大片草地。",
+          "exampleHighlights": [
+            "expanse"
+          ]
+        }
+      ],
+      "meaning": "广阔区域；大片",
+      "example": "An expanse of grass stretched ahead.",
+      "translation": "前方延伸着大片草地。"
+    }
+  },
+  {
+    "front": "boreal",
+    "original": "boreal",
+    "originals": [
+      "boreal"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "表示北方的，常用于北半球高纬度森林或气候语境。",
+      "senses": [
+        {
+          "term": "boreal",
+          "pos": "adj.",
+          "meaning": "北方的；北方针叶林带的",
+          "example": "The study focuses on boreal forests.",
+          "translation": "这项研究关注北方针叶林。",
+          "exampleHighlights": [
+            "boreal"
+          ]
+        }
+      ],
+      "meaning": "北方的；北方针叶林带的",
+      "example": "The study focuses on boreal forests.",
+      "translation": "这项研究关注北方针叶林。"
+    }
+  },
+  {
+    "front": "concentrate in",
+    "original": "concentrate in",
+    "originals": [
+      "concentrate in"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "concentrate 指集中，in 引出集中分布的地区或范围；不同于 concentrate on 专注于。",
+      "senses": [
+        {
+          "term": "concentrate in",
+          "pos": "v. phr.",
+          "meaning": "集中在；聚集于",
+          "example": "Most settlements concentrate in the river valleys.",
+          "translation": "大多数聚落集中在河谷地区。",
+          "exampleHighlights": [
+            "concentrate in"
+          ]
+        }
+      ],
+      "meaning": "集中在；聚集于",
+      "example": "Most settlements concentrate in the river valleys.",
+      "translation": "大多数聚落集中在河谷地区。"
+    }
+  },
+  {
+    "front": "bronze",
+    "original": "bronze",
+    "originals": [
+      "bronze"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "铜合金，常见为铜与锡的合金；也指青铜色或铜牌。",
+      "senses": [
+        {
+          "term": "bronze",
+          "pos": "n.",
+          "meaning": "青铜；铜牌",
+          "example": "The tool was made of bronze.",
+          "translation": "这件工具由青铜制成。",
+          "exampleHighlights": [
+            "bronze"
+          ]
+        },
+        {
+          "term": "bronze",
+          "pos": "adj.",
+          "meaning": "青铜制的；青铜色的",
+          "example": "A bronze statue stands outside.",
+          "translation": "外面立着一座青铜雕像。",
+          "exampleHighlights": [
+            "bronze"
+          ]
+        }
+      ],
+      "meaning": "青铜；铜牌",
+      "example": "The tool was made of bronze.",
+      "translation": "这件工具由青铜制成。"
+    }
+  },
+  {
+    "front": "transformative",
+    "original": "transformative",
+    "originals": [
+      "transformative"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "transform 转变，加 -ative，表示能带来重大改变。",
+      "senses": [
+        {
+          "term": "transformative",
+          "pos": "adj.",
+          "meaning": "变革性的；带来深刻变化的",
+          "example": "Writing had a transformative effect on society.",
+          "translation": "文字对社会产生了变革性影响。",
+          "exampleHighlights": [
+            "transformative"
+          ]
+        }
+      ],
+      "meaning": "变革性的；带来深刻变化的",
+      "example": "Writing had a transformative effect on society.",
+      "translation": "文字对社会产生了变革性影响。"
+    }
+  },
+  {
+    "front": "institution",
+    "original": "institutions",
+    "originals": [
+      "institutions"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "既可指组织机构，也可指长期建立的制度或习俗。",
+      "senses": [
+        {
+          "term": "institution",
+          "pos": "n.",
+          "meaning": "机构；组织",
+          "example": "The library is a public institution.",
+          "translation": "图书馆是一家公共机构。",
+          "exampleHighlights": [
+            "institution"
+          ]
+        },
+        {
+          "term": "institution",
+          "pos": "n.",
+          "meaning": "制度；惯例",
+          "example": "Marriage is a social institution.",
+          "translation": "婚姻是一种社会制度。",
+          "exampleHighlights": [
+            "institution"
+          ]
+        }
+      ],
+      "meaning": "机构；组织",
+      "example": "The library is a public institution.",
+      "translation": "图书馆是一家公共机构。"
+    }
+  },
+  {
+    "front": "advent",
+    "original": "advent",
+    "originals": [
+      "advent"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "较正式，指重要事物的出现或到来，常用 the advent of。",
+      "senses": [
+        {
+          "term": "advent",
+          "pos": "n.",
+          "meaning": "出现；到来",
+          "example": "The advent of writing changed record keeping.",
+          "translation": "文字的出现改变了记录方式。",
+          "exampleHighlights": [
+            "advent"
+          ]
+        }
+      ],
+      "meaning": "出现；到来",
+      "example": "The advent of writing changed record keeping.",
+      "translation": "文字的出现改变了记录方式。"
+    }
+  },
+  {
+    "front": "succession",
+    "original": "succession",
+    "originals": [
+      "succession"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "一个接着一个，也可指职位或王位的继承。",
+      "senses": [
+        {
+          "term": "succession",
+          "pos": "n.",
+          "meaning": "连续；一连串",
+          "example": "A succession of storms damaged the coast.",
+          "translation": "接连的风暴破坏了海岸。",
+          "exampleHighlights": [
+            "succession"
+          ]
+        },
+        {
+          "term": "succession",
+          "pos": "n.",
+          "meaning": "继承；接任",
+          "example": "The law governs royal succession.",
+          "translation": "这项法律规定王位继承。",
+          "exampleHighlights": [
+            "succession"
+          ]
+        }
+      ],
+      "meaning": "连续；一连串",
+      "example": "A succession of storms damaged the coast.",
+      "translation": "接连的风暴破坏了海岸。"
+    }
+  },
+  {
+    "front": "agency",
+    "original": "agency —— 能动性、自主行动能力",
+    "originals": [
+      "agency —— 能动性、自主行动能力"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "优先保留用户指定的能动性义项，再补充机构义；不是只解释代理公司。",
+      "senses": [
+        {
+          "term": "agency",
+          "pos": "n.",
+          "meaning": "能动性；自主行动能力",
+          "example": "The study highlights individual agency.",
+          "translation": "这项研究强调个体的能动性。",
+          "exampleHighlights": [
+            "agency"
+          ]
+        },
+        {
+          "term": "agency",
+          "pos": "n.",
+          "meaning": "机构；代理处",
+          "example": "She works for a travel agency.",
+          "translation": "她在一家旅行社工作。",
+          "exampleHighlights": [
+            "agency"
+          ]
+        }
+      ],
+      "meaning": "能动性；自主行动能力",
+      "example": "The study highlights individual agency.",
+      "translation": "这项研究强调个体的能动性。"
+    }
+  },
+  {
+    "front": "numerically",
+    "original": "numerically",
+    "originals": [
+      "numerically"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "numerical 数字的，加 -ly，表示就数量而言。",
+      "senses": [
+        {
+          "term": "numerically",
+          "pos": "adv.",
+          "meaning": "在数量上；用数字表示地",
+          "example": "The group was numerically small.",
+          "translation": "这个群体在人数上很少。",
+          "exampleHighlights": [
+            "numerically"
+          ]
+        }
+      ],
+      "meaning": "在数量上；用数字表示地",
+      "example": "The group was numerically small.",
+      "translation": "这个群体在人数上很少。"
+    }
+  },
+  {
+    "front": "longstanding",
+    "original": "longstanding",
+    "originals": [
+      "longstanding"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "存在很长时间的，常修饰关系、问题或传统；也写 long-standing。",
+      "senses": [
+        {
+          "term": "longstanding",
+          "pos": "adj.",
+          "meaning": "长期存在的；由来已久的",
+          "example": "They resolved a longstanding dispute.",
+          "translation": "他们解决了一场由来已久的争端。",
+          "exampleHighlights": [
+            "longstanding"
+          ]
+        }
+      ],
+      "meaning": "长期存在的；由来已久的",
+      "example": "They resolved a longstanding dispute.",
+      "translation": "他们解决了一场由来已久的争端。"
+    }
+  },
+  {
+    "front": "share",
+    "original": "share —— 共有、具有相同特征",
+    "originals": [
+      "share —— 共有、具有相同特征"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "优先讲用户标注的共有、具有相同特征，再补分享与份额义。",
+      "senses": [
+        {
+          "term": "share",
+          "pos": "v.",
+          "meaning": "共有；具有相同特征",
+          "example": "The two languages share several features.",
+          "translation": "这两种语言有若干共同特征。",
+          "exampleHighlights": [
+            "share"
+          ]
+        },
+        {
+          "term": "share",
+          "pos": "v.",
+          "meaning": "分享；分担",
+          "example": "We share the work equally.",
+          "translation": "我们平等分担工作。",
+          "exampleHighlights": [
+            "share"
+          ]
+        },
+        {
+          "term": "share",
+          "pos": "n.",
+          "meaning": "份额；股份",
+          "example": "She owns a share of the business.",
+          "translation": "她拥有这家企业的一部分股份。",
+          "exampleHighlights": [
+            "share"
+          ]
+        }
+      ],
+      "meaning": "共有；具有相同特征",
+      "example": "The two languages share several features.",
+      "translation": "这两种语言有若干共同特征。"
+    }
+  },
+  {
+    "front": "rule out",
+    "original": "ruled out",
+    "originals": [
+      "ruled out"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "输入 ruled out 为过去式／分词；rule out 表示排除可能性。",
+      "senses": [
+        {
+          "term": "rule out",
+          "pos": "phr. v.",
+          "meaning": "排除；否定某种可能",
+          "example": "The evidence ruled out an accident.",
+          "translation": "证据排除了意外事故的可能性。",
+          "exampleHighlights": [
+            "ruled out"
+          ]
+        }
+      ],
+      "meaning": "排除；否定某种可能",
+      "example": "The evidence ruled out an accident.",
+      "translation": "证据排除了意外事故的可能性。"
+    }
+  },
+  {
+    "front": "obscure time periods",
+    "original": "obscure time periods",
+    "originals": [
+      "obscure time periods"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "obscure 在此为不为人熟知的，修饰历史时段；不擅自补充具体时期。",
+      "senses": [
+        {
+          "term": "obscure time periods",
+          "pos": "n. phr.",
+          "meaning": "鲜为人知的历史时期",
+          "example": "The book examines obscure time periods.",
+          "translation": "这本书考察鲜为人知的历史时期。",
+          "exampleHighlights": [
+            "obscure time periods"
+          ]
+        },
+        {
+          "term": "obscure time periods",
+          "pos": "adj.",
+          "meaning": "不清楚的；鲜为人知的（obscure）",
+          "example": "The origins remain obscure.",
+          "translation": "其起源仍不清楚。",
+          "exampleHighlights": [
+            "obscure"
+          ]
+        }
+      ],
+      "meaning": "鲜为人知的历史时期",
+      "example": "The book examines obscure time periods.",
+      "translation": "这本书考察鲜为人知的历史时期。"
+    }
+  },
+  {
+    "front": "vary in",
+    "original": "vary in",
+    "originals": [
+      "vary in"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "in 引出存在差异的方面，如大小、形状或程度。",
+      "senses": [
+        {
+          "term": "vary in",
+          "pos": "v. phr.",
+          "meaning": "在……方面不同",
+          "example": "The tools vary in size.",
+          "translation": "这些工具大小不一。",
+          "exampleHighlights": [
+            "vary in"
+          ]
+        }
+      ],
+      "meaning": "在……方面不同",
+      "example": "The tools vary in size.",
+      "translation": "这些工具大小不一。"
+    }
+  },
+  {
+    "front": "vary",
+    "original": "vary",
+    "originals": [
+      "vary"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "既可表示彼此不同，也可指同一事物发生变化。",
+      "senses": [
+        {
+          "term": "vary",
+          "pos": "v.",
+          "meaning": "不同；有差异",
+          "example": "Customs vary from region to region.",
+          "translation": "习俗因地区而异。",
+          "exampleHighlights": [
+            "vary"
+          ]
+        },
+        {
+          "term": "vary",
+          "pos": "v.",
+          "meaning": "变化；改变",
+          "example": "Try to vary your routine.",
+          "translation": "试着改变你的日常安排。",
+          "exampleHighlights": [
+            "vary"
+          ]
+        }
+      ],
+      "meaning": "不同；有差异",
+      "example": "Customs vary from region to region.",
+      "translation": "习俗因地区而异。"
+    }
+  },
+  {
+    "front": "distribution",
+    "original": "distribution",
+    "originals": [
+      "distribution"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "distribute 分配，加 -ion；可指分发或空间上的分布。",
+      "senses": [
+        {
+          "term": "distribution",
+          "pos": "n.",
+          "meaning": "分布",
+          "example": "The map shows the distribution of settlements.",
+          "translation": "地图显示了聚落的分布。",
+          "exampleHighlights": [
+            "distribution"
+          ]
+        },
+        {
+          "term": "distribution",
+          "pos": "n.",
+          "meaning": "分配；分发",
+          "example": "The group manages food distribution.",
+          "translation": "这个团体负责食物分发。",
+          "exampleHighlights": [
+            "distribution"
+          ]
+        }
+      ],
+      "meaning": "分布",
+      "example": "The map shows the distribution of settlements.",
+      "translation": "地图显示了聚落的分布。"
+    }
+  },
+  {
+    "front": "cluster",
+    "original": "cluster",
+    "originals": [
+      "cluster"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "相互靠近的一群或一簇，也可作动词表示聚集。",
+      "senses": [
+        {
+          "term": "cluster",
+          "pos": "n.",
+          "meaning": "群；簇；聚集体",
+          "example": "A cluster of houses stood near the river.",
+          "translation": "河边有一簇房屋。",
+          "exampleHighlights": [
+            "cluster"
+          ]
+        },
+        {
+          "term": "cluster",
+          "pos": "v.",
+          "meaning": "聚集",
+          "example": "Visitors clustered around the guide.",
+          "translation": "游客聚集在导游周围。",
+          "exampleHighlights": [
+            "clustered"
+          ]
+        }
+      ],
+      "meaning": "群；簇；聚集体",
+      "example": "A cluster of houses stood near the river.",
+      "translation": "河边有一簇房屋。"
+    }
+  },
+  {
+    "front": "方向 + -most",
+    "original": "方向 + -most = 位于最……端的",
+    "originals": [
+      "方向 + -most = 位于最……端的"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "-most 接方向词表示处于最……端；如 northernmost、southernmost、easternmost、westernmost。",
+      "senses": [
+        {
+          "term": "方向 + -most",
+          "pos": "suffix pattern",
+          "meaning": "位于最……端的",
+          "example": "This is the northernmost village in the region.",
+          "translation": "这是该地区最北端的村庄。",
+          "exampleHighlights": [
+            "northernmost"
+          ]
+        }
+      ],
+      "meaning": "位于最……端的",
+      "example": "This is the northernmost village in the region.",
+      "translation": "这是该地区最北端的村庄。"
+    },
+    "kind": "grammar"
+  },
+  {
+    "front": "separate",
+    "original": "separate",
+    "originals": [
+      "separate"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "形容词表示分开的，动词表示分离；两种词性的末尾读音不同。",
+      "senses": [
+        {
+          "term": "separate",
+          "pos": "adj.",
+          "meaning": "单独的；分开的",
+          "example": "Keep the records in separate folders.",
+          "translation": "把记录放在不同文件夹里。",
+          "exampleHighlights": [
+            "separate"
+          ]
+        },
+        {
+          "term": "separate",
+          "pos": "v.",
+          "meaning": "分离；区分",
+          "example": "The river separates the two districts.",
+          "translation": "这条河把两个地区分隔开。",
+          "exampleHighlights": [
+            "separates"
+          ]
+        }
+      ],
+      "meaning": "单独的；分开的",
+      "example": "Keep the records in separate folders.",
+      "translation": "把记录放在不同文件夹里。"
+    }
+  },
+  {
+    "front": "survivor",
+    "original": "survivor",
+    "originals": [
+      "survivor"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "survive 幸存，加 -or；指活下来或留存下来的个体。",
+      "senses": [
+        {
+          "term": "survivor",
+          "pos": "n.",
+          "meaning": "幸存者；留存者",
+          "example": "The tree is a survivor of the old forest.",
+          "translation": "这棵树是古老森林的留存者。",
+          "exampleHighlights": [
+            "survivor"
+          ]
+        }
+      ],
+      "meaning": "幸存者；留存者",
+      "example": "The tree is a survivor of the old forest.",
+      "translation": "这棵树是古老森林的留存者。"
+    }
+  },
+  {
+    "front": "endanger",
+    "original": "endangered",
+    "originals": [
+      "endangered"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "输入 endangered 为分词；动词是使处于危险，濒危物种义作为重要补充。",
+      "senses": [
+        {
+          "term": "endanger",
+          "pos": "v.",
+          "meaning": "危及；使遭危险",
+          "example": "Pollution can endanger wildlife.",
+          "translation": "污染可能危及野生动物。",
+          "exampleHighlights": [
+            "endanger"
+          ]
+        },
+        {
+          "term": "endanger",
+          "pos": "adj.",
+          "meaning": "濒危的（endangered）",
+          "example": "The island protects several endangered species.",
+          "translation": "这座岛保护着几种濒危物种。",
+          "exampleHighlights": [
+            "endangered"
+          ]
+        }
+      ],
+      "meaning": "危及；使遭危险",
+      "example": "Pollution can endanger wildlife.",
+      "translation": "污染可能危及野生动物。"
+    }
+  },
+  {
+    "front": "alike",
+    "original": "alike",
+    "originals": [
+      "alike"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "作形容词常在系动词后表示相似；作副词表示同样地。",
+      "senses": [
+        {
+          "term": "alike",
+          "pos": "adj.",
+          "meaning": "相似的",
+          "example": "The two tools look alike.",
+          "translation": "这两件工具看起来很相似。",
+          "exampleHighlights": [
+            "alike"
+          ]
+        },
+        {
+          "term": "alike",
+          "pos": "adv.",
+          "meaning": "同样地；两者都",
+          "example": "The park attracts children and adults alike.",
+          "translation": "这座公园对儿童和成人都很有吸引力。",
+          "exampleHighlights": [
+            "alike"
+          ]
+        }
+      ],
+      "meaning": "相似的",
+      "example": "The two tools look alike.",
+      "translation": "这两件工具看起来很相似。"
+    }
+  },
+  {
+    "front": "toponym",
+    "original": "toponym",
+    "originals": [
+      "toponym"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "topo- 地方，-onym 名称，指地理地点的名称。",
+      "senses": [
+        {
+          "term": "toponym",
+          "pos": "n.",
+          "meaning": "地名",
+          "example": "The old toponym survives in local records.",
+          "translation": "这个旧地名保留在当地记录中。",
+          "exampleHighlights": [
+            "toponym"
+          ]
+        }
+      ],
+      "meaning": "地名",
+      "example": "The old toponym survives in local records.",
+      "translation": "这个旧地名保留在当地记录中。"
+    }
+  },
+  {
+    "front": "tentative",
+    "original": "tentative",
+    "originals": [
+      "tentative"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "尚未最终确定，也可形容说话或动作不确定、试探性。",
+      "senses": [
+        {
+          "term": "tentative",
+          "pos": "adj.",
+          "meaning": "暂定的；初步的",
+          "example": "They proposed a tentative date.",
+          "translation": "他们提出了一个暂定日期。",
+          "exampleHighlights": [
+            "tentative"
+          ]
+        },
+        {
+          "term": "tentative",
+          "pos": "adj.",
+          "meaning": "试探性的；犹豫的",
+          "example": "She gave a tentative answer.",
+          "translation": "她给出了一个试探性的回答。",
+          "exampleHighlights": [
+            "tentative"
+          ]
+        }
+      ],
+      "meaning": "暂定的；初步的",
+      "example": "They proposed a tentative date.",
+      "translation": "他们提出了一个暂定日期。"
+    }
+  },
+  {
+    "front": "fluent",
+    "original": "fluent",
+    "originals": [
+      "fluent"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "表达流畅，尤指语言使用熟练；常用 fluent in。",
+      "senses": [
+        {
+          "term": "fluent",
+          "pos": "adj.",
+          "meaning": "流利的；熟练的",
+          "example": "He is fluent in three languages.",
+          "translation": "他能流利使用三种语言。",
+          "exampleHighlights": [
+            "fluent"
+          ]
+        }
+      ],
+      "meaning": "流利的；熟练的",
+      "example": "He is fluent in three languages.",
+      "translation": "他能流利使用三种语言。"
+    }
+  },
+  {
+    "front": "ubiquitous",
+    "original": "ubiquitous",
+    "originals": [
+      "ubiquitous"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "强调似乎到处都存在，较正式。",
+      "senses": [
+        {
+          "term": "ubiquitous",
+          "pos": "adj.",
+          "meaning": "无处不在的；普遍存在的",
+          "example": "Mobile phones are now ubiquitous.",
+          "translation": "手机如今随处可见。",
+          "exampleHighlights": [
+            "ubiquitous"
+          ]
+        }
+      ],
+      "meaning": "无处不在的；普遍存在的",
+      "example": "Mobile phones are now ubiquitous.",
+      "translation": "手机如今随处可见。"
+    }
+  },
+  {
+    "front": "inhabit",
+    "original": "inhabit",
+    "originals": [
+      "inhabit"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "及物动词，直接接居住地点；不要加 in 形成 inhabit in。",
+      "senses": [
+        {
+          "term": "inhabit",
+          "pos": "v.",
+          "meaning": "居住于；栖居于",
+          "example": "Many bird species inhabit the forest.",
+          "translation": "许多鸟类栖居在这片森林。",
+          "exampleHighlights": [
+            "inhabit"
+          ]
+        }
+      ],
+      "meaning": "居住于；栖居于",
+      "example": "Many bird species inhabit the forest.",
+      "translation": "许多鸟类栖居在这片森林。"
+    }
+  },
+  {
+    "front": "right up to",
+    "original": "right up to",
+    "originals": [
+      "right up to"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "right 强调界限，up to 表示一直到某时间、地点或限度。",
+      "senses": [
+        {
+          "term": "right up to",
+          "pos": "prep. phr.",
+          "meaning": "一直到；直到……为止",
+          "example": "The tradition continued right up to modern times.",
+          "translation": "这一传统一直延续到现代。",
+          "exampleHighlights": [
+            "right up to"
+          ]
+        }
+      ],
+      "meaning": "一直到；直到……为止",
+      "example": "The tradition continued right up to modern times.",
+      "translation": "这一传统一直延续到现代。"
+    }
+  },
+  {
+    "front": "the passage of years",
+    "original": "the passage of years",
+    "originals": [
+      "the passage of years"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "passage 在这里指时间的流逝，不是文章段落或通道。",
+      "senses": [
+        {
+          "term": "the passage of years",
+          "pos": "n. phr.",
+          "meaning": "岁月的流逝",
+          "example": "The marks faded with the passage of years.",
+          "translation": "这些痕迹随着岁月流逝而淡去。",
+          "exampleHighlights": [
+            "the passage of years"
+          ]
+        }
+      ],
+      "meaning": "岁月的流逝",
+      "example": "The marks faded with the passage of years.",
+      "translation": "这些痕迹随着岁月流逝而淡去。"
+    }
+  },
+  {
+    "front": "antiquity",
+    "original": "antiquity",
+    "originals": [
+      "antiquity"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "既指古代，也指年代久远；复数 antiquities 常指古物。",
+      "senses": [
+        {
+          "term": "antiquity",
+          "pos": "n.",
+          "meaning": "古代；古老",
+          "example": "The practice dates back to antiquity.",
+          "translation": "这种做法可追溯到古代。",
+          "exampleHighlights": [
+            "antiquity"
+          ]
+        },
+        {
+          "term": "antiquity",
+          "pos": "plural n.",
+          "meaning": "古物；古迹",
+          "example": "The museum displays local antiquities.",
+          "translation": "博物馆展出当地古物。",
+          "exampleHighlights": [
+            "antiquities"
+          ]
+        }
+      ],
+      "meaning": "古代；古老",
+      "example": "The practice dates back to antiquity.",
+      "translation": "这种做法可追溯到古代。"
+    }
+  },
+  {
+    "front": "throne",
+    "original": "throne",
+    "originals": [
+      "throne"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "君主的座椅，也代表王位或统治地位。",
+      "senses": [
+        {
+          "term": "throne",
+          "pos": "n.",
+          "meaning": "王座；王位",
+          "example": "She ascended the throne at a young age.",
+          "translation": "她年纪轻轻便登上了王位。",
+          "exampleHighlights": [
+            "throne"
+          ]
+        }
+      ],
+      "meaning": "王座；王位",
+      "example": "She ascended the throne at a young age.",
+      "translation": "她年纪轻轻便登上了王位。"
+    }
+  },
+  {
+    "front": "monarch",
+    "original": "monarch",
+    "originals": [
+      "monarch"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "君主，如国王或女王，不特指男性。",
+      "senses": [
+        {
+          "term": "monarch",
+          "pos": "n.",
+          "meaning": "君主",
+          "example": "The monarch addressed the assembly.",
+          "translation": "君主向议会发表讲话。",
+          "exampleHighlights": [
+            "monarch"
+          ]
+        }
+      ],
+      "meaning": "君主",
+      "example": "The monarch addressed the assembly.",
+      "translation": "君主向议会发表讲话。"
+    }
+  },
+  {
+    "front": "geographically",
+    "original": "geographically",
+    "originals": [
+      "geographically"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "geographical 地理的，加 -ly；表示从地理位置或分布来看。",
+      "senses": [
+        {
+          "term": "geographically",
+          "pos": "adv.",
+          "meaning": "在地理上",
+          "example": "The communities are geographically isolated.",
+          "translation": "这些社区在地理上彼此隔绝。",
+          "exampleHighlights": [
+            "geographically"
+          ]
+        }
+      ],
+      "meaning": "在地理上",
+      "example": "The communities are geographically isolated.",
+      "translation": "这些社区在地理上彼此隔绝。"
+    }
+  },
+  {
+    "front": "localise",
+    "original": "localised",
+    "originals": [
+      "localised"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "英式拼法，美式 localize；输入 localised 为过去式／分词，先掌握使局限或适应当地。",
+      "senses": [
+        {
+          "term": "localise",
+          "pos": "v.",
+          "meaning": "使局限于某地",
+          "example": "The barriers helped localise the damage.",
+          "translation": "屏障有助于把损害限制在局部。",
+          "exampleHighlights": [
+            "localise"
+          ]
+        },
+        {
+          "term": "localise",
+          "pos": "v.",
+          "meaning": "使本地化",
+          "example": "They localise the software for different markets.",
+          "translation": "他们为不同市场对软件进行本地化。",
+          "exampleHighlights": [
+            "localise"
+          ]
+        },
+        {
+          "term": "localise",
+          "pos": "adj.",
+          "meaning": "局部的（localised）",
+          "example": "The storm caused localised flooding.",
+          "translation": "风暴造成了局部洪水。",
+          "exampleHighlights": [
+            "localised"
+          ]
+        }
+      ],
+      "meaning": "使局限于某地",
+      "example": "The barriers helped localise the damage.",
+      "translation": "屏障有助于把损害限制在局部。"
+    }
+  },
+  {
+    "front": "transcendent",
+    "original": "transcendent",
+    "originals": [
+      "transcendent"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "来自 transcend 超越，但 transcendent 是独立形容词，不能机械当过去分词。",
+      "senses": [
+        {
+          "term": "transcendent",
+          "pos": "adj.",
+          "meaning": "超越通常界限的；卓越的",
+          "example": "The work has a transcendent beauty.",
+          "translation": "这件作品具有超凡的美。",
+          "exampleHighlights": [
+            "transcendent"
+          ]
+        },
+        {
+          "term": "transcendent",
+          "pos": "v.",
+          "meaning": "超越（transcend）",
+          "example": "The story transcends national boundaries.",
+          "translation": "这个故事超越了国界。",
+          "exampleHighlights": [
+            "transcends"
+          ]
+        }
+      ],
+      "meaning": "超越通常界限的；卓越的",
+      "example": "The work has a transcendent beauty.",
+      "translation": "这件作品具有超凡的美。"
+    }
+  },
+  {
+    "front": "translocal",
+    "original": "translocal",
+    "originals": [
+      "translocal"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "trans- 跨越，加 local 地方的，强调跨越多个地方的联系。",
+      "senses": [
+        {
+          "term": "translocal",
+          "pos": "adj.",
+          "meaning": "跨地方的；跨地域的",
+          "example": "Trade created translocal networks.",
+          "translation": "贸易形成了跨地域网络。",
+          "exampleHighlights": [
+            "translocal"
+          ]
+        }
+      ],
+      "meaning": "跨地方的；跨地域的",
+      "example": "Trade created translocal networks.",
+      "translation": "贸易形成了跨地域网络。"
+    }
+  },
+  {
+    "front": "outbreak",
+    "original": "outbreak",
+    "originals": [
+      "outbreak"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "某种通常令人不快的事件突然开始，如战争或疾病。",
+      "senses": [
+        {
+          "term": "outbreak",
+          "pos": "n.",
+          "meaning": "爆发；突然发生",
+          "example": "The outbreak of war disrupted trade.",
+          "translation": "战争爆发扰乱了贸易。",
+          "exampleHighlights": [
+            "outbreak"
+          ]
+        }
+      ],
+      "meaning": "爆发；突然发生",
+      "example": "The outbreak of war disrupted trade.",
+      "translation": "战争爆发扰乱了贸易。"
+    }
+  },
+  {
+    "front": "intimately",
+    "original": "intimately",
+    "originals": [
+      "intimately"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "intimate 的副词，可指亲密地，也可指紧密关联或熟悉到细节。",
+      "senses": [
+        {
+          "term": "intimately",
+          "pos": "adv.",
+          "meaning": "紧密地；密切地",
+          "example": "Language is intimately linked to culture.",
+          "translation": "语言与文化密切相关。",
+          "exampleHighlights": [
+            "intimately"
+          ]
+        },
+        {
+          "term": "intimately",
+          "pos": "adv.",
+          "meaning": "深入地；熟悉地",
+          "example": "She knows the region intimately.",
+          "translation": "她对这个地区十分熟悉。",
+          "exampleHighlights": [
+            "intimately"
+          ]
+        }
+      ],
+      "meaning": "紧密地；密切地",
+      "example": "Language is intimately linked to culture.",
+      "translation": "语言与文化密切相关。"
+    }
+  },
+  {
+    "front": "bureaucratic",
+    "original": "bureaucratic",
+    "originals": [
+      "bureaucratic"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "bureaucracy 官僚机构的形容词，可中性描述行政体系，也可批评繁文缛节。",
+      "senses": [
+        {
+          "term": "bureaucratic",
+          "pos": "adj.",
+          "meaning": "官僚机构的；官僚主义的",
+          "example": "The project faced bureaucratic delays.",
+          "translation": "这个项目遇到了官僚程序造成的拖延。",
+          "exampleHighlights": [
+            "bureaucratic"
+          ]
+        }
+      ],
+      "meaning": "官僚机构的；官僚主义的",
+      "example": "The project faced bureaucratic delays.",
+      "translation": "这个项目遇到了官僚程序造成的拖延。"
+    }
+  },
+  {
+    "front": "coordinate",
+    "original": "coordinating",
+    "originals": [
+      "coordinating"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "输入 coordinating 为现在分词；先掌握动词协调，再补相关形容词和名词。",
+      "senses": [
+        {
+          "term": "coordinate",
+          "pos": "v.",
+          "meaning": "协调；统筹",
+          "example": "The office coordinates relief work.",
+          "translation": "这个办公室协调救援工作。",
+          "exampleHighlights": [
+            "coordinates"
+          ]
+        },
+        {
+          "term": "coordinate",
+          "pos": "adj.",
+          "meaning": "起协调作用的（coordinating）",
+          "example": "A coordinating committee met weekly.",
+          "translation": "一个协调委员会每周开会。",
+          "exampleHighlights": [
+            "coordinating"
+          ]
+        },
+        {
+          "term": "coordinate",
+          "pos": "plural n.",
+          "meaning": "坐标（coordinates）",
+          "example": "The map gives the site's coordinates.",
+          "translation": "地图给出了遗址的坐标。",
+          "exampleHighlights": [
+            "coordinates"
+          ]
+        }
+      ],
+      "meaning": "协调；统筹",
+      "example": "The office coordinates relief work.",
+      "translation": "这个办公室协调救援工作。"
+    }
+  },
+  {
+    "front": "not really A at all, so much as B",
+    "original": "not really A at all, so much as B",
+    "originals": [
+      "not really A at all, so much as B"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "用 B 修正或替代 A 这一判断；相当于“与其说是 A，不如说是 B”。",
+      "senses": [
+        {
+          "term": "not really A at all, so much as B",
+          "pos": "pattern",
+          "meaning": "与其说是 A，不如说是 B",
+          "example": "It was not really a debate at all, so much as a performance.",
+          "translation": "那与其说是一场辩论，不如说是一场表演。",
+          "exampleHighlights": [
+            "not really",
+            "at all, so much as"
+          ]
+        }
+      ],
+      "meaning": "与其说是 A，不如说是 B",
+      "example": "It was not really a debate at all, so much as a performance.",
+      "translation": "那与其说是一场辩论，不如说是一场表演。"
+    },
+    "kind": "grammar"
+  },
+  {
+    "front": "synchronism",
+    "original": "synchronism",
+    "originals": [
+      "synchronism"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "syn- 一起，与时间相关的 chron-；指同时发生或时间上的对应，历史研究中可指事件年代的对应。",
+      "senses": [
+        {
+          "term": "synchronism",
+          "pos": "n.",
+          "meaning": "同时发生；同步；年代对应",
+          "example": "The historian questioned the synchronism of the two events.",
+          "translation": "这位历史学家质疑这两个事件是否发生于同一时期。",
+          "exampleHighlights": [
+            "synchronism"
+          ]
+        }
+      ],
+      "meaning": "同时发生；同步；年代对应",
+      "example": "The historian questioned the synchronism of the two events.",
+      "translation": "这位历史学家质疑这两个事件是否发生于同一时期。"
+    }
+  },
+  {
+    "front": "occurrence",
+    "original": "occurrence",
+    "originals": [
+      "occurrence"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "occur 发生，加 -ence；可指一次事件或发生这一事实。",
+      "senses": [
+        {
+          "term": "occurrence",
+          "pos": "n.",
+          "meaning": "发生；事件",
+          "example": "Flooding is a common occurrence here.",
+          "translation": "这里经常发生洪水。",
+          "exampleHighlights": [
+            "occurrence"
+          ]
+        }
+      ],
+      "meaning": "发生；事件",
+      "example": "Flooding is a common occurrence here.",
+      "translation": "这里经常发生洪水。"
+    }
+  },
+  {
+    "front": "invasion",
+    "original": "invasion",
+    "originals": [
+      "invasion"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "invade 侵入的名词，可用于军事入侵或大量涌入。",
+      "senses": [
+        {
+          "term": "invasion",
+          "pos": "n.",
+          "meaning": "入侵；侵略",
+          "example": "The records describe an invasion from the north.",
+          "translation": "记录描述了来自北方的一次入侵。",
+          "exampleHighlights": [
+            "invasion"
+          ]
+        }
+      ],
+      "meaning": "入侵；侵略",
+      "example": "The records describe an invasion from the north.",
+      "translation": "记录描述了来自北方的一次入侵。"
+    }
+  },
+  {
+    "front": "independence",
+    "original": "independence",
+    "originals": [
+      "independence"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "independent 的名词，指政治独立或不依赖他人的能力。",
+      "senses": [
+        {
+          "term": "independence",
+          "pos": "n.",
+          "meaning": "独立；自主",
+          "example": "The country gained independence.",
+          "translation": "这个国家获得了独立。",
+          "exampleHighlights": [
+            "independence"
+          ]
+        }
+      ],
+      "meaning": "独立；自主",
+      "example": "The country gained independence.",
+      "translation": "这个国家获得了独立。"
+    }
+  },
+  {
+    "front": "in such a manner",
+    "original": "in such a manner",
+    "originals": [
+      "in such a manner"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "manner 指方式，such 回指刚提到或随后说明的方式。",
+      "senses": [
+        {
+          "term": "in such a manner",
+          "pos": "adv. phr.",
+          "meaning": "以这样的方式",
+          "example": "The pieces fit together in such a manner that no gaps remain.",
+          "translation": "这些部件以这种方式拼合后没有留下缝隙。",
+          "exampleHighlights": [
+            "in such a manner"
+          ]
+        }
+      ],
+      "meaning": "以这样的方式",
+      "example": "The pieces fit together in such a manner that no gaps remain.",
+      "translation": "这些部件以这种方式拼合后没有留下缝隙。"
+    }
+  },
+  {
+    "front": "go on to do something",
+    "original": "go on to do something",
+    "originals": [
+      "go on to do something"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "表示完成一件事后接着做另一件事；区别于 go on doing 继续同一件事。",
+      "senses": [
+        {
+          "term": "go on to do something",
+          "pos": "pattern",
+          "meaning": "接着做另一件事；后来做……",
+          "example": "She went on to lead the research team.",
+          "translation": "她后来领导了这个研究团队。",
+          "exampleHighlights": [
+            "went on to lead"
+          ]
+        }
+      ],
+      "meaning": "接着做另一件事；后来做……",
+      "example": "She went on to lead the research team.",
+      "translation": "她后来领导了这个研究团队。"
+    },
+    "kind": "grammar"
+  },
+  {
+    "front": "reckon",
+    "original": "reckon",
+    "originals": [
+      "reckon"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "可表示估算，也可较口语地表示认为；reckon with 指认真考虑或应对。",
+      "senses": [
+        {
+          "term": "reckon",
+          "pos": "v.",
+          "meaning": "认为；估计",
+          "example": "I reckon the journey will take two hours.",
+          "translation": "我估计路程要花两小时。",
+          "exampleHighlights": [
+            "reckon"
+          ]
+        },
+        {
+          "term": "reckon",
+          "pos": "v.",
+          "meaning": "计算；估算",
+          "example": "They reckoned the cost at a thousand pounds.",
+          "translation": "他们估算费用为一千英镑。",
+          "exampleHighlights": [
+            "reckoned"
+          ]
+        }
+      ],
+      "meaning": "认为；估计",
+      "example": "I reckon the journey will take two hours.",
+      "translation": "我估计路程要花两小时。"
+    }
+  },
+  {
+    "front": "tally",
+    "original": "tally",
+    "originals": [
+      "tally"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "计数或计数结果；tally with 表示与……吻合。",
+      "senses": [
+        {
+          "term": "tally",
+          "pos": "v.",
+          "meaning": "统计；清点",
+          "example": "The clerk tallied the votes.",
+          "translation": "工作人员统计了选票。",
+          "exampleHighlights": [
+            "tallied"
+          ]
+        },
+        {
+          "term": "tally",
+          "pos": "n.",
+          "meaning": "总数；计数记录",
+          "example": "The final tally was fifty.",
+          "translation": "最终总数是五十。",
+          "exampleHighlights": [
+            "tally"
+          ]
+        },
+        {
+          "term": "tally",
+          "pos": "v.",
+          "meaning": "吻合；一致",
+          "example": "The figures tally with our records.",
+          "translation": "这些数字与我们的记录一致。",
+          "exampleHighlights": [
+            "tally"
+          ]
+        }
+      ],
+      "meaning": "统计；清点",
+      "example": "The clerk tallied the votes.",
+      "translation": "工作人员统计了选票。"
+    }
+  },
+  {
+    "front": "ancestor",
+    "original": "ancestor",
+    "originals": [
+      "ancestor"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "家族中更早的成员，也可比喻某物的早期形式。",
+      "senses": [
+        {
+          "term": "ancestor",
+          "pos": "n.",
+          "meaning": "祖先；前身",
+          "example": "The device was an ancestor of the modern camera.",
+          "translation": "这种装置是现代相机的前身。",
+          "exampleHighlights": [
+            "ancestor"
+          ]
+        }
+      ],
+      "meaning": "祖先；前身",
+      "example": "The device was an ancestor of the modern camera.",
+      "translation": "这种装置是现代相机的前身。"
+    }
+  },
+  {
+    "front": "subsequent",
+    "original": "subsequent",
+    "originals": [
+      "subsequent"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "表示在某时间或事件之后发生，常用 subsequent to。",
+      "senses": [
+        {
+          "term": "subsequent",
+          "pos": "adj.",
+          "meaning": "随后的；后来的",
+          "example": "The claim was challenged by subsequent research.",
+          "translation": "后续研究对这个说法提出了质疑。",
+          "exampleHighlights": [
+            "subsequent"
+          ]
+        }
+      ],
+      "meaning": "随后的；后来的",
+      "example": "The claim was challenged by subsequent research.",
+      "translation": "后续研究对这个说法提出了质疑。"
+    }
+  },
+  {
+    "front": "unheralded",
+    "original": "unheralded",
+    "originals": [
+      "unheralded"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "un- 加 herald 的过去分词；分词形容词“未被宣扬的”常独立使用，故以此为主。",
+      "senses": [
+        {
+          "term": "unheralded",
+          "pos": "adj.",
+          "meaning": "未被预告的；鲜为人知的",
+          "example": "She was an unheralded pioneer.",
+          "translation": "她是一位鲜为人知的先驱。",
+          "exampleHighlights": [
+            "unheralded"
+          ]
+        },
+        {
+          "term": "unheralded",
+          "pos": "v.",
+          "meaning": "预示；宣布（herald）",
+          "example": "The discovery heralded a new era.",
+          "translation": "这个发现预示着一个新时代的到来。",
+          "exampleHighlights": [
+            "heralded"
+          ]
+        }
+      ],
+      "meaning": "未被预告的；鲜为人知的",
+      "example": "She was an unheralded pioneer.",
+      "translation": "她是一位鲜为人知的先驱。"
+    }
+  },
+  {
+    "front": "successor",
+    "original": "successors",
+    "originals": [
+      "successors"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "接替某个位置的人或随后取代某物的事物；不同于表示成功的 success。",
+      "senses": [
+        {
+          "term": "successor",
+          "pos": "n.",
+          "meaning": "继任者；接替者",
+          "example": "The ruler named a successor.",
+          "translation": "统治者指定了一位继承人。",
+          "exampleHighlights": [
+            "successor"
+          ]
+        }
+      ],
+      "meaning": "继任者；接替者",
+      "example": "The ruler named a successor.",
+      "translation": "统治者指定了一位继承人。"
+    }
+  },
+  {
+    "front": "freestanding",
+    "original": "freestanding",
+    "originals": [
+      "freestanding"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "表示独立站立、不依附其他结构；作为整体形容词学习，不机械还原为罕用动词。",
+      "senses": [
+        {
+          "term": "freestanding",
+          "pos": "adj.",
+          "meaning": "独立式的；无需支撑的",
+          "example": "A freestanding wall divides the garden.",
+          "translation": "一面独立的墙把花园分开。",
+          "exampleHighlights": [
+            "freestanding"
+          ]
+        }
+      ],
+      "meaning": "独立式的；无需支撑的",
+      "example": "A freestanding wall divides the garden.",
+      "translation": "一面独立的墙把花园分开。"
+    }
+  },
+  {
+    "front": "scribe",
+    "original": "scribe",
+    "originals": [
+      "scribe"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "古代负责书写或抄写的人；作动词也可指刻划标记。",
+      "senses": [
+        {
+          "term": "scribe",
+          "pos": "n.",
+          "meaning": "抄写员；书记官",
+          "example": "A scribe recorded the agreement.",
+          "translation": "一名书记官记录了协议。",
+          "exampleHighlights": [
+            "scribe"
+          ]
+        },
+        {
+          "term": "scribe",
+          "pos": "v.",
+          "meaning": "刻划；划线",
+          "example": "Scribe a line along the edge.",
+          "translation": "沿边缘刻划一道线。",
+          "exampleHighlights": [
+            "Scribe"
+          ]
+        }
+      ],
+      "meaning": "抄写员；书记官",
+      "example": "A scribe recorded the agreement.",
+      "translation": "一名书记官记录了协议。"
+    }
+  },
+  {
+    "front": "correlate",
+    "original": "correlate",
+    "originals": [
+      "correlate"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "表示两者存在关联，不自动意味着因果；常用 correlate with。",
+      "senses": [
+        {
+          "term": "correlate",
+          "pos": "v.",
+          "meaning": "相关联；使对应",
+          "example": "The dates correlate with the written records.",
+          "translation": "这些日期与书面记录相对应。",
+          "exampleHighlights": [
+            "correlate"
+          ]
+        }
+      ],
+      "meaning": "相关联；使对应",
+      "example": "The dates correlate with the written records.",
+      "translation": "这些日期与书面记录相对应。"
+    }
+  },
+  {
+    "front": "at distance",
+    "original": "at distance",
+    "originals": [
+      "at distance"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "原输入缺少上下文；一般英语表达“在一定距离处”常用 at a distance，保留原文并给出常见形式。",
+      "senses": [
+        {
+          "term": "at distance",
+          "pos": "prep. phr.",
+          "meaning": "在远处；隔着一定距离",
+          "example": "They watched the animals at a distance.",
+          "translation": "他们隔着一定距离观察动物。",
+          "exampleHighlights": [
+            "at a distance"
+          ]
+        }
+      ],
+      "meaning": "在远处；隔着一定距离",
+      "example": "They watched the animals at a distance.",
+      "translation": "他们隔着一定距离观察动物。"
+    }
+  },
+  {
+    "front": "permit",
+    "original": "permit",
+    "originals": [
+      "permit"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "动词指允许，名词指许可证；两种词性重音不同。",
+      "senses": [
+        {
+          "term": "permit",
+          "pos": "v.",
+          "meaning": "允许；准许",
+          "example": "The rules permit visitors to take photographs.",
+          "translation": "规则允许访客拍照。",
+          "exampleHighlights": [
+            "permit"
+          ]
+        },
+        {
+          "term": "permit",
+          "pos": "n.",
+          "meaning": "许可证",
+          "example": "You need a permit to enter the site.",
+          "translation": "进入这个地点需要许可证。",
+          "exampleHighlights": [
+            "permit"
+          ]
+        }
+      ],
+      "meaning": "允许；准许",
+      "example": "The rules permit visitors to take photographs.",
+      "translation": "规则允许访客拍照。"
+    }
+  },
+  {
+    "front": "reign",
+    "original": "reign",
+    "originals": [
+      "reign"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "君主的统治时期或进行统治；勿与 rain 雨、rein 缰绳混淆。",
+      "senses": [
+        {
+          "term": "reign",
+          "pos": "n.",
+          "meaning": "统治时期；任期",
+          "example": "The palace was built during her reign.",
+          "translation": "宫殿建于她统治期间。",
+          "exampleHighlights": [
+            "reign"
+          ]
+        },
+        {
+          "term": "reign",
+          "pos": "v.",
+          "meaning": "统治；盛行",
+          "example": "Peace reigned for many years.",
+          "translation": "和平持续了许多年。",
+          "exampleHighlights": [
+            "reigned"
+          ]
+        }
+      ],
+      "meaning": "统治时期；任期",
+      "example": "The palace was built during her reign.",
+      "translation": "宫殿建于她统治期间。"
+    }
+  },
+  {
+    "front": "conceive",
+    "original": "conceive",
+    "originals": [
+      "conceive"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "构想、设想，也可指怀孕；conceive of 表示想象某种可能。",
+      "senses": [
+        {
+          "term": "conceive",
+          "pos": "v.",
+          "meaning": "构想；设想",
+          "example": "They conceived a plan for the new town.",
+          "translation": "他们构想了一项新城镇规划。",
+          "exampleHighlights": [
+            "conceived"
+          ]
+        },
+        {
+          "term": "conceive",
+          "pos": "v.",
+          "meaning": "怀孕；受孕",
+          "example": "The animal conceived in spring.",
+          "translation": "这只动物在春季受孕。",
+          "exampleHighlights": [
+            "conceived"
+          ]
+        }
+      ],
+      "meaning": "构想；设想",
+      "example": "They conceived a plan for the new town.",
+      "translation": "他们构想了一项新城镇规划。"
+    }
+  },
+  {
+    "front": "uniform",
+    "original": "uniform",
+    "originals": [
+      "uniform"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "既可指一致的，也可指制服。",
+      "senses": [
+        {
+          "term": "uniform",
+          "pos": "adj.",
+          "meaning": "一致的；均匀的",
+          "example": "The bricks are uniform in size.",
+          "translation": "这些砖大小一致。",
+          "exampleHighlights": [
+            "uniform"
+          ]
+        },
+        {
+          "term": "uniform",
+          "pos": "n.",
+          "meaning": "制服",
+          "example": "The guard wore a blue uniform.",
+          "translation": "警卫穿着蓝色制服。",
+          "exampleHighlights": [
+            "uniform"
+          ]
+        }
+      ],
+      "meaning": "一致的；均匀的",
+      "example": "The bricks are uniform in size.",
+      "translation": "这些砖大小一致。"
+    }
+  },
+  {
+    "front": "envelop",
+    "original": "envelop",
+    "originals": [
+      "envelop"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "动词，表示包围、笼罩；不要与名词 envelope 信封混淆。",
+      "senses": [
+        {
+          "term": "envelop",
+          "pos": "v.",
+          "meaning": "包围；笼罩",
+          "example": "Mist enveloped the valley.",
+          "translation": "薄雾笼罩着山谷。",
+          "exampleHighlights": [
+            "enveloped"
+          ]
+        }
+      ],
+      "meaning": "包围；笼罩",
+      "example": "Mist enveloped the valley.",
+      "translation": "薄雾笼罩着山谷。"
+    }
+  },
+  {
+    "front": "significance",
+    "original": "significance",
+    "originals": [
+      "significance"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "significant 的名词，表示重要性或含义。",
+      "senses": [
+        {
+          "term": "significance",
+          "pos": "n.",
+          "meaning": "重要性；意义",
+          "example": "The discovery has great historical significance.",
+          "translation": "这个发现具有重大历史意义。",
+          "exampleHighlights": [
+            "significance"
+          ]
+        }
+      ],
+      "meaning": "重要性；意义",
+      "example": "The discovery has great historical significance.",
+      "translation": "这个发现具有重大历史意义。"
+    }
+  },
+  {
+    "front": "were it not for + 名词",
+    "original": "Were it not for + 名词 = If it were not for + 名词",
+    "originals": [
+      "Were it not for + 名词 = If it were not for + 名词"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "虚拟条件句倒装：省略 if，把 were 提到 it 前；相当于 if it were not for，通常谈与现在事实相反的条件。",
+      "senses": [
+        {
+          "term": "were it not for + 名词",
+          "pos": "pattern",
+          "meaning": "要不是……；如果没有……",
+          "example": "Were it not for these records, we would know little about the city.",
+          "translation": "要不是这些记录，我们对这座城市就知之甚少。",
+          "exampleHighlights": [
+            "Were it not for"
+          ]
+        },
+        {
+          "term": "were it not for + 名词",
+          "pos": "pattern",
+          "meaning": "相当于 if it were not for",
+          "example": "If it were not for your help, the task would be much harder.",
+          "translation": "如果没有你的帮助，这项任务会难得多。",
+          "exampleHighlights": [
+            "If it were not for"
+          ]
+        }
+      ],
+      "meaning": "要不是……；如果没有……",
+      "example": "Were it not for these records, we would know little about the city.",
+      "translation": "要不是这些记录，我们对这座城市就知之甚少。"
+    },
+    "kind": "grammar"
+  },
+  {
+    "front": "exclusively",
+    "original": "exclusively",
+    "originals": [
+      "exclusively"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "exclusive 的副词，表示仅限某人、某物或某用途。",
+      "senses": [
+        {
+          "term": "exclusively",
+          "pos": "adv.",
+          "meaning": "仅仅；专门地；独占地",
+          "example": "The room is used exclusively for research.",
+          "translation": "这个房间专供研究使用。",
+          "exampleHighlights": [
+            "exclusively"
+          ]
+        }
+      ],
+      "meaning": "仅仅；专门地；独占地",
+      "example": "The room is used exclusively for research.",
+      "translation": "这个房间专供研究使用。"
+    }
+  },
+  {
+    "front": "materialise",
+    "original": "materialised",
+    "originals": [
+      "materialised"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "英式拼法，美式 materialize；输入 materialised 为过去式／分词，主要按动词“实现、出现”讲解。",
+      "senses": [
+        {
+          "term": "materialise",
+          "pos": "v.",
+          "meaning": "实现；成为现实",
+          "example": "The expected support never materialised.",
+          "translation": "预期的支持始终没有兑现。",
+          "exampleHighlights": [
+            "materialised"
+          ]
+        },
+        {
+          "term": "materialise",
+          "pos": "v.",
+          "meaning": "出现；显现",
+          "example": "A figure materialised out of the fog.",
+          "translation": "一个身影从雾中显现出来。",
+          "exampleHighlights": [
+            "materialised"
+          ]
+        }
+      ],
+      "meaning": "实现；成为现实",
+      "example": "The expected support never materialised.",
+      "translation": "预期的支持始终没有兑现。"
+    }
+  },
+  {
+    "front": "homogeneous",
+    "original": "homogeneous",
+    "originals": [
+      "homogeneous"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "homo- 相同，与种类相关的词根组合，表示组成或性质相同。",
+      "senses": [
+        {
+          "term": "homogeneous",
+          "pos": "adj.",
+          "meaning": "同质的；均一的",
+          "example": "The sample was not homogeneous.",
+          "translation": "这个样本并不均一。",
+          "exampleHighlights": [
+            "homogeneous"
+          ]
+        }
+      ],
+      "meaning": "同质的；均一的",
+      "example": "The sample was not homogeneous.",
+      "translation": "这个样本并不均一。"
+    }
+  },
+  {
+    "front": "unprecedented",
+    "original": "unprecedented",
+    "originals": [
+      "unprecedented"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "un- 否定，加 precedent 先例相关形式；是固定形容词，意为前所未有，不机械造动词。",
+      "senses": [
+        {
+          "term": "unprecedented",
+          "pos": "adj.",
+          "meaning": "前所未有的；空前的",
+          "example": "The city experienced unprecedented growth.",
+          "translation": "这座城市经历了前所未有的增长。",
+          "exampleHighlights": [
+            "unprecedented"
+          ]
+        }
+      ],
+      "meaning": "前所未有的；空前的",
+      "example": "The city experienced unprecedented growth.",
+      "translation": "这座城市经历了前所未有的增长。"
+    }
+  },
+  {
+    "front": "affix",
+    "original": "affixed",
+    "originals": [
+      "affixed"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "输入 affixed 为过去式／分词；动词表示附着，名词在语言学中指词缀，重音不同。",
+      "senses": [
+        {
+          "term": "affix",
+          "pos": "v.",
+          "meaning": "粘贴；附上",
+          "example": "They affixed a label to each box.",
+          "translation": "他们在每个盒子上贴了标签。",
+          "exampleHighlights": [
+            "affixed"
+          ]
+        },
+        {
+          "term": "affix",
+          "pos": "n.",
+          "meaning": "词缀",
+          "example": "A prefix is a type of affix.",
+          "translation": "前缀是一种词缀。",
+          "exampleHighlights": [
+            "affix"
+          ]
+        }
+      ],
+      "meaning": "粘贴；附上",
+      "example": "They affixed a label to each box.",
+      "translation": "他们在每个盒子上贴了标签。"
+    }
+  },
+  {
+    "front": "sheer",
+    "original": "sheer",
+    "originals": [
+      "sheer"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "可用于强调纯粹、程度大，也可形容陡峭或薄透。",
+      "senses": [
+        {
+          "term": "sheer",
+          "pos": "adj.",
+          "meaning": "纯粹的；十足的",
+          "example": "They succeeded through sheer determination.",
+          "translation": "他们凭纯粹的决心取得了成功。",
+          "exampleHighlights": [
+            "sheer"
+          ]
+        },
+        {
+          "term": "sheer",
+          "pos": "adj.",
+          "meaning": "陡峭的",
+          "example": "A sheer cliff rose above the path.",
+          "translation": "小径上方是一面陡峭的悬崖。",
+          "exampleHighlights": [
+            "sheer"
+          ]
+        },
+        {
+          "term": "sheer",
+          "pos": "adj.",
+          "meaning": "薄透的",
+          "example": "Light passed through the sheer curtains.",
+          "translation": "光线透过薄纱窗帘照进来。",
+          "exampleHighlights": [
+            "sheer"
+          ]
+        }
+      ],
+      "meaning": "纯粹的；十足的",
+      "example": "They succeeded through sheer determination.",
+      "translation": "他们凭纯粹的决心取得了成功。"
+    }
+  },
+  {
+    "front": "precedent",
+    "original": "precedent",
+    "originals": [
+      "precedent"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "可供后来参照的先例；法律语境中指判例。不要与 preceding 先前的混同。",
+      "senses": [
+        {
+          "term": "precedent",
+          "pos": "n.",
+          "meaning": "先例；判例",
+          "example": "The decision set an important precedent.",
+          "translation": "这个决定开创了重要先例。",
+          "exampleHighlights": [
+            "precedent"
+          ]
+        }
+      ],
+      "meaning": "先例；判例",
+      "example": "The decision set an important precedent.",
+      "translation": "这个决定开创了重要先例。"
+    }
+  },
+  {
+    "front": "comprehensive",
+    "original": "comprehensive",
+    "originals": [
+      "comprehensive"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "覆盖各主要方面，强调全面，而不是容易理解的 comprehensible。",
+      "senses": [
+        {
+          "term": "comprehensive",
+          "pos": "adj.",
+          "meaning": "全面的；综合的",
+          "example": "The report provides a comprehensive overview.",
+          "translation": "报告提供了全面概述。",
+          "exampleHighlights": [
+            "comprehensive"
+          ]
+        }
+      ],
+      "meaning": "全面的；综合的",
+      "example": "The report provides a comprehensive overview.",
+      "translation": "报告提供了全面概述。"
+    }
+  },
+  {
+    "front": "chronology",
+    "original": "chronology",
+    "originals": [
+      "chronology"
+    ],
+    "batches": [
+      {
+        "date": "2026-10-23",
+        "repeat": false
+      }
+    ],
+    "back": {
+      "core": "chron- 时间，加 -logy；指事件发生的时间顺序或按年代排列的记录。",
+      "senses": [
+        {
+          "term": "chronology",
+          "pos": "n.",
+          "meaning": "年代顺序；年表",
+          "example": "The team reconstructed the chronology of events.",
+          "translation": "团队重建了事件发生的时间顺序。",
+          "exampleHighlights": [
+            "chronology"
+          ]
+        }
+      ],
+      "meaning": "年代顺序；年表",
+      "example": "The team reconstructed the chronology of events.",
+      "translation": "团队重建了事件发生的时间顺序。"
     }
   }
 ]
