@@ -146,3 +146,10 @@
 - 下载当前线上旧壳 index.html、sw.js、JS、CSS，在隔离环境使用真实 Service Worker 从旧壳与 1,321 张词库升级到新壳与 1,542 张词库。两个引擎均确认加载新 JS、当前轮次重开、非重复词长期记录保留、8 个真正重复词激活为困难词、永久标记保留；已有熟词 sturdy 仍排除。实际 JSON 三表下载和离线重开通过。脚本 work/test-oct27-upgrade.mjs，结果 work/oct27-upgrade-results.json。
 - 每日掌握代码与 10 月 24 日已通过 Chromium/WebKit 操作验证的构建一致；普通 2 天、困难 3 天，同日多轮不退出，旧计数不伪造历史日期。词库格式、依赖与手机交互未变。
 - 测试使用独立临时浏览器记录，未访问真实用户学习数据。未进行实体 iPhone 或原生 Mac Safari 验收，WebKit 不等同于真机。发布状态以本次 GitHub Pages 部署结果及线上文件核对为准。
+
+
+### 2026-10-27 顶部词表菜单补充验证
+
+- 仅调整 main.tsx 与 style.css：词表入口移入标题旁原生 details/summary，默认收起；外部点击、焦点移出与 Escape 关闭，打开词表后关闭菜单。底部入口移除。
+- TypeScript 与生产构建通过。Chromium/WebKit 在 320×568、390×844、420×560 验证默认隐藏、展开、外部点击关闭、Escape 关闭及焦点恢复、弹窗打开关闭、真实 JSON 下载、底部无入口。三个长语法／多义卡的分页、页脚与水平溢出检查通过，已查看 320 宽 WebKit 截图，无 pageerror。
+- 本机脚本 work/test-oct27-menu.mjs，结果 work/oct27-menu-results.json。词库与掌握逻辑未因菜单改动而变化；实体 iPhone／原生 Safari 仍未验收。

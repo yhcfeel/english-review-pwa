@@ -34,6 +34,12 @@ function App(){
  const [refreshing,setRefreshing]=useState(false);
  const [updateMessage,setUpdateMessage]=useState('');
  const stage=useRef<HTMLElement>(null);
+ const toolsMenu=useRef<HTMLDetailsElement>(null);
+ useEffect(()=>{
+  const closeOutside=(event:Event)=>{if(event.target instanceof Node&&!toolsMenu.current?.contains(event.target))toolsMenu.current?.removeAttribute('open');};
+  document.addEventListener('pointerdown',closeOutside);document.addEventListener('focusin',closeOutside);
+  return()=>{document.removeEventListener('pointerdown',closeOutside);document.removeEventListener('focusin',closeOutside);};
+ },[]);
  const revision=useRef('');
  const date=latestBatch(allCards);
  const cards=activeQueue(allCards,mode,date,knowledge) as Card[];
@@ -100,7 +106,11 @@ function App(){
  };
  const restart=()=>{if(checking.current||!cards.length)return;load(allCards,mode,date,true);setFlipped(false);};
  return <main className="app">
-  <header><h1>英语复习</h1>
+  <header><div className="header-title"><h1>英语复习</h1>
+   <details className="tools-menu" ref={toolsMenu} onKeyDown={e=>{if(e.key==='Escape'){e.preventDefault();toolsMenu.current?.removeAttribute('open');toolsMenu.current?.querySelector('summary')?.focus();}}}>
+    <summary aria-label="更多功能" title="更多功能">···</summary>
+    <div className="tools-panel"><button disabled={!allCards.length} onClick={()=>{toolsMenu.current?.removeAttribute('open');setShowTables(true);}}>词表与导出</button></div>
+   </details></div>
    <div className="queue-picker" role="group" aria-label="选择复习队列">
     <button disabled={refreshing||!allCards.length} aria-pressed={mode==='latest'} onClick={()=>switchQueue('latest')}>最新加入</button>
     <button disabled={refreshing||!allCards.length} aria-pressed={mode==='all'} onClick={()=>switchQueue('all')}>全部复习</button>
@@ -124,7 +134,7 @@ function App(){
    {done?<button className="primary restart" disabled={refreshing||!cards.length} onClick={restart}>重新复习</button>:<>
    <button className="flip-control" disabled={!card} onClick={flip}>{flipped?'返回英文':`查看答案${senses.length>1?` · ${senses.length} 个常见用法`:''}`}</button>
    <div className="actions" title={card&&!ratingReady?'请先查看当前词，稍后可评分':undefined}><button disabled={refreshing||!card||!ratingReady} onClick={()=>rate('forgot')}>忘记</button><button disabled={refreshing||!card||!ratingReady} onClick={()=>rate('vague')}>模糊</button><button className="primary" disabled={refreshing||!card||!ratingReady} onClick={()=>rate('known')}>认识</button></div>
-  </>}<button className="tables-button" disabled={!allCards.length} onClick={()=>setShowTables(true)}>词表与导出</button>
+  </>}
   {storageWarning&&<p className="storage-warning" role="alert">当前浏览器无法保存进度，请保留此页面；关闭后本次记录可能丢失。</p>}</footer>
   {showTables&&<WordTables cards={allCards} knowledge={knowledge} onClose={()=>setShowTables(false)}/>}
  </main>;
