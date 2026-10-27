@@ -10,7 +10,7 @@ const identity=n=>({...newRound(n),current:n?0:null,order:Array.from({length:Mat
 function start(data=emptyKnowledge(),deck=cards,mode='all',rev=revision,restart=false){return openQueue(data,deck,mode,batch,rev,restart);}
 function rate(session,rating,deck=cards,mode='all',rev=revision){
  const first=!session.round.states[session.round.current].seen,front=session.cards[session.round.current].front;
- const data=recordKnowledge(session.data,front,rating,mode,first),next=rateCard(session.round,rating,()=>0);
+ const data=recordKnowledge(session.data,front,rating,mode,first,false,new Date(2026,9,session.data.allRound+1,12)),next=rateCard(session.round,rating,()=>0);
  const active=activeQueue(deck,mode,batch,data),saved=saveQueue(data,session.cards,next,mode,batch,rev);
  const round=restoreActiveRound(saved.queues[mode==='all'?'all':`latest:${batch}`],active,rev,data);
  assert(round);assert(validRound(round,active.length));assert(validKnowledge(data));
@@ -20,7 +20,7 @@ const one=[cards[0]],oneRev=vocabularyRevision(one);
 const beginOne=(data=emptyKnowledge())=>start(data,one,'all',oneRev,true);
 const rateOne=(session,rating)=>rate(session,rating,one,'all',oneRev);
 function finish(session){while(session.round.current!==null)session=rateOne(session,'known');return session;}
-test('ordinary word needs first-known in two distinct rounds and leaves both queues without deleting the card',()=>{
+test('ordinary word needs first-known in two consecutive days and leaves both queues without deleting the card',()=>{
  let s=rateOne(beginOne(),'known');assert.equal(wordState(s.data,'apple').known,1);assert(!wordState(s.data,'apple').mastered);
  const resumed=start(s.data,one,'all',oneRev);assert.equal(resumed.data.allRound,1);assert.equal(resumed.round.current,null);
  s=rateOne(beginOne(resumed.data),'known');assert(wordState(s.data,'apple').mastered);assert.equal(s.cards.length,0);
@@ -44,7 +44,7 @@ test('next-round first known cancels a hard candidate rather than confirming it'
  let s=rateOne(beginOne(),'forgot');s=rateOne(s,'vague');s=finish(s);
  s=rateOne(beginOne(s.data),'known');assert(!wordState(s.data,'apple').difficult);assert.equal(wordState(s.data,'apple').candidate,null);assert.equal(wordState(s.data,'apple').known,1);
 });
-test('confirmed difficult word needs three consecutive first-known rounds, then leaves hard table and joins mastered table',()=>{
+test('confirmed difficult word needs three consecutive first-known days, then leaves hard table and joins mastered table',()=>{
  let s=rateOne(beginOne(),'forgot');s=rateOne(s,'forgot');s=finish(s);
  s=rateOne(beginOne(s.data),'forgot');s=finish(s);assert(wordState(s.data,'apple').difficult);
  for(let pass=1;pass<=3;pass++){
@@ -86,7 +86,7 @@ test('vocabulary revision resets current and inactive queue rounds while preserv
  s=start(s.data,changed,'all',rev);assert.equal(s.round.step,0);assert.equal(s.data.allRound,2);assert.deepEqual(s.data.words,before);
 });
 test('pruning a newly mastered word preserves remaining current card, score, schedule and completion',()=>{
- let data={...emptyKnowledge(),allRound:1};data=recordKnowledge(data,'apple','known','all',true);
+ let data={...emptyKnowledge(),allRound:1};data=recordKnowledge(data,'apple','known','all',true,false,new Date(2026,9,2,12));
  let s=start(data);s.round=identity(3);s.data=saveQueue(s.data,cards,s.round,'all',batch,revision);
  s.round.current=1;s.round.order=[0,2];s=rate(s,'vague');assert.equal(s.round.current,0);
  s=rate(s,'known');assert.equal(s.cards[s.round.current].front,'take off');assert.equal(s.round.states[0].score,1);assert.equal(s.round.states[0].due,10);

@@ -8,7 +8,7 @@ const cards=JSON.parse(readFileSync('public/data/cards.json','utf8'));
 const report=JSON.parse(readFileSync('public/data/imports/2026-10-23.json','utf8'));
 const today=selectQueue(cards,'latest','2026-10-23');
 test('October 23 excludes the 245 stale lines and preserves all 147 new inputs',()=>{
- assert.equal(report.excludedYesterdayLines,245);assert.equal(report.mapping.length,147);assert.equal(report.uniqueInputs,144);assert.equal(today.length,143);assert.equal(report.newCards,142);assert.equal(cards.length,1321);
+ assert.equal(report.excludedYesterdayLines,245);assert.equal(report.mapping.length,147);assert.equal(report.uniqueInputs,144);assert.equal(today.length,143);assert.equal(report.newCards,142);assert.equal(report.totalCount,1321);
  for(const {original,front} of report.mapping){const c=today.find(c=>c.front===front);assert(c,original);assert(c.originals.includes(original),original);assert.equal(c.batches.filter(b=>b.date==='2026-10-23').length,1);}
  assert.deepEqual(today.filter(c=>isPriority(c,'2026-10-23')).map(c=>c.front),['preceding']);
  for(const f of ['boil down to','cautiously','criterion','decimate','sturdy','status quo'])assert(!today.some(c=>c.front===f));

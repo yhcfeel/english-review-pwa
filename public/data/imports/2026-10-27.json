@@ -1,0 +1,1019 @@
+{
+  "date": "2026-10-27",
+  "source": "生词.txt（仅第393—636个非空行）",
+  "sourceSHA256": "6f5e17ca511d9a82c8ae9af9238279cc44ea0757f3205d08e79eb22bf676587b",
+  "todaySHA256": "099e4f035c17021044ce482c9a26b31c84b0da682c8e3406cc4f05f6bc9c3f35",
+  "excludedPreviousLines": 392,
+  "excludedBatches": [
+    "2026-10-22",
+    "2026-10-23"
+  ],
+  "inputCount": 244,
+  "uniqueInputs": 235,
+  "latestCount": 229,
+  "newCards": 221,
+  "totalCount": 1542,
+  "repeatedOldWords": [
+    "deliver",
+    "represent",
+    "state",
+    "precision",
+    "implication",
+    "drift",
+    "constitute",
+    "diversity"
+  ],
+  "modifiedOldWords": [],
+  "notes": [
+    "前392行与10月22日245条和10月23日147条原始映射拼接后逐条同序一致，全部排除，不计作再次导入。",
+    "同批重复及thrive/thriving、apocalypse/apocalypses、episode/episodes、condemn/condemned、rescue/rescued、shatter/shatters归并；所有244条原文保留。",
+    "按分词规则以动词原形为主，补充相关形容词用法；summons保留原形并区分名词与summon第三人称形式，underfunding和comics保留常用名词词形。",
+    "A based B on C规范为base B on C；要求建议类that从句同时说明suggest表示暗示、insist表示坚持陈述事实时不套虚拟语气。",
+    "全部1321张旧卡back保持不变，8个真正再次输入的旧词保留原有学习键并追加今日批次。",
+    "新例句全部自拟；源文件未修改。"
+  ],
+  "sources": [
+    "https://www.nature.com/articles/nature08504",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3081777/",
+    "https://dictionary.cambridge.org/dictionary/english/valorize",
+    "https://dictionary.cambridge.org/us/dictionary/english/cleave"
+  ],
+  "mapping": [
+    {
+      "original": "contradicted",
+      "front": "contradict"
+    },
+    {
+      "original": "revised",
+      "front": "revise"
+    },
+    {
+      "original": "manuscript",
+      "front": "manuscript"
+    },
+    {
+      "original": "authenticity",
+      "front": "authenticity"
+    },
+    {
+      "original": "anomaly",
+      "front": "anomaly"
+    },
+    {
+      "original": "thriving",
+      "front": "thrive"
+    },
+    {
+      "original": "A based B on C",
+      "front": "base B on C"
+    },
+    {
+      "original": "articulation",
+      "front": "articulation"
+    },
+    {
+      "original": "apprehend",
+      "front": "apprehend"
+    },
+    {
+      "original": "frame",
+      "front": "frame"
+    },
+    {
+      "original": "apprehend",
+      "front": "apprehend"
+    },
+    {
+      "original": "reconcile",
+      "front": "reconcile"
+    },
+    {
+      "original": "impermanence",
+      "front": "impermanence"
+    },
+    {
+      "original": "make sense of",
+      "front": "make sense of"
+    },
+    {
+      "original": "politics",
+      "front": "politics"
+    },
+    {
+      "original": "temporal",
+      "front": "temporal"
+    },
+    {
+      "original": "be at home in",
+      "front": "be at home in"
+    },
+    {
+      "original": "temporal",
+      "front": "temporal"
+    },
+    {
+      "original": "enclosure",
+      "front": "enclosure"
+    },
+    {
+      "original": "notions",
+      "front": "notion"
+    },
+    {
+      "original": "contest",
+      "front": "contest"
+    },
+    {
+      "original": "demise",
+      "front": "demise"
+    },
+    {
+      "original": "heartland",
+      "front": "heartland"
+    },
+    {
+      "original": "from ... down to ...",
+      "front": "from ... down to ..."
+    },
+    {
+      "original": "assertive",
+      "front": "assertive"
+    },
+    {
+      "original": "subordinate",
+      "front": "subordinate"
+    },
+    {
+      "original": "Revolt",
+      "front": "revolt"
+    },
+    {
+      "original": "march",
+      "front": "march"
+    },
+    {
+      "original": "liberate",
+      "front": "liberate"
+    },
+    {
+      "original": "carve out",
+      "front": "carve out"
+    },
+    {
+      "original": "commemorated",
+      "front": "commemorate"
+    },
+    {
+      "original": "infrastructure",
+      "front": "infrastructure"
+    },
+    {
+      "original": "fiscal",
+      "front": "fiscal"
+    },
+    {
+      "original": "settlements",
+      "front": "settlement"
+    },
+    {
+      "original": "temporal",
+      "front": "temporal"
+    },
+    {
+      "original": "dominance",
+      "front": "dominance"
+    },
+    {
+      "original": "apocalypses",
+      "front": "apocalypse"
+    },
+    {
+      "original": "apocalypse",
+      "front": "apocalypse"
+    },
+    {
+      "original": "inexorably",
+      "front": "inexorably"
+    },
+    {
+      "original": "compositions",
+      "front": "composition"
+    },
+    {
+      "original": "theological",
+      "front": "theological"
+    },
+    {
+      "original": "subfield",
+      "front": "subfield"
+    },
+    {
+      "original": "play a role in",
+      "front": "play a role in"
+    },
+    {
+      "original": "institutionalisation",
+      "front": "institutionalisation"
+    },
+    {
+      "original": "institutionalisation",
+      "front": "institutionalisation"
+    },
+    {
+      "original": "interminable",
+      "front": "interminable"
+    },
+    {
+      "original": "provoke",
+      "front": "provoke"
+    },
+    {
+      "original": "fantasies",
+      "front": "fantasy"
+    },
+    {
+      "original": "finitude",
+      "front": "finitude"
+    },
+    {
+      "original": "contains",
+      "front": "contain"
+    },
+    {
+      "original": "episodes",
+      "front": "episode"
+    },
+    {
+      "original": "canonised",
+      "front": "canonise"
+    },
+    {
+      "original": "seer",
+      "front": "seer"
+    },
+    {
+      "original": "delivers",
+      "front": "deliver"
+    },
+    {
+      "original": "composed",
+      "front": "compose"
+    },
+    {
+      "original": "throw off the yoke",
+      "front": "throw off the yoke"
+    },
+    {
+      "original": "feast",
+      "front": "feast"
+    },
+    {
+      "original": "episode",
+      "front": "episode"
+    },
+    {
+      "original": "monstrous",
+      "front": "monstrous"
+    },
+    {
+      "original": "the writing is on the wall",
+      "front": "the writing is on the wall"
+    },
+    {
+      "original": "narrative",
+      "front": "narrative"
+    },
+    {
+      "original": "as follows",
+      "front": "as follows"
+    },
+    {
+      "original": "summons",
+      "front": "summons"
+    },
+    {
+      "original": "demand / insist / suggest / recommend / require + that + 主语 + 动词原形",
+      "front": "demand / insist / suggest / recommend / require + that + 主语 + 动词原形"
+    },
+    {
+      "original": "protest",
+      "front": "protest"
+    },
+    {
+      "original": "feasible",
+      "front": "feasible"
+    },
+    {
+      "original": "condemn",
+      "front": "condemn"
+    },
+    {
+      "original": "execution",
+      "front": "execution"
+    },
+    {
+      "original": "on the eve of",
+      "front": "on the eve of"
+    },
+    {
+      "original": "mighty",
+      "front": "mighty"
+    },
+    {
+      "original": "dreadful",
+      "front": "dreadful"
+    },
+    {
+      "original": "thigh",
+      "front": "thigh"
+    },
+    {
+      "original": "chaff",
+      "front": "chaff"
+    },
+    {
+      "original": "represented",
+      "front": "represent"
+    },
+    {
+      "original": "shatters",
+      "front": "shatter"
+    },
+    {
+      "original": "topple",
+      "front": "topple"
+    },
+    {
+      "original": "feet of clay",
+      "front": "feet of clay"
+    },
+    {
+      "original": "elucidating",
+      "front": "elucidate"
+    },
+    {
+      "original": "exposition",
+      "front": "exposition"
+    },
+    {
+      "original": "conclude ... by doing ...",
+      "front": "conclude ... by doing ..."
+    },
+    {
+      "original": "bring about",
+      "front": "bring about"
+    },
+    {
+      "original": "successive",
+      "front": "successive"
+    },
+    {
+      "original": "burnt",
+      "front": "burn"
+    },
+    {
+      "original": "destructible",
+      "front": "destructible"
+    },
+    {
+      "original": "transitory",
+      "front": "transitory"
+    },
+    {
+      "original": "idol",
+      "front": "idol"
+    },
+    {
+      "original": "eternal",
+      "front": "eternal"
+    },
+    {
+      "original": "project",
+      "front": "project"
+    },
+    {
+      "original": "gaze",
+      "front": "gaze"
+    },
+    {
+      "original": "providence",
+      "front": "providence"
+    },
+    {
+      "original": "revelation",
+      "front": "revelation"
+    },
+    {
+      "original": "pervaded",
+      "front": "pervade"
+    },
+    {
+      "original": "assertion",
+      "front": "assertion"
+    },
+    {
+      "original": "monarchic",
+      "front": "monarchic"
+    },
+    {
+      "original": "formulate",
+      "front": "formulate"
+    },
+    {
+      "original": "programmatic",
+      "front": "programmatic"
+    },
+    {
+      "original": "eternity",
+      "front": "eternity"
+    },
+    {
+      "original": "illusory",
+      "front": "illusory"
+    },
+    {
+      "original": "disinterested",
+      "front": "disinterested"
+    },
+    {
+      "original": "enchant",
+      "front": "enchant"
+    },
+    {
+      "original": "by implication",
+      "front": "by implication"
+    },
+    {
+      "original": "mere",
+      "front": "mere"
+    },
+    {
+      "original": "intermingle",
+      "front": "intermingle"
+    },
+    {
+      "original": "as much as",
+      "front": "as much as"
+    },
+    {
+      "original": "mingle",
+      "front": "mingle"
+    },
+    {
+      "original": "cleave",
+      "front": "cleave"
+    },
+    {
+      "original": "fission",
+      "front": "fission"
+    },
+    {
+      "original": "fuse",
+      "front": "fuse"
+    },
+    {
+      "original": "state",
+      "front": "state"
+    },
+    {
+      "original": "flux",
+      "front": "flux"
+    },
+    {
+      "original": "rendezvous",
+      "front": "rendezvous"
+    },
+    {
+      "original": "rescue",
+      "front": "rescue"
+    },
+    {
+      "original": "conduit",
+      "front": "conduit"
+    },
+    {
+      "original": "allot",
+      "front": "allot"
+    },
+    {
+      "original": "equally",
+      "front": "equally"
+    },
+    {
+      "original": "rescued",
+      "front": "rescue"
+    },
+    {
+      "original": "shuttle",
+      "front": "shuttle"
+    },
+    {
+      "original": "narrative",
+      "front": "narrative"
+    },
+    {
+      "original": "proclaimed",
+      "front": "proclaim"
+    },
+    {
+      "original": "elegy",
+      "front": "elegy"
+    },
+    {
+      "original": "curated",
+      "front": "curate"
+    },
+    {
+      "original": "bait",
+      "front": "bait"
+    },
+    {
+      "original": "narrative",
+      "front": "narrative"
+    },
+    {
+      "original": "inferior",
+      "front": "inferior"
+    },
+    {
+      "original": "deliberately",
+      "front": "deliberately"
+    },
+    {
+      "original": "Informatics",
+      "front": "informatics"
+    },
+    {
+      "original": "cited",
+      "front": "cite"
+    },
+    {
+      "original": "consistent",
+      "front": "consistent"
+    },
+    {
+      "original": "condemned",
+      "front": "condemn"
+    },
+    {
+      "original": "corrupting",
+      "front": "corrupt"
+    },
+    {
+      "original": "intellectually",
+      "front": "intellectually"
+    },
+    {
+      "original": "precision",
+      "front": "precision"
+    },
+    {
+      "original": "periodicals",
+      "front": "periodical"
+    },
+    {
+      "original": "wring one's hands over sth.",
+      "front": "wring one's hands over something"
+    },
+    {
+      "original": "depravity",
+      "front": "depravity"
+    },
+    {
+      "original": "entangled",
+      "front": "entangle"
+    },
+    {
+      "original": "intellectual",
+      "front": "intellectual"
+    },
+    {
+      "original": "denounced",
+      "front": "denounce"
+    },
+    {
+      "original": "infect",
+      "front": "infect"
+    },
+    {
+      "original": "contagious",
+      "front": "contagious"
+    },
+    {
+      "original": "pestilence",
+      "front": "pestilence"
+    },
+    {
+      "original": "subversive",
+      "front": "subversive"
+    },
+    {
+      "original": "compulsory",
+      "front": "compulsory"
+    },
+    {
+      "original": "attendance",
+      "front": "attendance"
+    },
+    {
+      "original": "recurring",
+      "front": "recur"
+    },
+    {
+      "original": "testified",
+      "front": "testify"
+    },
+    {
+      "original": "comics",
+      "front": "comics"
+    },
+    {
+      "original": "temptation",
+      "front": "temptation"
+    },
+    {
+      "original": "deflecting",
+      "front": "deflect"
+    },
+    {
+      "original": "underfunding",
+      "front": "underfunding"
+    },
+    {
+      "original": "accumulates",
+      "front": "accumulate"
+    },
+    {
+      "original": "exaggerated",
+      "front": "exaggerate"
+    },
+    {
+      "original": "Adolescent",
+      "front": "adolescent"
+    },
+    {
+      "original": "aggression",
+      "front": "aggression"
+    },
+    {
+      "original": "identical",
+      "front": "identical"
+    },
+    {
+      "original": "rhetoric",
+      "front": "rhetoric"
+    },
+    {
+      "original": "metaphors",
+      "front": "metaphor"
+    },
+    {
+      "original": "passive",
+      "front": "passive"
+    },
+    {
+      "original": "flourishing",
+      "front": "flourish"
+    },
+    {
+      "original": "constraints",
+      "front": "constraint"
+    },
+    {
+      "original": "flourishing",
+      "front": "flourish"
+    },
+    {
+      "original": "resonance",
+      "front": "resonance"
+    },
+    {
+      "original": "implication",
+      "front": "implication"
+    },
+    {
+      "original": "marinate",
+      "front": "marinate"
+    },
+    {
+      "original": "choreographing",
+      "front": "choreograph"
+    },
+    {
+      "original": "competing",
+      "front": "compete"
+    },
+    {
+      "original": "sliding",
+      "front": "slide"
+    },
+    {
+      "original": "accommodate",
+      "front": "accommodate"
+    },
+    {
+      "original": "definitively",
+      "front": "definitively"
+    },
+    {
+      "original": "oral",
+      "front": "oral"
+    },
+    {
+      "original": "dialogue",
+      "front": "dialogue"
+    },
+    {
+      "original": "concessions",
+      "front": "concession"
+    },
+    {
+      "original": "all along",
+      "front": "all along"
+    },
+    {
+      "original": "concentration",
+      "front": "concentration"
+    },
+    {
+      "original": "thrive",
+      "front": "thrive"
+    },
+    {
+      "original": "pacing",
+      "front": "pace"
+    },
+    {
+      "original": "asset",
+      "front": "asset"
+    },
+    {
+      "original": "pathologise",
+      "front": "pathologise"
+    },
+    {
+      "original": "valorise",
+      "front": "valorise"
+    },
+    {
+      "original": "revision",
+      "front": "revision"
+    },
+    {
+      "original": "bind",
+      "front": "bind"
+    },
+    {
+      "original": "routinely",
+      "front": "routinely"
+    },
+    {
+      "original": "feats",
+      "front": "feat"
+    },
+    {
+      "original": "versus",
+      "front": "versus"
+    },
+    {
+      "original": "casino",
+      "front": "casino"
+    },
+    {
+      "original": "lament",
+      "front": "lament"
+    },
+    {
+      "original": "villain",
+      "front": "villain"
+    },
+    {
+      "original": "oligarchs",
+      "front": "oligarch"
+    },
+    {
+      "original": "feudal",
+      "front": "feudal"
+    },
+    {
+      "original": "autocrat",
+      "front": "autocrat"
+    },
+    {
+      "original": "fatalism",
+      "front": "fatalism"
+    },
+    {
+      "original": "shatter",
+      "front": "shatter"
+    },
+    {
+      "original": "mourn",
+      "front": "mourn"
+    },
+    {
+      "original": "craft",
+      "front": "craft"
+    },
+    {
+      "original": "intention",
+      "front": "intention"
+    },
+    {
+      "original": "skim",
+      "front": "skim"
+    },
+    {
+      "original": "inflection point",
+      "front": "inflection point"
+    },
+    {
+      "original": "drift",
+      "front": "drift"
+    },
+    {
+      "original": "slime",
+      "front": "slime"
+    },
+    {
+      "original": "Dense",
+      "front": "dense"
+    },
+    {
+      "original": "evolved",
+      "front": "evolve"
+    },
+    {
+      "original": "undulate",
+      "front": "undulate"
+    },
+    {
+      "original": "unison",
+      "front": "unison"
+    },
+    {
+      "original": "tease apart",
+      "front": "tease apart"
+    },
+    {
+      "original": "heed",
+      "front": "heed"
+    },
+    {
+      "original": "hunch",
+      "front": "hunch"
+    },
+    {
+      "original": "solitary",
+      "front": "solitary"
+    },
+    {
+      "original": "coalesce",
+      "front": "coalesce"
+    },
+    {
+      "original": "stalk",
+      "front": "stalk"
+    },
+    {
+      "original": "sacrificing",
+      "front": "sacrifice"
+    },
+    {
+      "original": "spores",
+      "front": "spore"
+    },
+    {
+      "original": "disperse",
+      "front": "disperse"
+    },
+    {
+      "original": "aggregate",
+      "front": "aggregate"
+    },
+    {
+      "original": "offspring",
+      "front": "offspring"
+    },
+    {
+      "original": "stragglers",
+      "front": "straggler"
+    },
+    {
+      "original": "turn out to be",
+      "front": "turn out to be"
+    },
+    {
+      "original": "constituted",
+      "front": "constitute"
+    },
+    {
+      "original": "fraction",
+      "front": "fraction"
+    },
+    {
+      "original": "diffuse",
+      "front": "diffuse"
+    },
+    {
+      "original": "impede",
+      "front": "impede"
+    },
+    {
+      "original": "posit",
+      "front": "posit"
+    },
+    {
+      "original": "bet hedging",
+      "front": "bet hedging"
+    },
+    {
+      "original": "overrun",
+      "front": "overrun"
+    },
+    {
+      "original": "selfish",
+      "front": "selfish"
+    },
+    {
+      "original": "abruptly",
+      "front": "abruptly"
+    },
+    {
+      "original": "transpire",
+      "front": "transpire"
+    },
+    {
+      "original": "concept",
+      "front": "concept"
+    },
+    {
+      "original": "diversity",
+      "front": "diversity"
+    },
+    {
+      "original": "identical",
+      "front": "identical"
+    },
+    {
+      "original": "antibiotics",
+      "front": "antibiotic"
+    },
+    {
+      "original": "aggressive",
+      "front": "aggressive"
+    },
+    {
+      "original": "chatter",
+      "front": "chatter"
+    },
+    {
+      "original": "definitively",
+      "front": "definitively"
+    },
+    {
+      "original": "parasitic",
+      "front": "parasitic"
+    },
+    {
+      "original": "component",
+      "front": "component"
+    },
+    {
+      "original": "illuminate",
+      "front": "illuminate"
+    },
+    {
+      "original": "gains",
+      "front": "gain"
+    },
+    {
+      "original": "game theory",
+      "front": "game theory"
+    },
+    {
+      "original": "pin down",
+      "front": "pin down"
+    },
+    {
+      "original": "prospect",
+      "front": "prospect"
+    },
+    {
+      "original": "stabilizes",
+      "front": "stabilize"
+    },
+    {
+      "original": "caution",
+      "front": "caution"
+    },
+    {
+      "original": "analogy",
+      "front": "analogy"
+    },
+    {
+      "original": "peel off",
+      "front": "peel off"
+    }
+  ]
+}

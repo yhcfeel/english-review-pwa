@@ -15,12 +15,12 @@ test('protection uses latest batch and local calendar dates, including midnight/
 test('protected known ratings finish the local round but never build mastery; after expiry counts start at one',()=>{
  let data=emptyKnowledge();
  for(let round=1;round<=4;round++){
-  data={...data,allRound:round};data=recordKnowledge(data,'coffee','known','all',true,true);
+  data={...data,allRound:round};data=recordKnowledge(data,'coffee','known','all',true,true,now(24));
   assert.equal(data.words.coffee.known,0);assert(!data.words.coffee.mastered);
   assert.equal(rateCard(newRound(1),'known').current,null);
  }
- data={...data,allRound:5};data=recordKnowledge(data,'coffee','known','all',true,false);assert.equal(data.words.coffee.known,1);
- data={...data,allRound:6};data=recordKnowledge(data,'coffee','known','all',true,false);assert(data.words.coffee.mastered);
+ data={...data,allRound:5};data=recordKnowledge(data,'coffee','known','all',true,false,now(25));assert.equal(data.words.coffee.known,1);
+ data={...data,allRound:6};data=recordKnowledge(data,'coffee','known','all',true,false,now(26));assert(data.words.coffee.mastered);
 });
 test('difficulty and permanent forgetting still accumulate during protection',()=>{
  let d=emptyKnowledge();
@@ -44,7 +44,7 @@ test('second distinct batch reactivates mastered word as difficult, preserving p
  const deck=[card(['2026-10-18','2026-10-22','2026-10-22'])];
  d=syncImports(d,deck,now(22));assert.equal(d.imports.coffee.length,2);assert(d.words.coffee.difficult);assert(!d.words.coffee.mastered);assert.equal(d.words.coffee.known,0);assert(d.words.coffee.permanent);
  for(let i=1;i<=3;i++){
-  d={...d,allRound:3+i};d=recordKnowledge(d,'coffee','known','all',true,false);
+  d={...d,allRound:3+i};d=recordKnowledge(d,'coffee','known','all',true,false,now(24+i));
   assert.equal(d.words.coffee.mastered,i===3);assert.deepEqual(syncImports(d,deck,now(26)),d);
  }
  const third=[card(['2026-10-18','2026-10-22','2026-10-26'])];d=syncImports(d,third,now(26));assert(!d.words.coffee.mastered);assert(d.words.coffee.difficult);assert(d.words.coffee.permanent);

@@ -89,7 +89,8 @@ function App(){
  const flip=()=>{if(card){setFlipped(v=>!v);}};
  const rate=(rating:Rating)=>{
   if(checking.current||!round||!card||!claimRating())return;
-  const data=recordKnowledge(knowledgeRef.current,card.front,rating,mode,!round.states[round.current!].seen,isProtected(card));
+  const now=new Date();
+  const data=recordKnowledge(knowledgeRef.current,card.front,rating,mode,!round.states[round.current!].seen,isProtected(card,now),now);
   const next=rateCard(round,rating);
   const nextCards=activeQueue(allCards,mode,date,data) as Card[];
   const saved=saveQueue(data,cards,next,mode,date,revision.current);
