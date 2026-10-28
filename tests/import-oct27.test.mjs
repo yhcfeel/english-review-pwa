@@ -9,7 +9,7 @@ const report=JSON.parse(readFileSync('public/data/imports/2026-10-27.json','utf8
 const today=selectQueue(cards,'latest','2026-10-27');
 test('October 27 excludes 392 historical lines and maps all 244 fresh inputs to 229 cards',()=>{
  assert.equal(report.excludedPreviousLines,392);assert.equal(report.inputCount,244);assert.equal(report.mapping.length,244);assert.equal(report.uniqueInputs,235);
- assert.equal(today.length,229);assert.equal(report.newCards,221);assert.equal(cards.length,1542);assert.equal(report.totalCount,cards.length);
+ assert.equal(today.length,229);assert.equal(report.newCards,221);assert.equal(report.totalCount,1542);
  for(const {original,front} of report.mapping){const c=today.find(c=>c.front===front);assert(c,original);assert(c.originals.includes(original),original);assert.equal(c.batches.filter(b=>b.date==='2026-10-27').length,1);}
  assert.equal(selectQueue(cards,'latest','2026-10-22').length,240);assert.equal(selectQueue(cards,'latest','2026-10-23').length,143);
  const repeated=['deliver','represent','state','precision','implication','drift','constitute','diversity'];

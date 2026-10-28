@@ -1,0 +1,1668 @@
+{
+  "date": "2026-10-28",
+  "source": "生词.txt（仅第637—771个非空行）",
+  "sourceSHA256": "57b8447c2517400b5ce451b57001e62da32f89d5858e675dfb96d74db7d033f1",
+  "todaySHA256": "a871ab2bb25f588fc35e702c27254fbda1be3098065ace2d32c61858989a1394",
+  "excludedPreviousLines": 636,
+  "excludedBatches": [
+    "2026-10-22",
+    "2026-10-23",
+    "2026-10-27"
+  ],
+  "inputCount": 135,
+  "uniqueInputs": 133,
+  "latestCount": 134,
+  "newCards": 129,
+  "totalCount": 1671,
+  "repeatedOldWords": [
+    "insight",
+    "precise",
+    "identical",
+    "homogeneous",
+    "fragile"
+  ],
+  "modifiedOldWords": [],
+  "sourceMapping": [
+    {
+      "sourceLine": 637,
+      "original": "pyramids",
+      "fronts": [
+        "pyramid"
+      ]
+    },
+    {
+      "sourceLine": 638,
+      "original": "tombs",
+      "fronts": [
+        "tomb"
+      ]
+    },
+    {
+      "sourceLine": 639,
+      "original": "greedy",
+      "fronts": [
+        "greedy"
+      ]
+    },
+    {
+      "sourceLine": 640,
+      "original": "oppressive",
+      "fronts": [
+        "oppressive"
+      ]
+    },
+    {
+      "sourceLine": 641,
+      "original": "circumscribe",
+      "fronts": [
+        "circumscribe"
+      ]
+    },
+    {
+      "sourceLine": 642,
+      "original": "organically",
+      "fronts": [
+        "organically"
+      ]
+    },
+    {
+      "sourceLine": 643,
+      "original": "contemporary",
+      "fronts": [
+        "contemporary"
+      ]
+    },
+    {
+      "sourceLine": 644,
+      "original": "overturning",
+      "fronts": [
+        "overturn"
+      ]
+    },
+    {
+      "sourceLine": 645,
+      "original": "egalitarian",
+      "fronts": [
+        "egalitarian"
+      ]
+    },
+    {
+      "sourceLine": 646,
+      "original": "dubious",
+      "fronts": [
+        "dubious"
+      ]
+    },
+    {
+      "sourceLine": 647,
+      "original": "apart from the fact that",
+      "fronts": [
+        "apart from the fact that"
+      ]
+    },
+    {
+      "sourceLine": 648,
+      "original": "emphasise",
+      "fronts": [
+        "emphasise"
+      ]
+    },
+    {
+      "sourceLine": 649,
+      "original": "spontaneous",
+      "fronts": [
+        "spontaneous"
+      ]
+    },
+    {
+      "sourceLine": 650,
+      "original": "monumental",
+      "fronts": [
+        "monumental"
+      ]
+    },
+    {
+      "sourceLine": 651,
+      "original": "spectacular",
+      "fronts": [
+        "spectacular"
+      ]
+    },
+    {
+      "sourceLine": 652,
+      "original": "ruins",
+      "fronts": [
+        "ruin"
+      ]
+    },
+    {
+      "sourceLine": 653,
+      "original": "funerary offerings",
+      "fronts": [
+        "funerary offering"
+      ]
+    },
+    {
+      "sourceLine": 654,
+      "original": "It would take A to do B.",
+      "fronts": [
+        "it would take A to do B"
+      ]
+    },
+    {
+      "sourceLine": 655,
+      "original": "tyrants",
+      "fronts": [
+        "tyrant"
+      ]
+    },
+    {
+      "sourceLine": 656,
+      "original": "carved",
+      "fronts": [
+        "carve"
+      ]
+    },
+    {
+      "sourceLine": 657,
+      "original": "billboards",
+      "fronts": [
+        "billboard"
+      ]
+    },
+    {
+      "sourceLine": 658,
+      "original": "metropolis",
+      "fronts": [
+        "metropolis"
+      ]
+    },
+    {
+      "sourceLine": 659,
+      "original": "coalition",
+      "fronts": [
+        "coalition"
+      ]
+    },
+    {
+      "sourceLine": 660,
+      "original": "prosperous",
+      "fronts": [
+        "prosperous"
+      ]
+    },
+    {
+      "sourceLine": 661,
+      "original": "anthropology",
+      "fronts": [
+        "anthropology"
+      ]
+    },
+    {
+      "sourceLine": 662,
+      "original": "capitalist",
+      "fronts": [
+        "capitalist"
+      ]
+    },
+    {
+      "sourceLine": 663,
+      "original": "radically",
+      "fronts": [
+        "radically"
+      ]
+    },
+    {
+      "sourceLine": 664,
+      "original": "modification",
+      "fronts": [
+        "modification"
+      ]
+    },
+    {
+      "sourceLine": 665,
+      "original": "wage",
+      "fronts": [
+        "wage"
+      ]
+    },
+    {
+      "sourceLine": 666,
+      "original": "Egypt",
+      "fronts": [
+        "Egypt"
+      ]
+    },
+    {
+      "sourceLine": 667,
+      "original": "proliferation",
+      "fronts": [
+        "proliferation"
+      ]
+    },
+    {
+      "sourceLine": 668,
+      "original": "structure",
+      "fronts": [
+        "structure"
+      ]
+    },
+    {
+      "sourceLine": 669,
+      "original": "draw on",
+      "fronts": [
+        "draw on"
+      ]
+    },
+    {
+      "sourceLine": 670,
+      "original": "provincial",
+      "fronts": [
+        "provincial"
+      ]
+    },
+    {
+      "sourceLine": 671,
+      "original": "prosperous",
+      "fronts": [
+        "prosperous"
+      ]
+    },
+    {
+      "sourceLine": 672,
+      "original": "heaps",
+      "fronts": [
+        "heap"
+      ]
+    },
+    {
+      "sourceLine": 673,
+      "original": "ceramics",
+      "fronts": [
+        "ceramics"
+      ]
+    },
+    {
+      "sourceLine": 674,
+      "original": "obsidian",
+      "fronts": [
+        "obsidian"
+      ]
+    },
+    {
+      "sourceLine": 675,
+      "original": "utilitarian",
+      "fronts": [
+        "utilitarian"
+      ]
+    },
+    {
+      "sourceLine": 676,
+      "original": "burner",
+      "fronts": [
+        "burner"
+      ]
+    },
+    {
+      "sourceLine": 677,
+      "original": "figurine",
+      "fronts": [
+        "figurine"
+      ]
+    },
+    {
+      "sourceLine": 678,
+      "original": "downtrodden",
+      "fronts": [
+        "downtrodden"
+      ]
+    },
+    {
+      "sourceLine": 679,
+      "original": "in turn",
+      "fronts": [
+        "in turn"
+      ]
+    },
+    {
+      "sourceLine": 680,
+      "original": "在学术文章里，the X turn 可以表示研究方向、研究重点或理论视角向 X 的转变。",
+      "fronts": [
+        "the X turn"
+      ]
+    },
+    {
+      "sourceLine": 681,
+      "original": "hold back",
+      "fronts": [
+        "hold back"
+      ]
+    },
+    {
+      "sourceLine": 682,
+      "original": "reject A in favour of B",
+      "fronts": [
+        "reject A in favour of B"
+      ]
+    },
+    {
+      "sourceLine": 683,
+      "original": "antagonism",
+      "fronts": [
+        "antagonism"
+      ]
+    },
+    {
+      "sourceLine": 684,
+      "original": "in favour of",
+      "fronts": [
+        "in favour of"
+      ]
+    },
+    {
+      "sourceLine": 685,
+      "original": "pathbreaking",
+      "fronts": [
+        "pathbreaking"
+      ]
+    },
+    {
+      "sourceLine": 686,
+      "original": "in terms of",
+      "fronts": [
+        "in terms of"
+      ]
+    },
+    {
+      "sourceLine": 687,
+      "original": "identify",
+      "fronts": [
+        "identify"
+      ]
+    },
+    {
+      "sourceLine": 688,
+      "original": "threshold",
+      "fronts": [
+        "threshold"
+      ]
+    },
+    {
+      "sourceLine": 689,
+      "original": "unrest",
+      "fronts": [
+        "unrest"
+      ]
+    },
+    {
+      "sourceLine": 690,
+      "original": "approximately",
+      "fronts": [
+        "approximately"
+      ]
+    },
+    {
+      "sourceLine": 691,
+      "original": "segregation",
+      "fronts": [
+        "segregation"
+      ]
+    },
+    {
+      "sourceLine": 692,
+      "original": "vindicate",
+      "fronts": [
+        "vindicate"
+      ]
+    },
+    {
+      "sourceLine": 693,
+      "original": "legible",
+      "fronts": [
+        "legible"
+      ]
+    },
+    {
+      "sourceLine": 694,
+      "original": "congenial",
+      "fronts": [
+        "congenial"
+      ]
+    },
+    {
+      "sourceLine": 695,
+      "original": "sedentary",
+      "fronts": [
+        "sedentary"
+      ]
+    },
+    {
+      "sourceLine": 696,
+      "original": "insight",
+      "fronts": [
+        "insight"
+      ]
+    },
+    {
+      "sourceLine": 697,
+      "original": "vital",
+      "fronts": [
+        "vital"
+      ]
+    },
+    {
+      "sourceLine": 698,
+      "original": "can hardly be exaggerated",
+      "fronts": [
+        "can hardly be exaggerated"
+      ]
+    },
+    {
+      "sourceLine": 699,
+      "original": "ridicule",
+      "fronts": [
+        "ridicule"
+      ]
+    },
+    {
+      "sourceLine": 700,
+      "original": "imply",
+      "fronts": [
+        "imply"
+      ]
+    },
+    {
+      "sourceLine": 701,
+      "original": "provision",
+      "fronts": [
+        "provision"
+      ]
+    },
+    {
+      "sourceLine": 702,
+      "original": "facilitate",
+      "fronts": [
+        "facilitate"
+      ]
+    },
+    {
+      "sourceLine": 703,
+      "original": "provision",
+      "fronts": [
+        "provision"
+      ]
+    },
+    {
+      "sourceLine": 704,
+      "original": "any given + 单数名词 = 任意一个特定的……",
+      "fronts": [
+        "any given + 单数名词"
+      ]
+    },
+    {
+      "sourceLine": 705,
+      "original": "transient",
+      "fronts": [
+        "transient"
+      ]
+    },
+    {
+      "sourceLine": 706,
+      "original": "exponentially",
+      "fronts": [
+        "exponentially"
+      ]
+    },
+    {
+      "sourceLine": 707,
+      "original": "encounters",
+      "fronts": [
+        "encounter"
+      ]
+    },
+    {
+      "sourceLine": 708,
+      "original": "joint",
+      "fronts": [
+        "joint"
+      ]
+    },
+    {
+      "sourceLine": 709,
+      "original": "refusal",
+      "fronts": [
+        "refusal"
+      ]
+    },
+    {
+      "sourceLine": 710,
+      "original": "distrust",
+      "fronts": [
+        "distrust"
+      ]
+    },
+    {
+      "sourceLine": 711,
+      "original": "regularities",
+      "fronts": [
+        "regularity"
+      ]
+    },
+    {
+      "sourceLine": 712,
+      "original": "hold for",
+      "fronts": [
+        "hold for"
+      ]
+    },
+    {
+      "sourceLine": 713,
+      "original": "precise",
+      "fronts": [
+        "precise"
+      ]
+    },
+    {
+      "sourceLine": 714,
+      "original": "coin a term",
+      "fronts": [
+        "coin a term"
+      ]
+    },
+    {
+      "sourceLine": 715,
+      "original": "tension",
+      "fronts": [
+        "tension"
+      ]
+    },
+    {
+      "sourceLine": 716,
+      "original": "transformers",
+      "fronts": [
+        "transformer"
+      ]
+    },
+    {
+      "sourceLine": 717,
+      "original": "sufficiently",
+      "fronts": [
+        "sufficiently"
+      ]
+    },
+    {
+      "sourceLine": 718,
+      "original": "Basin",
+      "fronts": [
+        "basin"
+      ]
+    },
+    {
+      "sourceLine": 719,
+      "original": "fluke",
+      "fronts": [
+        "fluke"
+      ]
+    },
+    {
+      "sourceLine": 720,
+      "original": "layout",
+      "fronts": [
+        "layout"
+      ]
+    },
+    {
+      "sourceLine": 721,
+      "original": "Organised",
+      "fronts": [
+        "organise"
+      ]
+    },
+    {
+      "sourceLine": 722,
+      "original": "identical",
+      "fronts": [
+        "identical"
+      ]
+    },
+    {
+      "sourceLine": 723,
+      "original": "described above",
+      "fronts": [
+        "described above"
+      ]
+    },
+    {
+      "sourceLine": 724,
+      "original": "borrows",
+      "fronts": [
+        "borrow"
+      ]
+    },
+    {
+      "sourceLine": 725,
+      "original": "permanent",
+      "fronts": [
+        "permanent"
+      ]
+    },
+    {
+      "sourceLine": 726,
+      "original": "heterogeneity，homogeneous，heterogeneity",
+      "fronts": [
+        "heterogeneity",
+        "homogeneous"
+      ]
+    },
+    {
+      "sourceLine": 727,
+      "original": "leave out",
+      "fronts": [
+        "leave out"
+      ]
+    },
+    {
+      "sourceLine": 728,
+      "original": "be home to",
+      "fronts": [
+        "be home to"
+      ]
+    },
+    {
+      "sourceLine": 729,
+      "original": "persist",
+      "fronts": [
+        "persist"
+      ]
+    },
+    {
+      "sourceLine": 730,
+      "original": "fragile",
+      "fronts": [
+        "fragile"
+      ]
+    },
+    {
+      "sourceLine": 731,
+      "original": "be doomed to failure",
+      "fronts": [
+        "be doomed to failure"
+      ]
+    },
+    {
+      "sourceLine": 732,
+      "original": "bear on",
+      "fronts": [
+        "bear on"
+      ]
+    },
+    {
+      "sourceLine": 733,
+      "original": "pressing problem",
+      "fronts": [
+        "pressing problem"
+      ]
+    },
+    {
+      "sourceLine": 734,
+      "original": "adversity",
+      "fronts": [
+        "adversity"
+      ]
+    },
+    {
+      "sourceLine": 735,
+      "original": "relentlessly",
+      "fronts": [
+        "relentlessly"
+      ]
+    },
+    {
+      "sourceLine": 736,
+      "original": "accent",
+      "fronts": [
+        "accent"
+      ]
+    },
+    {
+      "sourceLine": 737,
+      "original": "humiliation",
+      "fronts": [
+        "humiliation"
+      ]
+    },
+    {
+      "sourceLine": 738,
+      "original": "furious",
+      "fronts": [
+        "furious"
+      ]
+    },
+    {
+      "sourceLine": 739,
+      "original": "swap",
+      "fronts": [
+        "swap"
+      ]
+    },
+    {
+      "sourceLine": 740,
+      "original": "on closer examination",
+      "fronts": [
+        "on closer examination"
+      ]
+    },
+    {
+      "sourceLine": 741,
+      "original": "amnesia",
+      "fronts": [
+        "amnesia"
+      ]
+    },
+    {
+      "sourceLine": 742,
+      "original": "infantile",
+      "fronts": [
+        "infantile"
+      ]
+    },
+    {
+      "sourceLine": 743,
+      "original": "narrate",
+      "fronts": [
+        "narrate"
+      ]
+    },
+    {
+      "sourceLine": 744,
+      "original": "in a profound way",
+      "fronts": [
+        "in a profound way"
+      ]
+    },
+    {
+      "sourceLine": 745,
+      "original": "wield",
+      "fronts": [
+        "wield"
+      ]
+    },
+    {
+      "sourceLine": 746,
+      "original": "formidable",
+      "fronts": [
+        "formidable"
+      ]
+    },
+    {
+      "sourceLine": 747,
+      "original": "embellish",
+      "fronts": [
+        "embellish"
+      ]
+    },
+    {
+      "sourceLine": 748,
+      "original": "fabrications",
+      "fronts": [
+        "fabrication"
+      ]
+    },
+    {
+      "sourceLine": 749,
+      "original": "plausible",
+      "fronts": [
+        "plausible"
+      ]
+    },
+    {
+      "sourceLine": 750,
+      "original": "incendiary",
+      "fronts": [
+        "incendiary"
+      ]
+    },
+    {
+      "sourceLine": 751,
+      "original": "implant",
+      "fronts": [
+        "implant"
+      ]
+    },
+    {
+      "sourceLine": 752,
+      "original": "consensual",
+      "fronts": [
+        "consensual"
+      ]
+    },
+    {
+      "sourceLine": 753,
+      "original": "hink less of A than of B",
+      "fronts": [
+        "think less of A than of B"
+      ]
+    },
+    {
+      "sourceLine": 754,
+      "original": "seared",
+      "fronts": [
+        "sear"
+      ]
+    },
+    {
+      "sourceLine": 755,
+      "original": "Chances are",
+      "fronts": [
+        "chances are"
+      ]
+    },
+    {
+      "sourceLine": 756,
+      "original": "aggrandise",
+      "fronts": [
+        "aggrandise"
+      ]
+    },
+    {
+      "sourceLine": 757,
+      "original": "amplifying",
+      "fronts": [
+        "amplify"
+      ]
+    },
+    {
+      "sourceLine": 758,
+      "original": "faulty",
+      "fronts": [
+        "faulty"
+      ]
+    },
+    {
+      "sourceLine": 759,
+      "original": "autobiography",
+      "fronts": [
+        "autobiography"
+      ]
+    },
+    {
+      "sourceLine": 760,
+      "original": "strive",
+      "fronts": [
+        "strive"
+      ]
+    },
+    {
+      "sourceLine": 761,
+      "original": "illusion",
+      "fronts": [
+        "illusion"
+      ]
+    },
+    {
+      "sourceLine": 762,
+      "original": "anticipatory",
+      "fronts": [
+        "anticipatory"
+      ]
+    },
+    {
+      "sourceLine": 763,
+      "original": "heightened",
+      "fronts": [
+        "heighten"
+      ]
+    },
+    {
+      "sourceLine": 764,
+      "original": "unwittingly",
+      "fronts": [
+        "unwittingly"
+      ]
+    },
+    {
+      "sourceLine": 765,
+      "original": "amassing",
+      "fronts": [
+        "amass"
+      ]
+    },
+    {
+      "sourceLine": 766,
+      "original": "corroborated",
+      "fronts": [
+        "corroborate"
+      ]
+    },
+    {
+      "sourceLine": 767,
+      "original": "readily",
+      "fronts": [
+        "readily"
+      ]
+    },
+    {
+      "sourceLine": 768,
+      "original": "eavesdropping",
+      "fronts": [
+        "eavesdrop"
+      ]
+    },
+    {
+      "sourceLine": 769,
+      "original": "cringe",
+      "fronts": [
+        "cringe"
+      ]
+    },
+    {
+      "sourceLine": 770,
+      "original": "correspondence",
+      "fronts": [
+        "correspondence"
+      ]
+    },
+    {
+      "sourceLine": 771,
+      "original": "renegotiating",
+      "fronts": [
+        "renegotiate"
+      ]
+    }
+  ],
+  "mapping": [
+    {
+      "sourceLine": 637,
+      "original": "pyramids",
+      "front": "pyramid"
+    },
+    {
+      "sourceLine": 638,
+      "original": "tombs",
+      "front": "tomb"
+    },
+    {
+      "sourceLine": 639,
+      "original": "greedy",
+      "front": "greedy"
+    },
+    {
+      "sourceLine": 640,
+      "original": "oppressive",
+      "front": "oppressive"
+    },
+    {
+      "sourceLine": 641,
+      "original": "circumscribe",
+      "front": "circumscribe"
+    },
+    {
+      "sourceLine": 642,
+      "original": "organically",
+      "front": "organically"
+    },
+    {
+      "sourceLine": 643,
+      "original": "contemporary",
+      "front": "contemporary"
+    },
+    {
+      "sourceLine": 644,
+      "original": "overturning",
+      "front": "overturn"
+    },
+    {
+      "sourceLine": 645,
+      "original": "egalitarian",
+      "front": "egalitarian"
+    },
+    {
+      "sourceLine": 646,
+      "original": "dubious",
+      "front": "dubious"
+    },
+    {
+      "sourceLine": 647,
+      "original": "apart from the fact that",
+      "front": "apart from the fact that"
+    },
+    {
+      "sourceLine": 648,
+      "original": "emphasise",
+      "front": "emphasise"
+    },
+    {
+      "sourceLine": 649,
+      "original": "spontaneous",
+      "front": "spontaneous"
+    },
+    {
+      "sourceLine": 650,
+      "original": "monumental",
+      "front": "monumental"
+    },
+    {
+      "sourceLine": 651,
+      "original": "spectacular",
+      "front": "spectacular"
+    },
+    {
+      "sourceLine": 652,
+      "original": "ruins",
+      "front": "ruin"
+    },
+    {
+      "sourceLine": 653,
+      "original": "funerary offerings",
+      "front": "funerary offering"
+    },
+    {
+      "sourceLine": 654,
+      "original": "It would take A to do B.",
+      "front": "it would take A to do B"
+    },
+    {
+      "sourceLine": 655,
+      "original": "tyrants",
+      "front": "tyrant"
+    },
+    {
+      "sourceLine": 656,
+      "original": "carved",
+      "front": "carve"
+    },
+    {
+      "sourceLine": 657,
+      "original": "billboards",
+      "front": "billboard"
+    },
+    {
+      "sourceLine": 658,
+      "original": "metropolis",
+      "front": "metropolis"
+    },
+    {
+      "sourceLine": 659,
+      "original": "coalition",
+      "front": "coalition"
+    },
+    {
+      "sourceLine": 660,
+      "original": "prosperous",
+      "front": "prosperous"
+    },
+    {
+      "sourceLine": 661,
+      "original": "anthropology",
+      "front": "anthropology"
+    },
+    {
+      "sourceLine": 662,
+      "original": "capitalist",
+      "front": "capitalist"
+    },
+    {
+      "sourceLine": 663,
+      "original": "radically",
+      "front": "radically"
+    },
+    {
+      "sourceLine": 664,
+      "original": "modification",
+      "front": "modification"
+    },
+    {
+      "sourceLine": 665,
+      "original": "wage",
+      "front": "wage"
+    },
+    {
+      "sourceLine": 666,
+      "original": "Egypt",
+      "front": "Egypt"
+    },
+    {
+      "sourceLine": 667,
+      "original": "proliferation",
+      "front": "proliferation"
+    },
+    {
+      "sourceLine": 668,
+      "original": "structure",
+      "front": "structure"
+    },
+    {
+      "sourceLine": 669,
+      "original": "draw on",
+      "front": "draw on"
+    },
+    {
+      "sourceLine": 670,
+      "original": "provincial",
+      "front": "provincial"
+    },
+    {
+      "sourceLine": 671,
+      "original": "prosperous",
+      "front": "prosperous"
+    },
+    {
+      "sourceLine": 672,
+      "original": "heaps",
+      "front": "heap"
+    },
+    {
+      "sourceLine": 673,
+      "original": "ceramics",
+      "front": "ceramics"
+    },
+    {
+      "sourceLine": 674,
+      "original": "obsidian",
+      "front": "obsidian"
+    },
+    {
+      "sourceLine": 675,
+      "original": "utilitarian",
+      "front": "utilitarian"
+    },
+    {
+      "sourceLine": 676,
+      "original": "burner",
+      "front": "burner"
+    },
+    {
+      "sourceLine": 677,
+      "original": "figurine",
+      "front": "figurine"
+    },
+    {
+      "sourceLine": 678,
+      "original": "downtrodden",
+      "front": "downtrodden"
+    },
+    {
+      "sourceLine": 679,
+      "original": "in turn",
+      "front": "in turn"
+    },
+    {
+      "sourceLine": 680,
+      "original": "在学术文章里，the X turn 可以表示研究方向、研究重点或理论视角向 X 的转变。",
+      "front": "the X turn"
+    },
+    {
+      "sourceLine": 681,
+      "original": "hold back",
+      "front": "hold back"
+    },
+    {
+      "sourceLine": 682,
+      "original": "reject A in favour of B",
+      "front": "reject A in favour of B"
+    },
+    {
+      "sourceLine": 683,
+      "original": "antagonism",
+      "front": "antagonism"
+    },
+    {
+      "sourceLine": 684,
+      "original": "in favour of",
+      "front": "in favour of"
+    },
+    {
+      "sourceLine": 685,
+      "original": "pathbreaking",
+      "front": "pathbreaking"
+    },
+    {
+      "sourceLine": 686,
+      "original": "in terms of",
+      "front": "in terms of"
+    },
+    {
+      "sourceLine": 687,
+      "original": "identify",
+      "front": "identify"
+    },
+    {
+      "sourceLine": 688,
+      "original": "threshold",
+      "front": "threshold"
+    },
+    {
+      "sourceLine": 689,
+      "original": "unrest",
+      "front": "unrest"
+    },
+    {
+      "sourceLine": 690,
+      "original": "approximately",
+      "front": "approximately"
+    },
+    {
+      "sourceLine": 691,
+      "original": "segregation",
+      "front": "segregation"
+    },
+    {
+      "sourceLine": 692,
+      "original": "vindicate",
+      "front": "vindicate"
+    },
+    {
+      "sourceLine": 693,
+      "original": "legible",
+      "front": "legible"
+    },
+    {
+      "sourceLine": 694,
+      "original": "congenial",
+      "front": "congenial"
+    },
+    {
+      "sourceLine": 695,
+      "original": "sedentary",
+      "front": "sedentary"
+    },
+    {
+      "sourceLine": 696,
+      "original": "insight",
+      "front": "insight"
+    },
+    {
+      "sourceLine": 697,
+      "original": "vital",
+      "front": "vital"
+    },
+    {
+      "sourceLine": 698,
+      "original": "can hardly be exaggerated",
+      "front": "can hardly be exaggerated"
+    },
+    {
+      "sourceLine": 699,
+      "original": "ridicule",
+      "front": "ridicule"
+    },
+    {
+      "sourceLine": 700,
+      "original": "imply",
+      "front": "imply"
+    },
+    {
+      "sourceLine": 701,
+      "original": "provision",
+      "front": "provision"
+    },
+    {
+      "sourceLine": 702,
+      "original": "facilitate",
+      "front": "facilitate"
+    },
+    {
+      "sourceLine": 703,
+      "original": "provision",
+      "front": "provision"
+    },
+    {
+      "sourceLine": 704,
+      "original": "any given + 单数名词 = 任意一个特定的……",
+      "front": "any given + 单数名词"
+    },
+    {
+      "sourceLine": 705,
+      "original": "transient",
+      "front": "transient"
+    },
+    {
+      "sourceLine": 706,
+      "original": "exponentially",
+      "front": "exponentially"
+    },
+    {
+      "sourceLine": 707,
+      "original": "encounters",
+      "front": "encounter"
+    },
+    {
+      "sourceLine": 708,
+      "original": "joint",
+      "front": "joint"
+    },
+    {
+      "sourceLine": 709,
+      "original": "refusal",
+      "front": "refusal"
+    },
+    {
+      "sourceLine": 710,
+      "original": "distrust",
+      "front": "distrust"
+    },
+    {
+      "sourceLine": 711,
+      "original": "regularities",
+      "front": "regularity"
+    },
+    {
+      "sourceLine": 712,
+      "original": "hold for",
+      "front": "hold for"
+    },
+    {
+      "sourceLine": 713,
+      "original": "precise",
+      "front": "precise"
+    },
+    {
+      "sourceLine": 714,
+      "original": "coin a term",
+      "front": "coin a term"
+    },
+    {
+      "sourceLine": 715,
+      "original": "tension",
+      "front": "tension"
+    },
+    {
+      "sourceLine": 716,
+      "original": "transformers",
+      "front": "transformer"
+    },
+    {
+      "sourceLine": 717,
+      "original": "sufficiently",
+      "front": "sufficiently"
+    },
+    {
+      "sourceLine": 718,
+      "original": "Basin",
+      "front": "basin"
+    },
+    {
+      "sourceLine": 719,
+      "original": "fluke",
+      "front": "fluke"
+    },
+    {
+      "sourceLine": 720,
+      "original": "layout",
+      "front": "layout"
+    },
+    {
+      "sourceLine": 721,
+      "original": "Organised",
+      "front": "organise"
+    },
+    {
+      "sourceLine": 722,
+      "original": "identical",
+      "front": "identical"
+    },
+    {
+      "sourceLine": 723,
+      "original": "described above",
+      "front": "described above"
+    },
+    {
+      "sourceLine": 724,
+      "original": "borrows",
+      "front": "borrow"
+    },
+    {
+      "sourceLine": 725,
+      "original": "permanent",
+      "front": "permanent"
+    },
+    {
+      "sourceLine": 726,
+      "original": "heterogeneity，homogeneous，heterogeneity",
+      "front": "heterogeneity"
+    },
+    {
+      "sourceLine": 726,
+      "original": "heterogeneity，homogeneous，heterogeneity",
+      "front": "homogeneous"
+    },
+    {
+      "sourceLine": 727,
+      "original": "leave out",
+      "front": "leave out"
+    },
+    {
+      "sourceLine": 728,
+      "original": "be home to",
+      "front": "be home to"
+    },
+    {
+      "sourceLine": 729,
+      "original": "persist",
+      "front": "persist"
+    },
+    {
+      "sourceLine": 730,
+      "original": "fragile",
+      "front": "fragile"
+    },
+    {
+      "sourceLine": 731,
+      "original": "be doomed to failure",
+      "front": "be doomed to failure"
+    },
+    {
+      "sourceLine": 732,
+      "original": "bear on",
+      "front": "bear on"
+    },
+    {
+      "sourceLine": 733,
+      "original": "pressing problem",
+      "front": "pressing problem"
+    },
+    {
+      "sourceLine": 734,
+      "original": "adversity",
+      "front": "adversity"
+    },
+    {
+      "sourceLine": 735,
+      "original": "relentlessly",
+      "front": "relentlessly"
+    },
+    {
+      "sourceLine": 736,
+      "original": "accent",
+      "front": "accent"
+    },
+    {
+      "sourceLine": 737,
+      "original": "humiliation",
+      "front": "humiliation"
+    },
+    {
+      "sourceLine": 738,
+      "original": "furious",
+      "front": "furious"
+    },
+    {
+      "sourceLine": 739,
+      "original": "swap",
+      "front": "swap"
+    },
+    {
+      "sourceLine": 740,
+      "original": "on closer examination",
+      "front": "on closer examination"
+    },
+    {
+      "sourceLine": 741,
+      "original": "amnesia",
+      "front": "amnesia"
+    },
+    {
+      "sourceLine": 742,
+      "original": "infantile",
+      "front": "infantile"
+    },
+    {
+      "sourceLine": 743,
+      "original": "narrate",
+      "front": "narrate"
+    },
+    {
+      "sourceLine": 744,
+      "original": "in a profound way",
+      "front": "in a profound way"
+    },
+    {
+      "sourceLine": 745,
+      "original": "wield",
+      "front": "wield"
+    },
+    {
+      "sourceLine": 746,
+      "original": "formidable",
+      "front": "formidable"
+    },
+    {
+      "sourceLine": 747,
+      "original": "embellish",
+      "front": "embellish"
+    },
+    {
+      "sourceLine": 748,
+      "original": "fabrications",
+      "front": "fabrication"
+    },
+    {
+      "sourceLine": 749,
+      "original": "plausible",
+      "front": "plausible"
+    },
+    {
+      "sourceLine": 750,
+      "original": "incendiary",
+      "front": "incendiary"
+    },
+    {
+      "sourceLine": 751,
+      "original": "implant",
+      "front": "implant"
+    },
+    {
+      "sourceLine": 752,
+      "original": "consensual",
+      "front": "consensual"
+    },
+    {
+      "sourceLine": 753,
+      "original": "hink less of A than of B",
+      "front": "think less of A than of B"
+    },
+    {
+      "sourceLine": 754,
+      "original": "seared",
+      "front": "sear"
+    },
+    {
+      "sourceLine": 755,
+      "original": "Chances are",
+      "front": "chances are"
+    },
+    {
+      "sourceLine": 756,
+      "original": "aggrandise",
+      "front": "aggrandise"
+    },
+    {
+      "sourceLine": 757,
+      "original": "amplifying",
+      "front": "amplify"
+    },
+    {
+      "sourceLine": 758,
+      "original": "faulty",
+      "front": "faulty"
+    },
+    {
+      "sourceLine": 759,
+      "original": "autobiography",
+      "front": "autobiography"
+    },
+    {
+      "sourceLine": 760,
+      "original": "strive",
+      "front": "strive"
+    },
+    {
+      "sourceLine": 761,
+      "original": "illusion",
+      "front": "illusion"
+    },
+    {
+      "sourceLine": 762,
+      "original": "anticipatory",
+      "front": "anticipatory"
+    },
+    {
+      "sourceLine": 763,
+      "original": "heightened",
+      "front": "heighten"
+    },
+    {
+      "sourceLine": 764,
+      "original": "unwittingly",
+      "front": "unwittingly"
+    },
+    {
+      "sourceLine": 765,
+      "original": "amassing",
+      "front": "amass"
+    },
+    {
+      "sourceLine": 766,
+      "original": "corroborated",
+      "front": "corroborate"
+    },
+    {
+      "sourceLine": 767,
+      "original": "readily",
+      "front": "readily"
+    },
+    {
+      "sourceLine": 768,
+      "original": "eavesdropping",
+      "front": "eavesdrop"
+    },
+    {
+      "sourceLine": 769,
+      "original": "cringe",
+      "front": "cringe"
+    },
+    {
+      "sourceLine": 770,
+      "original": "correspondence",
+      "front": "correspondence"
+    },
+    {
+      "sourceLine": 771,
+      "original": "renegotiating",
+      "front": "renegotiate"
+    }
+  ],
+  "notes": [
+    "前636行与10月22、23、27日原始映射拼接后逐条同序一致，全部排除。",
+    "今日135行：prosperous、provision同批重复归并；heterogeneity，homogeneous，heterogeneity这一行拆成两个词，heterogeneity不重复建卡，展开mapping有136条。",
+    "hink less of A than of B补回首字母t，保留原始输入，同时说明think less of的不同含义。",
+    "按分词规则优先讲动词原形，补充形容词义；downtrodden等独立形容词保留，语法说明整理为句型卡。",
+    "原1542张卡片back全部原样保留；5个真正再次加入的旧词保留词头及学习键。",
+    "源文件完整备份在本地outputs/生词-2026-10-28-清理前备份.txt；用户要求发布成功后删除旧行，只留下今日135行。",
+    "新例句均为自拟。"
+  ],
+  "sources": [
+    "https://dictionary.cambridge.org/dictionary/english/aggrandize",
+    "https://www.oxfordlearnersdictionaries.com/us/definition/english/vindicate"
+  ]
+}

@@ -153,3 +153,13 @@
 - 仅调整 main.tsx 与 style.css：词表入口移入标题旁原生 details/summary，默认收起；外部点击、焦点移出与 Escape 关闭，打开词表后关闭菜单。底部入口移除。
 - TypeScript 与生产构建通过。Chromium/WebKit 在 320×568、390×844、420×560 验证默认隐藏、展开、外部点击关闭、Escape 关闭及焦点恢复、弹窗打开关闭、真实 JSON 下载、底部无入口。三个长语法／多义卡的分页、页脚与水平溢出检查通过，已查看 320 宽 WebKit 截图，无 pageerror。
 - 本机脚本 work/test-oct27-menu.mjs，结果 work/oct27-menu-results.json。词库与掌握逻辑未因菜单改动而变化；实体 iPhone／原生 Safari 仍未验收。
+
+## 2026-10-28 今日词库验证
+
+- 基线 251eca0；源文件前 636 个非空行逐条同序匹配历史原文。只导入今日 135 行，拆分一行多词并归并重复后为 134 张，新增 129 张，总计 1,671 张。sourceMapping 保留 135 个源行，mapping 保留展开后的 136 个目标映射。
+- 与导入前快照逐一比较，旧 1,542 张 back 全部未改；真正再次输入的旧词仅 insight、precise、identical、homogeneous、fragile。源文件清理前已按原字节完整备份，原始输入及漏字修正可追溯。
+- 70 项测试通过，TypeScript/Vite/Service Worker 构建通过。新增覆盖前缀排除、多词行拆分、词形归并与漏字修正、重复词重新激活及已存每日评分日期保留。
+- Chromium 390×844、Playwright WebKit 320×568 遍历今日全部 134 张卡片和所有义项分页，未发现遗漏、重复、横向溢出、页脚遮挡或 pageerror；WebKit 420×560 额外检查 10 张句型或多义卡，已查看截图。
+- 两个引擎使用真实 Service Worker 模拟词库 1,542→1,671 更新：本轮重开，未再次加入的词保留长期状态及 knownDay 日期，5 个真实重复词重新激活且永久标记保留。通过顶部收起菜单下载三表 JSON、离线重开均通过。脚本 work/test-oct28.mjs，结果 work/oct28-browser-results.json。
+- 应用 JS/CSS 构建产物与现在线上基线相同；本次未修改应用源码、样式、依赖、评分规则。测试使用独立临时记录，不触碰真实学习进度。未进行实体 iPhone／原生 Mac Safari 验收。
+- 发布成功并线上核对后再清理桌面源文件；如用户在测试期间改写源文件，则不得覆盖新内容，应先重新核对。
