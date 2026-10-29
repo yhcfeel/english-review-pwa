@@ -9,7 +9,7 @@ const report=JSON.parse(readFileSync('public/data/imports/2026-10-28.json','utf8
 const today=selectQueue(cards,'latest','2026-10-28');
 test('October 28 excludes 636 old lines, retains all 135 inputs, and expands the multiword line explicitly',()=>{
  assert.equal(report.excludedPreviousLines,636);assert.equal(report.inputCount,135);assert.equal(report.uniqueInputs,133);assert.equal(report.sourceMapping.length,135);assert.equal(report.mapping.length,136);
- assert.equal(today.length,134);assert.equal(report.newCards,129);assert.equal(cards.length,1671);assert.equal(report.totalCount,cards.length);
+ assert.equal(today.length,134);assert.equal(report.newCards,129);assert.equal(report.totalCount,1671);
  assert.deepEqual(report.sourceMapping.map(x=>x.sourceLine),Array.from({length:135},(_,i)=>637+i));
  for(const {original,front} of report.mapping){const c=today.find(c=>c.front===front);assert(c,original);assert(c.originals.includes(original));assert.equal(c.batches.filter(b=>b.date==='2026-10-28').length,1);}
  assert.deepEqual(report.sourceMapping.find(x=>x.original.includes('heterogeneity')).fronts,['heterogeneity','homogeneous']);

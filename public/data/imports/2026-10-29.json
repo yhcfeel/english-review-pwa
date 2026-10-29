@@ -1,0 +1,1328 @@
+{
+  "date": "2026-10-29",
+  "source": "生词.txt（仅第136—242个非空行）",
+  "sourceSHA256": "7a67f8c6c9f26786d61be1aa2dfa0ae25668b3951e4a1c54ecc6f88059f2231f",
+  "todaySHA256": "9a5b9fe96f4eca61e0f3f4f0f547285a9a9e2d320fee762deb06274c642afcaf",
+  "excludedPreviousLines": 135,
+  "excludedBatches": [
+    "2026-10-28"
+  ],
+  "inputCount": 107,
+  "uniqueInputs": 107,
+  "latestCount": 107,
+  "newCards": 99,
+  "totalCount": 1770,
+  "repeatedOldWords": [
+    "in turn",
+    "in terms of",
+    "virtue",
+    "skeptical",
+    "defer",
+    "sheer",
+    "run out of something",
+    "ingredient"
+  ],
+  "modifiedOldWords": [],
+  "sourceMapping": [
+    {
+      "sourceLine": 136,
+      "original": "coincidence",
+      "fronts": [
+        "coincidence"
+      ]
+    },
+    {
+      "sourceLine": 137,
+      "original": "take a firm line on sth",
+      "fronts": [
+        "take a firm line on something"
+      ]
+    },
+    {
+      "sourceLine": 138,
+      "original": "ferocity",
+      "fronts": [
+        "ferocity"
+      ]
+    },
+    {
+      "sourceLine": 139,
+      "original": "bullied",
+      "fronts": [
+        "bully"
+      ]
+    },
+    {
+      "sourceLine": 140,
+      "original": "diverged",
+      "fronts": [
+        "diverge"
+      ]
+    },
+    {
+      "sourceLine": 141,
+      "original": "sober",
+      "fronts": [
+        "sober"
+      ]
+    },
+    {
+      "sourceLine": 142,
+      "original": "Off we went",
+      "fronts": [
+        "off we went"
+      ]
+    },
+    {
+      "sourceLine": 143,
+      "original": "drop out of",
+      "fronts": [
+        "drop out of"
+      ]
+    },
+    {
+      "sourceLine": 144,
+      "original": "entranced",
+      "fronts": [
+        "entrance"
+      ]
+    },
+    {
+      "sourceLine": 145,
+      "original": "barrel",
+      "fronts": [
+        "barrel"
+      ]
+    },
+    {
+      "sourceLine": 146,
+      "original": "bumps",
+      "fronts": [
+        "bump"
+      ]
+    },
+    {
+      "sourceLine": 147,
+      "original": "ruptured",
+      "fronts": [
+        "rupture"
+      ]
+    },
+    {
+      "sourceLine": 148,
+      "original": "tendon",
+      "fronts": [
+        "tendon"
+      ]
+    },
+    {
+      "sourceLine": 149,
+      "original": "not anywhere near as much as ...",
+      "fronts": [
+        "not anywhere near as much as ..."
+      ]
+    },
+    {
+      "sourceLine": 150,
+      "original": "immersion",
+      "fronts": [
+        "immersion"
+      ]
+    },
+    {
+      "sourceLine": 151,
+      "original": "grip",
+      "fronts": [
+        "grip"
+      ]
+    },
+    {
+      "sourceLine": 152,
+      "original": "exuberance",
+      "fronts": [
+        "exuberance"
+      ]
+    },
+    {
+      "sourceLine": 153,
+      "original": "limp",
+      "fronts": [
+        "limp"
+      ]
+    },
+    {
+      "sourceLine": 154,
+      "original": "one's way through",
+      "fronts": [
+        "one's way through"
+      ]
+    },
+    {
+      "sourceLine": 155,
+      "original": "sake",
+      "fronts": [
+        "sake"
+      ]
+    },
+    {
+      "sourceLine": 156,
+      "original": "recuperation",
+      "fronts": [
+        "recuperation"
+      ]
+    },
+    {
+      "sourceLine": 157,
+      "original": "longingly",
+      "fronts": [
+        "longingly"
+      ]
+    },
+    {
+      "sourceLine": 158,
+      "original": "would find myself doing sth",
+      "fronts": [
+        "would find myself doing something"
+      ]
+    },
+    {
+      "sourceLine": 159,
+      "original": "incipient",
+      "fronts": [
+        "incipient"
+      ]
+    },
+    {
+      "sourceLine": 160,
+      "original": "athletic",
+      "fronts": [
+        "athletic"
+      ]
+    },
+    {
+      "sourceLine": 161,
+      "original": "fit in sth",
+      "fronts": [
+        "fit in something"
+      ]
+    },
+    {
+      "sourceLine": 162,
+      "original": "couch",
+      "fronts": [
+        "couch"
+      ]
+    },
+    {
+      "sourceLine": 163,
+      "original": "contours",
+      "fronts": [
+        "contour"
+      ]
+    },
+    {
+      "sourceLine": 164,
+      "original": "yesteryear",
+      "fronts": [
+        "yesteryear"
+      ]
+    },
+    {
+      "sourceLine": 165,
+      "original": "in turn",
+      "fronts": [
+        "in turn"
+      ]
+    },
+    {
+      "sourceLine": 166,
+      "original": "be taken up with sth",
+      "fronts": [
+        "be taken up with something"
+      ]
+    },
+    {
+      "sourceLine": 167,
+      "original": "It's tempting to do sth",
+      "fronts": [
+        "it is tempting to do something"
+      ]
+    },
+    {
+      "sourceLine": 168,
+      "original": "template",
+      "fronts": [
+        "template"
+      ]
+    },
+    {
+      "sourceLine": 169,
+      "original": "in terms of",
+      "fronts": [
+        "in terms of"
+      ]
+    },
+    {
+      "sourceLine": 170,
+      "original": "ditto",
+      "fronts": [
+        "ditto"
+      ]
+    },
+    {
+      "sourceLine": 171,
+      "original": "portrayed",
+      "fronts": [
+        "portray"
+      ]
+    },
+    {
+      "sourceLine": 172,
+      "original": "virtue",
+      "fronts": [
+        "virtue"
+      ]
+    },
+    {
+      "sourceLine": 173,
+      "original": "ilk",
+      "fronts": [
+        "ilk"
+      ]
+    },
+    {
+      "sourceLine": 174,
+      "original": "Far from it",
+      "fronts": [
+        "far from it"
+      ]
+    },
+    {
+      "sourceLine": 175,
+      "original": "sceptical",
+      "fronts": [
+        "skeptical"
+      ]
+    },
+    {
+      "sourceLine": 176,
+      "original": "Astride",
+      "fronts": [
+        "astride"
+      ]
+    },
+    {
+      "sourceLine": 177,
+      "original": "rationalisation",
+      "fronts": [
+        "rationalisation"
+      ]
+    },
+    {
+      "sourceLine": 178,
+      "original": "justify doing sth",
+      "fronts": [
+        "justify doing something"
+      ]
+    },
+    {
+      "sourceLine": 179,
+      "original": "assimilate",
+      "fronts": [
+        "assimilate"
+      ]
+    },
+    {
+      "sourceLine": 180,
+      "original": "assimilate A into B",
+      "fronts": [
+        "assimilate A into B"
+      ]
+    },
+    {
+      "sourceLine": 181,
+      "original": "deferred",
+      "fronts": [
+        "defer"
+      ]
+    },
+    {
+      "sourceLine": 182,
+      "original": "grim",
+      "fronts": [
+        "grim"
+      ]
+    },
+    {
+      "sourceLine": 183,
+      "original": "just around the corner",
+      "fronts": [
+        "just around the corner"
+      ]
+    },
+    {
+      "sourceLine": 184,
+      "original": "intrinsic",
+      "fronts": [
+        "intrinsic"
+      ]
+    },
+    {
+      "sourceLine": 185,
+      "original": "instigate",
+      "fronts": [
+        "instigate"
+      ]
+    },
+    {
+      "sourceLine": 186,
+      "original": "yells",
+      "fronts": [
+        "yell"
+      ]
+    },
+    {
+      "sourceLine": 187,
+      "original": "lobs",
+      "fronts": [
+        "lob"
+      ]
+    },
+    {
+      "sourceLine": 188,
+      "original": "rackets",
+      "fronts": [
+        "racket"
+      ]
+    },
+    {
+      "sourceLine": 189,
+      "original": "amid",
+      "fronts": [
+        "amid"
+      ]
+    },
+    {
+      "sourceLine": 190,
+      "original": "squeals",
+      "fronts": [
+        "squeal"
+      ]
+    },
+    {
+      "sourceLine": 191,
+      "original": "cackling",
+      "fronts": [
+        "cackle"
+      ]
+    },
+    {
+      "sourceLine": 192,
+      "original": "unleash",
+      "fronts": [
+        "unleash"
+      ]
+    },
+    {
+      "sourceLine": 193,
+      "original": "testament",
+      "fronts": [
+        "testament"
+      ]
+    },
+    {
+      "sourceLine": 194,
+      "original": "deed",
+      "fronts": [
+        "deed"
+      ]
+    },
+    {
+      "sourceLine": 195,
+      "original": "had better",
+      "fronts": [
+        "had better"
+      ]
+    },
+    {
+      "sourceLine": 196,
+      "original": "stoop",
+      "fronts": [
+        "stoop"
+      ]
+    },
+    {
+      "sourceLine": 197,
+      "original": "recede",
+      "fronts": [
+        "recede"
+      ]
+    },
+    {
+      "sourceLine": 198,
+      "original": "pluck",
+      "fronts": [
+        "pluck"
+      ]
+    },
+    {
+      "sourceLine": 199,
+      "original": "consumerism",
+      "fronts": [
+        "consumerism"
+      ]
+    },
+    {
+      "sourceLine": 200,
+      "original": "treadmill",
+      "fronts": [
+        "treadmill"
+      ]
+    },
+    {
+      "sourceLine": 201,
+      "original": "parlance",
+      "fronts": [
+        "parlance"
+      ]
+    },
+    {
+      "sourceLine": 202,
+      "original": "ferocious",
+      "fronts": [
+        "ferocious"
+      ]
+    },
+    {
+      "sourceLine": 203,
+      "original": "commitment",
+      "fronts": [
+        "commitment"
+      ]
+    },
+    {
+      "sourceLine": 204,
+      "original": "briefly",
+      "fronts": [
+        "briefly"
+      ]
+    },
+    {
+      "sourceLine": 205,
+      "original": "thrust",
+      "fronts": [
+        "thrust"
+      ]
+    },
+    {
+      "sourceLine": 206,
+      "original": "savage",
+      "fronts": [
+        "savage"
+      ]
+    },
+    {
+      "sourceLine": 207,
+      "original": "sheer",
+      "fronts": [
+        "sheer"
+      ]
+    },
+    {
+      "sourceLine": 208,
+      "original": "swinging",
+      "fronts": [
+        "swing"
+      ]
+    },
+    {
+      "sourceLine": 209,
+      "original": "acquainted",
+      "fronts": [
+        "acquaint"
+      ]
+    },
+    {
+      "sourceLine": 210,
+      "original": "apex",
+      "fronts": [
+        "apex"
+      ]
+    },
+    {
+      "sourceLine": 211,
+      "original": "strip A of B",
+      "fronts": [
+        "strip A of B"
+      ]
+    },
+    {
+      "sourceLine": 212,
+      "original": "the fabric of things",
+      "fronts": [
+        "the fabric of things"
+      ]
+    },
+    {
+      "sourceLine": 213,
+      "original": "theorise",
+      "fronts": [
+        "theorise"
+      ]
+    },
+    {
+      "sourceLine": 214,
+      "original": "cerebral",
+      "fronts": [
+        "cerebral"
+      ]
+    },
+    {
+      "sourceLine": 215,
+      "original": "apprehension",
+      "fronts": [
+        "apprehension"
+      ]
+    },
+    {
+      "sourceLine": 216,
+      "original": "senile",
+      "fronts": [
+        "senile"
+      ]
+    },
+    {
+      "sourceLine": 217,
+      "original": "maturity",
+      "fronts": [
+        "maturity"
+      ]
+    },
+    {
+      "sourceLine": 218,
+      "original": "thrust sth upon sb",
+      "fronts": [
+        "thrust something upon somebody"
+      ]
+    },
+    {
+      "sourceLine": 219,
+      "original": "intransigent",
+      "fronts": [
+        "intransigent"
+      ]
+    },
+    {
+      "sourceLine": 220,
+      "original": "dissembling",
+      "fronts": [
+        "dissemble"
+      ]
+    },
+    {
+      "sourceLine": 221,
+      "original": "n the blink of an eye",
+      "fronts": [
+        "in the blink of an eye"
+      ]
+    },
+    {
+      "sourceLine": 222,
+      "original": "as opposed to",
+      "fronts": [
+        "as opposed to"
+      ]
+    },
+    {
+      "sourceLine": 223,
+      "original": "accrue",
+      "fronts": [
+        "accrue"
+      ]
+    },
+    {
+      "sourceLine": 224,
+      "original": "bonus",
+      "fronts": [
+        "bonus"
+      ]
+    },
+    {
+      "sourceLine": 225,
+      "original": "incidental",
+      "fronts": [
+        "incidental"
+      ]
+    },
+    {
+      "sourceLine": 226,
+      "original": "run out of",
+      "fronts": [
+        "run out of something"
+      ]
+    },
+    {
+      "sourceLine": 227,
+      "original": "wreak",
+      "fronts": [
+        "wreak"
+      ]
+    },
+    {
+      "sourceLine": 228,
+      "original": "Skyrocketing",
+      "fronts": [
+        "skyrocket"
+      ]
+    },
+    {
+      "sourceLine": 229,
+      "original": "mining",
+      "fronts": [
+        "mining"
+      ]
+    },
+    {
+      "sourceLine": 230,
+      "original": "combined with",
+      "fronts": [
+        "combined with"
+      ]
+    },
+    {
+      "sourceLine": 231,
+      "original": "scarce",
+      "fronts": [
+        "scarce"
+      ]
+    },
+    {
+      "sourceLine": 232,
+      "original": "gravel",
+      "fronts": [
+        "gravel"
+      ]
+    },
+    {
+      "sourceLine": 233,
+      "original": "ingredient",
+      "fronts": [
+        "ingredient"
+      ]
+    },
+    {
+      "sourceLine": 234,
+      "original": "reclamation",
+      "fronts": [
+        "reclamation"
+      ]
+    },
+    {
+      "sourceLine": 235,
+      "original": "uneven",
+      "fronts": [
+        "uneven"
+      ]
+    },
+    {
+      "sourceLine": 236,
+      "original": "commodity",
+      "fronts": [
+        "commodity"
+      ]
+    },
+    {
+      "sourceLine": 237,
+      "original": "profiteering",
+      "fronts": [
+        "profiteering"
+      ]
+    },
+    {
+      "sourceLine": 238,
+      "original": "monopoly",
+      "fronts": [
+        "monopoly"
+      ]
+    },
+    {
+      "sourceLine": 239,
+      "original": "disputes",
+      "fronts": [
+        "dispute"
+      ]
+    },
+    {
+      "sourceLine": 240,
+      "original": "coastal",
+      "fronts": [
+        "coastal"
+      ]
+    },
+    {
+      "sourceLine": 241,
+      "original": "buffer",
+      "fronts": [
+        "buffer"
+      ]
+    },
+    {
+      "sourceLine": 242,
+      "original": "deserve",
+      "fronts": [
+        "deserve"
+      ]
+    }
+  ],
+  "mapping": [
+    {
+      "sourceLine": 136,
+      "original": "coincidence",
+      "front": "coincidence"
+    },
+    {
+      "sourceLine": 137,
+      "original": "take a firm line on sth",
+      "front": "take a firm line on something"
+    },
+    {
+      "sourceLine": 138,
+      "original": "ferocity",
+      "front": "ferocity"
+    },
+    {
+      "sourceLine": 139,
+      "original": "bullied",
+      "front": "bully"
+    },
+    {
+      "sourceLine": 140,
+      "original": "diverged",
+      "front": "diverge"
+    },
+    {
+      "sourceLine": 141,
+      "original": "sober",
+      "front": "sober"
+    },
+    {
+      "sourceLine": 142,
+      "original": "Off we went",
+      "front": "off we went"
+    },
+    {
+      "sourceLine": 143,
+      "original": "drop out of",
+      "front": "drop out of"
+    },
+    {
+      "sourceLine": 144,
+      "original": "entranced",
+      "front": "entrance"
+    },
+    {
+      "sourceLine": 145,
+      "original": "barrel",
+      "front": "barrel"
+    },
+    {
+      "sourceLine": 146,
+      "original": "bumps",
+      "front": "bump"
+    },
+    {
+      "sourceLine": 147,
+      "original": "ruptured",
+      "front": "rupture"
+    },
+    {
+      "sourceLine": 148,
+      "original": "tendon",
+      "front": "tendon"
+    },
+    {
+      "sourceLine": 149,
+      "original": "not anywhere near as much as ...",
+      "front": "not anywhere near as much as ..."
+    },
+    {
+      "sourceLine": 150,
+      "original": "immersion",
+      "front": "immersion"
+    },
+    {
+      "sourceLine": 151,
+      "original": "grip",
+      "front": "grip"
+    },
+    {
+      "sourceLine": 152,
+      "original": "exuberance",
+      "front": "exuberance"
+    },
+    {
+      "sourceLine": 153,
+      "original": "limp",
+      "front": "limp"
+    },
+    {
+      "sourceLine": 154,
+      "original": "one's way through",
+      "front": "one's way through"
+    },
+    {
+      "sourceLine": 155,
+      "original": "sake",
+      "front": "sake"
+    },
+    {
+      "sourceLine": 156,
+      "original": "recuperation",
+      "front": "recuperation"
+    },
+    {
+      "sourceLine": 157,
+      "original": "longingly",
+      "front": "longingly"
+    },
+    {
+      "sourceLine": 158,
+      "original": "would find myself doing sth",
+      "front": "would find myself doing something"
+    },
+    {
+      "sourceLine": 159,
+      "original": "incipient",
+      "front": "incipient"
+    },
+    {
+      "sourceLine": 160,
+      "original": "athletic",
+      "front": "athletic"
+    },
+    {
+      "sourceLine": 161,
+      "original": "fit in sth",
+      "front": "fit in something"
+    },
+    {
+      "sourceLine": 162,
+      "original": "couch",
+      "front": "couch"
+    },
+    {
+      "sourceLine": 163,
+      "original": "contours",
+      "front": "contour"
+    },
+    {
+      "sourceLine": 164,
+      "original": "yesteryear",
+      "front": "yesteryear"
+    },
+    {
+      "sourceLine": 165,
+      "original": "in turn",
+      "front": "in turn"
+    },
+    {
+      "sourceLine": 166,
+      "original": "be taken up with sth",
+      "front": "be taken up with something"
+    },
+    {
+      "sourceLine": 167,
+      "original": "It's tempting to do sth",
+      "front": "it is tempting to do something"
+    },
+    {
+      "sourceLine": 168,
+      "original": "template",
+      "front": "template"
+    },
+    {
+      "sourceLine": 169,
+      "original": "in terms of",
+      "front": "in terms of"
+    },
+    {
+      "sourceLine": 170,
+      "original": "ditto",
+      "front": "ditto"
+    },
+    {
+      "sourceLine": 171,
+      "original": "portrayed",
+      "front": "portray"
+    },
+    {
+      "sourceLine": 172,
+      "original": "virtue",
+      "front": "virtue"
+    },
+    {
+      "sourceLine": 173,
+      "original": "ilk",
+      "front": "ilk"
+    },
+    {
+      "sourceLine": 174,
+      "original": "Far from it",
+      "front": "far from it"
+    },
+    {
+      "sourceLine": 175,
+      "original": "sceptical",
+      "front": "skeptical"
+    },
+    {
+      "sourceLine": 176,
+      "original": "Astride",
+      "front": "astride"
+    },
+    {
+      "sourceLine": 177,
+      "original": "rationalisation",
+      "front": "rationalisation"
+    },
+    {
+      "sourceLine": 178,
+      "original": "justify doing sth",
+      "front": "justify doing something"
+    },
+    {
+      "sourceLine": 179,
+      "original": "assimilate",
+      "front": "assimilate"
+    },
+    {
+      "sourceLine": 180,
+      "original": "assimilate A into B",
+      "front": "assimilate A into B"
+    },
+    {
+      "sourceLine": 181,
+      "original": "deferred",
+      "front": "defer"
+    },
+    {
+      "sourceLine": 182,
+      "original": "grim",
+      "front": "grim"
+    },
+    {
+      "sourceLine": 183,
+      "original": "just around the corner",
+      "front": "just around the corner"
+    },
+    {
+      "sourceLine": 184,
+      "original": "intrinsic",
+      "front": "intrinsic"
+    },
+    {
+      "sourceLine": 185,
+      "original": "instigate",
+      "front": "instigate"
+    },
+    {
+      "sourceLine": 186,
+      "original": "yells",
+      "front": "yell"
+    },
+    {
+      "sourceLine": 187,
+      "original": "lobs",
+      "front": "lob"
+    },
+    {
+      "sourceLine": 188,
+      "original": "rackets",
+      "front": "racket"
+    },
+    {
+      "sourceLine": 189,
+      "original": "amid",
+      "front": "amid"
+    },
+    {
+      "sourceLine": 190,
+      "original": "squeals",
+      "front": "squeal"
+    },
+    {
+      "sourceLine": 191,
+      "original": "cackling",
+      "front": "cackle"
+    },
+    {
+      "sourceLine": 192,
+      "original": "unleash",
+      "front": "unleash"
+    },
+    {
+      "sourceLine": 193,
+      "original": "testament",
+      "front": "testament"
+    },
+    {
+      "sourceLine": 194,
+      "original": "deed",
+      "front": "deed"
+    },
+    {
+      "sourceLine": 195,
+      "original": "had better",
+      "front": "had better"
+    },
+    {
+      "sourceLine": 196,
+      "original": "stoop",
+      "front": "stoop"
+    },
+    {
+      "sourceLine": 197,
+      "original": "recede",
+      "front": "recede"
+    },
+    {
+      "sourceLine": 198,
+      "original": "pluck",
+      "front": "pluck"
+    },
+    {
+      "sourceLine": 199,
+      "original": "consumerism",
+      "front": "consumerism"
+    },
+    {
+      "sourceLine": 200,
+      "original": "treadmill",
+      "front": "treadmill"
+    },
+    {
+      "sourceLine": 201,
+      "original": "parlance",
+      "front": "parlance"
+    },
+    {
+      "sourceLine": 202,
+      "original": "ferocious",
+      "front": "ferocious"
+    },
+    {
+      "sourceLine": 203,
+      "original": "commitment",
+      "front": "commitment"
+    },
+    {
+      "sourceLine": 204,
+      "original": "briefly",
+      "front": "briefly"
+    },
+    {
+      "sourceLine": 205,
+      "original": "thrust",
+      "front": "thrust"
+    },
+    {
+      "sourceLine": 206,
+      "original": "savage",
+      "front": "savage"
+    },
+    {
+      "sourceLine": 207,
+      "original": "sheer",
+      "front": "sheer"
+    },
+    {
+      "sourceLine": 208,
+      "original": "swinging",
+      "front": "swing"
+    },
+    {
+      "sourceLine": 209,
+      "original": "acquainted",
+      "front": "acquaint"
+    },
+    {
+      "sourceLine": 210,
+      "original": "apex",
+      "front": "apex"
+    },
+    {
+      "sourceLine": 211,
+      "original": "strip A of B",
+      "front": "strip A of B"
+    },
+    {
+      "sourceLine": 212,
+      "original": "the fabric of things",
+      "front": "the fabric of things"
+    },
+    {
+      "sourceLine": 213,
+      "original": "theorise",
+      "front": "theorise"
+    },
+    {
+      "sourceLine": 214,
+      "original": "cerebral",
+      "front": "cerebral"
+    },
+    {
+      "sourceLine": 215,
+      "original": "apprehension",
+      "front": "apprehension"
+    },
+    {
+      "sourceLine": 216,
+      "original": "senile",
+      "front": "senile"
+    },
+    {
+      "sourceLine": 217,
+      "original": "maturity",
+      "front": "maturity"
+    },
+    {
+      "sourceLine": 218,
+      "original": "thrust sth upon sb",
+      "front": "thrust something upon somebody"
+    },
+    {
+      "sourceLine": 219,
+      "original": "intransigent",
+      "front": "intransigent"
+    },
+    {
+      "sourceLine": 220,
+      "original": "dissembling",
+      "front": "dissemble"
+    },
+    {
+      "sourceLine": 221,
+      "original": "n the blink of an eye",
+      "front": "in the blink of an eye"
+    },
+    {
+      "sourceLine": 222,
+      "original": "as opposed to",
+      "front": "as opposed to"
+    },
+    {
+      "sourceLine": 223,
+      "original": "accrue",
+      "front": "accrue"
+    },
+    {
+      "sourceLine": 224,
+      "original": "bonus",
+      "front": "bonus"
+    },
+    {
+      "sourceLine": 225,
+      "original": "incidental",
+      "front": "incidental"
+    },
+    {
+      "sourceLine": 226,
+      "original": "run out of",
+      "front": "run out of something"
+    },
+    {
+      "sourceLine": 227,
+      "original": "wreak",
+      "front": "wreak"
+    },
+    {
+      "sourceLine": 228,
+      "original": "Skyrocketing",
+      "front": "skyrocket"
+    },
+    {
+      "sourceLine": 229,
+      "original": "mining",
+      "front": "mining"
+    },
+    {
+      "sourceLine": 230,
+      "original": "combined with",
+      "front": "combined with"
+    },
+    {
+      "sourceLine": 231,
+      "original": "scarce",
+      "front": "scarce"
+    },
+    {
+      "sourceLine": 232,
+      "original": "gravel",
+      "front": "gravel"
+    },
+    {
+      "sourceLine": 233,
+      "original": "ingredient",
+      "front": "ingredient"
+    },
+    {
+      "sourceLine": 234,
+      "original": "reclamation",
+      "front": "reclamation"
+    },
+    {
+      "sourceLine": 235,
+      "original": "uneven",
+      "front": "uneven"
+    },
+    {
+      "sourceLine": 236,
+      "original": "commodity",
+      "front": "commodity"
+    },
+    {
+      "sourceLine": 237,
+      "original": "profiteering",
+      "front": "profiteering"
+    },
+    {
+      "sourceLine": 238,
+      "original": "monopoly",
+      "front": "monopoly"
+    },
+    {
+      "sourceLine": 239,
+      "original": "disputes",
+      "front": "dispute"
+    },
+    {
+      "sourceLine": 240,
+      "original": "coastal",
+      "front": "coastal"
+    },
+    {
+      "sourceLine": 241,
+      "original": "buffer",
+      "front": "buffer"
+    },
+    {
+      "sourceLine": 242,
+      "original": "deserve",
+      "front": "deserve"
+    }
+  ],
+  "notes": [
+    "前135行与10月28日sourceMapping原文逐条同序一致，全部排除；不能用昨天展开后的136条mapping作为行边界。",
+    "n the blink of an eye补回首字母i；sceptical并入已有skeptical，deferred并入defer，run out of并入run out of something，保留原始输入与旧词头。",
+    "分词以动词原形为主；mining、profiteering等保留常用名词词形并解释来源。",
+    "one's way through是需要前接动词的句型片段，保留输入并示范完整结构。",
+    "原1671张卡片back全部原样保留，8个真正重复输入的旧词仅追加批次及原始形式。",
+    "发布成功后清理桌面旧135行，仅留今日107行；完整源文件已在本地备份。",
+    "新例句全部自拟。"
+  ],
+  "sources": [
+    "https://dictionary.cambridge.org/dictionary/english/entrance",
+    "https://dictionary.cambridge.org/us/dictionary/english/dissemble",
+    "https://dictionary.cambridge.org/us/dictionary/english/incipient"
+  ]
+}
