@@ -8,7 +8,8 @@ import { rateCard, vocabularyRevision } from './review.mjs';
 import { batchLabel, latestBatch, isPriority } from './queues.mjs';
 import {emptyKnowledge,readKnowledge,knowledgeKey,activeQueue,openQueue,saveQueue,recordKnowledge,restoreActiveRound} from './knowledge.mjs';
 import { checkAppUpdate, fetchLatestCards } from './updates.mjs';
-import {isProtected,syncImports,milestone} from './importPolicy.mjs';
+import {pendingRelearnVersion} from './families.mjs';
+import {isProtected,isLegacyReview,syncImports,milestone} from './importPolicy.mjs';
 import './style.css';
 
 type Sense={term:string;pos?:string;meaning:string;core?:string;example:string;translation?:string;exampleHighlights?:string[];coreHighlights?:string[]};
@@ -48,6 +49,10 @@ function App(){
   try{if(writeBlocked.current)throw Error('Unreadable saved record');localStorage.setItem(knowledgeKey(STORAGE),JSON.stringify(data));}catch{setStorageWarning(true);}
  };
  const load=(data:Card[],scope:Mode,batch:string,restart=false)=>{
+  const resetVersion=pendingRelearnVersion(knowledgeRef.current,data);
+  if(resetVersion&&Object.keys(knowledgeRef.current.words).length){
+   try{const key=`${STORAGE}:before-relearn:${resetVersion}`;if(localStorage.getItem(key)===null)localStorage.setItem(key,JSON.stringify(knowledgeRef.current));}catch{setStorageWarning(true);}
+  }
   const opened=openQueue(syncImports(knowledgeRef.current,data),data,scope,batch,revision.current,restart);
   commit(opened.data,opened.round);
  };
@@ -96,7 +101,7 @@ function App(){
  const rate=(rating:Rating)=>{
   if(checking.current||!round||!card||!claimRating())return;
   const now=new Date();
-  const data=recordKnowledge(knowledgeRef.current,card.front,rating,mode,!round.states[round.current!].seen,isProtected(card,now),now);
+  const data=recordKnowledge(knowledgeRef.current,card.front,rating,mode,!round.states[round.current!].seen,isProtected(card,now),now,isLegacyReview(card));
   const next=rateCard(round,rating);
   const nextCards=activeQueue(allCards,mode,date,data) as Card[];
   const saved=saveQueue(data,cards,next,mode,date,revision.current);

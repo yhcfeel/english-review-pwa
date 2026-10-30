@@ -24,7 +24,7 @@ export function WordTables({cards,knowledge,onClose}:Props){
  return <dialog className="tables-dialog" ref={dialog} aria-labelledby="tables-title" onClose={onClose} onCancel={onClose}>
   <div className="tables-heading"><h2 id="tables-title">词表与导出</h2><button onClick={onClose} aria-label="关闭词表">关闭</button></div>
   <div className="tables-tabs" role="group" aria-label="选择词表">{(Object.keys(TABLES) as Table[]).map(key=><button key={key} aria-pressed={key===table} onClick={()=>{setTable(key);setMessage('');}}>{key==='permanent'?'三轮忘记':TABLES[key]} · {tableRows(cards,knowledge,key).length}</button>)}</div>
-  <p className="tables-help">{table==='mastered'?'普通词连续两轮首次认识、难记词连续三轮首次认识后退出复习。':table==='difficult'?'同一轮首次忘记且复现仍模糊或忘记，下一轮首次又模糊或忘记的词。':'连续三轮全部复习首次都点忘记的永久记录；以后掌握或退出也不删除。'}</p>
+  <p className="tables-help">{table==='mastered'?'旧词重学统一连续2天；新词普通连续3天、困难连续4天，每天首次全部复习点认识才累计。新词前4天不累计。':table==='difficult'?'同轮首次忘记、复现仍模糊或忘记，下一轮首次又模糊或忘记；或在新批次中再次加入的词（含同词族）。':'连续三轮全部复习首次都点忘记的永久记录；以后掌握或退出也不删除。'}</p>
   <div className="tables-exports"><button disabled={exporting||!rows.length} onClick={()=>void exportFile()}>导出当前表 CSV</button><button disabled={exporting} onClick={()=>void exportFile(true)}>导出三表 JSON</button></div>
   {message&&<p className="tables-help" role="status">{message}</p>}
   <ul className="tables-list" aria-label={TABLES[table]}>{rows.map(row=><li key={row.front}><strong lang="en">{row.front}</strong><p>{row.meaning}</p></li>)}</ul>

@@ -1,0 +1,9370 @@
+{
+  "date": "2026-10-30",
+  "decisions": [
+    {
+      "front": "reagent",
+      "decision": "retain",
+      "base": "reagent"
+    },
+    {
+      "front": "vial",
+      "decision": "retain",
+      "base": "vial"
+    },
+    {
+      "front": "hide A from B",
+      "decision": "retain",
+      "base": "hide A from B"
+    },
+    {
+      "front": "everything from A to B",
+      "decision": "retain",
+      "base": "everything from A to B"
+    },
+    {
+      "front": "buying spree",
+      "decision": "retain",
+      "base": "buying spree"
+    },
+    {
+      "front": "accessory",
+      "decision": "retain",
+      "base": "accessory"
+    },
+    {
+      "front": "scrapbooking",
+      "decision": "retain",
+      "base": "scrapbooking"
+    },
+    {
+      "front": "gadget",
+      "decision": "retain",
+      "base": "gadget"
+    },
+    {
+      "front": "debt",
+      "decision": "retain",
+      "base": "debt"
+    },
+    {
+      "front": "anonymous",
+      "decision": "retain",
+      "base": "anonymous"
+    },
+    {
+      "front": "compulsive",
+      "decision": "retain",
+      "base": "compulsive"
+    },
+    {
+      "front": "pathological",
+      "decision": "retain",
+      "base": "pathological"
+    },
+    {
+      "front": "desire",
+      "decision": "retain",
+      "base": "desire"
+    },
+    {
+      "front": "specialist",
+      "decision": "retain",
+      "base": "specialist"
+    },
+    {
+      "front": "commission",
+      "decision": "retain",
+      "base": "commission"
+    },
+    {
+      "front": "retailer",
+      "decision": "merge",
+      "base": "retail"
+    },
+    {
+      "front": "mundane",
+      "decision": "retain",
+      "base": "mundane"
+    },
+    {
+      "front": "turn A into B",
+      "decision": "retain",
+      "base": "turn A into B"
+    },
+    {
+      "front": "classify",
+      "decision": "retain",
+      "base": "classify"
+    },
+    {
+      "front": "conduct",
+      "decision": "retain",
+      "base": "conduct"
+    },
+    {
+      "front": "survey",
+      "decision": "retain",
+      "base": "survey"
+    },
+    {
+      "front": "diagnosis",
+      "decision": "merge",
+      "base": "diagnose"
+    },
+    {
+      "front": "regulation",
+      "decision": "merge",
+      "base": "regulate"
+    },
+    {
+      "front": "demand",
+      "decision": "retain",
+      "base": "demand"
+    },
+    {
+      "front": "materialistic",
+      "decision": "retain",
+      "base": "materialistic"
+    },
+    {
+      "front": "narrow",
+      "decision": "retain",
+      "base": "narrow"
+    },
+    {
+      "front": "surge",
+      "decision": "retain",
+      "base": "surge"
+    },
+    {
+      "front": "maintain",
+      "decision": "retain",
+      "base": "maintain"
+    },
+    {
+      "front": "clinician",
+      "decision": "retain",
+      "base": "clinician"
+    },
+    {
+      "front": "indicate",
+      "decision": "retain",
+      "base": "indicate"
+    },
+    {
+      "front": "consensus",
+      "decision": "retain",
+      "base": "consensus"
+    },
+    {
+      "front": "resemble",
+      "decision": "retain",
+      "base": "resemble"
+    },
+    {
+      "front": "obsessive",
+      "decision": "merge",
+      "base": "obsess"
+    },
+    {
+      "front": "ascendant",
+      "decision": "retain",
+      "base": "ascendant"
+    },
+    {
+      "front": "disorder",
+      "decision": "retain",
+      "base": "disorder"
+    },
+    {
+      "front": "substance",
+      "decision": "retain",
+      "base": "substance"
+    },
+    {
+      "front": "boredom",
+      "decision": "merge",
+      "base": "bore"
+    },
+    {
+      "front": "desirable",
+      "decision": "merge",
+      "base": "desire"
+    },
+    {
+      "front": "implicate",
+      "decision": "retain",
+      "base": "implicate"
+    },
+    {
+      "front": "thrill",
+      "decision": "retain",
+      "base": "thrill"
+    },
+    {
+      "front": "prescribe",
+      "decision": "retain",
+      "base": "prescribe"
+    },
+    {
+      "front": "emerge",
+      "decision": "retain",
+      "base": "emerge"
+    },
+    {
+      "front": "weigh in on something",
+      "decision": "retain",
+      "base": "weigh in on something"
+    },
+    {
+      "front": "iterative",
+      "decision": "merge",
+      "base": "iterate"
+    },
+    {
+      "front": "influence",
+      "decision": "retain",
+      "base": "influence"
+    },
+    {
+      "front": "undue",
+      "decision": "retain",
+      "base": "undue"
+    },
+    {
+      "front": "exert",
+      "decision": "retain",
+      "base": "exert"
+    },
+    {
+      "front": "distinct",
+      "decision": "retain",
+      "base": "distinct"
+    },
+    {
+      "front": "entity",
+      "decision": "retain",
+      "base": "entity"
+    },
+    {
+      "front": "derive",
+      "decision": "retain",
+      "base": "derive"
+    },
+    {
+      "front": "propose",
+      "decision": "retain",
+      "base": "propose"
+    },
+    {
+      "front": "criterion",
+      "decision": "retain",
+      "base": "criterion"
+    },
+    {
+      "front": "urge",
+      "decision": "retain",
+      "base": "urge"
+    },
+    {
+      "front": "simplistic",
+      "decision": "retain",
+      "base": "simplistic"
+    },
+    {
+      "front": "spectrum",
+      "decision": "retain",
+      "base": "spectrum"
+    },
+    {
+      "front": "severe",
+      "decision": "retain",
+      "base": "severe"
+    },
+    {
+      "front": "primary",
+      "decision": "retain",
+      "base": "primary"
+    },
+    {
+      "front": "estimate",
+      "decision": "retain",
+      "base": "estimate"
+    },
+    {
+      "front": "statement",
+      "decision": "merge",
+      "base": "state"
+    },
+    {
+      "front": "diagnose",
+      "decision": "retain",
+      "base": "diagnose"
+    },
+    {
+      "front": "empirically",
+      "decision": "merge",
+      "base": "empirical"
+    },
+    {
+      "front": "explore",
+      "decision": "retain",
+      "base": "explore"
+    },
+    {
+      "front": "therapeutic",
+      "decision": "retain",
+      "base": "therapeutic"
+    },
+    {
+      "front": "pharmacological",
+      "decision": "retain",
+      "base": "pharmacological"
+    },
+    {
+      "front": "retail",
+      "decision": "retain",
+      "base": "retail"
+    },
+    {
+      "front": "induce",
+      "decision": "retain",
+      "base": "induce"
+    },
+    {
+      "front": "worsen",
+      "decision": "retain",
+      "base": "worsen"
+    },
+    {
+      "front": "discount",
+      "decision": "retain",
+      "base": "discount"
+    },
+    {
+      "front": "countdown",
+      "decision": "retain",
+      "base": "countdown"
+    },
+    {
+      "front": "instalment",
+      "decision": "retain",
+      "base": "instalment"
+    },
+    {
+      "front": "erode",
+      "decision": "retain",
+      "base": "erode"
+    },
+    {
+      "front": "susceptible",
+      "decision": "retain",
+      "base": "susceptible"
+    },
+    {
+      "front": "loot",
+      "decision": "retain",
+      "base": "loot"
+    },
+    {
+      "front": "irresistible",
+      "decision": "retain",
+      "base": "irresistible"
+    },
+    {
+      "front": "prove to be",
+      "decision": "retain",
+      "base": "prove to be"
+    },
+    {
+      "front": "regulatory",
+      "decision": "merge",
+      "base": "regulate"
+    },
+    {
+      "front": "recommend",
+      "decision": "retain",
+      "base": "recommend"
+    },
+    {
+      "front": "innovation",
+      "decision": "merge",
+      "base": "innovate"
+    },
+    {
+      "front": "incline",
+      "decision": "retain",
+      "base": "incline"
+    },
+    {
+      "front": "implement",
+      "decision": "retain",
+      "base": "implement"
+    },
+    {
+      "front": "prevent",
+      "decision": "retain",
+      "base": "prevent"
+    },
+    {
+      "front": "restriction",
+      "decision": "merge",
+      "base": "restrict"
+    },
+    {
+      "front": "dent",
+      "decision": "retain",
+      "base": "dent"
+    },
+    {
+      "front": "counterfeit",
+      "decision": "retain",
+      "base": "counterfeit"
+    },
+    {
+      "front": "parcel",
+      "decision": "retain",
+      "base": "parcel"
+    },
+    {
+      "front": "tackle",
+      "decision": "retain",
+      "base": "tackle"
+    },
+    {
+      "front": "congregate",
+      "decision": "retain",
+      "base": "congregate"
+    },
+    {
+      "front": "one another",
+      "decision": "retain",
+      "base": "one another"
+    },
+    {
+      "front": "moderator",
+      "decision": "merge",
+      "base": "moderate"
+    },
+    {
+      "front": "forum",
+      "decision": "retain",
+      "base": "forum"
+    },
+    {
+      "front": "priority",
+      "decision": "retain",
+      "base": "priority"
+    },
+    {
+      "front": "endlessly",
+      "decision": "merge",
+      "base": "endless"
+    },
+    {
+      "front": "revelatory",
+      "decision": "merge",
+      "base": "reveal"
+    },
+    {
+      "front": "jolt",
+      "decision": "retain",
+      "base": "jolt"
+    },
+    {
+      "front": "thrill (n.)",
+      "decision": "merge",
+      "base": "thrill"
+    },
+    {
+      "front": "estimate (n.)",
+      "decision": "merge",
+      "base": "estimate"
+    },
+    {
+      "front": "retail (adj.)",
+      "decision": "merge",
+      "base": "retail"
+    },
+    {
+      "front": "counterfeit (n.)",
+      "decision": "merge",
+      "base": "counterfeit"
+    },
+    {
+      "front": "every few years",
+      "decision": "retain",
+      "base": "every few years"
+    },
+    {
+      "front": "occasion",
+      "decision": "retain",
+      "base": "occasion"
+    },
+    {
+      "front": "giddy",
+      "decision": "retain",
+      "base": "giddy"
+    },
+    {
+      "front": "grocery",
+      "decision": "retain",
+      "base": "grocery"
+    },
+    {
+      "front": "loose",
+      "decision": "retain",
+      "base": "loose"
+    },
+    {
+      "front": "universal",
+      "decision": "retain",
+      "base": "universal"
+    },
+    {
+      "front": "treat A as B",
+      "decision": "retain",
+      "base": "treat A as B"
+    },
+    {
+      "front": "ritual",
+      "decision": "retain",
+      "base": "ritual"
+    },
+    {
+      "front": "pioneer",
+      "decision": "retain",
+      "base": "pioneer"
+    },
+    {
+      "front": "Legend has it that",
+      "decision": "retain",
+      "base": "Legend has it that"
+    },
+    {
+      "front": "dip",
+      "decision": "retain",
+      "base": "dip"
+    },
+    {
+      "front": "chewing gum",
+      "decision": "retain",
+      "base": "chewing gum"
+    },
+    {
+      "front": "lucky dip",
+      "decision": "retain",
+      "base": "lucky dip"
+    },
+    {
+      "front": "tale",
+      "decision": "retain",
+      "base": "tale"
+    },
+    {
+      "front": "fairy tale",
+      "decision": "retain",
+      "base": "fairy tale"
+    },
+    {
+      "front": "be after something",
+      "decision": "retain",
+      "base": "be after something"
+    },
+    {
+      "front": "stocktaking",
+      "decision": "retain",
+      "base": "stocktaking"
+    },
+    {
+      "front": "distraught",
+      "decision": "retain",
+      "base": "distraught"
+    },
+    {
+      "front": "dean",
+      "decision": "retain",
+      "base": "dean"
+    },
+    {
+      "front": "plead with someone",
+      "decision": "retain",
+      "base": "plead with someone"
+    },
+    {
+      "front": "come up with",
+      "decision": "retain",
+      "base": "come up with"
+    },
+    {
+      "front": "delay",
+      "decision": "retain",
+      "base": "delay"
+    },
+    {
+      "front": "regular",
+      "decision": "retain",
+      "base": "regular"
+    },
+    {
+      "front": "shrug someone off",
+      "decision": "retain",
+      "base": "shrug someone off"
+    },
+    {
+      "front": "intrigued",
+      "decision": "merge",
+      "base": "intrigue"
+    },
+    {
+      "front": "confident",
+      "decision": "retain",
+      "base": "confident"
+    },
+    {
+      "front": "dilemma",
+      "decision": "retain",
+      "base": "dilemma"
+    },
+    {
+      "front": "apartment",
+      "decision": "retain",
+      "base": "apartment"
+    },
+    {
+      "front": "cash in",
+      "decision": "retain",
+      "base": "cash in"
+    },
+    {
+      "front": "tide someone over",
+      "decision": "retain",
+      "base": "tide someone over"
+    },
+    {
+      "front": "epiphany",
+      "decision": "retain",
+      "base": "epiphany"
+    },
+    {
+      "front": "brilliance",
+      "decision": "merge",
+      "base": "brilliant"
+    },
+    {
+      "front": "far-reaching",
+      "decision": "retain",
+      "base": "far-reaching"
+    },
+    {
+      "front": "ponder",
+      "decision": "retain",
+      "base": "ponder"
+    },
+    {
+      "front": "dash",
+      "decision": "retain",
+      "base": "dash"
+    },
+    {
+      "front": "poke",
+      "decision": "retain",
+      "base": "poke"
+    },
+    {
+      "front": "to hand",
+      "decision": "retain",
+      "base": "to hand"
+    },
+    {
+      "front": "file a patent",
+      "decision": "retain",
+      "base": "file a patent"
+    },
+    {
+      "front": "grant",
+      "decision": "retain",
+      "base": "grant"
+    },
+    {
+      "front": "illustrate",
+      "decision": "retain",
+      "base": "illustrate"
+    },
+    {
+      "front": "a smattering of",
+      "decision": "retain",
+      "base": "a smattering of"
+    },
+    {
+      "front": "anecdotal",
+      "decision": "retain",
+      "base": "anecdotal"
+    },
+    {
+      "front": "incandescent bulb",
+      "decision": "retain",
+      "base": "incandescent bulb"
+    },
+    {
+      "front": "allegedly",
+      "decision": "merge",
+      "base": "allege"
+    },
+    {
+      "front": "up to a point",
+      "decision": "retain",
+      "base": "up to a point"
+    },
+    {
+      "front": "evaluation",
+      "decision": "merge",
+      "base": "evaluate"
+    },
+    {
+      "front": "critically",
+      "decision": "merge",
+      "base": "critical"
+    },
+    {
+      "front": "plumber",
+      "decision": "retain",
+      "base": "plumber"
+    },
+    {
+      "front": "press conference",
+      "decision": "retain",
+      "base": "press conference"
+    },
+    {
+      "front": "sensational",
+      "decision": "retain",
+      "base": "sensational"
+    },
+    {
+      "front": "produce",
+      "decision": "retain",
+      "base": "produce"
+    },
+    {
+      "front": "an acronym for",
+      "decision": "retain",
+      "base": "an acronym for"
+    },
+    {
+      "front": "beam",
+      "decision": "retain",
+      "base": "beam"
+    },
+    {
+      "front": "coherent",
+      "decision": "retain",
+      "base": "coherent"
+    },
+    {
+      "front": "assure",
+      "decision": "retain",
+      "base": "assure"
+    },
+    {
+      "front": "fierce",
+      "decision": "retain",
+      "base": "fierce"
+    },
+    {
+      "front": "fickle",
+      "decision": "retain",
+      "base": "fickle"
+    },
+    {
+      "front": "welding",
+      "decision": "merge",
+      "base": "weld"
+    },
+    {
+      "front": "delicate",
+      "decision": "retain",
+      "base": "delicate"
+    },
+    {
+      "front": "sign off",
+      "decision": "retain",
+      "base": "sign off"
+    },
+    {
+      "front": "turn up",
+      "decision": "retain",
+      "base": "turn up"
+    },
+    {
+      "front": "scheme",
+      "decision": "retain",
+      "base": "scheme"
+    },
+    {
+      "front": "hare",
+      "decision": "retain",
+      "base": "hare"
+    },
+    {
+      "front": "retrieve",
+      "decision": "retain",
+      "base": "retrieve"
+    },
+    {
+      "front": "rectangular",
+      "decision": "merge",
+      "base": "rectangle"
+    },
+    {
+      "front": "envisage",
+      "decision": "retain",
+      "base": "envisage"
+    },
+    {
+      "front": "concentric",
+      "decision": "retain",
+      "base": "concentric"
+    },
+    {
+      "front": "turret",
+      "decision": "retain",
+      "base": "turret"
+    },
+    {
+      "front": "comparison",
+      "decision": "merge",
+      "base": "compare"
+    },
+    {
+      "front": "undeniable",
+      "decision": "retain",
+      "base": "undeniable"
+    },
+    {
+      "front": "state",
+      "decision": "retain",
+      "base": "state"
+    },
+    {
+      "front": "representative",
+      "decision": "merge",
+      "base": "represent"
+    },
+    {
+      "front": "be charged with doing something",
+      "decision": "retain",
+      "base": "be charged with doing something"
+    },
+    {
+      "front": "of some description",
+      "decision": "retain",
+      "base": "of some description"
+    },
+    {
+      "front": "imprint",
+      "decision": "retain",
+      "base": "imprint"
+    },
+    {
+      "front": "nature",
+      "decision": "retain",
+      "base": "nature"
+    },
+    {
+      "front": "special offers and reductions",
+      "decision": "retain",
+      "base": "special offers and reductions"
+    },
+    {
+      "front": "daunting",
+      "decision": "merge",
+      "base": "daunt"
+    },
+    {
+      "front": "resistant",
+      "decision": "merge",
+      "base": "resist"
+    },
+    {
+      "front": "discard",
+      "decision": "retain",
+      "base": "discard"
+    },
+    {
+      "front": "spoil",
+      "decision": "retain",
+      "base": "spoil"
+    },
+    {
+      "front": "oblige",
+      "decision": "retain",
+      "base": "oblige"
+    },
+    {
+      "front": "proposition",
+      "decision": "retain",
+      "base": "proposition"
+    },
+    {
+      "front": "cast",
+      "decision": "retain",
+      "base": "cast"
+    },
+    {
+      "front": "amateur",
+      "decision": "retain",
+      "base": "amateur"
+    },
+    {
+      "front": "ingenuity",
+      "decision": "retain",
+      "base": "ingenuity"
+    },
+    {
+      "front": "submit",
+      "decision": "retain",
+      "base": "submit"
+    },
+    {
+      "front": "offshoot",
+      "decision": "retain",
+      "base": "offshoot"
+    },
+    {
+      "front": "demonstrate",
+      "decision": "retain",
+      "base": "demonstrate"
+    },
+    {
+      "front": "take the view that",
+      "decision": "retain",
+      "base": "take the view that"
+    },
+    {
+      "front": "bid",
+      "decision": "retain",
+      "base": "bid"
+    },
+    {
+      "front": "in someone's employ",
+      "decision": "retain",
+      "base": "in someone's employ"
+    },
+    {
+      "front": "submission",
+      "decision": "merge",
+      "base": "submit"
+    },
+    {
+      "front": "rival",
+      "decision": "retain",
+      "base": "rival"
+    },
+    {
+      "front": "from scratch",
+      "decision": "retain",
+      "base": "from scratch"
+    },
+    {
+      "front": "specification",
+      "decision": "merge",
+      "base": "specify"
+    },
+    {
+      "front": "determine",
+      "decision": "retain",
+      "base": "determine"
+    },
+    {
+      "front": "calculate",
+      "decision": "retain",
+      "base": "calculate"
+    },
+    {
+      "front": "at speed",
+      "decision": "retain",
+      "base": "at speed"
+    },
+    {
+      "front": "skepticism",
+      "decision": "merge",
+      "base": "skeptical"
+    },
+    {
+      "front": "convincing",
+      "decision": "merge",
+      "base": "convince"
+    },
+    {
+      "front": "division",
+      "decision": "merge",
+      "base": "divide"
+    },
+    {
+      "front": "not the least of whom",
+      "decision": "retain",
+      "base": "not the least of whom"
+    },
+    {
+      "front": "flaw",
+      "decision": "retain",
+      "base": "flaw"
+    },
+    {
+      "front": "tray",
+      "decision": "retain",
+      "base": "tray"
+    },
+    {
+      "front": "be another matter",
+      "decision": "retain",
+      "base": "be another matter"
+    },
+    {
+      "front": "convince",
+      "decision": "retain",
+      "base": "convince"
+    },
+    {
+      "front": "appraisal",
+      "decision": "merge",
+      "base": "appraise"
+    },
+    {
+      "front": "fateful",
+      "decision": "retain",
+      "base": "fateful"
+    },
+    {
+      "front": "reincarnation",
+      "decision": "retain",
+      "base": "reincarnation"
+    },
+    {
+      "front": "elongated",
+      "decision": "merge",
+      "base": "elongate"
+    },
+    {
+      "front": "modest",
+      "decision": "retain",
+      "base": "modest"
+    },
+    {
+      "front": "register",
+      "decision": "retain",
+      "base": "register"
+    },
+    {
+      "front": "alternate",
+      "decision": "retain",
+      "base": "alternate"
+    },
+    {
+      "front": "decipher",
+      "decision": "retain",
+      "base": "decipher"
+    },
+    {
+      "front": "It was when ... that ...",
+      "decision": "retain",
+      "base": "It was when ... that ..."
+    },
+    {
+      "front": "merchandiser",
+      "decision": "merge",
+      "base": "merchandise"
+    },
+    {
+      "front": "take off",
+      "decision": "retain",
+      "base": "take off"
+    },
+    {
+      "front": "deal in something",
+      "decision": "retain",
+      "base": "deal in something"
+    },
+    {
+      "front": "rash",
+      "decision": "retain",
+      "base": "rash"
+    },
+    {
+      "front": "instant",
+      "decision": "retain",
+      "base": "instant"
+    },
+    {
+      "front": "plea",
+      "decision": "retain",
+      "base": "plea"
+    },
+    {
+      "front": "statistical",
+      "decision": "merge",
+      "base": "statistics"
+    },
+    {
+      "front": "handy",
+      "decision": "retain",
+      "base": "handy"
+    },
+    {
+      "front": "anonymity",
+      "decision": "merge",
+      "base": "anonymous"
+    },
+    {
+      "front": "convention",
+      "decision": "retain",
+      "base": "convention"
+    },
+    {
+      "front": "intently",
+      "decision": "merge",
+      "base": "intent"
+    },
+    {
+      "front": "have a go at doing something",
+      "decision": "retain",
+      "base": "have a go at doing something"
+    },
+    {
+      "front": "correspondent",
+      "decision": "retain",
+      "base": "correspondent"
+    },
+    {
+      "front": "It was the first time + 过去完成时",
+      "decision": "retain",
+      "base": "It was the first time + 过去完成时"
+    },
+    {
+      "front": "be out of touch with",
+      "decision": "retain",
+      "base": "be out of touch with"
+    },
+    {
+      "front": "aide",
+      "decision": "retain",
+      "base": "aide"
+    },
+    {
+      "front": "Apocryphal or not",
+      "decision": "retain",
+      "base": "Apocryphal or not"
+    },
+    {
+      "front": "regard A as B",
+      "decision": "retain",
+      "base": "regard A as B"
+    },
+    {
+      "front": "as someone puts it",
+      "decision": "retain",
+      "base": "as someone puts it"
+    },
+    {
+      "front": "hold a grudge",
+      "decision": "retain",
+      "base": "hold a grudge"
+    },
+    {
+      "front": "inspired",
+      "decision": "merge",
+      "base": "inspire"
+    },
+    {
+      "front": "be to do · 安排与计划",
+      "decision": "retain",
+      "base": "be to do · 安排与计划"
+    },
+    {
+      "front": "be to do · 命令与要求",
+      "decision": "retain",
+      "base": "be to do · 命令与要求"
+    },
+    {
+      "front": "was/were to do · 后来的发展",
+      "decision": "retain",
+      "base": "was/were to do · 后来的发展"
+    },
+    {
+      "front": "if … were to do · 假设",
+      "decision": "retain",
+      "base": "if … were to do · 假设"
+    },
+    {
+      "front": "if … be to do · 目标与必要条件",
+      "decision": "retain",
+      "base": "if … be to do · 目标与必要条件"
+    },
+    {
+      "front": "so + 助动词／情态动词 + 主语",
+      "decision": "retain",
+      "base": "so + 助动词／情态动词 + 主语"
+    },
+    {
+      "front": "span",
+      "decision": "retain",
+      "base": "span"
+    },
+    {
+      "front": "distraction",
+      "decision": "merge",
+      "base": "distract"
+    },
+    {
+      "front": "undermine",
+      "decision": "retain",
+      "base": "undermine"
+    },
+    {
+      "front": "capacity",
+      "decision": "retain",
+      "base": "capacity"
+    },
+    {
+      "front": "diminish",
+      "decision": "retain",
+      "base": "diminish"
+    },
+    {
+      "front": "inherent",
+      "decision": "retain",
+      "base": "inherent"
+    },
+    {
+      "front": "notification",
+      "decision": "merge",
+      "base": "notify"
+    },
+    {
+      "front": "disable",
+      "decision": "retain",
+      "base": "disable"
+    },
+    {
+      "front": "helmet",
+      "decision": "retain",
+      "base": "helmet"
+    },
+    {
+      "front": "contend",
+      "decision": "retain",
+      "base": "contend"
+    },
+    {
+      "front": "monastic",
+      "decision": "retain",
+      "base": "monastic"
+    },
+    {
+      "front": "suffocation",
+      "decision": "merge",
+      "base": "suffocate"
+    },
+    {
+      "front": "assault",
+      "decision": "retain",
+      "base": "assault"
+    },
+    {
+      "front": "acute",
+      "decision": "retain",
+      "base": "acute"
+    },
+    {
+      "front": "multiply",
+      "decision": "retain",
+      "base": "multiply"
+    },
+    {
+      "front": "plot",
+      "decision": "retain",
+      "base": "plot"
+    },
+    {
+      "front": "nuanced",
+      "decision": "merge",
+      "base": "nuance"
+    },
+    {
+      "front": "flit",
+      "decision": "retain",
+      "base": "flit"
+    },
+    {
+      "front": "detrimental",
+      "decision": "merge",
+      "base": "detriment"
+    },
+    {
+      "front": "impaired",
+      "decision": "merge",
+      "base": "impair"
+    },
+    {
+      "front": "flurry",
+      "decision": "retain",
+      "base": "flurry"
+    },
+    {
+      "front": "constantly",
+      "decision": "merge",
+      "base": "constant"
+    },
+    {
+      "front": "distracted",
+      "decision": "merge",
+      "base": "distract"
+    },
+    {
+      "front": "respond",
+      "decision": "retain",
+      "base": "respond"
+    },
+    {
+      "front": "perception",
+      "decision": "merge",
+      "base": "perceive"
+    },
+    {
+      "front": "modular",
+      "decision": "merge",
+      "base": "module"
+    },
+    {
+      "front": "digestible",
+      "decision": "merge",
+      "base": "digest"
+    },
+    {
+      "front": "extract",
+      "decision": "retain",
+      "base": "extract"
+    },
+    {
+      "front": "novelist",
+      "decision": "merge",
+      "base": "novel"
+    },
+    {
+      "front": "break A into B",
+      "decision": "retain",
+      "base": "break A into B"
+    },
+    {
+      "front": "tangle",
+      "decision": "retain",
+      "base": "tangle"
+    },
+    {
+      "front": "appeal",
+      "decision": "retain",
+      "base": "appeal"
+    },
+    {
+      "front": "prioritize",
+      "decision": "retain",
+      "base": "prioritize"
+    },
+    {
+      "front": "executive",
+      "decision": "retain",
+      "base": "executive"
+    },
+    {
+      "front": "in line with",
+      "decision": "retain",
+      "base": "in line with"
+    },
+    {
+      "front": "distinguish",
+      "decision": "retain",
+      "base": "distinguish"
+    },
+    {
+      "front": "engaged",
+      "decision": "merge",
+      "base": "engage"
+    },
+    {
+      "front": "tedious",
+      "decision": "retain",
+      "base": "tedious"
+    },
+    {
+      "front": "apparently",
+      "decision": "merge",
+      "base": "apparent"
+    },
+    {
+      "front": "naturally",
+      "decision": "merge",
+      "base": "natural"
+    },
+    {
+      "front": "fluctuate",
+      "decision": "retain",
+      "base": "fluctuate"
+    },
+    {
+      "front": "burst",
+      "decision": "retain",
+      "base": "burst"
+    },
+    {
+      "front": "lapse",
+      "decision": "retain",
+      "base": "lapse"
+    },
+    {
+      "front": "basis",
+      "decision": "retain",
+      "base": "basis"
+    },
+    {
+      "front": "juggle",
+      "decision": "retain",
+      "base": "juggle"
+    },
+    {
+      "front": "irrelevant",
+      "decision": "retain",
+      "base": "irrelevant"
+    },
+    {
+      "front": "correlation",
+      "decision": "merge",
+      "base": "correlate"
+    },
+    {
+      "front": "tendency",
+      "decision": "retain",
+      "base": "tendency"
+    },
+    {
+      "front": "observation",
+      "decision": "merge",
+      "base": "observe"
+    },
+    {
+      "front": "causally",
+      "decision": "merge",
+      "base": "causal"
+    },
+    {
+      "front": "deficit",
+      "decision": "retain",
+      "base": "deficit"
+    },
+    {
+      "front": "attribute",
+      "decision": "retain",
+      "base": "attribute"
+    },
+    {
+      "front": "access to something",
+      "decision": "retain",
+      "base": "access to something"
+    },
+    {
+      "front": "reversible",
+      "decision": "merge",
+      "base": "reverse"
+    },
+    {
+      "front": "steadily",
+      "decision": "merge",
+      "base": "steady"
+    },
+    {
+      "front": "trivial",
+      "decision": "retain",
+      "base": "trivial"
+    },
+    {
+      "front": "annoy",
+      "decision": "retain",
+      "base": "annoy"
+    },
+    {
+      "front": "dedicated",
+      "decision": "merge",
+      "base": "dedicate"
+    },
+    {
+      "front": "retain",
+      "decision": "retain",
+      "base": "retain"
+    },
+    {
+      "front": "maligned",
+      "decision": "merge",
+      "base": "malign"
+    },
+    {
+      "front": "spike",
+      "decision": "retain",
+      "base": "spike"
+    },
+    {
+      "front": "fairly",
+      "decision": "retain",
+      "base": "fairly"
+    },
+    {
+      "front": "accomplish",
+      "decision": "retain",
+      "base": "accomplish"
+    },
+    {
+      "front": "sequentially",
+      "decision": "merge",
+      "base": "sequence"
+    },
+    {
+      "front": "divert",
+      "decision": "retain",
+      "base": "divert"
+    },
+    {
+      "front": "utilize",
+      "decision": "retain",
+      "base": "utilize"
+    },
+    {
+      "front": "deliberation",
+      "decision": "merge",
+      "base": "deliberate"
+    },
+    {
+      "front": "malaise",
+      "decision": "retain",
+      "base": "malaise"
+    },
+    {
+      "front": "superficial",
+      "decision": "retain",
+      "base": "superficial"
+    },
+    {
+      "front": "progress",
+      "decision": "retain",
+      "base": "progress"
+    },
+    {
+      "front": "generation",
+      "decision": "retain",
+      "base": "generation"
+    },
+    {
+      "front": "panic",
+      "decision": "retain",
+      "base": "panic"
+    },
+    {
+      "front": "pull",
+      "decision": "retain",
+      "base": "pull"
+    },
+    {
+      "front": "impose",
+      "decision": "retain",
+      "base": "impose"
+    },
+    {
+      "front": "alternative",
+      "decision": "retain",
+      "base": "alternative"
+    },
+    {
+      "front": "validation",
+      "decision": "merge",
+      "base": "validate"
+    },
+    {
+      "front": "drift",
+      "decision": "retain",
+      "base": "drift"
+    },
+    {
+      "front": "absence",
+      "decision": "merge",
+      "base": "absent"
+    },
+    {
+      "front": "solely",
+      "decision": "merge",
+      "base": "sole"
+    },
+    {
+      "front": "decrease",
+      "decision": "retain",
+      "base": "decrease"
+    },
+    {
+      "front": "fragmented",
+      "decision": "merge",
+      "base": "fragment"
+    },
+    {
+      "front": "messy",
+      "decision": "merge",
+      "base": "mess"
+    },
+    {
+      "front": "generate",
+      "decision": "retain",
+      "base": "generate"
+    },
+    {
+      "front": "implication",
+      "decision": "retain",
+      "base": "implication"
+    },
+    {
+      "front": "volume",
+      "decision": "retain",
+      "base": "volume"
+    },
+    {
+      "front": "accurate",
+      "decision": "retain",
+      "base": "accurate"
+    },
+    {
+      "front": "principle",
+      "decision": "retain",
+      "base": "principle"
+    },
+    {
+      "front": "cohort",
+      "decision": "retain",
+      "base": "cohort"
+    },
+    {
+      "front": "signature",
+      "decision": "retain",
+      "base": "signature"
+    },
+    {
+      "front": "cerebellum",
+      "decision": "retain",
+      "base": "cerebellum"
+    },
+    {
+      "front": "stable",
+      "decision": "retain",
+      "base": "stable"
+    },
+    {
+      "front": "so far",
+      "decision": "retain",
+      "base": "so far"
+    },
+    {
+      "front": "faint",
+      "decision": "retain",
+      "base": "faint"
+    },
+    {
+      "front": "inflate",
+      "decision": "retain",
+      "base": "inflate"
+    },
+    {
+      "front": "consistency",
+      "decision": "merge",
+      "base": "consistent"
+    },
+    {
+      "front": "conscious",
+      "decision": "retain",
+      "base": "conscious"
+    },
+    {
+      "front": "fluctuation",
+      "decision": "merge",
+      "base": "fluctuate"
+    },
+    {
+      "front": "flickering",
+      "decision": "merge",
+      "base": "flicker"
+    },
+    {
+      "front": "rumination",
+      "decision": "merge",
+      "base": "ruminate"
+    },
+    {
+      "front": "period",
+      "decision": "retain",
+      "base": "period"
+    },
+    {
+      "front": "riddled",
+      "decision": "retain",
+      "base": "riddled"
+    },
+    {
+      "front": "inevitable",
+      "decision": "retain",
+      "base": "inevitable"
+    },
+    {
+      "front": "interpret",
+      "decision": "retain",
+      "base": "interpret"
+    },
+    {
+      "front": "loom",
+      "decision": "retain",
+      "base": "loom"
+    },
+    {
+      "front": "attraction",
+      "decision": "merge",
+      "base": "attract"
+    },
+    {
+      "front": "sturdy",
+      "decision": "retain",
+      "base": "sturdy"
+    },
+    {
+      "front": "resin",
+      "decision": "retain",
+      "base": "resin"
+    },
+    {
+      "front": "typically",
+      "decision": "merge",
+      "base": "typical"
+    },
+    {
+      "front": "outperform",
+      "decision": "retain",
+      "base": "outperform"
+    },
+    {
+      "front": "fracture",
+      "decision": "retain",
+      "base": "fracture"
+    },
+    {
+      "front": "aesthetic",
+      "decision": "retain",
+      "base": "aesthetic"
+    },
+    {
+      "front": "grain",
+      "decision": "retain",
+      "base": "grain"
+    },
+    {
+      "front": "lend",
+      "decision": "retain",
+      "base": "lend"
+    },
+    {
+      "front": "insulator",
+      "decision": "merge",
+      "base": "insulate"
+    },
+    {
+      "front": "hazy",
+      "decision": "retain",
+      "base": "hazy"
+    },
+    {
+      "front": "scatter",
+      "decision": "retain",
+      "base": "scatter"
+    },
+    {
+      "front": "transmittance",
+      "decision": "retain",
+      "base": "transmittance"
+    },
+    {
+      "front": "drop",
+      "decision": "retain",
+      "base": "drop"
+    },
+    {
+      "front": "lignin-removing",
+      "decision": "retain",
+      "base": "lignin-removing"
+    },
+    {
+      "front": "tailor",
+      "decision": "retain",
+      "base": "tailor"
+    },
+    {
+      "front": "recyclable",
+      "decision": "merge",
+      "base": "recycle"
+    },
+    {
+      "front": "architectural",
+      "decision": "merge",
+      "base": "architecture"
+    },
+    {
+      "front": "polymer",
+      "decision": "retain",
+      "base": "polymer"
+    },
+    {
+      "front": "infiltrate",
+      "decision": "retain",
+      "base": "infiltrate"
+    },
+    {
+      "front": "profile",
+      "decision": "retain",
+      "base": "profile"
+    },
+    {
+      "front": "tweak",
+      "decision": "retain",
+      "base": "tweak"
+    },
+    {
+      "front": "flip",
+      "decision": "retain",
+      "base": "flip"
+    },
+    {
+      "front": "incorporate",
+      "decision": "retain",
+      "base": "incorporate"
+    },
+    {
+      "front": "ambient",
+      "decision": "retain",
+      "base": "ambient"
+    },
+    {
+      "front": "toy with",
+      "decision": "retain",
+      "base": "toy with"
+    },
+    {
+      "front": "bestow",
+      "decision": "retain",
+      "base": "bestow"
+    },
+    {
+      "front": "tinted",
+      "decision": "merge",
+      "base": "tint"
+    },
+    {
+      "front": "sandwich A between B and C",
+      "decision": "retain",
+      "base": "sandwich A between B and C"
+    },
+    {
+      "front": "pane",
+      "decision": "retain",
+      "base": "pane"
+    },
+    {
+      "front": "wood scaffolding",
+      "decision": "retain",
+      "base": "wood scaffolding"
+    },
+    {
+      "front": "petroleum",
+      "decision": "retain",
+      "base": "petroleum"
+    },
+    {
+      "front": "citrus",
+      "decision": "retain",
+      "base": "citrus"
+    },
+    {
+      "front": "peel",
+      "decision": "retain",
+      "base": "peel"
+    },
+    {
+      "front": "rind",
+      "decision": "retain",
+      "base": "rind"
+    },
+    {
+      "front": "essential oil",
+      "decision": "retain",
+      "base": "essential oil"
+    },
+    {
+      "front": "impregnate A with B",
+      "decision": "retain",
+      "base": "impregnate A with B"
+    },
+    {
+      "front": "fruity",
+      "decision": "merge",
+      "base": "fruit"
+    },
+    {
+      "front": "withstand",
+      "decision": "retain",
+      "base": "withstand"
+    },
+    {
+      "front": "brush",
+      "decision": "retain",
+      "base": "brush"
+    },
+    {
+      "front": "brush something with something",
+      "decision": "retain",
+      "base": "brush something with something"
+    },
+    {
+      "front": "slice",
+      "decision": "retain",
+      "base": "slice"
+    },
+    {
+      "front": "pigment",
+      "decision": "retain",
+      "base": "pigment"
+    },
+    {
+      "front": "intact",
+      "decision": "retain",
+      "base": "intact"
+    },
+    {
+      "front": "end-of-life",
+      "decision": "retain",
+      "base": "end-of-life"
+    },
+    {
+      "front": "scale",
+      "decision": "retain",
+      "base": "scale"
+    },
+    {
+      "front": "archival",
+      "decision": "merge",
+      "base": "archive"
+    },
+    {
+      "front": "aroma",
+      "decision": "retain",
+      "base": "aroma"
+    },
+    {
+      "front": "mummy",
+      "decision": "retain",
+      "base": "mummy"
+    },
+    {
+      "front": "primal",
+      "decision": "retain",
+      "base": "primal"
+    },
+    {
+      "front": "intimacy",
+      "decision": "merge",
+      "base": "intimate"
+    },
+    {
+      "front": "deputy",
+      "decision": "retain",
+      "base": "deputy"
+    },
+    {
+      "front": "devoted",
+      "decision": "merge",
+      "base": "devote"
+    },
+    {
+      "front": "interdisciplinary",
+      "decision": "retain",
+      "base": "interdisciplinary"
+    },
+    {
+      "front": "scent",
+      "decision": "retain",
+      "base": "scent"
+    },
+    {
+      "front": "odor",
+      "decision": "retain",
+      "base": "odor"
+    },
+    {
+      "front": "gallery",
+      "decision": "retain",
+      "base": "gallery"
+    },
+    {
+      "front": "exhibit",
+      "decision": "retain",
+      "base": "exhibit"
+    },
+    {
+      "front": "uninitiated",
+      "decision": "retain",
+      "base": "uninitiated"
+    },
+    {
+      "front": "formalize",
+      "decision": "retain",
+      "base": "formalize"
+    },
+    {
+      "front": "discipline",
+      "decision": "retain",
+      "base": "discipline"
+    },
+    {
+      "front": "olfactory",
+      "decision": "retain",
+      "base": "olfactory"
+    },
+    {
+      "front": "beloved",
+      "decision": "retain",
+      "base": "beloved"
+    },
+    {
+      "front": "scheduled",
+      "decision": "merge",
+      "base": "schedule"
+    },
+    {
+      "front": "set about doing something",
+      "decision": "retain",
+      "base": "set about doing something"
+    },
+    {
+      "front": "waft",
+      "decision": "retain",
+      "base": "waft"
+    },
+    {
+      "front": "furnishings",
+      "decision": "merge",
+      "base": "furnish"
+    },
+    {
+      "front": "quantify",
+      "decision": "retain",
+      "base": "quantify"
+    },
+    {
+      "front": "volatile",
+      "decision": "retain",
+      "base": "volatile"
+    },
+    {
+      "front": "compound",
+      "decision": "retain",
+      "base": "compound"
+    },
+    {
+      "front": "whittle",
+      "decision": "retain",
+      "base": "whittle"
+    },
+    {
+      "front": "cathedral",
+      "decision": "retain",
+      "base": "cathedral"
+    },
+    {
+      "front": "commonly",
+      "decision": "merge",
+      "base": "common"
+    },
+    {
+      "front": "sniff",
+      "decision": "retain",
+      "base": "sniff"
+    },
+    {
+      "front": "evoke",
+      "decision": "retain",
+      "base": "evoke"
+    },
+    {
+      "front": "almond",
+      "decision": "retain",
+      "base": "almond"
+    },
+    {
+      "front": "conservator",
+      "decision": "retain",
+      "base": "conservator"
+    },
+    {
+      "front": "hay",
+      "decision": "retain",
+      "base": "hay"
+    },
+    {
+      "front": "district",
+      "decision": "retain",
+      "base": "district"
+    },
+    {
+      "front": "tuck",
+      "decision": "retain",
+      "base": "tuck"
+    },
+    {
+      "front": "blessing",
+      "decision": "merge",
+      "base": "bless"
+    },
+    {
+      "front": "strike",
+      "decision": "retain",
+      "base": "strike"
+    },
+    {
+      "front": "consider",
+      "decision": "retain",
+      "base": "consider"
+    },
+    {
+      "front": "affordable",
+      "decision": "merge",
+      "base": "afford"
+    },
+    {
+      "front": "complicated",
+      "decision": "merge",
+      "base": "complicate"
+    },
+    {
+      "front": "carpenter",
+      "decision": "retain",
+      "base": "carpenter"
+    },
+    {
+      "front": "the nitty-gritty",
+      "decision": "retain",
+      "base": "the nitty-gritty"
+    },
+    {
+      "front": "take down",
+      "decision": "retain",
+      "base": "take down"
+    },
+    {
+      "front": "come around",
+      "decision": "retain",
+      "base": "come around"
+    },
+    {
+      "front": "retractable",
+      "decision": "merge",
+      "base": "retract"
+    },
+    {
+      "front": "figure out",
+      "decision": "retain",
+      "base": "figure out"
+    },
+    {
+      "front": "get rid of",
+      "decision": "retain",
+      "base": "get rid of"
+    },
+    {
+      "front": "should she ever move",
+      "decision": "retain",
+      "base": "should she ever move"
+    },
+    {
+      "front": "nick",
+      "decision": "retain",
+      "base": "nick"
+    },
+    {
+      "front": "accolade",
+      "decision": "retain",
+      "base": "accolade"
+    },
+    {
+      "front": "obscure",
+      "decision": "retain",
+      "base": "obscure"
+    },
+    {
+      "front": "mobility",
+      "decision": "merge",
+      "base": "mobile"
+    },
+    {
+      "front": "encourage",
+      "decision": "retain",
+      "base": "encourage"
+    },
+    {
+      "front": "asphalt",
+      "decision": "retain",
+      "base": "asphalt"
+    },
+    {
+      "front": "commit to",
+      "decision": "retain",
+      "base": "commit to"
+    },
+    {
+      "front": "warm someone up to something",
+      "decision": "retain",
+      "base": "warm someone up to something"
+    },
+    {
+      "front": "tactical",
+      "decision": "merge",
+      "base": "tactic"
+    },
+    {
+      "front": "collaboration",
+      "decision": "merge",
+      "base": "collaborate"
+    },
+    {
+      "front": "pedestrianise",
+      "decision": "retain",
+      "base": "pedestrianise"
+    },
+    {
+      "front": "plus",
+      "decision": "retain",
+      "base": "plus"
+    },
+    {
+      "front": "hang out",
+      "decision": "retain",
+      "base": "hang out"
+    },
+    {
+      "front": "characterise A as B",
+      "decision": "retain",
+      "base": "characterise A as B"
+    },
+    {
+      "front": "grumpy",
+      "decision": "retain",
+      "base": "grumpy"
+    },
+    {
+      "front": "drizzle",
+      "decision": "retain",
+      "base": "drizzle"
+    },
+    {
+      "front": "catch up",
+      "decision": "retain",
+      "base": "catch up"
+    },
+    {
+      "front": "one block over",
+      "decision": "retain",
+      "base": "one block over"
+    },
+    {
+      "front": "tree-lined",
+      "decision": "retain",
+      "base": "tree-lined"
+    },
+    {
+      "front": "make way for",
+      "decision": "retain",
+      "base": "make way for"
+    },
+    {
+      "front": "for the sake of something",
+      "decision": "retain",
+      "base": "for the sake of something"
+    },
+    {
+      "front": "bumblebee",
+      "decision": "retain",
+      "base": "bumblebee"
+    },
+    {
+      "front": "sesame",
+      "decision": "retain",
+      "base": "sesame"
+    },
+    {
+      "front": "assumption",
+      "decision": "merge",
+      "base": "assume"
+    },
+    {
+      "front": "semblance",
+      "decision": "retain",
+      "base": "semblance"
+    },
+    {
+      "front": "trait",
+      "decision": "retain",
+      "base": "trait"
+    },
+    {
+      "front": "teach",
+      "decision": "retain",
+      "base": "teach"
+    },
+    {
+      "front": "grasp",
+      "decision": "retain",
+      "base": "grasp"
+    },
+    {
+      "front": "in spite of",
+      "decision": "retain",
+      "base": "in spite of"
+    },
+    {
+      "front": "literally",
+      "decision": "merge",
+      "base": "literal"
+    },
+    {
+      "front": "designate",
+      "decision": "retain",
+      "base": "designate"
+    },
+    {
+      "front": "sugary",
+      "decision": "merge",
+      "base": "sugar"
+    },
+    {
+      "front": "earn",
+      "decision": "retain",
+      "base": "earn"
+    },
+    {
+      "front": "astonished",
+      "decision": "merge",
+      "base": "astonish"
+    },
+    {
+      "front": "boon",
+      "decision": "retain",
+      "base": "boon"
+    },
+    {
+      "front": "hierarchy",
+      "decision": "retain",
+      "base": "hierarchy"
+    },
+    {
+      "front": "far removed from",
+      "decision": "retain",
+      "base": "far removed from"
+    },
+    {
+      "front": "morphologically",
+      "decision": "merge",
+      "base": "morphology"
+    },
+    {
+      "front": "faux",
+      "decision": "retain",
+      "base": "faux"
+    },
+    {
+      "front": "forage",
+      "decision": "retain",
+      "base": "forage"
+    },
+    {
+      "front": "insight",
+      "decision": "retain",
+      "base": "insight"
+    },
+    {
+      "front": "magnet",
+      "decision": "retain",
+      "base": "magnet"
+    },
+    {
+      "front": "flair",
+      "decision": "retain",
+      "base": "flair"
+    },
+    {
+      "front": "electromagnetic",
+      "decision": "retain",
+      "base": "electromagnetic"
+    },
+    {
+      "front": "gravity",
+      "decision": "retain",
+      "base": "gravity"
+    },
+    {
+      "front": "tactile",
+      "decision": "retain",
+      "base": "tactile"
+    },
+    {
+      "front": "pursue",
+      "decision": "retain",
+      "base": "pursue"
+    },
+    {
+      "front": "venue",
+      "decision": "retain",
+      "base": "venue"
+    },
+    {
+      "front": "dub",
+      "decision": "retain",
+      "base": "dub"
+    },
+    {
+      "front": "democracy",
+      "decision": "retain",
+      "base": "democracy"
+    },
+    {
+      "front": "heated debate",
+      "decision": "retain",
+      "base": "heated debate"
+    },
+    {
+      "front": "colony",
+      "decision": "retain",
+      "base": "colony"
+    },
+    {
+      "front": "en masse",
+      "decision": "retain",
+      "base": "en masse"
+    },
+    {
+      "front": "be famed for",
+      "decision": "retain",
+      "base": "be famed for"
+    },
+    {
+      "front": "gesture",
+      "decision": "retain",
+      "base": "gesture"
+    },
+    {
+      "front": "strength",
+      "decision": "retain",
+      "base": "strength"
+    },
+    {
+      "front": "multifaceted",
+      "decision": "retain",
+      "base": "multifaceted"
+    },
+    {
+      "front": "population",
+      "decision": "retain",
+      "base": "population"
+    },
+    {
+      "front": "decimate",
+      "decision": "retain",
+      "base": "decimate"
+    },
+    {
+      "front": "pollinator",
+      "decision": "merge",
+      "base": "pollinate"
+    },
+    {
+      "front": "pesticide",
+      "decision": "retain",
+      "base": "pesticide"
+    },
+    {
+      "front": "agricultural",
+      "decision": "merge",
+      "base": "agriculture"
+    },
+    {
+      "front": "it's up to us",
+      "decision": "retain",
+      "base": "it's up to us"
+    },
+    {
+      "front": "botanist",
+      "decision": "retain",
+      "base": "botanist"
+    },
+    {
+      "front": "dissect",
+      "decision": "retain",
+      "base": "dissect"
+    },
+    {
+      "front": "bleaching",
+      "decision": "merge",
+      "base": "bleach"
+    },
+    {
+      "front": "last word on",
+      "decision": "retain",
+      "base": "last word on"
+    },
+    {
+      "front": "stumble across",
+      "decision": "retain",
+      "base": "stumble across"
+    },
+    {
+      "front": "specialize",
+      "decision": "retain",
+      "base": "specialize"
+    },
+    {
+      "front": "composite",
+      "decision": "retain",
+      "base": "composite"
+    },
+    {
+      "front": "virtue",
+      "decision": "retain",
+      "base": "virtue"
+    },
+    {
+      "front": "purpose",
+      "decision": "retain",
+      "base": "purpose"
+    },
+    {
+      "front": "nontraditional",
+      "decision": "retain",
+      "base": "nontraditional"
+    },
+    {
+      "front": "harness",
+      "decision": "retain",
+      "base": "harness"
+    },
+    {
+      "front": "bear fruit",
+      "decision": "retain",
+      "base": "bear fruit"
+    },
+    {
+      "front": "glowing",
+      "decision": "merge",
+      "base": "glow"
+    },
+    {
+      "front": "fixture",
+      "decision": "retain",
+      "base": "fixture"
+    },
+    {
+      "front": "nanotechnologist",
+      "decision": "retain",
+      "base": "nanotechnologist"
+    },
+    {
+      "front": "vertical",
+      "decision": "retain",
+      "base": "vertical"
+    },
+    {
+      "front": "tight",
+      "decision": "retain",
+      "base": "tight"
+    },
+    {
+      "front": "bundle",
+      "decision": "retain",
+      "base": "bundle"
+    },
+    {
+      "front": "straw",
+      "decision": "retain",
+      "base": "straw"
+    },
+    {
+      "front": "bound",
+      "decision": "retain",
+      "base": "bound"
+    },
+    {
+      "front": "moisture",
+      "decision": "retain",
+      "base": "moisture"
+    },
+    {
+      "front": "modify",
+      "decision": "retain",
+      "base": "modify"
+    },
+    {
+      "front": "rid",
+      "decision": "retain",
+      "base": "rid"
+    },
+    {
+      "front": "hue",
+      "decision": "retain",
+      "base": "hue"
+    },
+    {
+      "front": "otherwise",
+      "decision": "retain",
+      "base": "otherwise"
+    },
+    {
+      "front": "skeleton",
+      "decision": "retain",
+      "base": "skeleton"
+    },
+    {
+      "front": "opaque",
+      "decision": "retain",
+      "base": "opaque"
+    },
+    {
+      "front": "bend",
+      "decision": "retain",
+      "base": "bend"
+    },
+    {
+      "front": "index",
+      "decision": "retain",
+      "base": "index"
+    },
+    {
+      "front": "repository",
+      "decision": "retain",
+      "base": "repository"
+    },
+    {
+      "front": "chemist",
+      "decision": "retain",
+      "base": "chemist"
+    },
+    {
+      "front": "theoretically",
+      "decision": "merge",
+      "base": "theoretical"
+    },
+    {
+      "front": "qualitative",
+      "decision": "retain",
+      "base": "qualitative"
+    },
+    {
+      "front": "descriptor",
+      "decision": "retain",
+      "base": "descriptor"
+    },
+    {
+      "front": "underlying",
+      "decision": "merge",
+      "base": "underlie"
+    },
+    {
+      "front": "off-putting",
+      "decision": "retain",
+      "base": "off-putting"
+    },
+    {
+      "front": "panel",
+      "decision": "retain",
+      "base": "panel"
+    },
+    {
+      "front": "embalming",
+      "decision": "merge",
+      "base": "embalm"
+    },
+    {
+      "front": "ingredient",
+      "decision": "retain",
+      "base": "ingredient"
+    },
+    {
+      "front": "synthetic",
+      "decision": "retain",
+      "base": "synthetic"
+    },
+    {
+      "front": "noninvasive",
+      "decision": "retain",
+      "base": "noninvasive"
+    },
+    {
+      "front": "perceptible",
+      "decision": "merge",
+      "base": "perceive"
+    },
+    {
+      "front": "convenient",
+      "decision": "retain",
+      "base": "convenient"
+    },
+    {
+      "front": "a certain amount of",
+      "decision": "retain",
+      "base": "a certain amount of"
+    },
+    {
+      "front": "canal",
+      "decision": "retain",
+      "base": "canal"
+    },
+    {
+      "front": "sermon",
+      "decision": "retain",
+      "base": "sermon"
+    },
+    {
+      "front": "Christian",
+      "decision": "retain",
+      "base": "Christian"
+    },
+    {
+      "front": "whiff",
+      "decision": "retain",
+      "base": "whiff"
+    },
+    {
+      "front": "notice",
+      "decision": "retain",
+      "base": "notice"
+    },
+    {
+      "front": "cherish",
+      "decision": "retain",
+      "base": "cherish"
+    },
+    {
+      "front": "scour",
+      "decision": "retain",
+      "base": "scour"
+    },
+    {
+      "front": "accelerate",
+      "decision": "retain",
+      "base": "accelerate"
+    },
+    {
+      "front": "outline",
+      "decision": "retain",
+      "base": "outline"
+    },
+    {
+      "front": "relevant",
+      "decision": "retain",
+      "base": "relevant"
+    },
+    {
+      "front": "perfume",
+      "decision": "retain",
+      "base": "perfume"
+    },
+    {
+      "front": "iteration",
+      "decision": "merge",
+      "base": "iterate"
+    },
+    {
+      "front": "presentation",
+      "decision": "retain",
+      "base": "presentation"
+    },
+    {
+      "front": "optimise",
+      "decision": "retain",
+      "base": "optimise"
+    },
+    {
+      "front": "precision",
+      "decision": "merge",
+      "base": "precise"
+    },
+    {
+      "front": "vivid",
+      "decision": "retain",
+      "base": "vivid"
+    },
+    {
+      "front": "diversion",
+      "decision": "retain",
+      "base": "diversion"
+    },
+    {
+      "front": "deliver",
+      "decision": "retain",
+      "base": "deliver"
+    },
+    {
+      "front": "leave someone to their own devices",
+      "decision": "retain",
+      "base": "leave someone to their own devices"
+    },
+    {
+      "front": "adoption",
+      "decision": "merge",
+      "base": "adopt"
+    },
+    {
+      "front": "neutralise",
+      "decision": "retain",
+      "base": "neutralise"
+    },
+    {
+      "front": "solitude",
+      "decision": "retain",
+      "base": "solitude"
+    },
+    {
+      "front": "reflect on something",
+      "decision": "retain",
+      "base": "reflect on something"
+    },
+    {
+      "front": "productively",
+      "decision": "merge",
+      "base": "productive"
+    },
+    {
+      "front": "commuter",
+      "decision": "merge",
+      "base": "commute"
+    },
+    {
+      "front": "stare",
+      "decision": "retain",
+      "base": "stare"
+    },
+    {
+      "front": "guilty",
+      "decision": "retain",
+      "base": "guilty"
+    },
+    {
+      "front": "untamed",
+      "decision": "retain",
+      "base": "untamed"
+    },
+    {
+      "front": "dig",
+      "decision": "retain",
+      "base": "dig"
+    },
+    {
+      "front": "bored",
+      "decision": "merge",
+      "base": "bore"
+    },
+    {
+      "front": "pointless",
+      "decision": "retain",
+      "base": "pointless"
+    },
+    {
+      "front": "unstimulating",
+      "decision": "retain",
+      "base": "unstimulating"
+    },
+    {
+      "front": "chronically",
+      "decision": "merge",
+      "base": "chronic"
+    },
+    {
+      "front": "appropriately",
+      "decision": "merge",
+      "base": "appropriate"
+    },
+    {
+      "front": "satisfaction",
+      "decision": "merge",
+      "base": "satisfy"
+    },
+    {
+      "front": "uptick",
+      "decision": "retain",
+      "base": "uptick"
+    },
+    {
+      "front": "coincide",
+      "decision": "retain",
+      "base": "coincide"
+    },
+    {
+      "front": "proportion",
+      "decision": "retain",
+      "base": "proportion"
+    },
+    {
+      "front": "relieve",
+      "decision": "retain",
+      "base": "relieve"
+    },
+    {
+      "front": "exacerbate",
+      "decision": "retain",
+      "base": "exacerbate"
+    },
+    {
+      "front": "monetise",
+      "decision": "retain",
+      "base": "monetise"
+    },
+    {
+      "front": "incredibly",
+      "decision": "merge",
+      "base": "incredible"
+    },
+    {
+      "front": "resurface",
+      "decision": "retain",
+      "base": "resurface"
+    },
+    {
+      "front": "controversy",
+      "decision": "retain",
+      "base": "controversy"
+    },
+    {
+      "front": "whisk",
+      "decision": "retain",
+      "base": "whisk"
+    },
+    {
+      "front": "stimulation",
+      "decision": "merge",
+      "base": "stimulate"
+    },
+    {
+      "front": "evade",
+      "decision": "retain",
+      "base": "evade"
+    },
+    {
+      "front": "manipulate",
+      "decision": "retain",
+      "base": "manipulate"
+    },
+    {
+      "front": "assuage",
+      "decision": "retain",
+      "base": "assuage"
+    },
+    {
+      "front": "purposeful",
+      "decision": "retain",
+      "base": "purposeful"
+    },
+    {
+      "front": "paradoxically",
+      "decision": "merge",
+      "base": "paradox"
+    },
+    {
+      "front": "overall",
+      "decision": "retain",
+      "base": "overall"
+    },
+    {
+      "front": "trailblazing",
+      "decision": "retain",
+      "base": "trailblazing"
+    },
+    {
+      "front": "paramedic",
+      "decision": "retain",
+      "base": "paramedic"
+    },
+    {
+      "front": "hearse",
+      "decision": "retain",
+      "base": "hearse"
+    },
+    {
+      "front": "groundwork",
+      "decision": "retain",
+      "base": "groundwork"
+    },
+    {
+      "front": "intubation",
+      "decision": "merge",
+      "base": "intubate"
+    },
+    {
+      "front": "former",
+      "decision": "retain",
+      "base": "former"
+    },
+    {
+      "front": "orderly",
+      "decision": "retain",
+      "base": "orderly"
+    },
+    {
+      "front": "intubate",
+      "decision": "retain",
+      "base": "intubate"
+    },
+    {
+      "front": "mannequin",
+      "decision": "retain",
+      "base": "mannequin"
+    },
+    {
+      "front": "tube",
+      "decision": "retain",
+      "base": "tube"
+    },
+    {
+      "front": "windpipe",
+      "decision": "retain",
+      "base": "windpipe"
+    },
+    {
+      "front": "sterile",
+      "decision": "retain",
+      "base": "sterile"
+    },
+    {
+      "front": "achievement",
+      "decision": "merge",
+      "base": "achieve"
+    },
+    {
+      "front": "nonprofit",
+      "decision": "retain",
+      "base": "nonprofit"
+    },
+    {
+      "front": "simultaneously",
+      "decision": "merge",
+      "base": "simultaneous"
+    },
+    {
+      "front": "prior",
+      "decision": "retain",
+      "base": "prior"
+    },
+    {
+      "front": "crisis",
+      "decision": "retain",
+      "base": "crisis"
+    },
+    {
+      "front": "dial",
+      "decision": "retain",
+      "base": "dial"
+    },
+    {
+      "front": "wagon",
+      "decision": "retain",
+      "base": "wagon"
+    },
+    {
+      "front": "traction",
+      "decision": "retain",
+      "base": "traction"
+    },
+    {
+      "front": "there is more to A than B",
+      "decision": "retain",
+      "base": "there is more to A than B"
+    },
+    {
+      "front": "jumble of unregulated",
+      "decision": "retain",
+      "base": "jumble of unregulated"
+    },
+    {
+      "front": "funeral",
+      "decision": "retain",
+      "base": "funeral"
+    },
+    {
+      "front": "academy",
+      "decision": "retain",
+      "base": "academy"
+    },
+    {
+      "front": "disability",
+      "decision": "retain",
+      "base": "disability"
+    },
+    {
+      "front": "neglected",
+      "decision": "merge",
+      "base": "neglect"
+    },
+    {
+      "front": "constitute",
+      "decision": "retain",
+      "base": "constitute"
+    },
+    {
+      "front": "plague",
+      "decision": "retain",
+      "base": "plague"
+    },
+    {
+      "front": "ravage",
+      "decision": "retain",
+      "base": "ravage"
+    },
+    {
+      "front": "toll",
+      "decision": "retain",
+      "base": "toll"
+    },
+    {
+      "front": "prompt",
+      "decision": "retain",
+      "base": "prompt"
+    },
+    {
+      "front": "burden",
+      "decision": "retain",
+      "base": "burden"
+    },
+    {
+      "front": "elevate",
+      "decision": "retain",
+      "base": "elevate"
+    },
+    {
+      "front": "formation",
+      "decision": "merge",
+      "base": "form"
+    },
+    {
+      "front": "governor",
+      "decision": "retain",
+      "base": "governor"
+    },
+    {
+      "front": "collapse",
+      "decision": "retain",
+      "base": "collapse"
+    },
+    {
+      "front": "rally",
+      "decision": "retain",
+      "base": "rally"
+    },
+    {
+      "front": "en route",
+      "decision": "retain",
+      "base": "en route"
+    },
+    {
+      "front": "in charge",
+      "decision": "retain",
+      "base": "in charge"
+    },
+    {
+      "front": "anesthesiologist",
+      "decision": "retain",
+      "base": "anesthesiologist"
+    },
+    {
+      "front": "coma",
+      "decision": "retain",
+      "base": "coma"
+    },
+    {
+      "front": "comatose",
+      "decision": "retain",
+      "base": "comatose"
+    },
+    {
+      "front": "intensive",
+      "decision": "retain",
+      "base": "intensive"
+    },
+    {
+      "front": "resuscitate",
+      "decision": "retain",
+      "base": "resuscitate"
+    },
+    {
+      "front": "guarantee",
+      "decision": "retain",
+      "base": "guarantee"
+    },
+    {
+      "front": "adversarial",
+      "decision": "retain",
+      "base": "adversarial"
+    },
+    {
+      "front": "lifelong",
+      "decision": "retain",
+      "base": "lifelong"
+    },
+    {
+      "front": "arrest",
+      "decision": "retain",
+      "base": "arrest"
+    },
+    {
+      "front": "inadequate",
+      "decision": "retain",
+      "base": "inadequate"
+    },
+    {
+      "front": "checkup",
+      "decision": "retain",
+      "base": "checkup"
+    },
+    {
+      "front": "instead",
+      "decision": "retain",
+      "base": "instead"
+    },
+    {
+      "front": "organized",
+      "decision": "merge",
+      "base": "organise"
+    },
+    {
+      "front": "voter",
+      "decision": "merge",
+      "base": "vote"
+    },
+    {
+      "front": "leadership",
+      "decision": "merge",
+      "base": "lead"
+    },
+    {
+      "front": "drum up",
+      "decision": "retain",
+      "base": "drum up"
+    },
+    {
+      "front": "contract",
+      "decision": "retain",
+      "base": "contract"
+    },
+    {
+      "front": "technically",
+      "decision": "merge",
+      "base": "technical"
+    },
+    {
+      "front": "racial",
+      "decision": "merge",
+      "base": "race"
+    },
+    {
+      "front": "disparity",
+      "decision": "retain",
+      "base": "disparity"
+    },
+    {
+      "front": "motivated",
+      "decision": "merge",
+      "base": "motivate"
+    },
+    {
+      "front": "inception",
+      "decision": "retain",
+      "base": "inception"
+    },
+    {
+      "front": "throwaway",
+      "decision": "retain",
+      "base": "throwaway"
+    },
+    {
+      "front": "patch",
+      "decision": "retain",
+      "base": "patch"
+    },
+    {
+      "front": "reject",
+      "decision": "retain",
+      "base": "reject"
+    },
+    {
+      "front": "enthusiasm",
+      "decision": "retain",
+      "base": "enthusiasm"
+    },
+    {
+      "front": "departure",
+      "decision": "merge",
+      "base": "depart"
+    },
+    {
+      "front": "drag",
+      "decision": "retain",
+      "base": "drag"
+    },
+    {
+      "front": "airway",
+      "decision": "retain",
+      "base": "airway"
+    },
+    {
+      "front": "resounding",
+      "decision": "retain",
+      "base": "resounding"
+    },
+    {
+      "front": "inappropriate",
+      "decision": "retain",
+      "base": "inappropriate"
+    },
+    {
+      "front": "efficacy",
+      "decision": "retain",
+      "base": "efficacy"
+    },
+    {
+      "front": "opposition",
+      "decision": "merge",
+      "base": "oppose"
+    },
+    {
+      "front": "vehemently",
+      "decision": "merge",
+      "base": "vehement"
+    },
+    {
+      "front": "slash",
+      "decision": "retain",
+      "base": "slash"
+    },
+    {
+      "front": "budget",
+      "decision": "retain",
+      "base": "budget"
+    },
+    {
+      "front": "mayor",
+      "decision": "retain",
+      "base": "mayor"
+    },
+    {
+      "front": "call for",
+      "decision": "retain",
+      "base": "call for"
+    },
+    {
+      "front": "siren",
+      "decision": "retain",
+      "base": "siren"
+    },
+    {
+      "front": "downplay",
+      "decision": "retain",
+      "base": "downplay"
+    },
+    {
+      "front": "represent",
+      "decision": "retain",
+      "base": "represent"
+    },
+    {
+      "front": "crystallize",
+      "decision": "retain",
+      "base": "crystallize"
+    },
+    {
+      "front": "intersection",
+      "decision": "retain",
+      "base": "intersection"
+    },
+    {
+      "front": "manual",
+      "decision": "retain",
+      "base": "manual"
+    },
+    {
+      "front": "erase",
+      "decision": "retain",
+      "base": "erase"
+    },
+    {
+      "front": "eliminate",
+      "decision": "retain",
+      "base": "eliminate"
+    },
+    {
+      "front": "resume",
+      "decision": "retain",
+      "base": "resume"
+    },
+    {
+      "front": "retina",
+      "decision": "retain",
+      "base": "retina"
+    },
+    {
+      "front": "ultraviolet",
+      "decision": "retain",
+      "base": "ultraviolet"
+    },
+    {
+      "front": "arthropod",
+      "decision": "retain",
+      "base": "arthropod"
+    },
+    {
+      "front": "mantis",
+      "decision": "retain",
+      "base": "mantis"
+    },
+    {
+      "front": "polarized",
+      "decision": "merge",
+      "base": "polarize"
+    },
+    {
+      "front": "vertebrate",
+      "decision": "retain",
+      "base": "vertebrate"
+    },
+    {
+      "front": "photoreceptor",
+      "decision": "retain",
+      "base": "photoreceptor"
+    },
+    {
+      "front": "cone",
+      "decision": "retain",
+      "base": "cone"
+    },
+    {
+      "front": "hypothesis",
+      "decision": "retain",
+      "base": "hypothesis"
+    },
+    {
+      "front": "flashy",
+      "decision": "retain",
+      "base": "flashy"
+    },
+    {
+      "front": "as-yet-unknown",
+      "decision": "retain",
+      "base": "as-yet-unknown"
+    },
+    {
+      "front": "effort",
+      "decision": "retain",
+      "base": "effort"
+    },
+    {
+      "front": "admittedly",
+      "decision": "merge",
+      "base": "admit"
+    },
+    {
+      "front": "imperfect",
+      "decision": "retain",
+      "base": "imperfect"
+    },
+    {
+      "front": "deep time",
+      "decision": "retain",
+      "base": "deep time"
+    },
+    {
+      "front": "infer",
+      "decision": "retain",
+      "base": "infer"
+    },
+    {
+      "front": "speculative",
+      "decision": "merge",
+      "base": "speculate"
+    },
+    {
+      "front": "lineage",
+      "decision": "retain",
+      "base": "lineage"
+    },
+    {
+      "front": "separately",
+      "decision": "merge",
+      "base": "separate"
+    },
+    {
+      "front": "belly",
+      "decision": "retain",
+      "base": "belly"
+    },
+    {
+      "front": "awash",
+      "decision": "retain",
+      "base": "awash"
+    },
+    {
+      "front": "vibrant",
+      "decision": "retain",
+      "base": "vibrant"
+    },
+    {
+      "front": "coax",
+      "decision": "retain",
+      "base": "coax"
+    },
+    {
+      "front": "lure in",
+      "decision": "retain",
+      "base": "lure in"
+    },
+    {
+      "front": "train",
+      "decision": "retain",
+      "base": "train"
+    },
+    {
+      "front": "raise a question",
+      "decision": "retain",
+      "base": "raise a question"
+    },
+    {
+      "front": "optical",
+      "decision": "retain",
+      "base": "optical"
+    },
+    {
+      "front": "conspicuous",
+      "decision": "retain",
+      "base": "conspicuous"
+    },
+    {
+      "front": "initial",
+      "decision": "retain",
+      "base": "initial"
+    },
+    {
+      "front": "comb through",
+      "decision": "retain",
+      "base": "comb through"
+    },
+    {
+      "front": "encompass",
+      "decision": "retain",
+      "base": "encompass"
+    },
+    {
+      "front": "emergence",
+      "decision": "merge",
+      "base": "emerge"
+    },
+    {
+      "front": "largely",
+      "decision": "retain",
+      "base": "largely"
+    },
+    {
+      "front": "speculation",
+      "decision": "merge",
+      "base": "speculate"
+    },
+    {
+      "front": "detriment",
+      "decision": "retain",
+      "base": "detriment"
+    },
+    {
+      "front": "dissertation",
+      "decision": "retain",
+      "base": "dissertation"
+    },
+    {
+      "front": "pique",
+      "decision": "retain",
+      "base": "pique"
+    },
+    {
+      "front": "persistence",
+      "decision": "merge",
+      "base": "persist"
+    },
+    {
+      "front": "communicate",
+      "decision": "retain",
+      "base": "communicate"
+    },
+    {
+      "front": "vanish",
+      "decision": "retain",
+      "base": "vanish"
+    },
+    {
+      "front": "palette",
+      "decision": "retain",
+      "base": "palette"
+    },
+    {
+      "front": "right away",
+      "decision": "retain",
+      "base": "right away"
+    },
+    {
+      "front": "reptile",
+      "decision": "retain",
+      "base": "reptile"
+    },
+    {
+      "front": "amphibian",
+      "decision": "retain",
+      "base": "amphibian"
+    },
+    {
+      "front": "pester",
+      "decision": "retain",
+      "base": "pester"
+    },
+    {
+      "front": "compile",
+      "decision": "retain",
+      "base": "compile"
+    },
+    {
+      "front": "put a date on something",
+      "decision": "retain",
+      "base": "put a date on something"
+    },
+    {
+      "front": "rough",
+      "decision": "retain",
+      "base": "rough"
+    },
+    {
+      "front": "play out",
+      "decision": "retain",
+      "base": "play out"
+    },
+    {
+      "front": "development",
+      "decision": "merge",
+      "base": "develop"
+    },
+    {
+      "front": "dynamic",
+      "decision": "retain",
+      "base": "dynamic"
+    },
+    {
+      "front": "something more dynamic",
+      "decision": "retain",
+      "base": "something more dynamic"
+    },
+    {
+      "front": "around the same time as A",
+      "decision": "retain",
+      "base": "around the same time as A"
+    },
+    {
+      "front": "median",
+      "decision": "retain",
+      "base": "median"
+    },
+    {
+      "front": "ward off",
+      "decision": "retain",
+      "base": "ward off"
+    },
+    {
+      "front": "cockroach",
+      "decision": "retain",
+      "base": "cockroach"
+    },
+    {
+      "front": "amber",
+      "decision": "retain",
+      "base": "amber"
+    },
+    {
+      "front": "caterpillar",
+      "decision": "retain",
+      "base": "caterpillar"
+    },
+    {
+      "front": "descendant",
+      "decision": "retain",
+      "base": "descendant"
+    },
+    {
+      "front": "be present in",
+      "decision": "retain",
+      "base": "be present in"
+    },
+    {
+      "front": "conspecific",
+      "decision": "retain",
+      "base": "conspecific"
+    },
+    {
+      "front": "lability",
+      "decision": "merge",
+      "base": "labile"
+    },
+    {
+      "front": "adaptation",
+      "decision": "merge",
+      "base": "adapt"
+    },
+    {
+      "front": "peer",
+      "decision": "retain",
+      "base": "peer"
+    },
+    {
+      "front": "chick",
+      "decision": "retain",
+      "base": "chick"
+    },
+    {
+      "front": "serve",
+      "decision": "retain",
+      "base": "serve"
+    },
+    {
+      "front": "speculate",
+      "decision": "retain",
+      "base": "speculate"
+    },
+    {
+      "front": "prevailing",
+      "decision": "merge",
+      "base": "prevail"
+    },
+    {
+      "front": "aquatic",
+      "decision": "retain",
+      "base": "aquatic"
+    },
+    {
+      "front": "presence",
+      "decision": "retain",
+      "base": "presence"
+    },
+    {
+      "front": "building block",
+      "decision": "retain",
+      "base": "building block"
+    },
+    {
+      "front": "arise",
+      "decision": "retain",
+      "base": "arise"
+    },
+    {
+      "front": "obvious",
+      "decision": "retain",
+      "base": "obvious"
+    },
+    {
+      "front": "active predatory lifestyle",
+      "decision": "retain",
+      "base": "active predatory lifestyle"
+    },
+    {
+      "front": "be of + 名词",
+      "decision": "retain",
+      "base": "be of + 名词"
+    },
+    {
+      "front": "entropy",
+      "decision": "retain",
+      "base": "entropy"
+    },
+    {
+      "front": "work against",
+      "decision": "retain",
+      "base": "work against"
+    },
+    {
+      "front": "regardless",
+      "decision": "retain",
+      "base": "regardless"
+    },
+    {
+      "front": "be on track to do something",
+      "decision": "retain",
+      "base": "be on track to do something"
+    },
+    {
+      "front": "dazzling",
+      "decision": "merge",
+      "base": "dazzle"
+    },
+    {
+      "front": "zinc",
+      "decision": "retain",
+      "base": "zinc"
+    },
+    {
+      "front": "be overdue",
+      "decision": "retain",
+      "base": "be overdue"
+    },
+    {
+      "front": "restore",
+      "decision": "retain",
+      "base": "restore"
+    },
+    {
+      "front": "admire",
+      "decision": "retain",
+      "base": "admire"
+    },
+    {
+      "front": "backdrop",
+      "decision": "retain",
+      "base": "backdrop"
+    },
+    {
+      "front": "delight",
+      "decision": "retain",
+      "base": "delight"
+    },
+    {
+      "front": "showcase",
+      "decision": "retain",
+      "base": "showcase"
+    },
+    {
+      "front": "tone down",
+      "decision": "retain",
+      "base": "tone down"
+    },
+    {
+      "front": "a touch of",
+      "decision": "retain",
+      "base": "a touch of"
+    },
+    {
+      "front": "stunning",
+      "decision": "retain",
+      "base": "stunning"
+    },
+    {
+      "front": "contrast",
+      "decision": "retain",
+      "base": "contrast"
+    },
+    {
+      "front": "vibrantly",
+      "decision": "merge",
+      "base": "vibrant"
+    },
+    {
+      "front": "malleable",
+      "decision": "retain",
+      "base": "malleable"
+    },
+    {
+      "front": "downpour",
+      "decision": "retain",
+      "base": "downpour"
+    },
+    {
+      "front": "oven",
+      "decision": "retain",
+      "base": "oven"
+    },
+    {
+      "front": "exquisite",
+      "decision": "retain",
+      "base": "exquisite"
+    },
+    {
+      "front": "intricate",
+      "decision": "retain",
+      "base": "intricate"
+    },
+    {
+      "front": "decoration",
+      "decision": "merge",
+      "base": "decorate"
+    },
+    {
+      "front": "dome",
+      "decision": "retain",
+      "base": "dome"
+    },
+    {
+      "front": "renovation",
+      "decision": "merge",
+      "base": "renovate"
+    },
+    {
+      "front": "disposable",
+      "decision": "retain",
+      "base": "disposable"
+    },
+    {
+      "front": "coveralls",
+      "decision": "retain",
+      "base": "coveralls"
+    },
+    {
+      "front": "pandemic",
+      "decision": "retain",
+      "base": "pandemic"
+    },
+    {
+      "front": "containment",
+      "decision": "merge",
+      "base": "contain"
+    },
+    {
+      "front": "stretch",
+      "decision": "retain",
+      "base": "stretch"
+    },
+    {
+      "front": "lead",
+      "decision": "retain",
+      "base": "lead"
+    },
+    {
+      "front": "colonnade",
+      "decision": "retain",
+      "base": "colonnade"
+    },
+    {
+      "front": "courtyard",
+      "decision": "retain",
+      "base": "courtyard"
+    },
+    {
+      "front": "apply",
+      "decision": "retain",
+      "base": "apply"
+    },
+    {
+      "front": "soldering",
+      "decision": "merge",
+      "base": "solder"
+    },
+    {
+      "front": "grand",
+      "decision": "retain",
+      "base": "grand"
+    },
+    {
+      "front": "boulevard",
+      "decision": "retain",
+      "base": "boulevard"
+    },
+    {
+      "front": "clay",
+      "decision": "retain",
+      "base": "clay"
+    },
+    {
+      "front": "tile",
+      "decision": "retain",
+      "base": "tile"
+    },
+    {
+      "front": "slate",
+      "decision": "retain",
+      "base": "slate"
+    },
+    {
+      "front": "frenzy",
+      "decision": "retain",
+      "base": "frenzy"
+    },
+    {
+      "front": "bourgeoisie",
+      "decision": "retain",
+      "base": "bourgeoisie"
+    },
+    {
+      "front": "facade",
+      "decision": "retain",
+      "base": "facade"
+    },
+    {
+      "front": "dormer",
+      "decision": "retain",
+      "base": "dormer"
+    },
+    {
+      "front": "custom fit",
+      "decision": "retain",
+      "base": "custom fit"
+    },
+    {
+      "front": "ridge",
+      "decision": "retain",
+      "base": "ridge"
+    },
+    {
+      "front": "decorative",
+      "decision": "merge",
+      "base": "decorate"
+    },
+    {
+      "front": "fit the bill",
+      "decision": "retain",
+      "base": "fit the bill"
+    },
+    {
+      "front": "boutique-atelier",
+      "decision": "retain",
+      "base": "boutique-atelier"
+    },
+    {
+      "front": "bustling",
+      "decision": "merge",
+      "base": "bustle"
+    },
+    {
+      "front": "outfit",
+      "decision": "retain",
+      "base": "outfit"
+    },
+    {
+      "front": "ornament",
+      "decision": "retain",
+      "base": "ornament"
+    },
+    {
+      "front": "heron",
+      "decision": "retain",
+      "base": "heron"
+    },
+    {
+      "front": "learn a trade",
+      "decision": "retain",
+      "base": "learn a trade"
+    },
+    {
+      "front": "shears",
+      "decision": "retain",
+      "base": "shears"
+    },
+    {
+      "front": "continent",
+      "decision": "retain",
+      "base": "continent"
+    },
+    {
+      "front": "frequent",
+      "decision": "retain",
+      "base": "frequent"
+    },
+    {
+      "front": "hem",
+      "decision": "retain",
+      "base": "hem"
+    },
+    {
+      "front": "drain",
+      "decision": "retain",
+      "base": "drain"
+    },
+    {
+      "front": "groove",
+      "decision": "retain",
+      "base": "groove"
+    },
+    {
+      "front": "instruct",
+      "decision": "retain",
+      "base": "instruct"
+    },
+    {
+      "front": "crank",
+      "decision": "retain",
+      "base": "crank"
+    },
+    {
+      "front": "coil",
+      "decision": "retain",
+      "base": "coil"
+    },
+    {
+      "front": "albeit",
+      "decision": "retain",
+      "base": "albeit"
+    },
+    {
+      "front": "smelting",
+      "decision": "merge",
+      "base": "smelt"
+    },
+    {
+      "front": "foundry",
+      "decision": "retain",
+      "base": "foundry"
+    },
+    {
+      "front": "roll out",
+      "decision": "retain",
+      "base": "roll out"
+    },
+    {
+      "front": "vulgar",
+      "decision": "retain",
+      "base": "vulgar"
+    },
+    {
+      "front": "characteristic",
+      "decision": "retain",
+      "base": "characteristic"
+    },
+    {
+      "front": "tout",
+      "decision": "retain",
+      "base": "tout"
+    },
+    {
+      "front": "repair",
+      "decision": "retain",
+      "base": "repair"
+    },
+    {
+      "front": "condensation",
+      "decision": "merge",
+      "base": "condense"
+    },
+    {
+      "front": "capsule",
+      "decision": "retain",
+      "base": "capsule"
+    },
+    {
+      "front": "coursework",
+      "decision": "retain",
+      "base": "coursework"
+    },
+    {
+      "front": "proficient",
+      "decision": "retain",
+      "base": "proficient"
+    },
+    {
+      "front": "shortfall",
+      "decision": "retain",
+      "base": "shortfall"
+    },
+    {
+      "front": "passion",
+      "decision": "retain",
+      "base": "passion"
+    },
+    {
+      "front": "spell the end (of something)",
+      "decision": "retain",
+      "base": "spell the end (of something)"
+    },
+    {
+      "front": "mortality",
+      "decision": "retain",
+      "base": "mortality"
+    },
+    {
+      "front": "Fahrenheit",
+      "decision": "retain",
+      "base": "Fahrenheit"
+    },
+    {
+      "front": "scorching",
+      "decision": "merge",
+      "base": "scorch"
+    },
+    {
+      "front": "fry",
+      "decision": "retain",
+      "base": "fry"
+    },
+    {
+      "front": "illegal",
+      "decision": "retain",
+      "base": "illegal"
+    },
+    {
+      "front": "architect",
+      "decision": "retain",
+      "base": "architect"
+    },
+    {
+      "front": "desperate",
+      "decision": "retain",
+      "base": "desperate"
+    },
+    {
+      "front": "ventilation",
+      "decision": "merge",
+      "base": "ventilate"
+    },
+    {
+      "front": "proper",
+      "decision": "retain",
+      "base": "proper"
+    },
+    {
+      "front": "-proof",
+      "decision": "retain",
+      "base": "-proof"
+    },
+    {
+      "front": "state-appointed",
+      "decision": "retain",
+      "base": "state-appointed"
+    },
+    {
+      "front": "on the basis that",
+      "decision": "retain",
+      "base": "on the basis that"
+    },
+    {
+      "front": "distinctive",
+      "decision": "retain",
+      "base": "distinctive"
+    },
+    {
+      "front": "slanted",
+      "decision": "merge",
+      "base": "slant"
+    },
+    {
+      "front": "load-bearing",
+      "decision": "retain",
+      "base": "load-bearing"
+    },
+    {
+      "front": "masonry",
+      "decision": "retain",
+      "base": "masonry"
+    },
+    {
+      "front": "probing",
+      "decision": "merge",
+      "base": "probe"
+    },
+    {
+      "front": "boundary",
+      "decision": "retain",
+      "base": "boundary"
+    },
+    {
+      "front": "transition",
+      "decision": "retain",
+      "base": "transition"
+    },
+    {
+      "front": "liminal",
+      "decision": "retain",
+      "base": "liminal"
+    },
+    {
+      "front": "cheek",
+      "decision": "retain",
+      "base": "cheek"
+    },
+    {
+      "front": "creak",
+      "decision": "retain",
+      "base": "creak"
+    },
+    {
+      "front": "cryptic",
+      "decision": "retain",
+      "base": "cryptic"
+    },
+    {
+      "front": "tissue",
+      "decision": "retain",
+      "base": "tissue"
+    },
+    {
+      "front": "attest",
+      "decision": "retain",
+      "base": "attest"
+    },
+    {
+      "front": "affiliate",
+      "decision": "retain",
+      "base": "affiliate"
+    },
+    {
+      "front": "flow",
+      "decision": "retain",
+      "base": "flow"
+    },
+    {
+      "front": "Massachusetts Institute of Technology",
+      "decision": "retain",
+      "base": "Massachusetts Institute of Technology"
+    },
+    {
+      "front": "cerebrospinal",
+      "decision": "retain",
+      "base": "cerebrospinal"
+    },
+    {
+      "front": "fluid",
+      "decision": "retain",
+      "base": "fluid"
+    },
+    {
+      "front": "in sync",
+      "decision": "retain",
+      "base": "in sync"
+    },
+    {
+      "front": "warp",
+      "decision": "retain",
+      "base": "warp"
+    },
+    {
+      "front": "unravel",
+      "decision": "retain",
+      "base": "unravel"
+    },
+    {
+      "front": "underpinning",
+      "decision": "merge",
+      "base": "underpin"
+    },
+    {
+      "front": "yield",
+      "decision": "retain",
+      "base": "yield"
+    },
+    {
+      "front": "all-or-nothing",
+      "decision": "retain",
+      "base": "all-or-nothing"
+    },
+    {
+      "front": "millionaire",
+      "decision": "retain",
+      "base": "millionaire"
+    },
+    {
+      "front": "nap",
+      "decision": "retain",
+      "base": "nap"
+    },
+    {
+      "front": "mansion",
+      "decision": "retain",
+      "base": "mansion"
+    },
+    {
+      "front": "tycoon",
+      "decision": "retain",
+      "base": "tycoon"
+    },
+    {
+      "front": "noninvasively",
+      "decision": "merge",
+      "base": "noninvasive"
+    },
+    {
+      "front": "trough",
+      "decision": "retain",
+      "base": "trough"
+    },
+    {
+      "front": "gross",
+      "decision": "retain",
+      "base": "gross"
+    },
+    {
+      "front": "synchronize",
+      "decision": "retain",
+      "base": "synchronize"
+    },
+    {
+      "front": "frequency",
+      "decision": "retain",
+      "base": "frequency"
+    },
+    {
+      "front": "amplitude",
+      "decision": "retain",
+      "base": "amplitude"
+    },
+    {
+      "front": "in a ... fashion",
+      "decision": "retain",
+      "base": "in a ... fashion"
+    },
+    {
+      "front": "nomenclature",
+      "decision": "retain",
+      "base": "nomenclature"
+    },
+    {
+      "front": "catalyze",
+      "decision": "retain",
+      "base": "catalyze"
+    },
+    {
+      "front": "invasive",
+      "decision": "retain",
+      "base": "invasive"
+    },
+    {
+      "front": "surgery",
+      "decision": "retain",
+      "base": "surgery"
+    },
+    {
+      "front": "go-to",
+      "decision": "retain",
+      "base": "go-to"
+    },
+    {
+      "front": "schema",
+      "decision": "retain",
+      "base": "schema"
+    },
+    {
+      "front": "subtlety",
+      "decision": "merge",
+      "base": "subtle"
+    },
+    {
+      "front": "variable",
+      "decision": "retain",
+      "base": "variable"
+    },
+    {
+      "front": "counter to",
+      "decision": "retain",
+      "base": "counter to"
+    },
+    {
+      "front": "tightly defined",
+      "decision": "retain",
+      "base": "tightly defined"
+    },
+    {
+      "front": "little by little",
+      "decision": "retain",
+      "base": "little by little"
+    },
+    {
+      "front": "status quo",
+      "decision": "retain",
+      "base": "status quo"
+    },
+    {
+      "front": "drift off",
+      "decision": "retain",
+      "base": "drift off"
+    },
+    {
+      "front": "surrealist",
+      "decision": "retain",
+      "base": "surrealist"
+    },
+    {
+      "front": "bony",
+      "decision": "merge",
+      "base": "bone"
+    },
+    {
+      "front": "palm",
+      "decision": "retain",
+      "base": "palm"
+    },
+    {
+      "front": "slacken",
+      "decision": "retain",
+      "base": "slacken"
+    },
+    {
+      "front": "clack",
+      "decision": "retain",
+      "base": "clack"
+    },
+    {
+      "front": "be convinced that ...",
+      "decision": "retain",
+      "base": "be convinced that ..."
+    },
+    {
+      "front": "arouse",
+      "decision": "retain",
+      "base": "arouse"
+    },
+    {
+      "front": "mathematical",
+      "decision": "retain",
+      "base": "mathematical"
+    },
+    {
+      "front": "emerge from",
+      "decision": "retain",
+      "base": "emerge from"
+    },
+    {
+      "front": "guide",
+      "decision": "retain",
+      "base": "guide"
+    },
+    {
+      "front": "lucid",
+      "decision": "retain",
+      "base": "lucid"
+    },
+    {
+      "front": "semantic",
+      "decision": "retain",
+      "base": "semantic"
+    },
+    {
+      "front": "free-wheeling",
+      "decision": "retain",
+      "base": "free-wheeling"
+    },
+    {
+      "front": "shackle",
+      "decision": "retain",
+      "base": "shackle"
+    },
+    {
+      "front": "slumber",
+      "decision": "retain",
+      "base": "slumber"
+    },
+    {
+      "front": "gradually",
+      "decision": "merge",
+      "base": "gradual"
+    },
+    {
+      "front": "suppress",
+      "decision": "retain",
+      "base": "suppress"
+    },
+    {
+      "front": "arousal",
+      "decision": "merge",
+      "base": "arouse"
+    },
+    {
+      "front": "relay",
+      "decision": "retain",
+      "base": "relay"
+    },
+    {
+      "front": "follow suit",
+      "decision": "retain",
+      "base": "follow suit"
+    },
+    {
+      "front": "remnant",
+      "decision": "retain",
+      "base": "remnant"
+    },
+    {
+      "front": "preliminary",
+      "decision": "retain",
+      "base": "preliminary"
+    },
+    {
+      "front": "not yet peer-reviewed",
+      "decision": "retain",
+      "base": "not yet peer-reviewed"
+    },
+    {
+      "front": "voluntary",
+      "decision": "retain",
+      "base": "voluntary"
+    },
+    {
+      "front": "crawl",
+      "decision": "retain",
+      "base": "crawl"
+    },
+    {
+      "front": "emanate",
+      "decision": "retain",
+      "base": "emanate"
+    },
+    {
+      "front": "be up all night",
+      "decision": "retain",
+      "base": "be up all night"
+    },
+    {
+      "front": "preceding",
+      "decision": "merge",
+      "base": "precede"
+    },
+    {
+      "front": "correlated",
+      "decision": "merge",
+      "base": "correlate"
+    },
+    {
+      "front": "drowsy",
+      "decision": "retain",
+      "base": "drowsy"
+    },
+    {
+      "front": "portrait",
+      "decision": "retain",
+      "base": "portrait"
+    },
+    {
+      "front": "coarse",
+      "decision": "retain",
+      "base": "coarse"
+    },
+    {
+      "front": "unearth",
+      "decision": "retain",
+      "base": "unearth"
+    },
+    {
+      "front": "instruction",
+      "decision": "merge",
+      "base": "instruct"
+    },
+    {
+      "front": "shed",
+      "decision": "retain",
+      "base": "shed"
+    },
+    {
+      "front": "inertia",
+      "decision": "retain",
+      "base": "inertia"
+    },
+    {
+      "front": "neuron",
+      "decision": "retain",
+      "base": "neuron"
+    },
+    {
+      "front": "cacophony",
+      "decision": "retain",
+      "base": "cacophony"
+    },
+    {
+      "front": "rhythm",
+      "decision": "retain",
+      "base": "rhythm"
+    },
+    {
+      "front": "mosaic",
+      "decision": "retain",
+      "base": "mosaic"
+    },
+    {
+      "front": "define",
+      "decision": "retain",
+      "base": "define"
+    },
+    {
+      "front": "manifest",
+      "decision": "retain",
+      "base": "manifest"
+    },
+    {
+      "front": "properly",
+      "decision": "merge",
+      "base": "proper"
+    },
+    {
+      "front": "vice versa",
+      "decision": "retain",
+      "base": "vice versa"
+    },
+    {
+      "front": "fundamentally",
+      "decision": "merge",
+      "base": "fundamental"
+    },
+    {
+      "front": "right as",
+      "decision": "retain",
+      "base": "right as"
+    },
+    {
+      "front": "be supposed to",
+      "decision": "retain",
+      "base": "be supposed to"
+    },
+    {
+      "front": "boil down to",
+      "decision": "retain",
+      "base": "boil down to"
+    },
+    {
+      "front": "results are in",
+      "decision": "retain",
+      "base": "results are in"
+    },
+    {
+      "front": "occasional",
+      "decision": "retain",
+      "base": "occasional"
+    },
+    {
+      "front": "formula",
+      "decision": "retain",
+      "base": "formula"
+    },
+    {
+      "front": "cram",
+      "decision": "retain",
+      "base": "cram"
+    },
+    {
+      "front": "quote",
+      "decision": "retain",
+      "base": "quote"
+    },
+    {
+      "front": "fuss",
+      "decision": "retain",
+      "base": "fuss"
+    },
+    {
+      "front": "finely",
+      "decision": "merge",
+      "base": "fine"
+    },
+    {
+      "front": "precise",
+      "decision": "retain",
+      "base": "precise"
+    },
+    {
+      "front": "opportunity",
+      "decision": "retain",
+      "base": "opportunity"
+    },
+    {
+      "front": "stake",
+      "decision": "retain",
+      "base": "stake"
+    },
+    {
+      "front": "be subject to",
+      "decision": "retain",
+      "base": "be subject to"
+    },
+    {
+      "front": "accountability",
+      "decision": "merge",
+      "base": "accountable"
+    },
+    {
+      "front": "wring",
+      "decision": "retain",
+      "base": "wring"
+    },
+    {
+      "front": "hold somebody/something responsible",
+      "decision": "retain",
+      "base": "hold somebody/something responsible"
+    },
+    {
+      "front": "bald fact",
+      "decision": "retain",
+      "base": "bald fact"
+    },
+    {
+      "front": "attainment",
+      "decision": "merge",
+      "base": "attain"
+    },
+    {
+      "front": "meritocratic",
+      "decision": "merge",
+      "base": "meritocracy"
+    },
+    {
+      "front": "level playing field",
+      "decision": "retain",
+      "base": "level playing field"
+    },
+    {
+      "front": "steady and persistent",
+      "decision": "retain",
+      "base": "steady and persistent"
+    },
+    {
+      "front": "marginalised",
+      "decision": "merge",
+      "base": "marginalise"
+    },
+    {
+      "front": "entrench",
+      "decision": "retain",
+      "base": "entrench"
+    },
+    {
+      "front": "privilege",
+      "decision": "retain",
+      "base": "privilege"
+    },
+    {
+      "front": "given",
+      "decision": "retain",
+      "base": "given"
+    },
+    {
+      "front": "tutor",
+      "decision": "retain",
+      "base": "tutor"
+    },
+    {
+      "front": "continuous",
+      "decision": "retain",
+      "base": "continuous"
+    },
+    {
+      "front": "forgiving",
+      "decision": "merge",
+      "base": "forgive"
+    },
+    {
+      "front": "compelling",
+      "decision": "retain",
+      "base": "compelling"
+    },
+    {
+      "front": "syllabus",
+      "decision": "retain",
+      "base": "syllabus"
+    },
+    {
+      "front": "defer",
+      "decision": "retain",
+      "base": "defer"
+    },
+    {
+      "front": "cement",
+      "decision": "retain",
+      "base": "cement"
+    },
+    {
+      "front": "gusto",
+      "decision": "retain",
+      "base": "gusto"
+    },
+    {
+      "front": "penalise",
+      "decision": "retain",
+      "base": "penalise"
+    },
+    {
+      "front": "colon",
+      "decision": "retain",
+      "base": "colon"
+    },
+    {
+      "front": "punctuation",
+      "decision": "retain",
+      "base": "punctuation"
+    },
+    {
+      "front": "an argument for",
+      "decision": "retain",
+      "base": "an argument for"
+    },
+    {
+      "front": "screwdriver",
+      "decision": "retain",
+      "base": "screwdriver"
+    },
+    {
+      "front": "make about as much sense as",
+      "decision": "retain",
+      "base": "make about as much sense as"
+    },
+    {
+      "front": "brutally",
+      "decision": "merge",
+      "base": "brutal"
+    },
+    {
+      "front": "algorithm",
+      "decision": "retain",
+      "base": "algorithm"
+    },
+    {
+      "front": "scandalously",
+      "decision": "merge",
+      "base": "scandalous"
+    },
+    {
+      "front": "explicitly",
+      "decision": "merge",
+      "base": "explicit"
+    },
+    {
+      "front": "beat the odds",
+      "decision": "retain",
+      "base": "beat the odds"
+    },
+    {
+      "front": "lose out",
+      "decision": "retain",
+      "base": "lose out"
+    },
+    {
+      "front": "deserving",
+      "decision": "merge",
+      "base": "deserve"
+    },
+    {
+      "front": "correct",
+      "decision": "retain",
+      "base": "correct"
+    },
+    {
+      "front": "lay bare",
+      "decision": "retain",
+      "base": "lay bare"
+    },
+    {
+      "front": "buy into something",
+      "decision": "retain",
+      "base": "buy into something"
+    },
+    {
+      "front": "meritocracy",
+      "decision": "retain",
+      "base": "meritocracy"
+    },
+    {
+      "front": "myth",
+      "decision": "retain",
+      "base": "myth"
+    },
+    {
+      "front": "genuinely",
+      "decision": "merge",
+      "base": "genuine"
+    },
+    {
+      "front": "seamlessly",
+      "decision": "merge",
+      "base": "seamless"
+    },
+    {
+      "front": "occupation",
+      "decision": "retain",
+      "base": "occupation"
+    },
+    {
+      "front": "afford",
+      "decision": "retain",
+      "base": "afford"
+    },
+    {
+      "front": "fine-grained",
+      "decision": "retain",
+      "base": "fine-grained"
+    },
+    {
+      "front": "rigorous",
+      "decision": "retain",
+      "base": "rigorous"
+    },
+    {
+      "front": "twist",
+      "decision": "retain",
+      "base": "twist"
+    },
+    {
+      "front": "give somebody the benefit of the doubt",
+      "decision": "retain",
+      "base": "give somebody the benefit of the doubt"
+    },
+    {
+      "front": "hyper-",
+      "decision": "retain",
+      "base": "hyper-"
+    },
+    {
+      "front": "competence",
+      "decision": "merge",
+      "base": "competent"
+    },
+    {
+      "front": "leading botanist",
+      "decision": "retain",
+      "base": "leading botanist"
+    },
+    {
+      "front": "mug",
+      "decision": "retain",
+      "base": "mug"
+    },
+    {
+      "front": "lay claim to something",
+      "decision": "retain",
+      "base": "lay claim to something"
+    },
+    {
+      "front": "wanted poster",
+      "decision": "retain",
+      "base": "wanted poster"
+    },
+    {
+      "front": "track down",
+      "decision": "retain",
+      "base": "track down"
+    },
+    {
+      "front": "flyer",
+      "decision": "retain",
+      "base": "flyer"
+    },
+    {
+      "front": "fang",
+      "decision": "retain",
+      "base": "fang"
+    },
+    {
+      "front": "hand out",
+      "decision": "retain",
+      "base": "hand out"
+    },
+    {
+      "front": "consume",
+      "decision": "retain",
+      "base": "consume"
+    },
+    {
+      "front": "as many as",
+      "decision": "retain",
+      "base": "as many as"
+    },
+    {
+      "front": "relative",
+      "decision": "retain",
+      "base": "relative"
+    },
+    {
+      "front": "per capita",
+      "decision": "retain",
+      "base": "per capita"
+    },
+    {
+      "front": "opt",
+      "decision": "retain",
+      "base": "opt"
+    },
+    {
+      "front": "genome",
+      "decision": "retain",
+      "base": "genome"
+    },
+    {
+      "front": "brew",
+      "decision": "retain",
+      "base": "brew"
+    },
+    {
+      "front": "floral",
+      "decision": "merge",
+      "base": "flower"
+    },
+    {
+      "front": "fungal",
+      "decision": "merge",
+      "base": "fungus"
+    },
+    {
+      "front": "leaf",
+      "decision": "retain",
+      "base": "leaf"
+    },
+    {
+      "front": "at the turn of the 20th century",
+      "decision": "retain",
+      "base": "at the turn of the 20th century"
+    },
+    {
+      "front": "fragile",
+      "decision": "retain",
+      "base": "fragile"
+    },
+    {
+      "front": "gain ground",
+      "decision": "retain",
+      "base": "gain ground"
+    },
+    {
+      "front": "harsh",
+      "decision": "retain",
+      "base": "harsh"
+    },
+    {
+      "front": "wet",
+      "decision": "retain",
+      "base": "wet"
+    },
+    {
+      "front": "rainfall",
+      "decision": "retain",
+      "base": "rainfall"
+    },
+    {
+      "front": "a dry spell",
+      "decision": "retain",
+      "base": "a dry spell"
+    },
+    {
+      "front": "skeptical",
+      "decision": "retain",
+      "base": "skeptical"
+    },
+    {
+      "front": "habitat",
+      "decision": "retain",
+      "base": "habitat"
+    },
+    {
+      "front": "solution",
+      "decision": "retain",
+      "base": "solution"
+    },
+    {
+      "front": "mythical",
+      "decision": "merge",
+      "base": "myth"
+    },
+    {
+      "front": "crossbreed",
+      "decision": "retain",
+      "base": "crossbreed"
+    },
+    {
+      "front": "partly",
+      "decision": "merge",
+      "base": "part"
+    },
+    {
+      "front": "strain",
+      "decision": "retain",
+      "base": "strain"
+    },
+    {
+      "front": "resilient",
+      "decision": "retain",
+      "base": "resilient"
+    },
+    {
+      "front": "impart",
+      "decision": "retain",
+      "base": "impart"
+    },
+    {
+      "front": "crucial",
+      "decision": "retain",
+      "base": "crucial"
+    },
+    {
+      "front": "harbor",
+      "decision": "retain",
+      "base": "harbor"
+    },
+    {
+      "front": "green thumb",
+      "decision": "retain",
+      "base": "green thumb"
+    },
+    {
+      "front": "PhD",
+      "decision": "retain",
+      "base": "PhD"
+    },
+    {
+      "front": "draft",
+      "decision": "retain",
+      "base": "draft"
+    },
+    {
+      "front": "obsession",
+      "decision": "merge",
+      "base": "obsess"
+    },
+    {
+      "front": "shelf",
+      "decision": "retain",
+      "base": "shelf"
+    },
+    {
+      "front": "extensive",
+      "decision": "retain",
+      "base": "extensive"
+    },
+    {
+      "front": "grinder",
+      "decision": "merge",
+      "base": "grind"
+    },
+    {
+      "front": "stash",
+      "decision": "retain",
+      "base": "stash"
+    },
+    {
+      "front": "hardly",
+      "decision": "retain",
+      "base": "hardly"
+    },
+    {
+      "front": "at one point",
+      "decision": "retain",
+      "base": "at one point"
+    },
+    {
+      "front": "be laced with",
+      "decision": "retain",
+      "base": "be laced with"
+    },
+    {
+      "front": "preservative",
+      "decision": "merge",
+      "base": "preserve"
+    },
+    {
+      "front": "goatherd",
+      "decision": "retain",
+      "base": "goatherd"
+    },
+    {
+      "front": "agitated",
+      "decision": "merge",
+      "base": "agitate"
+    },
+    {
+      "front": "curious",
+      "decision": "retain",
+      "base": "curious"
+    },
+    {
+      "front": "end up + 形容词 / doing",
+      "decision": "retain",
+      "base": "end up + 形容词 / doing"
+    },
+    {
+      "front": "infusion",
+      "decision": "retain",
+      "base": "infusion"
+    },
+    {
+      "front": "domesticate",
+      "decision": "retain",
+      "base": "domesticate"
+    },
+    {
+      "front": "cultivate",
+      "decision": "retain",
+      "base": "cultivate"
+    },
+    {
+      "front": "conquer",
+      "decision": "retain",
+      "base": "conquer"
+    },
+    {
+      "front": "cinnamon",
+      "decision": "retain",
+      "base": "cinnamon"
+    },
+    {
+      "front": "spiced",
+      "decision": "merge",
+      "base": "spice"
+    },
+    {
+      "front": "savor",
+      "decision": "retain",
+      "base": "savor"
+    },
+    {
+      "front": "fight",
+      "decision": "retain",
+      "base": "fight"
+    },
+    {
+      "front": "dose",
+      "decision": "retain",
+      "base": "dose"
+    },
+    {
+      "front": "ration",
+      "decision": "retain",
+      "base": "ration"
+    },
+    {
+      "front": "rifle",
+      "decision": "retain",
+      "base": "rifle"
+    },
+    {
+      "front": "diary",
+      "decision": "retain",
+      "base": "diary"
+    },
+    {
+      "front": "genus",
+      "decision": "retain",
+      "base": "genus"
+    },
+    {
+      "front": "caramel",
+      "decision": "retain",
+      "base": "caramel"
+    },
+    {
+      "front": "sausage",
+      "decision": "retain",
+      "base": "sausage"
+    },
+    {
+      "front": "secluded",
+      "decision": "retain",
+      "base": "secluded"
+    },
+    {
+      "front": "brimming",
+      "decision": "merge",
+      "base": "brim"
+    },
+    {
+      "front": "endemic",
+      "decision": "retain",
+      "base": "endemic"
+    },
+    {
+      "front": "tricky",
+      "decision": "retain",
+      "base": "tricky"
+    },
+    {
+      "front": "seek out",
+      "decision": "retain",
+      "base": "seek out"
+    },
+    {
+      "front": "trek",
+      "decision": "retain",
+      "base": "trek"
+    },
+    {
+      "front": "taxonomist",
+      "decision": "retain",
+      "base": "taxonomist"
+    },
+    {
+      "front": "diversity",
+      "decision": "merge",
+      "base": "diverse"
+    },
+    {
+      "front": "get caught in",
+      "decision": "retain",
+      "base": "get caught in"
+    },
+    {
+      "front": "hookworm",
+      "decision": "retain",
+      "base": "hookworm"
+    },
+    {
+      "front": "insane",
+      "decision": "retain",
+      "base": "insane"
+    },
+    {
+      "front": "in honor of",
+      "decision": "retain",
+      "base": "in honor of"
+    },
+    {
+      "front": "mentor",
+      "decision": "retain",
+      "base": "mentor"
+    },
+    {
+      "front": "wilt",
+      "decision": "retain",
+      "base": "wilt"
+    },
+    {
+      "front": "the mid-aughts",
+      "decision": "retain",
+      "base": "the mid-aughts"
+    },
+    {
+      "front": "in the space of + 一段时间",
+      "decision": "retain",
+      "base": "in the space of + 一段时间"
+    },
+    {
+      "front": "run out of something",
+      "decision": "retain",
+      "base": "run out of something"
+    },
+    {
+      "front": "die back",
+      "decision": "retain",
+      "base": "die back"
+    },
+    {
+      "front": "tipping point",
+      "decision": "retain",
+      "base": "tipping point"
+    },
+    {
+      "front": "prosper",
+      "decision": "retain",
+      "base": "prosper"
+    },
+    {
+      "front": "fuel",
+      "decision": "retain",
+      "base": "fuel"
+    },
+    {
+      "front": "reserve",
+      "decision": "retain",
+      "base": "reserve"
+    },
+    {
+      "front": "shrub",
+      "decision": "retain",
+      "base": "shrub"
+    },
+    {
+      "front": "specimen",
+      "decision": "retain",
+      "base": "specimen"
+    },
+    {
+      "front": "measly",
+      "decision": "retain",
+      "base": "measly"
+    },
+    {
+      "front": "bizarrely",
+      "decision": "merge",
+      "base": "bizarre"
+    },
+    {
+      "front": "scrawny",
+      "decision": "retain",
+      "base": "scrawny"
+    },
+    {
+      "front": "undergrowth",
+      "decision": "retain",
+      "base": "undergrowth"
+    },
+    {
+      "front": "expedition",
+      "decision": "retain",
+      "base": "expedition"
+    },
+    {
+      "front": "gram",
+      "decision": "retain",
+      "base": "gram"
+    },
+    {
+      "front": "await",
+      "decision": "retain",
+      "base": "await"
+    },
+    {
+      "front": "to begin with",
+      "decision": "retain",
+      "base": "to begin with"
+    },
+    {
+      "front": "patio",
+      "decision": "retain",
+      "base": "patio"
+    },
+    {
+      "front": "sip",
+      "decision": "retain",
+      "base": "sip"
+    },
+    {
+      "front": "premium",
+      "decision": "retain",
+      "base": "premium"
+    },
+    {
+      "front": "undertone",
+      "decision": "retain",
+      "base": "undertone"
+    },
+    {
+      "front": "herbarium",
+      "decision": "retain",
+      "base": "herbarium"
+    },
+    {
+      "front": "well-worn",
+      "decision": "retain",
+      "base": "well-worn"
+    },
+    {
+      "front": "brittle",
+      "decision": "retain",
+      "base": "brittle"
+    },
+    {
+      "front": "invaluable",
+      "decision": "retain",
+      "base": "invaluable"
+    },
+    {
+      "front": "electron",
+      "decision": "retain",
+      "base": "electron"
+    },
+    {
+      "front": "minuscule",
+      "decision": "retain",
+      "base": "minuscule"
+    },
+    {
+      "front": "mint",
+      "decision": "retain",
+      "base": "mint"
+    },
+    {
+      "front": "bud",
+      "decision": "retain",
+      "base": "bud"
+    },
+    {
+      "front": "reservoir",
+      "decision": "retain",
+      "base": "reservoir"
+    },
+    {
+      "front": "quantity",
+      "decision": "retain",
+      "base": "quantity"
+    },
+    {
+      "front": "problematic",
+      "decision": "merge",
+      "base": "problem"
+    },
+    {
+      "front": "niche",
+      "decision": "retain",
+      "base": "niche"
+    },
+    {
+      "front": "connoisseur",
+      "decision": "retain",
+      "base": "connoisseur"
+    },
+    {
+      "front": "promote",
+      "decision": "retain",
+      "base": "promote"
+    },
+    {
+      "front": "from a ... standpoint",
+      "decision": "retain",
+      "base": "from a ... standpoint"
+    },
+    {
+      "front": "hybrid",
+      "decision": "retain",
+      "base": "hybrid"
+    },
+    {
+      "front": "directly",
+      "decision": "merge",
+      "base": "direct"
+    },
+    {
+      "front": "urgent",
+      "decision": "retain",
+      "base": "urgent"
+    },
+    {
+      "front": "that's where somebody comes in",
+      "decision": "retain",
+      "base": "that's where somebody comes in"
+    },
+    {
+      "front": "specialty",
+      "decision": "retain",
+      "base": "specialty"
+    },
+    {
+      "front": "enshrine",
+      "decision": "retain",
+      "base": "enshrine"
+    },
+    {
+      "front": "defraud",
+      "decision": "retain",
+      "base": "defraud"
+    },
+    {
+      "front": "punish",
+      "decision": "retain",
+      "base": "punish"
+    },
+    {
+      "front": "state-of-the-art",
+      "decision": "retain",
+      "base": "state-of-the-art"
+    },
+    {
+      "front": "violate",
+      "decision": "retain",
+      "base": "violate"
+    },
+    {
+      "front": "fine print",
+      "decision": "retain",
+      "base": "fine print"
+    },
+    {
+      "front": "enrol",
+      "decision": "retain",
+      "base": "enrol"
+    },
+    {
+      "front": "drip pricing",
+      "decision": "retain",
+      "base": "drip pricing"
+    },
+    {
+      "front": "quote somebody a price",
+      "decision": "retain",
+      "base": "quote somebody a price"
+    },
+    {
+      "front": "additional",
+      "decision": "merge",
+      "base": "add"
+    },
+    {
+      "front": "only to do",
+      "decision": "retain",
+      "base": "only to do"
+    },
+    {
+      "front": "embark on",
+      "decision": "retain",
+      "base": "embark on"
+    },
+    {
+      "front": "consent",
+      "decision": "retain",
+      "base": "consent"
+    },
+    {
+      "front": "reflective",
+      "decision": "merge",
+      "base": "reflect"
+    },
+    {
+      "front": "deliberative",
+      "decision": "merge",
+      "base": "deliberate"
+    },
+    {
+      "front": "seductive",
+      "decision": "merge",
+      "base": "seduce"
+    },
+    {
+      "front": "supposed",
+      "decision": "retain",
+      "base": "supposed"
+    },
+    {
+      "front": "profoundly",
+      "decision": "merge",
+      "base": "profound"
+    },
+    {
+      "front": "insidiously",
+      "decision": "merge",
+      "base": "insidious"
+    },
+    {
+      "front": "enlist somebody/something",
+      "decision": "retain",
+      "base": "enlist somebody/something"
+    },
+    {
+      "front": "rationality",
+      "decision": "merge",
+      "base": "rational"
+    },
+    {
+      "front": "depart",
+      "decision": "retain",
+      "base": "depart"
+    },
+    {
+      "front": "in this regard",
+      "decision": "retain",
+      "base": "in this regard"
+    },
+    {
+      "front": "elaborate",
+      "decision": "retain",
+      "base": "elaborate"
+    },
+    {
+      "front": "bias",
+      "decision": "retain",
+      "base": "bias"
+    },
+    {
+      "front": "tactic",
+      "decision": "retain",
+      "base": "tactic"
+    },
+    {
+      "front": "aversion",
+      "decision": "retain",
+      "base": "aversion"
+    },
+    {
+      "front": "exploit",
+      "decision": "retain",
+      "base": "exploit"
+    },
+    {
+      "front": "won't bother",
+      "decision": "retain",
+      "base": "won't bother"
+    },
+    {
+      "front": "subset",
+      "decision": "retain",
+      "base": "subset"
+    },
+    {
+      "front": "radar",
+      "decision": "retain",
+      "base": "radar"
+    },
+    {
+      "front": "transaction",
+      "decision": "retain",
+      "base": "transaction"
+    },
+    {
+      "front": "inviting",
+      "decision": "retain",
+      "base": "inviting"
+    },
+    {
+      "front": "specify",
+      "decision": "retain",
+      "base": "specify"
+    },
+    {
+      "front": "broadly",
+      "decision": "merge",
+      "base": "broad"
+    },
+    {
+      "front": "egregious",
+      "decision": "retain",
+      "base": "egregious"
+    },
+    {
+      "front": "justify",
+      "decision": "retain",
+      "base": "justify"
+    },
+    {
+      "front": "prohibition",
+      "decision": "merge",
+      "base": "prohibit"
+    },
+    {
+      "front": "in accordance with",
+      "decision": "retain",
+      "base": "in accordance with"
+    },
+    {
+      "front": "bill somebody",
+      "decision": "retain",
+      "base": "bill somebody"
+    },
+    {
+      "front": "autonomy",
+      "decision": "retain",
+      "base": "autonomy"
+    },
+    {
+      "front": "up front / upfront",
+      "decision": "retain",
+      "base": "up front / upfront"
+    },
+    {
+      "front": "reservation",
+      "decision": "merge",
+      "base": "reserve"
+    },
+    {
+      "front": "standardized",
+      "decision": "merge",
+      "base": "standardize"
+    },
+    {
+      "front": "broadband",
+      "decision": "retain",
+      "base": "broadband"
+    },
+    {
+      "front": "allowance",
+      "decision": "retain",
+      "base": "allowance"
+    },
+    {
+      "front": "like-for-like",
+      "decision": "retain",
+      "base": "like-for-like"
+    },
+    {
+      "front": "obfuscate",
+      "decision": "retain",
+      "base": "obfuscate"
+    },
+    {
+      "front": "privacy",
+      "decision": "retain",
+      "base": "privacy"
+    },
+    {
+      "front": "bedrock",
+      "decision": "retain",
+      "base": "bedrock"
+    },
+    {
+      "front": "launch a thousand ships",
+      "decision": "retain",
+      "base": "launch a thousand ships"
+    },
+    {
+      "front": "surveillance",
+      "decision": "retain",
+      "base": "surveillance"
+    },
+    {
+      "front": "cautiously",
+      "decision": "merge",
+      "base": "caution"
+    },
+    {
+      "front": "complete",
+      "decision": "retain",
+      "base": "complete"
+    },
+    {
+      "front": "wheat",
+      "decision": "retain",
+      "base": "wheat"
+    },
+    {
+      "front": "bucolic",
+      "decision": "retain",
+      "base": "bucolic"
+    },
+    {
+      "front": "confrontation",
+      "decision": "merge",
+      "base": "confront"
+    },
+    {
+      "front": "paradox",
+      "decision": "retain",
+      "base": "paradox"
+    },
+    {
+      "front": "absurdity",
+      "decision": "merge",
+      "base": "absurd"
+    },
+    {
+      "front": "prophet",
+      "decision": "retain",
+      "base": "prophet"
+    },
+    {
+      "front": "guerrilla gardening",
+      "decision": "retain",
+      "base": "guerrilla gardening"
+    },
+    {
+      "front": "fringe",
+      "decision": "retain",
+      "base": "fringe"
+    },
+    {
+      "front": "victory garden",
+      "decision": "retain",
+      "base": "victory garden"
+    },
+    {
+      "front": "vacant",
+      "decision": "retain",
+      "base": "vacant"
+    },
+    {
+      "front": "vacant lot",
+      "decision": "retain",
+      "base": "vacant lot"
+    },
+    {
+      "front": "besiege",
+      "decision": "retain",
+      "base": "besiege"
+    },
+    {
+      "front": "spur",
+      "decision": "retain",
+      "base": "spur"
+    },
+    {
+      "front": "startup",
+      "decision": "retain",
+      "base": "startup"
+    },
+    {
+      "front": "fold",
+      "decision": "retain",
+      "base": "fold"
+    },
+    {
+      "front": "tenacious",
+      "decision": "retain",
+      "base": "tenacious"
+    },
+    {
+      "front": "sprout",
+      "decision": "retain",
+      "base": "sprout"
+    },
+    {
+      "front": "container",
+      "decision": "retain",
+      "base": "container"
+    },
+    {
+      "front": "subterranean",
+      "decision": "retain",
+      "base": "subterranean"
+    },
+    {
+      "front": "shelter",
+      "decision": "retain",
+      "base": "shelter"
+    },
+    {
+      "front": "legume",
+      "decision": "retain",
+      "base": "legume"
+    },
+    {
+      "front": "tuber",
+      "decision": "retain",
+      "base": "tuber"
+    },
+    {
+      "front": "calorie",
+      "decision": "retain",
+      "base": "calorie"
+    },
+    {
+      "front": "responsible",
+      "decision": "retain",
+      "base": "responsible"
+    },
+    {
+      "front": "meet the goals",
+      "decision": "retain",
+      "base": "meet the goals"
+    },
+    {
+      "front": "conventional",
+      "decision": "merge",
+      "base": "convention"
+    },
+    {
+      "front": "ease",
+      "decision": "retain",
+      "base": "ease"
+    },
+    {
+      "front": "stressed soil",
+      "decision": "retain",
+      "base": "stressed soil"
+    },
+    {
+      "front": "overburden",
+      "decision": "retain",
+      "base": "overburden"
+    },
+    {
+      "front": "closed-loop system",
+      "decision": "retain",
+      "base": "closed-loop system"
+    },
+    {
+      "front": "sovereignty",
+      "decision": "retain",
+      "base": "sovereignty"
+    },
+    {
+      "front": "utopian",
+      "decision": "retain",
+      "base": "utopian"
+    },
+    {
+      "front": "whereas",
+      "decision": "retain",
+      "base": "whereas"
+    },
+    {
+      "front": "hectare",
+      "decision": "retain",
+      "base": "hectare"
+    },
+    {
+      "front": "occupy",
+      "decision": "retain",
+      "base": "occupy"
+    },
+    {
+      "front": "scale up",
+      "decision": "retain",
+      "base": "scale up"
+    },
+    {
+      "front": "patchwork",
+      "decision": "retain",
+      "base": "patchwork"
+    },
+    {
+      "front": "gulf",
+      "decision": "retain",
+      "base": "gulf"
+    },
+    {
+      "front": "holistic",
+      "decision": "retain",
+      "base": "holistic"
+    },
+    {
+      "front": "be responsive to something",
+      "decision": "retain",
+      "base": "be responsive to something"
+    },
+    {
+      "front": "convert A into B",
+      "decision": "retain",
+      "base": "convert A into B"
+    },
+    {
+      "front": "allotment",
+      "decision": "merge",
+      "base": "allot"
+    },
+    {
+      "front": "orchard",
+      "decision": "retain",
+      "base": "orchard"
+    },
+    {
+      "front": "meadow",
+      "decision": "retain",
+      "base": "meadow"
+    },
+    {
+      "front": "flat",
+      "decision": "retain",
+      "base": "flat"
+    },
+    {
+      "front": "radical",
+      "decision": "retain",
+      "base": "radical"
+    },
+    {
+      "front": "recourse",
+      "decision": "retain",
+      "base": "recourse"
+    },
+    {
+      "front": "integrate",
+      "decision": "retain",
+      "base": "integrate"
+    },
+    {
+      "front": "municipal",
+      "decision": "retain",
+      "base": "municipal"
+    },
+    {
+      "front": "disused",
+      "decision": "retain",
+      "base": "disused"
+    },
+    {
+      "front": "halt",
+      "decision": "retain",
+      "base": "halt"
+    },
+    {
+      "front": "oversight",
+      "decision": "retain",
+      "base": "oversight"
+    },
+    {
+      "front": "progenitor",
+      "decision": "retain",
+      "base": "progenitor"
+    },
+    {
+      "front": "vicinity",
+      "decision": "retain",
+      "base": "vicinity"
+    },
+    {
+      "front": "minority",
+      "decision": "retain",
+      "base": "minority"
+    },
+    {
+      "front": "convergence",
+      "decision": "merge",
+      "base": "converge"
+    },
+    {
+      "front": "due north",
+      "decision": "retain",
+      "base": "due north"
+    },
+    {
+      "front": "scenario",
+      "decision": "retain",
+      "base": "scenario"
+    },
+    {
+      "front": "the latter",
+      "decision": "retain",
+      "base": "the latter"
+    },
+    {
+      "front": "establish",
+      "decision": "retain",
+      "base": "establish"
+    },
+    {
+      "front": "ethnolinguistic",
+      "decision": "retain",
+      "base": "ethnolinguistic"
+    },
+    {
+      "front": "by and large",
+      "decision": "retain",
+      "base": "by and large"
+    },
+    {
+      "front": "proto-",
+      "decision": "retain",
+      "base": "proto-"
+    },
+    {
+      "front": "be credited with",
+      "decision": "retain",
+      "base": "be credited with"
+    },
+    {
+      "front": "transmit",
+      "decision": "retain",
+      "base": "transmit"
+    },
+    {
+      "front": "current",
+      "decision": "retain",
+      "base": "current"
+    },
+    {
+      "front": "anchor",
+      "decision": "retain",
+      "base": "anchor"
+    },
+    {
+      "front": "expanse",
+      "decision": "retain",
+      "base": "expanse"
+    },
+    {
+      "front": "boreal",
+      "decision": "retain",
+      "base": "boreal"
+    },
+    {
+      "front": "concentrate in",
+      "decision": "retain",
+      "base": "concentrate in"
+    },
+    {
+      "front": "bronze",
+      "decision": "retain",
+      "base": "bronze"
+    },
+    {
+      "front": "transformative",
+      "decision": "merge",
+      "base": "transform"
+    },
+    {
+      "front": "institution",
+      "decision": "retain",
+      "base": "institution"
+    },
+    {
+      "front": "advent",
+      "decision": "retain",
+      "base": "advent"
+    },
+    {
+      "front": "succession",
+      "decision": "retain",
+      "base": "succession"
+    },
+    {
+      "front": "agency",
+      "decision": "retain",
+      "base": "agency"
+    },
+    {
+      "front": "numerically",
+      "decision": "merge",
+      "base": "numerical"
+    },
+    {
+      "front": "longstanding",
+      "decision": "retain",
+      "base": "longstanding"
+    },
+    {
+      "front": "share",
+      "decision": "retain",
+      "base": "share"
+    },
+    {
+      "front": "rule out",
+      "decision": "retain",
+      "base": "rule out"
+    },
+    {
+      "front": "obscure time periods",
+      "decision": "retain",
+      "base": "obscure time periods"
+    },
+    {
+      "front": "vary in",
+      "decision": "retain",
+      "base": "vary in"
+    },
+    {
+      "front": "vary",
+      "decision": "retain",
+      "base": "vary"
+    },
+    {
+      "front": "distribution",
+      "decision": "merge",
+      "base": "distribute"
+    },
+    {
+      "front": "cluster",
+      "decision": "retain",
+      "base": "cluster"
+    },
+    {
+      "front": "方向 + -most",
+      "decision": "retain",
+      "base": "方向 + -most"
+    },
+    {
+      "front": "separate",
+      "decision": "retain",
+      "base": "separate"
+    },
+    {
+      "front": "survivor",
+      "decision": "merge",
+      "base": "survive"
+    },
+    {
+      "front": "endanger",
+      "decision": "retain",
+      "base": "endanger"
+    },
+    {
+      "front": "alike",
+      "decision": "retain",
+      "base": "alike"
+    },
+    {
+      "front": "toponym",
+      "decision": "retain",
+      "base": "toponym"
+    },
+    {
+      "front": "tentative",
+      "decision": "retain",
+      "base": "tentative"
+    },
+    {
+      "front": "fluent",
+      "decision": "retain",
+      "base": "fluent"
+    },
+    {
+      "front": "ubiquitous",
+      "decision": "retain",
+      "base": "ubiquitous"
+    },
+    {
+      "front": "inhabit",
+      "decision": "retain",
+      "base": "inhabit"
+    },
+    {
+      "front": "right up to",
+      "decision": "retain",
+      "base": "right up to"
+    },
+    {
+      "front": "the passage of years",
+      "decision": "retain",
+      "base": "the passage of years"
+    },
+    {
+      "front": "antiquity",
+      "decision": "retain",
+      "base": "antiquity"
+    },
+    {
+      "front": "throne",
+      "decision": "retain",
+      "base": "throne"
+    },
+    {
+      "front": "monarch",
+      "decision": "retain",
+      "base": "monarch"
+    },
+    {
+      "front": "geographically",
+      "decision": "merge",
+      "base": "geography"
+    },
+    {
+      "front": "localise",
+      "decision": "retain",
+      "base": "localise"
+    },
+    {
+      "front": "transcendent",
+      "decision": "retain",
+      "base": "transcendent"
+    },
+    {
+      "front": "translocal",
+      "decision": "retain",
+      "base": "translocal"
+    },
+    {
+      "front": "outbreak",
+      "decision": "retain",
+      "base": "outbreak"
+    },
+    {
+      "front": "intimately",
+      "decision": "merge",
+      "base": "intimate"
+    },
+    {
+      "front": "bureaucratic",
+      "decision": "retain",
+      "base": "bureaucratic"
+    },
+    {
+      "front": "coordinate",
+      "decision": "retain",
+      "base": "coordinate"
+    },
+    {
+      "front": "not really A at all, so much as B",
+      "decision": "retain",
+      "base": "not really A at all, so much as B"
+    },
+    {
+      "front": "synchronism",
+      "decision": "retain",
+      "base": "synchronism"
+    },
+    {
+      "front": "occurrence",
+      "decision": "merge",
+      "base": "occur"
+    },
+    {
+      "front": "invasion",
+      "decision": "merge",
+      "base": "invade"
+    },
+    {
+      "front": "independence",
+      "decision": "merge",
+      "base": "independent"
+    },
+    {
+      "front": "in such a manner",
+      "decision": "retain",
+      "base": "in such a manner"
+    },
+    {
+      "front": "go on to do something",
+      "decision": "retain",
+      "base": "go on to do something"
+    },
+    {
+      "front": "reckon",
+      "decision": "retain",
+      "base": "reckon"
+    },
+    {
+      "front": "tally",
+      "decision": "retain",
+      "base": "tally"
+    },
+    {
+      "front": "ancestor",
+      "decision": "retain",
+      "base": "ancestor"
+    },
+    {
+      "front": "subsequent",
+      "decision": "retain",
+      "base": "subsequent"
+    },
+    {
+      "front": "unheralded",
+      "decision": "retain",
+      "base": "unheralded"
+    },
+    {
+      "front": "successor",
+      "decision": "retain",
+      "base": "successor"
+    },
+    {
+      "front": "freestanding",
+      "decision": "retain",
+      "base": "freestanding"
+    },
+    {
+      "front": "scribe",
+      "decision": "retain",
+      "base": "scribe"
+    },
+    {
+      "front": "correlate",
+      "decision": "retain",
+      "base": "correlate"
+    },
+    {
+      "front": "at distance",
+      "decision": "retain",
+      "base": "at distance"
+    },
+    {
+      "front": "permit",
+      "decision": "retain",
+      "base": "permit"
+    },
+    {
+      "front": "reign",
+      "decision": "retain",
+      "base": "reign"
+    },
+    {
+      "front": "conceive",
+      "decision": "retain",
+      "base": "conceive"
+    },
+    {
+      "front": "uniform",
+      "decision": "retain",
+      "base": "uniform"
+    },
+    {
+      "front": "envelop",
+      "decision": "retain",
+      "base": "envelop"
+    },
+    {
+      "front": "significance",
+      "decision": "merge",
+      "base": "significant"
+    },
+    {
+      "front": "were it not for + 名词",
+      "decision": "retain",
+      "base": "were it not for + 名词"
+    },
+    {
+      "front": "exclusively",
+      "decision": "merge",
+      "base": "exclusive"
+    },
+    {
+      "front": "materialise",
+      "decision": "retain",
+      "base": "materialise"
+    },
+    {
+      "front": "homogeneous",
+      "decision": "retain",
+      "base": "homogeneous"
+    },
+    {
+      "front": "unprecedented",
+      "decision": "retain",
+      "base": "unprecedented"
+    },
+    {
+      "front": "affix",
+      "decision": "retain",
+      "base": "affix"
+    },
+    {
+      "front": "sheer",
+      "decision": "retain",
+      "base": "sheer"
+    },
+    {
+      "front": "precedent",
+      "decision": "retain",
+      "base": "precedent"
+    },
+    {
+      "front": "comprehensive",
+      "decision": "retain",
+      "base": "comprehensive"
+    },
+    {
+      "front": "chronology",
+      "decision": "retain",
+      "base": "chronology"
+    },
+    {
+      "front": "contradict",
+      "decision": "retain",
+      "base": "contradict"
+    },
+    {
+      "front": "revise",
+      "decision": "retain",
+      "base": "revise"
+    },
+    {
+      "front": "manuscript",
+      "decision": "retain",
+      "base": "manuscript"
+    },
+    {
+      "front": "authenticity",
+      "decision": "merge",
+      "base": "authentic"
+    },
+    {
+      "front": "anomaly",
+      "decision": "retain",
+      "base": "anomaly"
+    },
+    {
+      "front": "thrive",
+      "decision": "retain",
+      "base": "thrive"
+    },
+    {
+      "front": "base B on C",
+      "decision": "retain",
+      "base": "base B on C"
+    },
+    {
+      "front": "articulation",
+      "decision": "merge",
+      "base": "articulate"
+    },
+    {
+      "front": "apprehend",
+      "decision": "retain",
+      "base": "apprehend"
+    },
+    {
+      "front": "frame",
+      "decision": "retain",
+      "base": "frame"
+    },
+    {
+      "front": "reconcile",
+      "decision": "retain",
+      "base": "reconcile"
+    },
+    {
+      "front": "impermanence",
+      "decision": "merge",
+      "base": "impermanent"
+    },
+    {
+      "front": "make sense of",
+      "decision": "retain",
+      "base": "make sense of"
+    },
+    {
+      "front": "politics",
+      "decision": "retain",
+      "base": "politics"
+    },
+    {
+      "front": "temporal",
+      "decision": "retain",
+      "base": "temporal"
+    },
+    {
+      "front": "be at home in",
+      "decision": "retain",
+      "base": "be at home in"
+    },
+    {
+      "front": "enclosure",
+      "decision": "merge",
+      "base": "enclose"
+    },
+    {
+      "front": "notion",
+      "decision": "retain",
+      "base": "notion"
+    },
+    {
+      "front": "contest",
+      "decision": "retain",
+      "base": "contest"
+    },
+    {
+      "front": "demise",
+      "decision": "retain",
+      "base": "demise"
+    },
+    {
+      "front": "heartland",
+      "decision": "retain",
+      "base": "heartland"
+    },
+    {
+      "front": "from ... down to ...",
+      "decision": "retain",
+      "base": "from ... down to ..."
+    },
+    {
+      "front": "assertive",
+      "decision": "retain",
+      "base": "assertive"
+    },
+    {
+      "front": "subordinate",
+      "decision": "retain",
+      "base": "subordinate"
+    },
+    {
+      "front": "revolt",
+      "decision": "retain",
+      "base": "revolt"
+    },
+    {
+      "front": "march",
+      "decision": "retain",
+      "base": "march"
+    },
+    {
+      "front": "liberate",
+      "decision": "retain",
+      "base": "liberate"
+    },
+    {
+      "front": "carve out",
+      "decision": "retain",
+      "base": "carve out"
+    },
+    {
+      "front": "commemorate",
+      "decision": "retain",
+      "base": "commemorate"
+    },
+    {
+      "front": "infrastructure",
+      "decision": "retain",
+      "base": "infrastructure"
+    },
+    {
+      "front": "fiscal",
+      "decision": "retain",
+      "base": "fiscal"
+    },
+    {
+      "front": "settlement",
+      "decision": "retain",
+      "base": "settlement"
+    },
+    {
+      "front": "dominance",
+      "decision": "merge",
+      "base": "dominate"
+    },
+    {
+      "front": "apocalypse",
+      "decision": "retain",
+      "base": "apocalypse"
+    },
+    {
+      "front": "inexorably",
+      "decision": "merge",
+      "base": "inexorable"
+    },
+    {
+      "front": "composition",
+      "decision": "merge",
+      "base": "compose"
+    },
+    {
+      "front": "theological",
+      "decision": "merge",
+      "base": "theology"
+    },
+    {
+      "front": "subfield",
+      "decision": "retain",
+      "base": "subfield"
+    },
+    {
+      "front": "play a role in",
+      "decision": "retain",
+      "base": "play a role in"
+    },
+    {
+      "front": "institutionalisation",
+      "decision": "merge",
+      "base": "institutionalise"
+    },
+    {
+      "front": "interminable",
+      "decision": "retain",
+      "base": "interminable"
+    },
+    {
+      "front": "provoke",
+      "decision": "retain",
+      "base": "provoke"
+    },
+    {
+      "front": "fantasy",
+      "decision": "retain",
+      "base": "fantasy"
+    },
+    {
+      "front": "finitude",
+      "decision": "merge",
+      "base": "finite"
+    },
+    {
+      "front": "contain",
+      "decision": "retain",
+      "base": "contain"
+    },
+    {
+      "front": "episode",
+      "decision": "retain",
+      "base": "episode"
+    },
+    {
+      "front": "canonise",
+      "decision": "retain",
+      "base": "canonise"
+    },
+    {
+      "front": "seer",
+      "decision": "retain",
+      "base": "seer"
+    },
+    {
+      "front": "compose",
+      "decision": "retain",
+      "base": "compose"
+    },
+    {
+      "front": "throw off the yoke",
+      "decision": "retain",
+      "base": "throw off the yoke"
+    },
+    {
+      "front": "feast",
+      "decision": "retain",
+      "base": "feast"
+    },
+    {
+      "front": "monstrous",
+      "decision": "retain",
+      "base": "monstrous"
+    },
+    {
+      "front": "the writing is on the wall",
+      "decision": "retain",
+      "base": "the writing is on the wall"
+    },
+    {
+      "front": "narrative",
+      "decision": "retain",
+      "base": "narrative"
+    },
+    {
+      "front": "as follows",
+      "decision": "retain",
+      "base": "as follows"
+    },
+    {
+      "front": "summons",
+      "decision": "retain",
+      "base": "summons"
+    },
+    {
+      "front": "demand / insist / suggest / recommend / require + that + 主语 + 动词原形",
+      "decision": "retain",
+      "base": "demand / insist / suggest / recommend / require + that + 主语 + 动词原形"
+    },
+    {
+      "front": "protest",
+      "decision": "retain",
+      "base": "protest"
+    },
+    {
+      "front": "feasible",
+      "decision": "retain",
+      "base": "feasible"
+    },
+    {
+      "front": "condemn",
+      "decision": "retain",
+      "base": "condemn"
+    },
+    {
+      "front": "execution",
+      "decision": "merge",
+      "base": "execute"
+    },
+    {
+      "front": "on the eve of",
+      "decision": "retain",
+      "base": "on the eve of"
+    },
+    {
+      "front": "mighty",
+      "decision": "retain",
+      "base": "mighty"
+    },
+    {
+      "front": "dreadful",
+      "decision": "retain",
+      "base": "dreadful"
+    },
+    {
+      "front": "thigh",
+      "decision": "retain",
+      "base": "thigh"
+    },
+    {
+      "front": "chaff",
+      "decision": "retain",
+      "base": "chaff"
+    },
+    {
+      "front": "shatter",
+      "decision": "retain",
+      "base": "shatter"
+    },
+    {
+      "front": "topple",
+      "decision": "retain",
+      "base": "topple"
+    },
+    {
+      "front": "feet of clay",
+      "decision": "retain",
+      "base": "feet of clay"
+    },
+    {
+      "front": "elucidate",
+      "decision": "retain",
+      "base": "elucidate"
+    },
+    {
+      "front": "exposition",
+      "decision": "retain",
+      "base": "exposition"
+    },
+    {
+      "front": "conclude ... by doing ...",
+      "decision": "retain",
+      "base": "conclude ... by doing ..."
+    },
+    {
+      "front": "bring about",
+      "decision": "retain",
+      "base": "bring about"
+    },
+    {
+      "front": "successive",
+      "decision": "retain",
+      "base": "successive"
+    },
+    {
+      "front": "burn",
+      "decision": "retain",
+      "base": "burn"
+    },
+    {
+      "front": "destructible",
+      "decision": "merge",
+      "base": "destroy"
+    },
+    {
+      "front": "transitory",
+      "decision": "retain",
+      "base": "transitory"
+    },
+    {
+      "front": "idol",
+      "decision": "retain",
+      "base": "idol"
+    },
+    {
+      "front": "eternal",
+      "decision": "retain",
+      "base": "eternal"
+    },
+    {
+      "front": "project",
+      "decision": "retain",
+      "base": "project"
+    },
+    {
+      "front": "gaze",
+      "decision": "retain",
+      "base": "gaze"
+    },
+    {
+      "front": "providence",
+      "decision": "retain",
+      "base": "providence"
+    },
+    {
+      "front": "revelation",
+      "decision": "merge",
+      "base": "reveal"
+    },
+    {
+      "front": "pervade",
+      "decision": "retain",
+      "base": "pervade"
+    },
+    {
+      "front": "assertion",
+      "decision": "merge",
+      "base": "assert"
+    },
+    {
+      "front": "monarchic",
+      "decision": "merge",
+      "base": "monarch"
+    },
+    {
+      "front": "formulate",
+      "decision": "retain",
+      "base": "formulate"
+    },
+    {
+      "front": "programmatic",
+      "decision": "retain",
+      "base": "programmatic"
+    },
+    {
+      "front": "eternity",
+      "decision": "merge",
+      "base": "eternal"
+    },
+    {
+      "front": "illusory",
+      "decision": "merge",
+      "base": "illusion"
+    },
+    {
+      "front": "disinterested",
+      "decision": "retain",
+      "base": "disinterested"
+    },
+    {
+      "front": "enchant",
+      "decision": "retain",
+      "base": "enchant"
+    },
+    {
+      "front": "by implication",
+      "decision": "retain",
+      "base": "by implication"
+    },
+    {
+      "front": "mere",
+      "decision": "retain",
+      "base": "mere"
+    },
+    {
+      "front": "intermingle",
+      "decision": "retain",
+      "base": "intermingle"
+    },
+    {
+      "front": "as much as",
+      "decision": "retain",
+      "base": "as much as"
+    },
+    {
+      "front": "mingle",
+      "decision": "retain",
+      "base": "mingle"
+    },
+    {
+      "front": "cleave",
+      "decision": "retain",
+      "base": "cleave"
+    },
+    {
+      "front": "fission",
+      "decision": "retain",
+      "base": "fission"
+    },
+    {
+      "front": "fuse",
+      "decision": "retain",
+      "base": "fuse"
+    },
+    {
+      "front": "flux",
+      "decision": "retain",
+      "base": "flux"
+    },
+    {
+      "front": "rendezvous",
+      "decision": "retain",
+      "base": "rendezvous"
+    },
+    {
+      "front": "rescue",
+      "decision": "retain",
+      "base": "rescue"
+    },
+    {
+      "front": "conduit",
+      "decision": "retain",
+      "base": "conduit"
+    },
+    {
+      "front": "allot",
+      "decision": "retain",
+      "base": "allot"
+    },
+    {
+      "front": "equally",
+      "decision": "merge",
+      "base": "equal"
+    },
+    {
+      "front": "shuttle",
+      "decision": "retain",
+      "base": "shuttle"
+    },
+    {
+      "front": "proclaim",
+      "decision": "retain",
+      "base": "proclaim"
+    },
+    {
+      "front": "elegy",
+      "decision": "retain",
+      "base": "elegy"
+    },
+    {
+      "front": "curate",
+      "decision": "retain",
+      "base": "curate"
+    },
+    {
+      "front": "bait",
+      "decision": "retain",
+      "base": "bait"
+    },
+    {
+      "front": "inferior",
+      "decision": "retain",
+      "base": "inferior"
+    },
+    {
+      "front": "deliberately",
+      "decision": "merge",
+      "base": "deliberate"
+    },
+    {
+      "front": "informatics",
+      "decision": "retain",
+      "base": "informatics"
+    },
+    {
+      "front": "cite",
+      "decision": "retain",
+      "base": "cite"
+    },
+    {
+      "front": "consistent",
+      "decision": "retain",
+      "base": "consistent"
+    },
+    {
+      "front": "corrupt",
+      "decision": "retain",
+      "base": "corrupt"
+    },
+    {
+      "front": "intellectually",
+      "decision": "merge",
+      "base": "intellectual"
+    },
+    {
+      "front": "periodical",
+      "decision": "retain",
+      "base": "periodical"
+    },
+    {
+      "front": "wring one's hands over something",
+      "decision": "retain",
+      "base": "wring one's hands over something"
+    },
+    {
+      "front": "depravity",
+      "decision": "retain",
+      "base": "depravity"
+    },
+    {
+      "front": "entangle",
+      "decision": "retain",
+      "base": "entangle"
+    },
+    {
+      "front": "intellectual",
+      "decision": "retain",
+      "base": "intellectual"
+    },
+    {
+      "front": "denounce",
+      "decision": "retain",
+      "base": "denounce"
+    },
+    {
+      "front": "infect",
+      "decision": "retain",
+      "base": "infect"
+    },
+    {
+      "front": "contagious",
+      "decision": "retain",
+      "base": "contagious"
+    },
+    {
+      "front": "pestilence",
+      "decision": "retain",
+      "base": "pestilence"
+    },
+    {
+      "front": "subversive",
+      "decision": "merge",
+      "base": "subvert"
+    },
+    {
+      "front": "compulsory",
+      "decision": "retain",
+      "base": "compulsory"
+    },
+    {
+      "front": "attendance",
+      "decision": "merge",
+      "base": "attend"
+    },
+    {
+      "front": "recur",
+      "decision": "retain",
+      "base": "recur"
+    },
+    {
+      "front": "testify",
+      "decision": "retain",
+      "base": "testify"
+    },
+    {
+      "front": "comics",
+      "decision": "retain",
+      "base": "comics"
+    },
+    {
+      "front": "temptation",
+      "decision": "merge",
+      "base": "tempt"
+    },
+    {
+      "front": "deflect",
+      "decision": "retain",
+      "base": "deflect"
+    },
+    {
+      "front": "underfunding",
+      "decision": "merge",
+      "base": "underfund"
+    },
+    {
+      "front": "accumulate",
+      "decision": "retain",
+      "base": "accumulate"
+    },
+    {
+      "front": "exaggerate",
+      "decision": "retain",
+      "base": "exaggerate"
+    },
+    {
+      "front": "adolescent",
+      "decision": "retain",
+      "base": "adolescent"
+    },
+    {
+      "front": "aggression",
+      "decision": "merge",
+      "base": "aggressive"
+    },
+    {
+      "front": "identical",
+      "decision": "retain",
+      "base": "identical"
+    },
+    {
+      "front": "rhetoric",
+      "decision": "retain",
+      "base": "rhetoric"
+    },
+    {
+      "front": "metaphor",
+      "decision": "retain",
+      "base": "metaphor"
+    },
+    {
+      "front": "passive",
+      "decision": "retain",
+      "base": "passive"
+    },
+    {
+      "front": "flourish",
+      "decision": "retain",
+      "base": "flourish"
+    },
+    {
+      "front": "constraint",
+      "decision": "retain",
+      "base": "constraint"
+    },
+    {
+      "front": "resonance",
+      "decision": "merge",
+      "base": "resonate"
+    },
+    {
+      "front": "marinate",
+      "decision": "retain",
+      "base": "marinate"
+    },
+    {
+      "front": "choreograph",
+      "decision": "retain",
+      "base": "choreograph"
+    },
+    {
+      "front": "compete",
+      "decision": "retain",
+      "base": "compete"
+    },
+    {
+      "front": "slide",
+      "decision": "retain",
+      "base": "slide"
+    },
+    {
+      "front": "accommodate",
+      "decision": "retain",
+      "base": "accommodate"
+    },
+    {
+      "front": "definitively",
+      "decision": "merge",
+      "base": "definitive"
+    },
+    {
+      "front": "oral",
+      "decision": "retain",
+      "base": "oral"
+    },
+    {
+      "front": "dialogue",
+      "decision": "retain",
+      "base": "dialogue"
+    },
+    {
+      "front": "concession",
+      "decision": "retain",
+      "base": "concession"
+    },
+    {
+      "front": "all along",
+      "decision": "retain",
+      "base": "all along"
+    },
+    {
+      "front": "concentration",
+      "decision": "merge",
+      "base": "concentrate"
+    },
+    {
+      "front": "pace",
+      "decision": "retain",
+      "base": "pace"
+    },
+    {
+      "front": "asset",
+      "decision": "retain",
+      "base": "asset"
+    },
+    {
+      "front": "pathologise",
+      "decision": "retain",
+      "base": "pathologise"
+    },
+    {
+      "front": "valorise",
+      "decision": "retain",
+      "base": "valorise"
+    },
+    {
+      "front": "revision",
+      "decision": "merge",
+      "base": "revise"
+    },
+    {
+      "front": "bind",
+      "decision": "retain",
+      "base": "bind"
+    },
+    {
+      "front": "routinely",
+      "decision": "merge",
+      "base": "routine"
+    },
+    {
+      "front": "feat",
+      "decision": "retain",
+      "base": "feat"
+    },
+    {
+      "front": "versus",
+      "decision": "retain",
+      "base": "versus"
+    },
+    {
+      "front": "casino",
+      "decision": "retain",
+      "base": "casino"
+    },
+    {
+      "front": "lament",
+      "decision": "retain",
+      "base": "lament"
+    },
+    {
+      "front": "villain",
+      "decision": "retain",
+      "base": "villain"
+    },
+    {
+      "front": "oligarch",
+      "decision": "retain",
+      "base": "oligarch"
+    },
+    {
+      "front": "feudal",
+      "decision": "retain",
+      "base": "feudal"
+    },
+    {
+      "front": "autocrat",
+      "decision": "retain",
+      "base": "autocrat"
+    },
+    {
+      "front": "fatalism",
+      "decision": "retain",
+      "base": "fatalism"
+    },
+    {
+      "front": "mourn",
+      "decision": "retain",
+      "base": "mourn"
+    },
+    {
+      "front": "craft",
+      "decision": "retain",
+      "base": "craft"
+    },
+    {
+      "front": "intention",
+      "decision": "merge",
+      "base": "intend"
+    },
+    {
+      "front": "skim",
+      "decision": "retain",
+      "base": "skim"
+    },
+    {
+      "front": "inflection point",
+      "decision": "retain",
+      "base": "inflection point"
+    },
+    {
+      "front": "slime",
+      "decision": "retain",
+      "base": "slime"
+    },
+    {
+      "front": "dense",
+      "decision": "retain",
+      "base": "dense"
+    },
+    {
+      "front": "evolve",
+      "decision": "retain",
+      "base": "evolve"
+    },
+    {
+      "front": "undulate",
+      "decision": "retain",
+      "base": "undulate"
+    },
+    {
+      "front": "unison",
+      "decision": "retain",
+      "base": "unison"
+    },
+    {
+      "front": "tease apart",
+      "decision": "retain",
+      "base": "tease apart"
+    },
+    {
+      "front": "heed",
+      "decision": "retain",
+      "base": "heed"
+    },
+    {
+      "front": "hunch",
+      "decision": "retain",
+      "base": "hunch"
+    },
+    {
+      "front": "solitary",
+      "decision": "retain",
+      "base": "solitary"
+    },
+    {
+      "front": "coalesce",
+      "decision": "retain",
+      "base": "coalesce"
+    },
+    {
+      "front": "stalk",
+      "decision": "retain",
+      "base": "stalk"
+    },
+    {
+      "front": "sacrifice",
+      "decision": "retain",
+      "base": "sacrifice"
+    },
+    {
+      "front": "spore",
+      "decision": "retain",
+      "base": "spore"
+    },
+    {
+      "front": "disperse",
+      "decision": "retain",
+      "base": "disperse"
+    },
+    {
+      "front": "aggregate",
+      "decision": "retain",
+      "base": "aggregate"
+    },
+    {
+      "front": "offspring",
+      "decision": "retain",
+      "base": "offspring"
+    },
+    {
+      "front": "straggler",
+      "decision": "retain",
+      "base": "straggler"
+    },
+    {
+      "front": "turn out to be",
+      "decision": "retain",
+      "base": "turn out to be"
+    },
+    {
+      "front": "fraction",
+      "decision": "retain",
+      "base": "fraction"
+    },
+    {
+      "front": "diffuse",
+      "decision": "retain",
+      "base": "diffuse"
+    },
+    {
+      "front": "impede",
+      "decision": "retain",
+      "base": "impede"
+    },
+    {
+      "front": "posit",
+      "decision": "retain",
+      "base": "posit"
+    },
+    {
+      "front": "bet hedging",
+      "decision": "retain",
+      "base": "bet hedging"
+    },
+    {
+      "front": "overrun",
+      "decision": "retain",
+      "base": "overrun"
+    },
+    {
+      "front": "selfish",
+      "decision": "retain",
+      "base": "selfish"
+    },
+    {
+      "front": "abruptly",
+      "decision": "merge",
+      "base": "abrupt"
+    },
+    {
+      "front": "transpire",
+      "decision": "retain",
+      "base": "transpire"
+    },
+    {
+      "front": "concept",
+      "decision": "retain",
+      "base": "concept"
+    },
+    {
+      "front": "antibiotic",
+      "decision": "retain",
+      "base": "antibiotic"
+    },
+    {
+      "front": "aggressive",
+      "decision": "retain",
+      "base": "aggressive"
+    },
+    {
+      "front": "chatter",
+      "decision": "retain",
+      "base": "chatter"
+    },
+    {
+      "front": "parasitic",
+      "decision": "merge",
+      "base": "parasite"
+    },
+    {
+      "front": "component",
+      "decision": "retain",
+      "base": "component"
+    },
+    {
+      "front": "illuminate",
+      "decision": "retain",
+      "base": "illuminate"
+    },
+    {
+      "front": "gain",
+      "decision": "retain",
+      "base": "gain"
+    },
+    {
+      "front": "game theory",
+      "decision": "retain",
+      "base": "game theory"
+    },
+    {
+      "front": "pin down",
+      "decision": "retain",
+      "base": "pin down"
+    },
+    {
+      "front": "prospect",
+      "decision": "retain",
+      "base": "prospect"
+    },
+    {
+      "front": "stabilize",
+      "decision": "retain",
+      "base": "stabilize"
+    },
+    {
+      "front": "caution",
+      "decision": "retain",
+      "base": "caution"
+    },
+    {
+      "front": "analogy",
+      "decision": "retain",
+      "base": "analogy"
+    },
+    {
+      "front": "peel off",
+      "decision": "retain",
+      "base": "peel off"
+    },
+    {
+      "front": "pyramid",
+      "decision": "retain",
+      "base": "pyramid"
+    },
+    {
+      "front": "tomb",
+      "decision": "retain",
+      "base": "tomb"
+    },
+    {
+      "front": "greedy",
+      "decision": "retain",
+      "base": "greedy"
+    },
+    {
+      "front": "oppressive",
+      "decision": "merge",
+      "base": "oppress"
+    },
+    {
+      "front": "circumscribe",
+      "decision": "retain",
+      "base": "circumscribe"
+    },
+    {
+      "front": "organically",
+      "decision": "merge",
+      "base": "organic"
+    },
+    {
+      "front": "contemporary",
+      "decision": "retain",
+      "base": "contemporary"
+    },
+    {
+      "front": "overturn",
+      "decision": "retain",
+      "base": "overturn"
+    },
+    {
+      "front": "egalitarian",
+      "decision": "retain",
+      "base": "egalitarian"
+    },
+    {
+      "front": "dubious",
+      "decision": "retain",
+      "base": "dubious"
+    },
+    {
+      "front": "apart from the fact that",
+      "decision": "retain",
+      "base": "apart from the fact that"
+    },
+    {
+      "front": "emphasise",
+      "decision": "retain",
+      "base": "emphasise"
+    },
+    {
+      "front": "spontaneous",
+      "decision": "retain",
+      "base": "spontaneous"
+    },
+    {
+      "front": "monumental",
+      "decision": "retain",
+      "base": "monumental"
+    },
+    {
+      "front": "spectacular",
+      "decision": "retain",
+      "base": "spectacular"
+    },
+    {
+      "front": "ruin",
+      "decision": "retain",
+      "base": "ruin"
+    },
+    {
+      "front": "funerary offering",
+      "decision": "retain",
+      "base": "funerary offering"
+    },
+    {
+      "front": "it would take A to do B",
+      "decision": "retain",
+      "base": "it would take A to do B"
+    },
+    {
+      "front": "tyrant",
+      "decision": "retain",
+      "base": "tyrant"
+    },
+    {
+      "front": "carve",
+      "decision": "retain",
+      "base": "carve"
+    },
+    {
+      "front": "billboard",
+      "decision": "retain",
+      "base": "billboard"
+    },
+    {
+      "front": "metropolis",
+      "decision": "retain",
+      "base": "metropolis"
+    },
+    {
+      "front": "coalition",
+      "decision": "retain",
+      "base": "coalition"
+    },
+    {
+      "front": "prosperous",
+      "decision": "merge",
+      "base": "prosper"
+    },
+    {
+      "front": "anthropology",
+      "decision": "retain",
+      "base": "anthropology"
+    },
+    {
+      "front": "capitalist",
+      "decision": "retain",
+      "base": "capitalist"
+    },
+    {
+      "front": "radically",
+      "decision": "merge",
+      "base": "radical"
+    },
+    {
+      "front": "modification",
+      "decision": "merge",
+      "base": "modify"
+    },
+    {
+      "front": "wage",
+      "decision": "retain",
+      "base": "wage"
+    },
+    {
+      "front": "Egypt",
+      "decision": "retain",
+      "base": "Egypt"
+    },
+    {
+      "front": "proliferation",
+      "decision": "merge",
+      "base": "proliferate"
+    },
+    {
+      "front": "structure",
+      "decision": "retain",
+      "base": "structure"
+    },
+    {
+      "front": "draw on",
+      "decision": "retain",
+      "base": "draw on"
+    },
+    {
+      "front": "provincial",
+      "decision": "retain",
+      "base": "provincial"
+    },
+    {
+      "front": "heap",
+      "decision": "retain",
+      "base": "heap"
+    },
+    {
+      "front": "ceramics",
+      "decision": "retain",
+      "base": "ceramics"
+    },
+    {
+      "front": "obsidian",
+      "decision": "retain",
+      "base": "obsidian"
+    },
+    {
+      "front": "utilitarian",
+      "decision": "retain",
+      "base": "utilitarian"
+    },
+    {
+      "front": "burner",
+      "decision": "retain",
+      "base": "burner"
+    },
+    {
+      "front": "figurine",
+      "decision": "retain",
+      "base": "figurine"
+    },
+    {
+      "front": "downtrodden",
+      "decision": "retain",
+      "base": "downtrodden"
+    },
+    {
+      "front": "in turn",
+      "decision": "retain",
+      "base": "in turn"
+    },
+    {
+      "front": "the X turn",
+      "decision": "retain",
+      "base": "the X turn"
+    },
+    {
+      "front": "hold back",
+      "decision": "retain",
+      "base": "hold back"
+    },
+    {
+      "front": "reject A in favour of B",
+      "decision": "retain",
+      "base": "reject A in favour of B"
+    },
+    {
+      "front": "antagonism",
+      "decision": "retain",
+      "base": "antagonism"
+    },
+    {
+      "front": "in favour of",
+      "decision": "retain",
+      "base": "in favour of"
+    },
+    {
+      "front": "pathbreaking",
+      "decision": "retain",
+      "base": "pathbreaking"
+    },
+    {
+      "front": "in terms of",
+      "decision": "retain",
+      "base": "in terms of"
+    },
+    {
+      "front": "identify",
+      "decision": "retain",
+      "base": "identify"
+    },
+    {
+      "front": "threshold",
+      "decision": "retain",
+      "base": "threshold"
+    },
+    {
+      "front": "unrest",
+      "decision": "retain",
+      "base": "unrest"
+    },
+    {
+      "front": "approximately",
+      "decision": "merge",
+      "base": "approximate"
+    },
+    {
+      "front": "segregation",
+      "decision": "merge",
+      "base": "segregate"
+    },
+    {
+      "front": "vindicate",
+      "decision": "retain",
+      "base": "vindicate"
+    },
+    {
+      "front": "legible",
+      "decision": "retain",
+      "base": "legible"
+    },
+    {
+      "front": "congenial",
+      "decision": "retain",
+      "base": "congenial"
+    },
+    {
+      "front": "sedentary",
+      "decision": "retain",
+      "base": "sedentary"
+    },
+    {
+      "front": "vital",
+      "decision": "retain",
+      "base": "vital"
+    },
+    {
+      "front": "can hardly be exaggerated",
+      "decision": "retain",
+      "base": "can hardly be exaggerated"
+    },
+    {
+      "front": "ridicule",
+      "decision": "retain",
+      "base": "ridicule"
+    },
+    {
+      "front": "imply",
+      "decision": "retain",
+      "base": "imply"
+    },
+    {
+      "front": "provision",
+      "decision": "retain",
+      "base": "provision"
+    },
+    {
+      "front": "facilitate",
+      "decision": "retain",
+      "base": "facilitate"
+    },
+    {
+      "front": "any given + 单数名词",
+      "decision": "retain",
+      "base": "any given + 单数名词"
+    },
+    {
+      "front": "transient",
+      "decision": "retain",
+      "base": "transient"
+    },
+    {
+      "front": "exponentially",
+      "decision": "merge",
+      "base": "exponential"
+    },
+    {
+      "front": "encounter",
+      "decision": "retain",
+      "base": "encounter"
+    },
+    {
+      "front": "joint",
+      "decision": "retain",
+      "base": "joint"
+    },
+    {
+      "front": "refusal",
+      "decision": "merge",
+      "base": "refuse"
+    },
+    {
+      "front": "distrust",
+      "decision": "retain",
+      "base": "distrust"
+    },
+    {
+      "front": "regularity",
+      "decision": "merge",
+      "base": "regular"
+    },
+    {
+      "front": "hold for",
+      "decision": "retain",
+      "base": "hold for"
+    },
+    {
+      "front": "coin a term",
+      "decision": "retain",
+      "base": "coin a term"
+    },
+    {
+      "front": "tension",
+      "decision": "retain",
+      "base": "tension"
+    },
+    {
+      "front": "transformer",
+      "decision": "retain",
+      "base": "transformer"
+    },
+    {
+      "front": "sufficiently",
+      "decision": "merge",
+      "base": "sufficient"
+    },
+    {
+      "front": "basin",
+      "decision": "retain",
+      "base": "basin"
+    },
+    {
+      "front": "fluke",
+      "decision": "retain",
+      "base": "fluke"
+    },
+    {
+      "front": "layout",
+      "decision": "retain",
+      "base": "layout"
+    },
+    {
+      "front": "organise",
+      "decision": "retain",
+      "base": "organise"
+    },
+    {
+      "front": "described above",
+      "decision": "retain",
+      "base": "described above"
+    },
+    {
+      "front": "borrow",
+      "decision": "retain",
+      "base": "borrow"
+    },
+    {
+      "front": "permanent",
+      "decision": "retain",
+      "base": "permanent"
+    },
+    {
+      "front": "heterogeneity",
+      "decision": "merge",
+      "base": "heterogeneous"
+    },
+    {
+      "front": "leave out",
+      "decision": "retain",
+      "base": "leave out"
+    },
+    {
+      "front": "be home to",
+      "decision": "retain",
+      "base": "be home to"
+    },
+    {
+      "front": "persist",
+      "decision": "retain",
+      "base": "persist"
+    },
+    {
+      "front": "be doomed to failure",
+      "decision": "retain",
+      "base": "be doomed to failure"
+    },
+    {
+      "front": "bear on",
+      "decision": "retain",
+      "base": "bear on"
+    },
+    {
+      "front": "pressing problem",
+      "decision": "retain",
+      "base": "pressing problem"
+    },
+    {
+      "front": "adversity",
+      "decision": "retain",
+      "base": "adversity"
+    },
+    {
+      "front": "relentlessly",
+      "decision": "merge",
+      "base": "relentless"
+    },
+    {
+      "front": "accent",
+      "decision": "retain",
+      "base": "accent"
+    },
+    {
+      "front": "humiliation",
+      "decision": "merge",
+      "base": "humiliate"
+    },
+    {
+      "front": "furious",
+      "decision": "retain",
+      "base": "furious"
+    },
+    {
+      "front": "swap",
+      "decision": "retain",
+      "base": "swap"
+    },
+    {
+      "front": "on closer examination",
+      "decision": "retain",
+      "base": "on closer examination"
+    },
+    {
+      "front": "amnesia",
+      "decision": "retain",
+      "base": "amnesia"
+    },
+    {
+      "front": "infantile",
+      "decision": "retain",
+      "base": "infantile"
+    },
+    {
+      "front": "narrate",
+      "decision": "retain",
+      "base": "narrate"
+    },
+    {
+      "front": "in a profound way",
+      "decision": "retain",
+      "base": "in a profound way"
+    },
+    {
+      "front": "wield",
+      "decision": "retain",
+      "base": "wield"
+    },
+    {
+      "front": "formidable",
+      "decision": "retain",
+      "base": "formidable"
+    },
+    {
+      "front": "embellish",
+      "decision": "retain",
+      "base": "embellish"
+    },
+    {
+      "front": "fabrication",
+      "decision": "merge",
+      "base": "fabricate"
+    },
+    {
+      "front": "plausible",
+      "decision": "retain",
+      "base": "plausible"
+    },
+    {
+      "front": "incendiary",
+      "decision": "retain",
+      "base": "incendiary"
+    },
+    {
+      "front": "implant",
+      "decision": "retain",
+      "base": "implant"
+    },
+    {
+      "front": "consensual",
+      "decision": "retain",
+      "base": "consensual"
+    },
+    {
+      "front": "think less of A than of B",
+      "decision": "retain",
+      "base": "think less of A than of B"
+    },
+    {
+      "front": "sear",
+      "decision": "retain",
+      "base": "sear"
+    },
+    {
+      "front": "chances are",
+      "decision": "retain",
+      "base": "chances are"
+    },
+    {
+      "front": "aggrandise",
+      "decision": "retain",
+      "base": "aggrandise"
+    },
+    {
+      "front": "amplify",
+      "decision": "retain",
+      "base": "amplify"
+    },
+    {
+      "front": "faulty",
+      "decision": "merge",
+      "base": "fault"
+    },
+    {
+      "front": "autobiography",
+      "decision": "retain",
+      "base": "autobiography"
+    },
+    {
+      "front": "strive",
+      "decision": "retain",
+      "base": "strive"
+    },
+    {
+      "front": "illusion",
+      "decision": "retain",
+      "base": "illusion"
+    },
+    {
+      "front": "anticipatory",
+      "decision": "merge",
+      "base": "anticipate"
+    },
+    {
+      "front": "heighten",
+      "decision": "retain",
+      "base": "heighten"
+    },
+    {
+      "front": "unwittingly",
+      "decision": "merge",
+      "base": "unwitting"
+    },
+    {
+      "front": "amass",
+      "decision": "retain",
+      "base": "amass"
+    },
+    {
+      "front": "corroborate",
+      "decision": "retain",
+      "base": "corroborate"
+    },
+    {
+      "front": "readily",
+      "decision": "retain",
+      "base": "readily"
+    },
+    {
+      "front": "eavesdrop",
+      "decision": "retain",
+      "base": "eavesdrop"
+    },
+    {
+      "front": "cringe",
+      "decision": "retain",
+      "base": "cringe"
+    },
+    {
+      "front": "correspondence",
+      "decision": "merge",
+      "base": "correspond"
+    },
+    {
+      "front": "renegotiate",
+      "decision": "retain",
+      "base": "renegotiate"
+    },
+    {
+      "front": "coincidence",
+      "decision": "retain",
+      "base": "coincidence"
+    },
+    {
+      "front": "take a firm line on something",
+      "decision": "retain",
+      "base": "take a firm line on something"
+    },
+    {
+      "front": "bully",
+      "decision": "retain",
+      "base": "bully"
+    },
+    {
+      "front": "diverge",
+      "decision": "retain",
+      "base": "diverge"
+    },
+    {
+      "front": "sober",
+      "decision": "retain",
+      "base": "sober"
+    },
+    {
+      "front": "off we went",
+      "decision": "retain",
+      "base": "off we went"
+    },
+    {
+      "front": "drop out of",
+      "decision": "retain",
+      "base": "drop out of"
+    },
+    {
+      "front": "entrance",
+      "decision": "retain",
+      "base": "entrance"
+    },
+    {
+      "front": "barrel",
+      "decision": "retain",
+      "base": "barrel"
+    },
+    {
+      "front": "bump",
+      "decision": "retain",
+      "base": "bump"
+    },
+    {
+      "front": "rupture",
+      "decision": "retain",
+      "base": "rupture"
+    },
+    {
+      "front": "tendon",
+      "decision": "retain",
+      "base": "tendon"
+    },
+    {
+      "front": "not anywhere near as much as ...",
+      "decision": "retain",
+      "base": "not anywhere near as much as ..."
+    },
+    {
+      "front": "grip",
+      "decision": "retain",
+      "base": "grip"
+    },
+    {
+      "front": "limp",
+      "decision": "retain",
+      "base": "limp"
+    },
+    {
+      "front": "one's way through",
+      "decision": "retain",
+      "base": "one's way through"
+    },
+    {
+      "front": "sake",
+      "decision": "retain",
+      "base": "sake"
+    },
+    {
+      "front": "would find myself doing something",
+      "decision": "retain",
+      "base": "would find myself doing something"
+    },
+    {
+      "front": "incipient",
+      "decision": "retain",
+      "base": "incipient"
+    },
+    {
+      "front": "athletic",
+      "decision": "retain",
+      "base": "athletic"
+    },
+    {
+      "front": "fit in something",
+      "decision": "retain",
+      "base": "fit in something"
+    },
+    {
+      "front": "couch",
+      "decision": "retain",
+      "base": "couch"
+    },
+    {
+      "front": "contour",
+      "decision": "retain",
+      "base": "contour"
+    },
+    {
+      "front": "yesteryear",
+      "decision": "retain",
+      "base": "yesteryear"
+    },
+    {
+      "front": "be taken up with something",
+      "decision": "retain",
+      "base": "be taken up with something"
+    },
+    {
+      "front": "it is tempting to do something",
+      "decision": "retain",
+      "base": "it is tempting to do something"
+    },
+    {
+      "front": "template",
+      "decision": "retain",
+      "base": "template"
+    },
+    {
+      "front": "ditto",
+      "decision": "retain",
+      "base": "ditto"
+    },
+    {
+      "front": "portray",
+      "decision": "retain",
+      "base": "portray"
+    },
+    {
+      "front": "ilk",
+      "decision": "retain",
+      "base": "ilk"
+    },
+    {
+      "front": "far from it",
+      "decision": "retain",
+      "base": "far from it"
+    },
+    {
+      "front": "astride",
+      "decision": "retain",
+      "base": "astride"
+    },
+    {
+      "front": "justify doing something",
+      "decision": "retain",
+      "base": "justify doing something"
+    },
+    {
+      "front": "assimilate",
+      "decision": "retain",
+      "base": "assimilate"
+    },
+    {
+      "front": "assimilate A into B",
+      "decision": "retain",
+      "base": "assimilate A into B"
+    },
+    {
+      "front": "grim",
+      "decision": "retain",
+      "base": "grim"
+    },
+    {
+      "front": "just around the corner",
+      "decision": "retain",
+      "base": "just around the corner"
+    },
+    {
+      "front": "intrinsic",
+      "decision": "retain",
+      "base": "intrinsic"
+    },
+    {
+      "front": "instigate",
+      "decision": "retain",
+      "base": "instigate"
+    },
+    {
+      "front": "yell",
+      "decision": "retain",
+      "base": "yell"
+    },
+    {
+      "front": "lob",
+      "decision": "retain",
+      "base": "lob"
+    },
+    {
+      "front": "racket",
+      "decision": "retain",
+      "base": "racket"
+    },
+    {
+      "front": "amid",
+      "decision": "retain",
+      "base": "amid"
+    },
+    {
+      "front": "squeal",
+      "decision": "retain",
+      "base": "squeal"
+    },
+    {
+      "front": "cackle",
+      "decision": "retain",
+      "base": "cackle"
+    },
+    {
+      "front": "unleash",
+      "decision": "retain",
+      "base": "unleash"
+    },
+    {
+      "front": "testament",
+      "decision": "retain",
+      "base": "testament"
+    },
+    {
+      "front": "deed",
+      "decision": "retain",
+      "base": "deed"
+    },
+    {
+      "front": "had better",
+      "decision": "retain",
+      "base": "had better"
+    },
+    {
+      "front": "stoop",
+      "decision": "retain",
+      "base": "stoop"
+    },
+    {
+      "front": "recede",
+      "decision": "retain",
+      "base": "recede"
+    },
+    {
+      "front": "pluck",
+      "decision": "retain",
+      "base": "pluck"
+    },
+    {
+      "front": "consumerism",
+      "decision": "retain",
+      "base": "consumerism"
+    },
+    {
+      "front": "treadmill",
+      "decision": "retain",
+      "base": "treadmill"
+    },
+    {
+      "front": "parlance",
+      "decision": "retain",
+      "base": "parlance"
+    },
+    {
+      "front": "ferocious",
+      "decision": "retain",
+      "base": "ferocious"
+    },
+    {
+      "front": "thrust",
+      "decision": "retain",
+      "base": "thrust"
+    },
+    {
+      "front": "savage",
+      "decision": "retain",
+      "base": "savage"
+    },
+    {
+      "front": "swing",
+      "decision": "retain",
+      "base": "swing"
+    },
+    {
+      "front": "acquaint",
+      "decision": "retain",
+      "base": "acquaint"
+    },
+    {
+      "front": "apex",
+      "decision": "retain",
+      "base": "apex"
+    },
+    {
+      "front": "strip A of B",
+      "decision": "retain",
+      "base": "strip A of B"
+    },
+    {
+      "front": "the fabric of things",
+      "decision": "retain",
+      "base": "the fabric of things"
+    },
+    {
+      "front": "theorise",
+      "decision": "retain",
+      "base": "theorise"
+    },
+    {
+      "front": "cerebral",
+      "decision": "retain",
+      "base": "cerebral"
+    },
+    {
+      "front": "apprehension",
+      "decision": "retain",
+      "base": "apprehension"
+    },
+    {
+      "front": "senile",
+      "decision": "retain",
+      "base": "senile"
+    },
+    {
+      "front": "thrust something upon somebody",
+      "decision": "retain",
+      "base": "thrust something upon somebody"
+    },
+    {
+      "front": "intransigent",
+      "decision": "retain",
+      "base": "intransigent"
+    },
+    {
+      "front": "dissemble",
+      "decision": "retain",
+      "base": "dissemble"
+    },
+    {
+      "front": "in the blink of an eye",
+      "decision": "retain",
+      "base": "in the blink of an eye"
+    },
+    {
+      "front": "as opposed to",
+      "decision": "retain",
+      "base": "as opposed to"
+    },
+    {
+      "front": "accrue",
+      "decision": "retain",
+      "base": "accrue"
+    },
+    {
+      "front": "bonus",
+      "decision": "retain",
+      "base": "bonus"
+    },
+    {
+      "front": "incidental",
+      "decision": "retain",
+      "base": "incidental"
+    },
+    {
+      "front": "wreak",
+      "decision": "retain",
+      "base": "wreak"
+    },
+    {
+      "front": "skyrocket",
+      "decision": "retain",
+      "base": "skyrocket"
+    },
+    {
+      "front": "mining",
+      "decision": "merge",
+      "base": "mine"
+    },
+    {
+      "front": "combined with",
+      "decision": "retain",
+      "base": "combined with"
+    },
+    {
+      "front": "scarce",
+      "decision": "retain",
+      "base": "scarce"
+    },
+    {
+      "front": "gravel",
+      "decision": "retain",
+      "base": "gravel"
+    },
+    {
+      "front": "uneven",
+      "decision": "retain",
+      "base": "uneven"
+    },
+    {
+      "front": "commodity",
+      "decision": "retain",
+      "base": "commodity"
+    },
+    {
+      "front": "profiteering",
+      "decision": "merge",
+      "base": "profiteer"
+    },
+    {
+      "front": "monopoly",
+      "decision": "retain",
+      "base": "monopoly"
+    },
+    {
+      "front": "dispute",
+      "decision": "retain",
+      "base": "dispute"
+    },
+    {
+      "front": "buffer",
+      "decision": "retain",
+      "base": "buffer"
+    },
+    {
+      "front": "deserve",
+      "decision": "retain",
+      "base": "deserve"
+    },
+    {
+      "front": "immerse",
+      "decision": "retain",
+      "base": "immerse"
+    },
+    {
+      "front": "exuberant",
+      "decision": "retain",
+      "base": "exuberant"
+    },
+    {
+      "front": "recuperate",
+      "decision": "retain",
+      "base": "recuperate"
+    },
+    {
+      "front": "longing",
+      "decision": "retain",
+      "base": "longing"
+    },
+    {
+      "front": "rationalise",
+      "decision": "retain",
+      "base": "rationalise"
+    },
+    {
+      "front": "commit",
+      "decision": "retain",
+      "base": "commit"
+    },
+    {
+      "front": "brief",
+      "decision": "retain",
+      "base": "brief"
+    },
+    {
+      "front": "mature",
+      "decision": "retain",
+      "base": "mature"
+    },
+    {
+      "front": "reclaim",
+      "decision": "retain",
+      "base": "reclaim"
+    },
+    {
+      "front": "coast",
+      "decision": "retain",
+      "base": "coast"
+    },
+    {
+      "front": "envision",
+      "decision": "retain",
+      "base": "envision"
+    },
+    {
+      "front": "reputation",
+      "decision": "retain",
+      "base": "reputation"
+    },
+    {
+      "front": "nascent",
+      "decision": "retain",
+      "base": "nascent"
+    },
+    {
+      "front": "condense",
+      "decision": "retain",
+      "base": "condense"
+    },
+    {
+      "front": "centrifugal",
+      "decision": "retain",
+      "base": "centrifugal"
+    },
+    {
+      "front": "refrigerate",
+      "decision": "retain",
+      "base": "refrigerate"
+    },
+    {
+      "front": "tinker",
+      "decision": "retain",
+      "base": "tinker"
+    },
+    {
+      "front": "precursor",
+      "decision": "retain",
+      "base": "precursor"
+    },
+    {
+      "front": "thwart",
+      "decision": "retain",
+      "base": "thwart"
+    },
+    {
+      "front": "penniless",
+      "decision": "retain",
+      "base": "penniless"
+    },
+    {
+      "front": "thermometer",
+      "decision": "retain",
+      "base": "thermometer"
+    },
+    {
+      "front": "igloo",
+      "decision": "retain",
+      "base": "igloo"
+    },
+    {
+      "front": "curator",
+      "decision": "merge",
+      "base": "curate"
+    },
+    {
+      "front": "relief",
+      "decision": "retain",
+      "base": "relief"
+    },
+    {
+      "front": "manufacture",
+      "decision": "retain",
+      "base": "manufacture"
+    },
+    {
+      "front": "garner",
+      "decision": "retain",
+      "base": "garner"
+    },
+    {
+      "front": "coverage",
+      "decision": "retain",
+      "base": "coverage"
+    },
+    {
+      "front": "prevail",
+      "decision": "retain",
+      "base": "prevail"
+    },
+    {
+      "front": "take something by storm",
+      "decision": "retain",
+      "base": "take something by storm"
+    },
+    {
+      "front": "stale",
+      "decision": "retain",
+      "base": "stale"
+    },
+    {
+      "front": "patronage",
+      "decision": "retain",
+      "base": "patronage"
+    },
+    {
+      "front": "moderate",
+      "decision": "retain",
+      "base": "moderate"
+    },
+    {
+      "front": "proliferate",
+      "decision": "retain",
+      "base": "proliferate"
+    },
+    {
+      "front": "ideology",
+      "decision": "retain",
+      "base": "ideology"
+    },
+    {
+      "front": "fountain",
+      "decision": "retain",
+      "base": "fountain"
+    },
+    {
+      "front": "to the extent",
+      "decision": "retain",
+      "base": "to the extent"
+    },
+    {
+      "front": "stark",
+      "decision": "retain",
+      "base": "stark"
+    },
+    {
+      "front": "predilection",
+      "decision": "retain",
+      "base": "predilection"
+    },
+    {
+      "front": "cutback",
+      "decision": "retain",
+      "base": "cutback"
+    },
+    {
+      "front": "sequence",
+      "decision": "retain",
+      "base": "sequence"
+    },
+    {
+      "front": "unfold",
+      "decision": "retain",
+      "base": "unfold"
+    },
+    {
+      "front": "shuffle",
+      "decision": "retain",
+      "base": "shuffle"
+    },
+    {
+      "front": "attach",
+      "decision": "retain",
+      "base": "attach"
+    },
+    {
+      "front": "scaffold",
+      "decision": "retain",
+      "base": "scaffold"
+    },
+    {
+      "front": "appetizer",
+      "decision": "retain",
+      "base": "appetizer"
+    },
+    {
+      "front": "noteworthy",
+      "decision": "retain",
+      "base": "noteworthy"
+    },
+    {
+      "front": "mirror",
+      "decision": "retain",
+      "base": "mirror"
+    },
+    {
+      "front": "hone",
+      "decision": "retain",
+      "base": "hone"
+    },
+    {
+      "front": "bore",
+      "decision": "retain",
+      "base": "bore"
+    },
+    {
+      "front": "debut",
+      "decision": "retain",
+      "base": "debut"
+    },
+    {
+      "front": "proxy",
+      "decision": "retain",
+      "base": "proxy"
+    },
+    {
+      "front": "resolution",
+      "decision": "retain",
+      "base": "resolution"
+    },
+    {
+      "front": "akin",
+      "decision": "retain",
+      "base": "akin"
+    },
+    {
+      "front": "denote",
+      "decision": "retain",
+      "base": "denote"
+    },
+    {
+      "front": "content",
+      "decision": "retain",
+      "base": "content"
+    },
+    {
+      "front": "could they tell ... whether ...?",
+      "decision": "retain",
+      "base": "could they tell ... whether ...?"
+    },
+    {
+      "front": "substitute",
+      "decision": "retain",
+      "base": "substitute"
+    },
+    {
+      "front": "thicket",
+      "decision": "retain",
+      "base": "thicket"
+    },
+    {
+      "front": "prior to",
+      "decision": "retain",
+      "base": "prior to"
+    },
+    {
+      "front": "deluge",
+      "decision": "retain",
+      "base": "deluge"
+    },
+    {
+      "front": "wane",
+      "decision": "retain",
+      "base": "wane"
+    },
+    {
+      "front": "converge",
+      "decision": "retain",
+      "base": "converge"
+    },
+    {
+      "front": "spaghetti",
+      "decision": "retain",
+      "base": "spaghetti"
+    },
+    {
+      "front": "recollect",
+      "decision": "retain",
+      "base": "recollect"
+    },
+    {
+      "front": "affair",
+      "decision": "retain",
+      "base": "affair"
+    },
+    {
+      "front": "convey",
+      "decision": "retain",
+      "base": "convey"
+    },
+    {
+      "front": "revolve",
+      "decision": "retain",
+      "base": "revolve"
+    },
+    {
+      "front": "segment",
+      "decision": "retain",
+      "base": "segment"
+    },
+    {
+      "front": "chunk",
+      "decision": "retain",
+      "base": "chunk"
+    },
+    {
+      "front": "wedge",
+      "decision": "retain",
+      "base": "wedge"
+    },
+    {
+      "front": "correspond",
+      "decision": "retain",
+      "base": "correspond"
+    },
+    {
+      "front": "spatial",
+      "decision": "retain",
+      "base": "spatial"
+    },
+    {
+      "front": "subdivide",
+      "decision": "retain",
+      "base": "subdivide"
+    },
+    {
+      "front": "or so",
+      "decision": "retain",
+      "base": "or so"
+    },
+    {
+      "front": "disparate",
+      "decision": "retain",
+      "base": "disparate"
+    },
+    {
+      "front": "the province of science",
+      "decision": "retain",
+      "base": "the province of science"
+    },
+    {
+      "front": "monolith",
+      "decision": "retain",
+      "base": "monolith"
+    },
+    {
+      "front": "favor",
+      "decision": "retain",
+      "base": "favor"
+    },
+    {
+      "front": "theme",
+      "decision": "retain",
+      "base": "theme"
+    },
+    {
+      "front": "genre",
+      "decision": "retain",
+      "base": "genre"
+    },
+    {
+      "front": "common",
+      "decision": "retain",
+      "base": "common"
+    },
+    {
+      "front": "set out to",
+      "decision": "retain",
+      "base": "set out to"
+    },
+    {
+      "front": "redundant",
+      "decision": "retain",
+      "base": "redundant"
+    },
+    {
+      "front": "ream",
+      "decision": "retain",
+      "base": "ream"
+    },
+    {
+      "front": "take a crack at something",
+      "decision": "retain",
+      "base": "take a crack at something"
+    },
+    {
+      "front": "definitive",
+      "decision": "retain",
+      "base": "definitive"
+    },
+    {
+      "front": "centralize",
+      "decision": "retain",
+      "base": "centralize"
+    },
+    {
+      "front": "render",
+      "decision": "retain",
+      "base": "render"
+    },
+    {
+      "front": "arrange",
+      "decision": "retain",
+      "base": "arrange"
+    },
+    {
+      "front": "vex",
+      "decision": "retain",
+      "base": "vex"
+    },
+    {
+      "front": "baffle",
+      "decision": "retain",
+      "base": "baffle"
+    },
+    {
+      "front": "bolster",
+      "decision": "retain",
+      "base": "bolster"
+    },
+    {
+      "front": "do a good job doing something",
+      "decision": "retain",
+      "base": "do a good job doing something"
+    },
+    {
+      "front": "bring ... online",
+      "decision": "retain",
+      "base": "bring ... online"
+    },
+    {
+      "front": "role",
+      "decision": "retain",
+      "base": "role"
+    },
+    {
+      "front": "underscore",
+      "decision": "retain",
+      "base": "underscore"
+    },
+    {
+      "front": "perspective",
+      "decision": "retain",
+      "base": "perspective"
+    },
+    {
+      "front": "prime",
+      "decision": "retain",
+      "base": "prime"
+    },
+    {
+      "front": "preconception",
+      "decision": "retain",
+      "base": "preconception"
+    },
+    {
+      "front": "mindset",
+      "decision": "retain",
+      "base": "mindset"
+    },
+    {
+      "front": "predispose",
+      "decision": "retain",
+      "base": "predispose"
+    },
+    {
+      "front": "volition",
+      "decision": "retain",
+      "base": "volition"
+    },
+    {
+      "front": "nuance",
+      "decision": "retain",
+      "base": "nuance"
+    },
+    {
+      "front": "leverage",
+      "decision": "retain",
+      "base": "leverage"
+    },
+    {
+      "front": "exceptional",
+      "decision": "retain",
+      "base": "exceptional"
+    },
+    {
+      "front": "shed light on",
+      "decision": "retain",
+      "base": "shed light on"
+    },
+    {
+      "front": "toddler",
+      "decision": "retain",
+      "base": "toddler"
+    },
+    {
+      "front": "dentist",
+      "decision": "retain",
+      "base": "dentist"
+    },
+    {
+      "front": "rivet",
+      "decision": "retain",
+      "base": "rivet"
+    },
+    {
+      "front": "brutal",
+      "decision": "retain",
+      "base": "brutal"
+    },
+    {
+      "front": "bewilder",
+      "decision": "retain",
+      "base": "bewilder"
+    },
+    {
+      "front": "take place",
+      "decision": "retain",
+      "base": "take place"
+    },
+    {
+      "front": "routine",
+      "decision": "retain",
+      "base": "routine"
+    },
+    {
+      "front": "comprise",
+      "decision": "retain",
+      "base": "comprise"
+    }
+  ]
+}

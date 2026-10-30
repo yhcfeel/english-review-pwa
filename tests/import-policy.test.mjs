@@ -7,9 +7,9 @@ const now=d=>new Date(2026,9,d,12);
 const card=(dates,front='coffee')=>({front,batches:dates.map(date=>({date,repeat:false})),back:{meaning:'咖啡',example:'Coffee.'}});
 test('protection uses latest batch and local calendar dates, including midnight/month boundaries',()=>{
  const c=card(['2026-10-10','2026-10-22']);
- for(const d of [22,23,24])assert(isProtected(c,now(d)));
- assert(!isProtected(c,new Date(2026,9,25,0,0)));assert(isProtected(c,new Date(2026,9,24,23,59)));
- assert(isProtected(card(['2026-10-31']),new Date(2026,10,2,23)));assert(!isProtected(card(['2026-10-31']),new Date(2026,10,3)));
+ for(const d of [22,23,24,25])assert(isProtected(c,now(d)));
+ assert(!isProtected(c,new Date(2026,9,26,0,0)));assert(isProtected(c,new Date(2026,9,25,23,59)));
+ assert(isProtected(card(['2026-10-31']),new Date(2026,10,3,23)));assert(!isProtected(card(['2026-10-31']),new Date(2026,10,4)));
  assert(!isProtected({front:'legacy'},now(22)));assert(!isProtected(card(['2026-02-30']),now(22)));
 });
 test('protected known ratings finish the local round but never build mastery; after expiry counts start at one',()=>{
@@ -20,7 +20,7 @@ test('protected known ratings finish the local round but never build mastery; af
   assert.equal(rateCard(newRound(1),'known').current,null);
  }
  data={...data,allRound:5};data=recordKnowledge(data,'coffee','known','all',true,false,now(25));assert.equal(data.words.coffee.known,1);
- data={...data,allRound:6};data=recordKnowledge(data,'coffee','known','all',true,false,now(26));assert(data.words.coffee.mastered);
+ data={...data,allRound:6};data=recordKnowledge(data,'coffee','known','all',true,false,now(26));assert(!data.words.coffee.mastered);data={...data,allRound:7};data=recordKnowledge(data,'coffee','known','all',true,false,now(27));assert(data.words.coffee.mastered);
 });
 test('difficulty and permanent forgetting still accumulate during protection',()=>{
  let d=emptyKnowledge();
@@ -43,9 +43,9 @@ test('second distinct batch reactivates mastered word as difficult, preserving p
  d={...d,allRound:3,words:{coffee:{...emptyWord(),known:2,mastered:true,permanent:true,ratedRound:3}}};
  const deck=[card(['2026-10-18','2026-10-22','2026-10-22'])];
  d=syncImports(d,deck,now(22));assert.equal(d.imports.coffee.length,2);assert(d.words.coffee.difficult);assert(!d.words.coffee.mastered);assert.equal(d.words.coffee.known,0);assert(d.words.coffee.permanent);
- for(let i=1;i<=3;i++){
+ for(let i=1;i<=4;i++){
   d={...d,allRound:3+i};d=recordKnowledge(d,'coffee','known','all',true,false,now(24+i));
-  assert.equal(d.words.coffee.mastered,i===3);assert.deepEqual(syncImports(d,deck,now(26)),d);
+  assert.equal(d.words.coffee.mastered,i===4);assert.deepEqual(syncImports(d,deck,now(26)),d);
  }
  const third=[card(['2026-10-18','2026-10-22','2026-10-26'])];d=syncImports(d,third,now(26));assert(!d.words.coffee.mastered);assert(d.words.coffee.difficult);assert(d.words.coffee.permanent);
 });

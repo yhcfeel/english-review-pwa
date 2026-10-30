@@ -4,7 +4,7 @@ import {readFileSync} from 'node:fs';
 import {selectQueue,isPriority} from '../src/queues.mjs';
 import {syncImports} from '../src/importPolicy.mjs';
 import {emptyKnowledge,emptyWord} from '../src/knowledge.mjs';
-const cards=JSON.parse(readFileSync('public/data/cards.json','utf8'));
+const cards=JSON.parse(readFileSync('public/data/cards.json','utf8')).map(c=>({...c,mergedInto:undefined,familyBatches:undefined,relearnOn:undefined})); // Historical import behavior before the October 30 migration.
 const report=JSON.parse(readFileSync('public/data/imports/2026-10-27.json','utf8'));
 const today=selectQueue(cards,'latest','2026-10-27');
 test('October 27 excludes 392 historical lines and maps all 244 fresh inputs to 229 cards',()=>{

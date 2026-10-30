@@ -1,9 +1,10 @@
+import {migrateFamilies} from './families.mjs';
 import {getSenses} from './cards.mjs';
 import {selectQueue} from './queues.mjs';
 import {deckKey,newRound,validRound} from './review.mjs';
 
 /** @typedef {{known:number,difficult:boolean,mastered:boolean,forgot:number,permanent:boolean,candidate:number|null,ratedRound:number,firstForgot:boolean,knownDay?:string}} Word */
-/** @typedef {{version:number,allRound:number,words:Record<string,Word>,queues:Record<string,string>,imports?:Record<string,string[]>}} Knowledge */
+/** @typedef {{version:number,allRound:number,words:Record<string,Word>,queues:Record<string,string>,imports?:Record<string,string[]>,relearnVersion?:string}} Knowledge */
 /** @returns {Knowledge} */
 export function emptyKnowledge(){return {version:1,allRound:0,words:{},queues:{}};}
 /** @returns {Word} */
@@ -17,7 +18,8 @@ const calendarDay=now=>`${now.getFullYear()}-${String(now.getMonth()+1).padStart
 const dayNumber=day=>typeof day==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(day)&&Number.isFinite(Date.parse(day))&&new Date(day).toISOString().slice(0,10)===day?Date.parse(day)/86400000:NaN;
 export function validKnowledge(data){
  return !!data&&data.version===1&&integer(data.allRound)&&data.words&&typeof data.words==='object'&&!Array.isArray(data.words)&&data.queues&&typeof data.queues==='object'&&!Array.isArray(data.queues)
- &&Object.values(data.words).every(w=>w&&integer(w.known)&&w.known<=3&&integer(w.forgot)&&w.forgot<=3&&['difficult','mastered','permanent','firstForgot'].every(k=>typeof w[k]==='boolean')&&integer(w.ratedRound)&&w.ratedRound<=data.allRound&&(w.candidate===null||(integer(w.candidate)&&w.candidate>0&&w.candidate<=data.allRound))&&(!w.mastered||!w.difficult)&&(w.knownDay===undefined||Number.isFinite(dayNumber(w.knownDay))))
+ &&Object.values(data.words).every(w=>w&&integer(w.known)&&w.known<=4&&integer(w.forgot)&&w.forgot<=3&&['difficult','mastered','permanent','firstForgot'].every(k=>typeof w[k]==='boolean')&&integer(w.ratedRound)&&w.ratedRound<=data.allRound&&(w.candidate===null||(integer(w.candidate)&&w.candidate>0&&w.candidate<=data.allRound))&&(!w.mastered||!w.difficult)&&(w.knownDay===undefined||Number.isFinite(dayNumber(w.knownDay))))
+ &&(data.relearnVersion===undefined||Number.isFinite(dayNumber(data.relearnVersion)))
  &&Object.entries(data.queues).every(([key,value])=>(key==='all'||key.startsWith('latest:'))&&typeof value==='string')
  &&(data.imports===undefined||(data.imports&&typeof data.imports==='object'&&!Array.isArray(data.imports)&&Object.values(data.imports).every(keys=>Array.isArray(keys)&&new Set(keys).size===keys.length&&keys.every(k=>typeof k==='string'&&/^\d{4}-\d{2}-\d{2}(?:-\d{2})?$/.test(k)))));
 }
@@ -32,7 +34,7 @@ export function readKnowledge(storage,base){
  }
  return {...data,queues:{...queues,...data.queues}};
 }
-export function activeQueue(cards,mode,batch,data){return selectQueue(cards,mode,batch).filter(card=>!wordState(data,card.front).mastered);}
+export function activeQueue(cards,mode,batch,data){return selectQueue(cards,mode,batch).filter(card=>!card.mergedInto&&!wordState(data,card.front).mastered);}
 export function saveQueue(data,cards,round,mode,batch,revision){return {...data,queues:{...data.queues,[scopeKey(mode,batch)]:JSON.stringify({revision,key:deckKey(cards),round})}};}
 
 /** Prune only known mastered words, never migrate progress across vocabulary revisions. */
@@ -61,7 +63,7 @@ export function openQueue(data,cards,mode,batch,revision,restart=false){
  const next=mode==='all'&&(!restored||data.allRound===0)?{...data,allRound:data.allRound+1}:data;
  return {data:saveQueue(next,active,round,mode,batch,revision),cards:active,round};
 }
-export function recordKnowledge(data,front,rating,mode,first,protectedWord=false,now=new Date()){
+export function recordKnowledge(data,front,rating,mode,first,protectedWord=false,now=new Date(),legacyReview=false){
  if(!['known','vague','forgot'].includes(rating))throw Error('Invalid rating');
  if(mode!=='all')return data;
  const id=data.allRound;if(id<1)throw Error('No all-review round');
@@ -87,7 +89,7 @@ export function recordKnowledge(data,front,rating,mode,first,protectedWord=false
  if(old.knownDay===undefined||day>dayNumber(old.knownDay)){
   word.known=rating==='known'&&!protectedWord?(day-dayNumber(old.knownDay)===1?old.known:0)+1:0;
   word.knownDay=today;
-  if(word.known>=(word.difficult?3:2)){word.mastered=true;word.difficult=false;}
+  if(word.known>=(legacyReview?2:word.difficult?4:3)){word.mastered=true;word.difficult=false;}
  }
  return {...data,words:{...data.words,[front]:word}};
 }
@@ -95,6 +97,7 @@ export const TABLES={mastered:'已掌握',difficult:'难记词',permanent:'三�
 export function tableRows(cards,data,table){
  if(!Object.hasOwn(TABLES,table))throw Error('Invalid table');
  // Include archived fronts even if a future vocabulary removes a word.
+ data=migrateFamilies(data,cards);
  const byFront=new Map(cards.map(card=>[card.front,card]));
  return Object.entries(data.words).filter(([,word])=>word[table]).map(([front])=>{
   const card=byFront.get(front);return {front,meaning:card?getSenses(card).map(s=>`${s.pos?`${s.pos} `:''}${s.meaning}`).join('；'):'词卡暂不在当前词库中'};

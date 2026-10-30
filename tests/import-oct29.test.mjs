@@ -4,11 +4,11 @@ import {readFileSync} from 'node:fs';
 import {selectQueue,isPriority} from '../src/queues.mjs';
 import {syncImports} from '../src/importPolicy.mjs';
 import {emptyKnowledge,emptyWord} from '../src/knowledge.mjs';
-const cards=JSON.parse(readFileSync('public/data/cards.json','utf8'));
+const cards=JSON.parse(readFileSync('public/data/cards.json','utf8')).map(c=>({...c,mergedInto:undefined,familyBatches:undefined,relearnOn:undefined})); // Historical import behavior before the October 30 migration.
 const report=JSON.parse(readFileSync('public/data/imports/2026-10-29.json','utf8'));
 const today=selectQueue(cards,'latest','2026-10-29');
 test('October 29 source boundary, totals and aliases',()=>{
- assert.equal(cards.length,1770);assert.equal(today.length,107);assert.equal(report.newCards,99);assert.equal(report.excludedPreviousLines,135);
+ assert.equal(report.totalCount,1770);assert.equal(report.latestCount,107);assert.equal(today.filter(c=>report.mapping.some(m=>m.front===c.front)).length,107);assert.equal(report.newCards,99);assert.equal(report.excludedPreviousLines,135);
  assert.deepEqual(report.sourceMapping.map(x=>x.sourceLine),Array.from({length:107},(_,i)=>136+i));
  for(const {original,front} of report.mapping){const c=today.find(c=>c.front===front);assert(c);assert(c.originals.includes(original));}
  assert.deepEqual(today.filter(c=>isPriority(c,'2026-10-29')).map(c=>c.front).sort(),report.repeatedOldWords.slice().sort());

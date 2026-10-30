@@ -1,0 +1,3567 @@
+{
+  "date": "2026-10-30",
+  "source": "生词.txt，昨日107行与今日114行合并",
+  "sourceSHA256": "cbe64b92ca68ffe1eaa6d4d7cbc33f13e9ef8d8b1250a3677f691c13e417e42f",
+  "inputCount": 221,
+  "previousDayInputs": 107,
+  "todayInputs": 114,
+  "latestCount": 218,
+  "newCards": 314,
+  "newLearningWords": 90,
+  "archivedAliases": 292,
+  "totalCount": 1792,
+  "storedCardCount": 2084,
+  "repeatedOldWords": [
+    "acute",
+    "as opposed to",
+    "bore",
+    "brutal",
+    "common",
+    "condense",
+    "contradict",
+    "converge",
+    "correspond",
+    "curate",
+    "definitive",
+    "from scratch",
+    "given",
+    "instruct",
+    "make sense of",
+    "moderate",
+    "nuance",
+    "prevail",
+    "proliferate",
+    "routine",
+    "scenario",
+    "schema",
+    "sequence"
+  ],
+  "carryForward": [
+    "accrue",
+    "acquaint",
+    "amid",
+    "apex",
+    "apprehension",
+    "assimilate",
+    "assimilate A into B",
+    "astride",
+    "athletic",
+    "barrel",
+    "be taken up with something",
+    "bonus",
+    "brief",
+    "buffer",
+    "bully",
+    "bump",
+    "cackle",
+    "cerebral",
+    "coast",
+    "coincidence",
+    "combined with",
+    "commit",
+    "commodity",
+    "consumerism",
+    "contour",
+    "couch",
+    "deed",
+    "defer",
+    "deserve",
+    "dispute",
+    "dissemble",
+    "ditto",
+    "diverge",
+    "drop out of",
+    "entrance",
+    "exuberant",
+    "far from it",
+    "ferocious",
+    "fit in something",
+    "gravel",
+    "grim",
+    "grip",
+    "had better",
+    "ilk",
+    "immerse",
+    "in terms of",
+    "in the blink of an eye",
+    "in turn",
+    "incidental",
+    "incipient",
+    "ingredient",
+    "instigate",
+    "intransigent",
+    "intrinsic",
+    "it is tempting to do something",
+    "just around the corner",
+    "justify doing something",
+    "limp",
+    "lob",
+    "longing",
+    "mature",
+    "mine",
+    "monopoly",
+    "not anywhere near as much as ...",
+    "off we went",
+    "one's way through",
+    "parlance",
+    "pluck",
+    "portray",
+    "profiteer",
+    "racket",
+    "rationalise",
+    "recede",
+    "reclaim",
+    "recuperate",
+    "run out of something",
+    "rupture",
+    "sake",
+    "savage",
+    "scarce",
+    "senile",
+    "sheer",
+    "skeptical",
+    "skyrocket",
+    "sober",
+    "squeal",
+    "stoop",
+    "strip A of B",
+    "swing",
+    "take a firm line on something",
+    "template",
+    "tendon",
+    "testament",
+    "the fabric of things",
+    "theorise",
+    "thrust",
+    "thrust something upon somebody",
+    "treadmill",
+    "uneven",
+    "unleash",
+    "virtue",
+    "would find myself doing something",
+    "wreak",
+    "yell",
+    "yesteryear"
+  ],
+  "familyMerges": {
+    "ferocity": "ferocious",
+    "immersion": "immerse",
+    "exuberance": "exuberant",
+    "recuperation": "recuperate",
+    "longingly": "longing",
+    "rationalisation": "rationalise",
+    "commitment": "commit",
+    "briefly": "brief",
+    "maturity": "mature",
+    "reclamation": "reclaim",
+    "coastal": "coast",
+    "retailer": "retail",
+    "diagnosis": "diagnose",
+    "regulation": "regulate",
+    "regulatory": "regulate",
+    "boredom": "bore",
+    "desirable": "desire",
+    "iterative": "iterate",
+    "iteration": "iterate",
+    "statement": "state",
+    "empirically": "empirical",
+    "innovation": "innovate",
+    "restriction": "restrict",
+    "moderator": "moderate",
+    "endlessly": "endless",
+    "revelatory": "reveal",
+    "revelation": "reveal",
+    "thrill (n.)": "thrill",
+    "estimate (n.)": "estimate",
+    "retail (adj.)": "retail",
+    "counterfeit (n.)": "counterfeit",
+    "intrigued": "intrigue",
+    "brilliance": "brilliant",
+    "allegedly": "allege",
+    "evaluation": "evaluate",
+    "critically": "critical",
+    "welding": "weld",
+    "rectangular": "rectangle",
+    "comparison": "compare",
+    "daunting": "daunt",
+    "resistant": "resist",
+    "submission": "submit",
+    "specification": "specify",
+    "skepticism": "skeptical",
+    "convincing": "convince",
+    "division": "divide",
+    "appraisal": "appraise",
+    "elongated": "elongate",
+    "statistical": "statistics",
+    "anonymity": "anonymous",
+    "intently": "intent",
+    "inspired": "inspire",
+    "distraction": "distract",
+    "notification": "notify",
+    "suffocation": "suffocate",
+    "nuanced": "nuance",
+    "impaired": "impair",
+    "constantly": "constant",
+    "distracted": "distract",
+    "perception": "perceive",
+    "modular": "module",
+    "digestible": "digest",
+    "novelist": "novel",
+    "engaged": "engage",
+    "apparently": "apparent",
+    "naturally": "natural",
+    "correlation": "correlate",
+    "observation": "observe",
+    "causally": "causal",
+    "reversible": "reverse",
+    "steadily": "steady",
+    "dedicated": "dedicate",
+    "maligned": "malign",
+    "sequentially": "sequence",
+    "deliberation": "deliberate",
+    "validation": "validate",
+    "absence": "absent",
+    "solely": "sole",
+    "fragmented": "fragment",
+    "consistency": "consistent",
+    "fluctuation": "fluctuate",
+    "flickering": "flicker",
+    "rumination": "ruminate",
+    "attraction": "attract",
+    "typically": "typical",
+    "insulator": "insulate",
+    "recyclable": "recycle",
+    "architectural": "architecture",
+    "tinted": "tint",
+    "archival": "archive",
+    "intimacy": "intimate",
+    "devoted": "devote",
+    "scheduled": "schedule",
+    "furnishings": "furnish",
+    "commonly": "common",
+    "blessing": "bless",
+    "affordable": "afford",
+    "complicated": "complicate",
+    "retractable": "retract",
+    "mobility": "mobile",
+    "tactical": "tactic",
+    "collaboration": "collaborate",
+    "assumption": "assume",
+    "literally": "literal",
+    "sugary": "sugar",
+    "astonished": "astonish",
+    "morphologically": "morphology",
+    "pollinator": "pollinate",
+    "agricultural": "agriculture",
+    "bleaching": "bleach",
+    "glowing": "glow",
+    "theoretically": "theoretical",
+    "embalming": "embalm",
+    "precision": "precise",
+    "adoption": "adopt",
+    "productively": "productive",
+    "commuter": "commute",
+    "bored": "bore",
+    "chronically": "chronic",
+    "appropriately": "appropriate",
+    "satisfaction": "satisfy",
+    "incredibly": "incredible",
+    "stimulation": "stimulate",
+    "paradoxically": "paradox",
+    "intubation": "intubate",
+    "achievement": "achieve",
+    "simultaneously": "simultaneous",
+    "neglected": "neglect",
+    "formation": "form",
+    "organized": "organise",
+    "voter": "vote",
+    "leadership": "lead",
+    "technically": "technical",
+    "racial": "race",
+    "motivated": "motivate",
+    "departure": "depart",
+    "vehemently": "vehement",
+    "opposition": "oppose",
+    "polarized": "polarize",
+    "admittedly": "admit",
+    "speculative": "speculate",
+    "separately": "separate",
+    "emergence": "emerge",
+    "speculation": "speculate",
+    "detrimental": "detriment",
+    "persistence": "persist",
+    "development": "develop",
+    "adaptation": "adapt",
+    "prevailing": "prevail",
+    "dazzling": "dazzle",
+    "vibrantly": "vibrant",
+    "decoration": "decorate",
+    "renovation": "renovate",
+    "containment": "contain",
+    "soldering": "solder",
+    "decorative": "decorate",
+    "bustling": "bustle",
+    "smelting": "smelt",
+    "condensation": "condense",
+    "scorching": "scorch",
+    "ventilation": "ventilate",
+    "slanted": "slant",
+    "probing": "probe",
+    "underpinning": "underpin",
+    "noninvasively": "noninvasive",
+    "subtlety": "subtle",
+    "bony": "bone",
+    "gradually": "gradual",
+    "arousal": "arouse",
+    "correlated": "correlate",
+    "instruction": "instruct",
+    "properly": "proper",
+    "fundamentally": "fundamental",
+    "finely": "fine",
+    "accountability": "accountable",
+    "attainment": "attain",
+    "meritocratic": "meritocracy",
+    "marginalised": "marginalise",
+    "forgiving": "forgive",
+    "brutally": "brutal",
+    "scandalously": "scandalous",
+    "explicitly": "explicit",
+    "deserving": "deserve",
+    "genuinely": "genuine",
+    "seamlessly": "seamless",
+    "competence": "competent",
+    "mythical": "myth",
+    "partly": "part",
+    "obsessive": "obsess",
+    "obsession": "obsess",
+    "grinder": "grind",
+    "agitated": "agitate",
+    "spiced": "spice",
+    "brimming": "brim",
+    "diversity": "diverse",
+    "bizarrely": "bizarre",
+    "directly": "direct",
+    "additional": "add",
+    "deliberative": "deliberate",
+    "seductive": "seduce",
+    "profoundly": "profound",
+    "insidiously": "insidious",
+    "rationality": "rational",
+    "broadly": "broad",
+    "prohibition": "prohibit",
+    "reservation": "reserve",
+    "standardized": "standardize",
+    "cautiously": "caution",
+    "confrontation": "confront",
+    "absurdity": "absurd",
+    "conventional": "convention",
+    "allotment": "allot",
+    "convergence": "converge",
+    "transformative": "transform",
+    "numerically": "numerical",
+    "distribution": "distribute",
+    "survivor": "survive",
+    "geographically": "geography",
+    "intimately": "intimate",
+    "occurrence": "occur",
+    "invasion": "invade",
+    "independence": "independent",
+    "significance": "significant",
+    "exclusively": "exclusive",
+    "authenticity": "authentic",
+    "articulation": "articulate",
+    "impermanence": "impermanent",
+    "enclosure": "enclose",
+    "dominance": "dominate",
+    "inexorably": "inexorable",
+    "composition": "compose",
+    "theological": "theology",
+    "institutionalisation": "institutionalise",
+    "finitude": "finite",
+    "execution": "execute",
+    "assertion": "assert",
+    "monarchic": "monarch",
+    "eternity": "eternal",
+    "illusory": "illusion",
+    "equally": "equal",
+    "deliberately": "deliberate",
+    "intellectually": "intellectual",
+    "subversive": "subvert",
+    "attendance": "attend",
+    "temptation": "tempt",
+    "underfunding": "underfund",
+    "aggression": "aggressive",
+    "resonance": "resonate",
+    "definitively": "definitive",
+    "concentration": "concentrate",
+    "revision": "revise",
+    "routinely": "routine",
+    "intention": "intend",
+    "abruptly": "abrupt",
+    "oppressive": "oppress",
+    "organically": "organic",
+    "prosperous": "prosper",
+    "radically": "radical",
+    "modification": "modify",
+    "proliferation": "proliferate",
+    "approximately": "approximate",
+    "segregation": "segregate",
+    "exponentially": "exponential",
+    "refusal": "refuse",
+    "regularity": "regular",
+    "sufficiently": "sufficient",
+    "heterogeneity": "heterogeneous",
+    "relentlessly": "relentless",
+    "humiliation": "humiliate",
+    "fabrication": "fabricate",
+    "anticipatory": "anticipate",
+    "unwittingly": "unwitting",
+    "correspondence": "correspond",
+    "preceding": "precede",
+    "floral": "flower",
+    "fungal": "fungus",
+    "parasitic": "parasite",
+    "fruity": "fruit",
+    "messy": "mess",
+    "faulty": "fault",
+    "problematic": "problem",
+    "preservative": "preserve",
+    "perceptible": "perceive",
+    "reflective": "reflect",
+    "underlying": "underlie",
+    "merchandiser": "merchandise",
+    "representative": "represent",
+    "lability": "labile",
+    "destructible": "destroy",
+    "curator": "curate",
+    "mining": "mine",
+    "profiteering": "profiteer"
+  },
+  "sourceMapping": [
+    {
+      "sourceLine": 1,
+      "original": "coincidence",
+      "fronts": [
+        "coincidence"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 2,
+      "original": "take a firm line on sth",
+      "fronts": [
+        "take a firm line on something"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 3,
+      "original": "ferocity",
+      "fronts": [
+        "ferocious"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 4,
+      "original": "bullied",
+      "fronts": [
+        "bully"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 5,
+      "original": "diverged",
+      "fronts": [
+        "diverge"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 6,
+      "original": "sober",
+      "fronts": [
+        "sober"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 7,
+      "original": "Off we went",
+      "fronts": [
+        "off we went"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 8,
+      "original": "drop out of",
+      "fronts": [
+        "drop out of"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 9,
+      "original": "entranced",
+      "fronts": [
+        "entrance"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 10,
+      "original": "barrel",
+      "fronts": [
+        "barrel"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 11,
+      "original": "bumps",
+      "fronts": [
+        "bump"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 12,
+      "original": "ruptured",
+      "fronts": [
+        "rupture"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 13,
+      "original": "tendon",
+      "fronts": [
+        "tendon"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 14,
+      "original": "not anywhere near as much as ...",
+      "fronts": [
+        "not anywhere near as much as ..."
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 15,
+      "original": "immersion",
+      "fronts": [
+        "immerse"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 16,
+      "original": "grip",
+      "fronts": [
+        "grip"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 17,
+      "original": "exuberance",
+      "fronts": [
+        "exuberant"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 18,
+      "original": "limp",
+      "fronts": [
+        "limp"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 19,
+      "original": "one's way through",
+      "fronts": [
+        "one's way through"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 20,
+      "original": "sake",
+      "fronts": [
+        "sake"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 21,
+      "original": "recuperation",
+      "fronts": [
+        "recuperate"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 22,
+      "original": "longingly",
+      "fronts": [
+        "longing"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 23,
+      "original": "would find myself doing sth",
+      "fronts": [
+        "would find myself doing something"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 24,
+      "original": "incipient",
+      "fronts": [
+        "incipient"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 25,
+      "original": "athletic",
+      "fronts": [
+        "athletic"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 26,
+      "original": "fit in sth",
+      "fronts": [
+        "fit in something"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 27,
+      "original": "couch",
+      "fronts": [
+        "couch"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 28,
+      "original": "contours",
+      "fronts": [
+        "contour"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 29,
+      "original": "yesteryear",
+      "fronts": [
+        "yesteryear"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 30,
+      "original": "in turn",
+      "fronts": [
+        "in turn"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 31,
+      "original": "be taken up with sth",
+      "fronts": [
+        "be taken up with something"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 32,
+      "original": "It's tempting to do sth",
+      "fronts": [
+        "it is tempting to do something"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 33,
+      "original": "template",
+      "fronts": [
+        "template"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 34,
+      "original": "in terms of",
+      "fronts": [
+        "in terms of"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 35,
+      "original": "ditto",
+      "fronts": [
+        "ditto"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 36,
+      "original": "portrayed",
+      "fronts": [
+        "portray"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 37,
+      "original": "virtue",
+      "fronts": [
+        "virtue"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 38,
+      "original": "ilk",
+      "fronts": [
+        "ilk"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 39,
+      "original": "Far from it",
+      "fronts": [
+        "far from it"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 40,
+      "original": "sceptical",
+      "fronts": [
+        "skeptical"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 41,
+      "original": "Astride",
+      "fronts": [
+        "astride"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 42,
+      "original": "rationalisation",
+      "fronts": [
+        "rationalise"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 43,
+      "original": "justify doing sth",
+      "fronts": [
+        "justify doing something"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 44,
+      "original": "assimilate",
+      "fronts": [
+        "assimilate"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 45,
+      "original": "assimilate A into B",
+      "fronts": [
+        "assimilate A into B"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 46,
+      "original": "deferred",
+      "fronts": [
+        "defer"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 47,
+      "original": "grim",
+      "fronts": [
+        "grim"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 48,
+      "original": "just around the corner",
+      "fronts": [
+        "just around the corner"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 49,
+      "original": "intrinsic",
+      "fronts": [
+        "intrinsic"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 50,
+      "original": "instigate",
+      "fronts": [
+        "instigate"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 51,
+      "original": "yells",
+      "fronts": [
+        "yell"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 52,
+      "original": "lobs",
+      "fronts": [
+        "lob"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 53,
+      "original": "rackets",
+      "fronts": [
+        "racket"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 54,
+      "original": "amid",
+      "fronts": [
+        "amid"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 55,
+      "original": "squeals",
+      "fronts": [
+        "squeal"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 56,
+      "original": "cackling",
+      "fronts": [
+        "cackle"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 57,
+      "original": "unleash",
+      "fronts": [
+        "unleash"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 58,
+      "original": "testament",
+      "fronts": [
+        "testament"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 59,
+      "original": "deed",
+      "fronts": [
+        "deed"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 60,
+      "original": "had better",
+      "fronts": [
+        "had better"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 61,
+      "original": "stoop",
+      "fronts": [
+        "stoop"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 62,
+      "original": "recede",
+      "fronts": [
+        "recede"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 63,
+      "original": "pluck",
+      "fronts": [
+        "pluck"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 64,
+      "original": "consumerism",
+      "fronts": [
+        "consumerism"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 65,
+      "original": "treadmill",
+      "fronts": [
+        "treadmill"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 66,
+      "original": "parlance",
+      "fronts": [
+        "parlance"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 67,
+      "original": "ferocious",
+      "fronts": [
+        "ferocious"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 68,
+      "original": "commitment",
+      "fronts": [
+        "commit"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 69,
+      "original": "briefly",
+      "fronts": [
+        "brief"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 70,
+      "original": "thrust",
+      "fronts": [
+        "thrust"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 71,
+      "original": "savage",
+      "fronts": [
+        "savage"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 72,
+      "original": "sheer",
+      "fronts": [
+        "sheer"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 73,
+      "original": "swinging",
+      "fronts": [
+        "swing"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 74,
+      "original": "acquainted",
+      "fronts": [
+        "acquaint"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 75,
+      "original": "apex",
+      "fronts": [
+        "apex"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 76,
+      "original": "strip A of B",
+      "fronts": [
+        "strip A of B"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 77,
+      "original": "the fabric of things",
+      "fronts": [
+        "the fabric of things"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 78,
+      "original": "theorise",
+      "fronts": [
+        "theorise"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 79,
+      "original": "cerebral",
+      "fronts": [
+        "cerebral"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 80,
+      "original": "apprehension",
+      "fronts": [
+        "apprehension"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 81,
+      "original": "senile",
+      "fronts": [
+        "senile"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 82,
+      "original": "maturity",
+      "fronts": [
+        "mature"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 83,
+      "original": "thrust sth upon sb",
+      "fronts": [
+        "thrust something upon somebody"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 84,
+      "original": "intransigent",
+      "fronts": [
+        "intransigent"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 85,
+      "original": "dissembling",
+      "fronts": [
+        "dissemble"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 86,
+      "original": "n the blink of an eye",
+      "fronts": [
+        "in the blink of an eye"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 87,
+      "original": "as opposed to",
+      "fronts": [
+        "as opposed to"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 88,
+      "original": "accrue",
+      "fronts": [
+        "accrue"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 89,
+      "original": "bonus",
+      "fronts": [
+        "bonus"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 90,
+      "original": "incidental",
+      "fronts": [
+        "incidental"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 91,
+      "original": "run out of",
+      "fronts": [
+        "run out of something"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 92,
+      "original": "wreak",
+      "fronts": [
+        "wreak"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 93,
+      "original": "Skyrocketing",
+      "fronts": [
+        "skyrocket"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 94,
+      "original": "mining",
+      "fronts": [
+        "mine"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 95,
+      "original": "combined with",
+      "fronts": [
+        "combined with"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 96,
+      "original": "scarce",
+      "fronts": [
+        "scarce"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 97,
+      "original": "gravel",
+      "fronts": [
+        "gravel"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 98,
+      "original": "ingredient",
+      "fronts": [
+        "ingredient"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 99,
+      "original": "reclamation",
+      "fronts": [
+        "reclaim"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 100,
+      "original": "uneven",
+      "fronts": [
+        "uneven"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 101,
+      "original": "commodity",
+      "fronts": [
+        "commodity"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 102,
+      "original": "profiteering",
+      "fronts": [
+        "profiteer"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 103,
+      "original": "monopoly",
+      "fronts": [
+        "monopoly"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 104,
+      "original": "disputes",
+      "fronts": [
+        "dispute"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 105,
+      "original": "coastal",
+      "fronts": [
+        "coast"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 106,
+      "original": "buffer",
+      "fronts": [
+        "buffer"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 107,
+      "original": "deserve",
+      "fronts": [
+        "deserve"
+      ],
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 108,
+      "original": "envisioned",
+      "fronts": [
+        "envision"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 109,
+      "original": "reputation",
+      "fronts": [
+        "reputation"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 110,
+      "original": "nascent",
+      "fronts": [
+        "nascent"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 111,
+      "original": "condense",
+      "fronts": [
+        "condense"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 112,
+      "original": "centrifugal",
+      "fronts": [
+        "centrifugal"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 113,
+      "original": "refrigeration",
+      "fronts": [
+        "refrigerate"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 114,
+      "original": "tinkering",
+      "fronts": [
+        "tinker"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 115,
+      "original": "precursor",
+      "fronts": [
+        "precursor"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 116,
+      "original": "thwarted",
+      "fronts": [
+        "thwart"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 117,
+      "original": "penniless",
+      "fronts": [
+        "penniless"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 118,
+      "original": "thermometer",
+      "fronts": [
+        "thermometer"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 119,
+      "original": "igloo",
+      "fronts": [
+        "igloo"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 120,
+      "original": "curator",
+      "fronts": [
+        "curate"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 121,
+      "original": "relief",
+      "fronts": [
+        "relief"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 122,
+      "original": "Manufacturers",
+      "fronts": [
+        "manufacture"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 123,
+      "original": "acutely",
+      "fronts": [
+        "acute"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 124,
+      "original": "garnered",
+      "fronts": [
+        "garner"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 125,
+      "original": "coverage",
+      "fronts": [
+        "coverage"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 126,
+      "original": "prevailing",
+      "fronts": [
+        "prevail"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 127,
+      "original": "take something by storm",
+      "fronts": [
+        "take something by storm"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 128,
+      "original": "stale",
+      "fronts": [
+        "stale"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 129,
+      "original": "patronage",
+      "fronts": [
+        "patronage"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 130,
+      "original": "moderate",
+      "fronts": [
+        "moderate"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 131,
+      "original": "proliferation",
+      "fronts": [
+        "proliferate"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 132,
+      "original": "ideology",
+      "fronts": [
+        "ideology"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 133,
+      "original": "fountains",
+      "fronts": [
+        "fountain"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 134,
+      "original": "to the extent",
+      "fronts": [
+        "to the extent"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 135,
+      "original": "stark",
+      "fronts": [
+        "stark"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 136,
+      "original": "predilection",
+      "fronts": [
+        "predilection"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 137,
+      "original": "cutback",
+      "fronts": [
+        "cutback"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 138,
+      "original": "sequences",
+      "fronts": [
+        "sequence"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 139,
+      "original": "unfold",
+      "fronts": [
+        "unfold"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 140,
+      "original": "shuffling",
+      "fronts": [
+        "shuffle"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 141,
+      "original": "attaches",
+      "fronts": [
+        "attach"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 142,
+      "original": "scaffold",
+      "fronts": [
+        "scaffold"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 143,
+      "original": "appetizer",
+      "fronts": [
+        "appetizer"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 144,
+      "original": "noteworthy",
+      "fronts": [
+        "noteworthy"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 145,
+      "original": "mirror — 反映；映照；模拟",
+      "fronts": [
+        "mirror"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 146,
+      "original": "scenarios",
+      "fronts": [
+        "scenario"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 147,
+      "original": "honed",
+      "fronts": [
+        "hone"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 148,
+      "original": "contradicting",
+      "fronts": [
+        "contradict"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 149,
+      "original": "given：特定的；某个指定的",
+      "fronts": [
+        "given"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 150,
+      "original": "bore",
+      "fronts": [
+        "bore"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 151,
+      "original": "debuted",
+      "fronts": [
+        "debut"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 152,
+      "original": "proxy",
+      "fronts": [
+        "proxy"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 153,
+      "original": "resolution",
+      "fronts": [
+        "resolution"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 154,
+      "original": "akin",
+      "fronts": [
+        "akin"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 155,
+      "original": "denote",
+      "fronts": [
+        "denote"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 156,
+      "original": "content",
+      "fronts": [
+        "content"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 157,
+      "original": "Could they tell ... whether ...?",
+      "fronts": [
+        "could they tell ... whether ...?"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 158,
+      "original": "substitute",
+      "fronts": [
+        "substitute"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 159,
+      "original": "thicket",
+      "fronts": [
+        "thicket"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 160,
+      "original": "prior to",
+      "fronts": [
+        "prior to"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 161,
+      "original": "deluge",
+      "fronts": [
+        "deluge"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 162,
+      "original": "waned",
+      "fronts": [
+        "wane"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 163,
+      "original": "convergence",
+      "fronts": [
+        "converge"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 164,
+      "original": "spaghetti",
+      "fronts": [
+        "spaghetti"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 165,
+      "original": "make sense of",
+      "fronts": [
+        "make sense of"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 166,
+      "original": "recollections",
+      "fronts": [
+        "recollect"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 167,
+      "original": "Affair",
+      "fronts": [
+        "affair"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 168,
+      "original": "conveyed",
+      "fronts": [
+        "convey"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 169,
+      "original": "revolved",
+      "fronts": [
+        "revolve"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 170,
+      "original": "segmentation",
+      "fronts": [
+        "segment"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 171,
+      "original": "chunk",
+      "fronts": [
+        "chunk"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 172,
+      "original": "wedge",
+      "fronts": [
+        "wedge"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 173,
+      "original": "corresponding",
+      "fronts": [
+        "correspond"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 174,
+      "original": "spatial",
+      "fronts": [
+        "spatial"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 175,
+      "original": "subdivided",
+      "fronts": [
+        "subdivide"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 176,
+      "original": "or so",
+      "fronts": [
+        "or so"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 177,
+      "original": "disparate",
+      "fronts": [
+        "disparate"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 178,
+      "original": "the province of science",
+      "fronts": [
+        "the province of science"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 179,
+      "original": "monolith",
+      "fronts": [
+        "monolith"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 180,
+      "original": "favor",
+      "fronts": [
+        "favor"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 181,
+      "original": "themes",
+      "fronts": [
+        "theme"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 182,
+      "original": "genres",
+      "fronts": [
+        "genre"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 183,
+      "original": "commonality",
+      "fronts": [
+        "common"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 184,
+      "original": "set out to",
+      "fronts": [
+        "set out to"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 185,
+      "original": "redundancy",
+      "fronts": [
+        "redundant"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 186,
+      "original": "reams",
+      "fronts": [
+        "ream"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 187,
+      "original": "take a crack at something",
+      "fronts": [
+        "take a crack at something"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 188,
+      "original": "definitive",
+      "fronts": [
+        "definitive"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 189,
+      "original": "centralized",
+      "fronts": [
+        "centralize"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 190,
+      "original": "render",
+      "fronts": [
+        "render"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 191,
+      "original": "from scratch",
+      "fronts": [
+        "from scratch"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 192,
+      "original": "arrangement",
+      "fronts": [
+        "arrange"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 193,
+      "original": "vexing",
+      "fronts": [
+        "vex"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 194,
+      "original": "baffled",
+      "fronts": [
+        "baffle"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 195,
+      "original": "bolsters",
+      "fronts": [
+        "bolster"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 196,
+      "original": "do a good job doing something",
+      "fronts": [
+        "do a good job doing something"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 197,
+      "original": "bring ... online",
+      "fronts": [
+        "bring ... online"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 198,
+      "original": "roles",
+      "fronts": [
+        "role"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 199,
+      "original": "underscores",
+      "fronts": [
+        "underscore"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 200,
+      "original": "perspective",
+      "fronts": [
+        "perspective"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 201,
+      "original": "as opposed to",
+      "fronts": [
+        "as opposed to"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 202,
+      "original": "prime",
+      "fronts": [
+        "prime"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 203,
+      "original": "preconceptions",
+      "fronts": [
+        "preconception"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 204,
+      "original": "mindset",
+      "fronts": [
+        "mindset"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 205,
+      "original": "predisposes",
+      "fronts": [
+        "predispose"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 206,
+      "original": "volition",
+      "fronts": [
+        "volition"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 207,
+      "original": "nuances",
+      "fronts": [
+        "nuance"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 208,
+      "original": "leveraged",
+      "fronts": [
+        "leverage"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 209,
+      "original": "envision",
+      "fronts": [
+        "envision"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 210,
+      "original": "exceptionally",
+      "fronts": [
+        "exceptional"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 211,
+      "original": "shed light on",
+      "fronts": [
+        "shed light on"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 212,
+      "original": "toddlers",
+      "fronts": [
+        "toddler"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 213,
+      "original": "dentist",
+      "fronts": [
+        "dentist"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 214,
+      "original": "riveted",
+      "fronts": [
+        "rivet"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 215,
+      "original": "brutally",
+      "fronts": [
+        "brutal"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 216,
+      "original": "bewildering",
+      "fronts": [
+        "bewilder"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 217,
+      "original": "take place",
+      "fronts": [
+        "take place"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 218,
+      "original": "routines",
+      "fronts": [
+        "routine"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 219,
+      "original": "comprise",
+      "fronts": [
+        "comprise"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 220,
+      "original": "instruction",
+      "fronts": [
+        "instruct"
+      ],
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 221,
+      "original": "schema",
+      "fronts": [
+        "schema"
+      ],
+      "sourceDate": "2026-10-30"
+    }
+  ],
+  "mapping": [
+    {
+      "sourceLine": 1,
+      "original": "coincidence",
+      "front": "coincidence",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 2,
+      "original": "take a firm line on sth",
+      "front": "take a firm line on something",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 3,
+      "original": "ferocity",
+      "front": "ferocious",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 4,
+      "original": "bullied",
+      "front": "bully",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 5,
+      "original": "diverged",
+      "front": "diverge",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 6,
+      "original": "sober",
+      "front": "sober",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 7,
+      "original": "Off we went",
+      "front": "off we went",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 8,
+      "original": "drop out of",
+      "front": "drop out of",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 9,
+      "original": "entranced",
+      "front": "entrance",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 10,
+      "original": "barrel",
+      "front": "barrel",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 11,
+      "original": "bumps",
+      "front": "bump",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 12,
+      "original": "ruptured",
+      "front": "rupture",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 13,
+      "original": "tendon",
+      "front": "tendon",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 14,
+      "original": "not anywhere near as much as ...",
+      "front": "not anywhere near as much as ...",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 15,
+      "original": "immersion",
+      "front": "immerse",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 16,
+      "original": "grip",
+      "front": "grip",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 17,
+      "original": "exuberance",
+      "front": "exuberant",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 18,
+      "original": "limp",
+      "front": "limp",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 19,
+      "original": "one's way through",
+      "front": "one's way through",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 20,
+      "original": "sake",
+      "front": "sake",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 21,
+      "original": "recuperation",
+      "front": "recuperate",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 22,
+      "original": "longingly",
+      "front": "longing",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 23,
+      "original": "would find myself doing sth",
+      "front": "would find myself doing something",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 24,
+      "original": "incipient",
+      "front": "incipient",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 25,
+      "original": "athletic",
+      "front": "athletic",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 26,
+      "original": "fit in sth",
+      "front": "fit in something",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 27,
+      "original": "couch",
+      "front": "couch",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 28,
+      "original": "contours",
+      "front": "contour",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 29,
+      "original": "yesteryear",
+      "front": "yesteryear",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 30,
+      "original": "in turn",
+      "front": "in turn",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 31,
+      "original": "be taken up with sth",
+      "front": "be taken up with something",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 32,
+      "original": "It's tempting to do sth",
+      "front": "it is tempting to do something",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 33,
+      "original": "template",
+      "front": "template",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 34,
+      "original": "in terms of",
+      "front": "in terms of",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 35,
+      "original": "ditto",
+      "front": "ditto",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 36,
+      "original": "portrayed",
+      "front": "portray",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 37,
+      "original": "virtue",
+      "front": "virtue",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 38,
+      "original": "ilk",
+      "front": "ilk",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 39,
+      "original": "Far from it",
+      "front": "far from it",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 40,
+      "original": "sceptical",
+      "front": "skeptical",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 41,
+      "original": "Astride",
+      "front": "astride",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 42,
+      "original": "rationalisation",
+      "front": "rationalise",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 43,
+      "original": "justify doing sth",
+      "front": "justify doing something",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 44,
+      "original": "assimilate",
+      "front": "assimilate",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 45,
+      "original": "assimilate A into B",
+      "front": "assimilate A into B",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 46,
+      "original": "deferred",
+      "front": "defer",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 47,
+      "original": "grim",
+      "front": "grim",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 48,
+      "original": "just around the corner",
+      "front": "just around the corner",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 49,
+      "original": "intrinsic",
+      "front": "intrinsic",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 50,
+      "original": "instigate",
+      "front": "instigate",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 51,
+      "original": "yells",
+      "front": "yell",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 52,
+      "original": "lobs",
+      "front": "lob",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 53,
+      "original": "rackets",
+      "front": "racket",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 54,
+      "original": "amid",
+      "front": "amid",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 55,
+      "original": "squeals",
+      "front": "squeal",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 56,
+      "original": "cackling",
+      "front": "cackle",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 57,
+      "original": "unleash",
+      "front": "unleash",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 58,
+      "original": "testament",
+      "front": "testament",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 59,
+      "original": "deed",
+      "front": "deed",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 60,
+      "original": "had better",
+      "front": "had better",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 61,
+      "original": "stoop",
+      "front": "stoop",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 62,
+      "original": "recede",
+      "front": "recede",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 63,
+      "original": "pluck",
+      "front": "pluck",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 64,
+      "original": "consumerism",
+      "front": "consumerism",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 65,
+      "original": "treadmill",
+      "front": "treadmill",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 66,
+      "original": "parlance",
+      "front": "parlance",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 67,
+      "original": "ferocious",
+      "front": "ferocious",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 68,
+      "original": "commitment",
+      "front": "commit",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 69,
+      "original": "briefly",
+      "front": "brief",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 70,
+      "original": "thrust",
+      "front": "thrust",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 71,
+      "original": "savage",
+      "front": "savage",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 72,
+      "original": "sheer",
+      "front": "sheer",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 73,
+      "original": "swinging",
+      "front": "swing",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 74,
+      "original": "acquainted",
+      "front": "acquaint",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 75,
+      "original": "apex",
+      "front": "apex",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 76,
+      "original": "strip A of B",
+      "front": "strip A of B",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 77,
+      "original": "the fabric of things",
+      "front": "the fabric of things",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 78,
+      "original": "theorise",
+      "front": "theorise",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 79,
+      "original": "cerebral",
+      "front": "cerebral",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 80,
+      "original": "apprehension",
+      "front": "apprehension",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 81,
+      "original": "senile",
+      "front": "senile",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 82,
+      "original": "maturity",
+      "front": "mature",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 83,
+      "original": "thrust sth upon sb",
+      "front": "thrust something upon somebody",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 84,
+      "original": "intransigent",
+      "front": "intransigent",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 85,
+      "original": "dissembling",
+      "front": "dissemble",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 86,
+      "original": "n the blink of an eye",
+      "front": "in the blink of an eye",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 87,
+      "original": "as opposed to",
+      "front": "as opposed to",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 88,
+      "original": "accrue",
+      "front": "accrue",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 89,
+      "original": "bonus",
+      "front": "bonus",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 90,
+      "original": "incidental",
+      "front": "incidental",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 91,
+      "original": "run out of",
+      "front": "run out of something",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 92,
+      "original": "wreak",
+      "front": "wreak",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 93,
+      "original": "Skyrocketing",
+      "front": "skyrocket",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 94,
+      "original": "mining",
+      "front": "mine",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 95,
+      "original": "combined with",
+      "front": "combined with",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 96,
+      "original": "scarce",
+      "front": "scarce",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 97,
+      "original": "gravel",
+      "front": "gravel",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 98,
+      "original": "ingredient",
+      "front": "ingredient",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 99,
+      "original": "reclamation",
+      "front": "reclaim",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 100,
+      "original": "uneven",
+      "front": "uneven",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 101,
+      "original": "commodity",
+      "front": "commodity",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 102,
+      "original": "profiteering",
+      "front": "profiteer",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 103,
+      "original": "monopoly",
+      "front": "monopoly",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 104,
+      "original": "disputes",
+      "front": "dispute",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 105,
+      "original": "coastal",
+      "front": "coast",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 106,
+      "original": "buffer",
+      "front": "buffer",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 107,
+      "original": "deserve",
+      "front": "deserve",
+      "sourceDate": "2026-10-29"
+    },
+    {
+      "sourceLine": 108,
+      "original": "envisioned",
+      "front": "envision",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 109,
+      "original": "reputation",
+      "front": "reputation",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 110,
+      "original": "nascent",
+      "front": "nascent",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 111,
+      "original": "condense",
+      "front": "condense",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 112,
+      "original": "centrifugal",
+      "front": "centrifugal",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 113,
+      "original": "refrigeration",
+      "front": "refrigerate",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 114,
+      "original": "tinkering",
+      "front": "tinker",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 115,
+      "original": "precursor",
+      "front": "precursor",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 116,
+      "original": "thwarted",
+      "front": "thwart",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 117,
+      "original": "penniless",
+      "front": "penniless",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 118,
+      "original": "thermometer",
+      "front": "thermometer",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 119,
+      "original": "igloo",
+      "front": "igloo",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 120,
+      "original": "curator",
+      "front": "curate",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 121,
+      "original": "relief",
+      "front": "relief",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 122,
+      "original": "Manufacturers",
+      "front": "manufacture",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 123,
+      "original": "acutely",
+      "front": "acute",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 124,
+      "original": "garnered",
+      "front": "garner",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 125,
+      "original": "coverage",
+      "front": "coverage",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 126,
+      "original": "prevailing",
+      "front": "prevail",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 127,
+      "original": "take something by storm",
+      "front": "take something by storm",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 128,
+      "original": "stale",
+      "front": "stale",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 129,
+      "original": "patronage",
+      "front": "patronage",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 130,
+      "original": "moderate",
+      "front": "moderate",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 131,
+      "original": "proliferation",
+      "front": "proliferate",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 132,
+      "original": "ideology",
+      "front": "ideology",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 133,
+      "original": "fountains",
+      "front": "fountain",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 134,
+      "original": "to the extent",
+      "front": "to the extent",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 135,
+      "original": "stark",
+      "front": "stark",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 136,
+      "original": "predilection",
+      "front": "predilection",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 137,
+      "original": "cutback",
+      "front": "cutback",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 138,
+      "original": "sequences",
+      "front": "sequence",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 139,
+      "original": "unfold",
+      "front": "unfold",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 140,
+      "original": "shuffling",
+      "front": "shuffle",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 141,
+      "original": "attaches",
+      "front": "attach",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 142,
+      "original": "scaffold",
+      "front": "scaffold",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 143,
+      "original": "appetizer",
+      "front": "appetizer",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 144,
+      "original": "noteworthy",
+      "front": "noteworthy",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 145,
+      "original": "mirror — 反映；映照；模拟",
+      "front": "mirror",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 146,
+      "original": "scenarios",
+      "front": "scenario",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 147,
+      "original": "honed",
+      "front": "hone",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 148,
+      "original": "contradicting",
+      "front": "contradict",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 149,
+      "original": "given：特定的；某个指定的",
+      "front": "given",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 150,
+      "original": "bore",
+      "front": "bore",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 151,
+      "original": "debuted",
+      "front": "debut",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 152,
+      "original": "proxy",
+      "front": "proxy",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 153,
+      "original": "resolution",
+      "front": "resolution",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 154,
+      "original": "akin",
+      "front": "akin",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 155,
+      "original": "denote",
+      "front": "denote",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 156,
+      "original": "content",
+      "front": "content",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 157,
+      "original": "Could they tell ... whether ...?",
+      "front": "could they tell ... whether ...?",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 158,
+      "original": "substitute",
+      "front": "substitute",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 159,
+      "original": "thicket",
+      "front": "thicket",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 160,
+      "original": "prior to",
+      "front": "prior to",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 161,
+      "original": "deluge",
+      "front": "deluge",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 162,
+      "original": "waned",
+      "front": "wane",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 163,
+      "original": "convergence",
+      "front": "converge",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 164,
+      "original": "spaghetti",
+      "front": "spaghetti",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 165,
+      "original": "make sense of",
+      "front": "make sense of",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 166,
+      "original": "recollections",
+      "front": "recollect",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 167,
+      "original": "Affair",
+      "front": "affair",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 168,
+      "original": "conveyed",
+      "front": "convey",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 169,
+      "original": "revolved",
+      "front": "revolve",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 170,
+      "original": "segmentation",
+      "front": "segment",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 171,
+      "original": "chunk",
+      "front": "chunk",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 172,
+      "original": "wedge",
+      "front": "wedge",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 173,
+      "original": "corresponding",
+      "front": "correspond",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 174,
+      "original": "spatial",
+      "front": "spatial",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 175,
+      "original": "subdivided",
+      "front": "subdivide",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 176,
+      "original": "or so",
+      "front": "or so",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 177,
+      "original": "disparate",
+      "front": "disparate",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 178,
+      "original": "the province of science",
+      "front": "the province of science",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 179,
+      "original": "monolith",
+      "front": "monolith",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 180,
+      "original": "favor",
+      "front": "favor",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 181,
+      "original": "themes",
+      "front": "theme",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 182,
+      "original": "genres",
+      "front": "genre",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 183,
+      "original": "commonality",
+      "front": "common",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 184,
+      "original": "set out to",
+      "front": "set out to",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 185,
+      "original": "redundancy",
+      "front": "redundant",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 186,
+      "original": "reams",
+      "front": "ream",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 187,
+      "original": "take a crack at something",
+      "front": "take a crack at something",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 188,
+      "original": "definitive",
+      "front": "definitive",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 189,
+      "original": "centralized",
+      "front": "centralize",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 190,
+      "original": "render",
+      "front": "render",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 191,
+      "original": "from scratch",
+      "front": "from scratch",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 192,
+      "original": "arrangement",
+      "front": "arrange",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 193,
+      "original": "vexing",
+      "front": "vex",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 194,
+      "original": "baffled",
+      "front": "baffle",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 195,
+      "original": "bolsters",
+      "front": "bolster",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 196,
+      "original": "do a good job doing something",
+      "front": "do a good job doing something",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 197,
+      "original": "bring ... online",
+      "front": "bring ... online",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 198,
+      "original": "roles",
+      "front": "role",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 199,
+      "original": "underscores",
+      "front": "underscore",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 200,
+      "original": "perspective",
+      "front": "perspective",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 201,
+      "original": "as opposed to",
+      "front": "as opposed to",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 202,
+      "original": "prime",
+      "front": "prime",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 203,
+      "original": "preconceptions",
+      "front": "preconception",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 204,
+      "original": "mindset",
+      "front": "mindset",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 205,
+      "original": "predisposes",
+      "front": "predispose",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 206,
+      "original": "volition",
+      "front": "volition",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 207,
+      "original": "nuances",
+      "front": "nuance",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 208,
+      "original": "leveraged",
+      "front": "leverage",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 209,
+      "original": "envision",
+      "front": "envision",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 210,
+      "original": "exceptionally",
+      "front": "exceptional",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 211,
+      "original": "shed light on",
+      "front": "shed light on",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 212,
+      "original": "toddlers",
+      "front": "toddler",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 213,
+      "original": "dentist",
+      "front": "dentist",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 214,
+      "original": "riveted",
+      "front": "rivet",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 215,
+      "original": "brutally",
+      "front": "brutal",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 216,
+      "original": "bewildering",
+      "front": "bewilder",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 217,
+      "original": "take place",
+      "front": "take place",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 218,
+      "original": "routines",
+      "front": "routine",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 219,
+      "original": "comprise",
+      "front": "comprise",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 220,
+      "original": "instruction",
+      "front": "instruct",
+      "sourceDate": "2026-10-30"
+    },
+    {
+      "sourceLine": 221,
+      "original": "schema",
+      "front": "schema",
+      "sourceDate": "2026-10-30"
+    }
+  ],
+  "notes": [
+    "昨日词仅加入合并复习批次，reviewBatches 仅定义合并队列，不计新的实际导入；今日真实再次输入按原重复导入规则处理。",
+    "简单派生词主讲基础词，实际输入形式配例句；差异显著或独立常用形式保留。",
+    "旧派生卡完整归档并通过 mergedInto 指向基础词，学习记录合并，永久标记保留，连续认识天数不相加。",
+    "原有义项均保留，新增例句全部自拟。",
+    "桌面保留此次合并的221行，完整原文件已备份。",
+    "用户追加授权全库重新整理并从头重学：不在10月29—30日合并队列内的旧词一次性重开掌握进度，永久统计保留，普通及困难旧词均连续2天。",
+    "昨日、今日及未来新加入词普通3天、困难4天；保护期为加入当日及其后3天，共4个自然日。轮次制困难候选与永久统计阈值不变。",
+    "旧词将来真实再加入新批次后改用新规则；仅元数据或应用更新不重复清空。",
+    "全库逐条编辑判断；未合并的基础词、短语、语法和独立词义保留，不作机械后缀剥离。"
+  ],
+  "sources": [
+    "https://dictionary.cambridge.org/us/dictionary/english/coincidence",
+    "https://dictionary.cambridge.org/us/dictionary/english/resolution",
+    "https://dictionary.cambridge.org/us/dictionary/english/rationalize"
+  ],
+  "relearnWords": 1574,
+  "globalAudit": {
+    "reviewed": 1873,
+    "merged": 281,
+    "newBases": 200
+  },
+  "policy": {
+    "ordinaryDays": 3,
+    "difficultDays": 4,
+    "protectionDays": 4,
+    "legacyDays": 2,
+    "reset": "2026-10-30"
+  }
+}
