@@ -5,8 +5,8 @@ import { Answer } from './Answer';
 import { WordTables } from './WordTables';
 import { useRatingCooldown } from './useRatingCooldown';
 import { rateCard, vocabularyRevision } from './review.mjs';
-import { batchLabel, latestBatch, isPriority } from './queues.mjs';
-import {emptyKnowledge,readKnowledge,knowledgeKey,activeQueue,openQueue,saveQueue,recordKnowledge,restoreActiveRound} from './knowledge.mjs';
+import { latestBatch, isPriority } from './queues.mjs';
+import {emptyKnowledge,readKnowledge,knowledgeKey,openQueue,saveQueue,recordKnowledge} from './knowledge.mjs';
 import { checkAppUpdate, fetchLatestCards } from './updates.mjs';
 import {pendingRelearnVersion} from './families.mjs';
 import {isProtected,isLegacyReview,syncImports,milestone} from './importPolicy.mjs';
@@ -43,7 +43,8 @@ function App(){
  },[]);
  const revision=useRef('');
  const date=latestBatch(allCards);
- const cards=activeQueue(allCards,mode,date,knowledge) as Card[];
+ const [cards,setCards]=useState<Card[]>([]);
+ const completed=round?.states.filter(state=>state.done).length??0;
  const commit=(data:typeof knowledge,next:Round)=>{
   knowledgeRef.current=data;setKnowledge(data);setRound(next);
   try{if(writeBlocked.current)throw Error('Unreadable saved record');localStorage.setItem(knowledgeKey(STORAGE),JSON.stringify(data));}catch{setStorageWarning(true);}
@@ -54,7 +55,7 @@ function App(){
    try{const key=`${STORAGE}:before-relearn:${resetVersion}`;if(localStorage.getItem(key)===null)localStorage.setItem(key,JSON.stringify(knowledgeRef.current));}catch{setStorageWarning(true);}
   }
   const opened=openQueue(syncImports(knowledgeRef.current,data),data,scope,batch,revision.current,restart);
-  commit(opened.data,opened.round);
+  setCards(opened.cards as Card[]);commit(opened.data,opened.round);
  };
  useEffect(()=>{
   let cancelled=false;const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),10000);setError('');
@@ -103,11 +104,7 @@ function App(){
   const now=new Date();
   const data=recordKnowledge(knowledgeRef.current,card.front,rating,mode,!round.states[round.current!].seen,isProtected(card,now),now,isLegacyReview(card));
   const next=rateCard(round,rating);
-  const nextCards=activeQueue(allCards,mode,date,data) as Card[];
-  const saved=saveQueue(data,cards,next,mode,date,revision.current);
-  const pruned=nextCards.length===cards.length?next:restoreActiveRound(saved.queues[mode==='all'?'all':`latest:${date}`],nextCards,revision.current,data);
-  if(!pruned)throw Error('Unable to preserve active round');
-  commit(saveQueue(data,nextCards,pruned,mode,date,revision.current),pruned);setFlipped(false);
+  commit(saveQueue(data,cards,next,mode,date,revision.current),next);setFlipped(false);
  };
  const restart=()=>{if(checking.current||!cards.length)return;load(allCards,mode,date,true);setFlipped(false);};
  return <main className="app">
@@ -120,7 +117,7 @@ function App(){
     <button disabled={refreshing||!allCards.length} aria-pressed={mode==='latest'} onClick={()=>switchQueue('latest')}>最新加入</button>
     <button disabled={refreshing||!allCards.length} aria-pressed={mode==='all'} onClick={()=>switchQueue('all')}>全部复习</button>
    </div>
-   <div className="queue-meta">{!!cards.length&&<p className="queue-info">{mode==='latest'?`${batchLabel(date)} · `:''}{cards.length} 张{priority&&<span className="priority-note"> · ★ 今日再次遇到</span>}</p>}
+   <div className="queue-meta">{round&&<p className="queue-info">本轮已完成 {completed} 词{priority&&<span className="priority-note"> · ★ 今日再次遇到</span>}</p>}
     <button className="update-button" disabled={refreshing||(!round&&!error)} onClick={refreshContent}>{refreshing?'更新中…':'↻ 检查更新'}</button>
    </div>
    {updateMessage&&<p className="update-status" role="status">{updateMessage}</p>}

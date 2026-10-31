@@ -56,10 +56,20 @@ export function restoreActiveRound(raw,cards,revision,data){
   return validRound(next,cards.length)?next:null;
  }catch{return null;}
 }
+/** A round owns its original membership until an explicit restart or vocabulary update. */
+export function restoreQueue(raw,cards,mode,batch,revision){
+ try{
+  const saved=JSON.parse(raw),fronts=JSON.parse(saved.key);
+  if(saved.revision!==revision||!Array.isArray(fronts)||fronts.some(f=>typeof f!=='string')||new Set(fronts).size!==fronts.length||!validRound(saved.round,fronts.length))return null;
+  const available=new Map(selectQueue(cards,mode,batch).filter(c=>!c.mergedInto).map(c=>[c.front,c]));
+  if(fronts.some(f=>!available.has(f)))return null;
+  return {cards:fronts.map(f=>available.get(f)),round:saved.round};
+ }catch{return null;}
+}
 export function openQueue(data,cards,mode,batch,revision,restart=false){
- const active=activeQueue(cards,mode,batch,data);
- const restored=restart?null:restoreActiveRound(data.queues[scopeKey(mode,batch)],active,revision,data);
- const round=restored||newRound(active.length);
+ const restored=restart?null:restoreQueue(data.queues[scopeKey(mode,batch)],cards,mode,batch,revision);
+ const active=restored?restored.cards:activeQueue(cards,mode,batch,data);
+ const round=restored?restored.round:newRound(active.length);
  const next=mode==='all'&&(!restored||data.allRound===0)?{...data,allRound:data.allRound+1}:data;
  return {data:saveQueue(next,active,round,mode,batch,revision),cards:active,round};
 }

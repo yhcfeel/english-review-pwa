@@ -62,12 +62,12 @@ test('new vocabulary queue includes reintroduced mastered word and keeps permane
  const updated=[card(['2026-10-18','2026-10-22'])];const opened=openQueue(syncImports(d,updated,now(22)),updated,'all','2026-10-22',vocabularyRevision(updated));
  assert.equal(opened.cards.length,1);assert.equal(opened.round.step,0);assert(opened.data.words.coffee.permanent);
 });
-test('daily milestone lasts one presentation and respects completion, collision and short decks',()=>{
+test('all-review milestone lasts one presentation and respects completion, collision and short decks',()=>{
  let r=newRound(240,()=>0);
  for(let i=0;i<120;i++)r=rateCard(r,'known',()=>0);
- assert.equal(milestone(r,'latest'),'halfway');assert.equal(milestone(r,'all'),'');assert.equal(milestone(JSON.parse(JSON.stringify(r)),'latest'),'halfway');
- r=rateCard(r,'forgot',()=>0);assert.equal(milestone(r,'latest'),'');
+ assert.equal(milestone(r,'all'),'halfway');assert.equal(milestone(r,'latest'),'');assert.equal(milestone(JSON.parse(JSON.stringify(r)),'all'),'halfway');
+ r=rateCard(r,'forgot',()=>0);assert.equal(milestone(r,'all'),'');
  const make=(n,done)=>{let x=newRound(n,()=>0);for(let i=0;i<done;i++)x=rateCard(x,'known',()=>0);return x;};
- assert.equal(milestone(make(240,140),'latest'),'last-hundred');assert.equal(milestone(make(200,100),'latest'),'last-hundred');
- assert.equal(milestone(make(100,0),'latest'),'');assert.equal(milestone(make(99,50),'latest'),'halfway');assert.equal(milestone(make(1,1),'latest'),'');
+ assert.equal(milestone(make(240,140),'all'),'last-hundred');assert.equal(milestone(make(200,100),'all'),'last-hundred');
+ assert.equal(milestone(make(100,0),'all'),'');assert.equal(milestone(make(99,50),'all'),'halfway');assert.equal(milestone(make(1,1),'all'),'');
 });

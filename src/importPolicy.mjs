@@ -50,7 +50,7 @@ export function syncImports(data,cards,now=new Date()){
 }
 /** Only the presentation immediately after completing a milestone gets a color. */
 export function milestone(round,mode){
- if(mode!=='latest'||!round||round.current===null||round.last===null||!round.states[round.last]?.done)return '';
+ if(mode!=='all'||!round||round.current===null||round.last===null||!round.states[round.last]?.done)return '';
  const total=round.states.length,completed=round.states.filter(s=>s.done).length;
  if(total>100&&total-completed===100)return 'last-hundred';
  if(total>1&&completed===Math.ceil(total/2))return 'halfway';
