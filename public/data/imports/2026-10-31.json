@@ -1,0 +1,3003 @@
+{
+  "date": "2026-10-31",
+  "source": "生词.txt（第222—466个非空行）",
+  "sourceSHA256": "59a5333c7105d231889b65b4b9b4322b43b37984d68a176a865dce73cf4a9ea4",
+  "todaySHA256": "2f8ab599b482dc363b0cf68235a4b27aa464f0d8839b159dd53c3737ef8e4322",
+  "excludedPreviousLines": 221,
+  "inputCount": 245,
+  "latestCount": 240,
+  "newCards": 211,
+  "totalCount": 2295,
+  "activeCount": 2003,
+  "repeatedOldWords": [
+    "mortality",
+    "implication",
+    "portray",
+    "attach",
+    "cringe",
+    "empirical",
+    "prescribe",
+    "analogy",
+    "hierarchy",
+    "resist",
+    "inadequate",
+    "status quo",
+    "admit",
+    "emphasise",
+    "consider",
+    "burden",
+    "assertive",
+    "correspond",
+    "accountable",
+    "race",
+    "dispute",
+    "domesticate",
+    "infect",
+    "invade",
+    "brew",
+    "flourish",
+    "cultivate",
+    "amplify",
+    "justify"
+  ],
+  "sourceMapping": [
+    {
+      "sourceLine": 222,
+      "original": "Rather than",
+      "fronts": [
+        "rather than"
+      ]
+    },
+    {
+      "sourceLine": 223,
+      "original": "awkward",
+      "fronts": [
+        "awkward"
+      ]
+    },
+    {
+      "sourceLine": 224,
+      "original": "flirtatious",
+      "fronts": [
+        "flirt"
+      ]
+    },
+    {
+      "sourceLine": 225,
+      "original": "speak up",
+      "fronts": [
+        "speak up"
+      ]
+    },
+    {
+      "sourceLine": 226,
+      "original": "sexist",
+      "fronts": [
+        "sexist"
+      ]
+    },
+    {
+      "sourceLine": 227,
+      "original": "tenured",
+      "fronts": [
+        "tenure"
+      ]
+    },
+    {
+      "sourceLine": 228,
+      "original": "flirt",
+      "fronts": [
+        "flirt"
+      ]
+    },
+    {
+      "sourceLine": 229,
+      "original": "run into",
+      "fronts": [
+        "run into"
+      ]
+    },
+    {
+      "sourceLine": 230,
+      "original": "bereave",
+      "fronts": [
+        "bereave"
+      ]
+    },
+    {
+      "sourceLine": 231,
+      "original": "inhibits",
+      "fronts": [
+        "inhibit"
+      ]
+    },
+    {
+      "sourceLine": 232,
+      "original": "staple",
+      "fronts": [
+        "staple"
+      ]
+    },
+    {
+      "sourceLine": 233,
+      "original": "exclaim",
+      "fronts": [
+        "exclaim"
+      ]
+    },
+    {
+      "sourceLine": 234,
+      "original": "ight-hearted",
+      "fronts": [
+        "light-hearted"
+      ]
+    },
+    {
+      "sourceLine": 235,
+      "original": "defuse",
+      "fronts": [
+        "defuse"
+      ]
+    },
+    {
+      "sourceLine": 236,
+      "original": "mortality",
+      "fronts": [
+        "mortality"
+      ]
+    },
+    {
+      "sourceLine": 237,
+      "original": "pre-empt",
+      "fronts": [
+        "pre-empt"
+      ]
+    },
+    {
+      "sourceLine": 238,
+      "original": "compliance",
+      "fronts": [
+        "comply"
+      ]
+    },
+    {
+      "sourceLine": 239,
+      "original": "Which is it?",
+      "fronts": [
+        "which is it?"
+      ]
+    },
+    {
+      "sourceLine": 240,
+      "original": "inhibitor",
+      "fronts": [
+        "inhibit"
+      ]
+    },
+    {
+      "sourceLine": 241,
+      "original": "implications",
+      "fronts": [
+        "implication"
+      ]
+    },
+    {
+      "sourceLine": 242,
+      "original": "in ... fashion",
+      "fronts": [
+        "in ... fashion"
+      ]
+    },
+    {
+      "sourceLine": 243,
+      "original": "portrayed",
+      "fronts": [
+        "portray"
+      ]
+    },
+    {
+      "sourceLine": 244,
+      "original": "inept",
+      "fronts": [
+        "inept"
+      ]
+    },
+    {
+      "sourceLine": 245,
+      "original": "attached",
+      "fronts": [
+        "attach"
+      ]
+    },
+    {
+      "sourceLine": 246,
+      "original": "misfit",
+      "fronts": [
+        "misfit"
+      ]
+    },
+    {
+      "sourceLine": 247,
+      "original": "conformity",
+      "fronts": [
+        "conform"
+      ]
+    },
+    {
+      "sourceLine": 248,
+      "original": "imitate",
+      "fronts": [
+        "imitate"
+      ]
+    },
+    {
+      "sourceLine": 249,
+      "original": "blend",
+      "fronts": [
+        "blend"
+      ]
+    },
+    {
+      "sourceLine": 250,
+      "original": "a failure to do something",
+      "fronts": [
+        "a failure to do something"
+      ]
+    },
+    {
+      "sourceLine": 251,
+      "original": "embarrassing",
+      "fronts": [
+        "embarrass"
+      ]
+    },
+    {
+      "sourceLine": 252,
+      "original": "Contrary",
+      "fronts": [
+        "contrary"
+      ]
+    },
+    {
+      "sourceLine": 253,
+      "original": "belief",
+      "fronts": [
+        "believe"
+      ]
+    },
+    {
+      "sourceLine": 254,
+      "original": "cringeworthy",
+      "fronts": [
+        "cringeworthy"
+      ]
+    },
+    {
+      "sourceLine": 255,
+      "original": "cringe",
+      "fronts": [
+        "cringe"
+      ]
+    },
+    {
+      "sourceLine": 256,
+      "original": "inwardly",
+      "fronts": [
+        "inward"
+      ]
+    },
+    {
+      "sourceLine": 257,
+      "original": "come by",
+      "fronts": [
+        "come by"
+      ]
+    },
+    {
+      "sourceLine": 258,
+      "original": "empirical",
+      "fronts": [
+        "empirical"
+      ]
+    },
+    {
+      "sourceLine": 259,
+      "original": "symptom",
+      "fronts": [
+        "symptom"
+      ]
+    },
+    {
+      "sourceLine": 260,
+      "original": "gaffe",
+      "fronts": [
+        "gaffe"
+      ]
+    },
+    {
+      "sourceLine": 261,
+      "original": "apology",
+      "fronts": [
+        "apologise"
+      ]
+    },
+    {
+      "sourceLine": 262,
+      "original": "resolve",
+      "fronts": [
+        "resolve"
+      ]
+    },
+    {
+      "sourceLine": 263,
+      "original": "prescribed",
+      "fronts": [
+        "prescribe"
+      ]
+    },
+    {
+      "sourceLine": 264,
+      "original": "normative",
+      "fronts": [
+        "normative"
+      ]
+    },
+    {
+      "sourceLine": 265,
+      "original": "negative space",
+      "fronts": [
+        "negative space"
+      ]
+    },
+    {
+      "sourceLine": 266,
+      "original": "carry associations of",
+      "fronts": [
+        "carry associations of"
+      ]
+    },
+    {
+      "sourceLine": 267,
+      "original": "dramedy",
+      "fronts": [
+        "dramedy"
+      ]
+    },
+    {
+      "sourceLine": 268,
+      "original": "discredited",
+      "fronts": [
+        "discredit"
+      ]
+    },
+    {
+      "sourceLine": 269,
+      "original": "composure",
+      "fronts": [
+        "composure"
+      ]
+    },
+    {
+      "sourceLine": 270,
+      "original": "botches",
+      "fronts": [
+        "botch"
+      ]
+    },
+    {
+      "sourceLine": 271,
+      "original": "clash",
+      "fronts": [
+        "clash"
+      ]
+    },
+    {
+      "sourceLine": 272,
+      "original": "dread",
+      "fronts": [
+        "dread"
+      ]
+    },
+    {
+      "sourceLine": 273,
+      "original": "combination",
+      "fronts": [
+        "combine"
+      ]
+    },
+    {
+      "sourceLine": 274,
+      "original": "on the spot",
+      "fronts": [
+        "on the spot"
+      ]
+    },
+    {
+      "sourceLine": 275,
+      "original": "analogy",
+      "fronts": [
+        "analogy"
+      ]
+    },
+    {
+      "sourceLine": 276,
+      "original": "negotiation",
+      "fronts": [
+        "negotiate"
+      ]
+    },
+    {
+      "sourceLine": 277,
+      "original": "go along with",
+      "fronts": [
+        "go along with"
+      ]
+    },
+    {
+      "sourceLine": 278,
+      "original": "in place — 已经存在的、已经建立的",
+      "fronts": [
+        "in place"
+      ]
+    },
+    {
+      "sourceLine": 279,
+      "original": "count as",
+      "fronts": [
+        "count as"
+      ]
+    },
+    {
+      "sourceLine": 280,
+      "original": "request",
+      "fronts": [
+        "request"
+      ]
+    },
+    {
+      "sourceLine": 281,
+      "original": "pretence",
+      "fronts": [
+        "pretend"
+      ]
+    },
+    {
+      "sourceLine": 282,
+      "original": "land on",
+      "fronts": [
+        "land on"
+      ]
+    },
+    {
+      "sourceLine": 283,
+      "original": "comment",
+      "fronts": [
+        "comment"
+      ]
+    },
+    {
+      "sourceLine": 284,
+      "original": "acquiesce",
+      "fronts": [
+        "acquiesce"
+      ]
+    },
+    {
+      "sourceLine": 285,
+      "original": "orient",
+      "fronts": [
+        "orient"
+      ]
+    },
+    {
+      "sourceLine": 286,
+      "original": "situate",
+      "fronts": [
+        "situate"
+      ]
+    },
+    {
+      "sourceLine": 287,
+      "original": "hierarchy",
+      "fronts": [
+        "hierarchy"
+      ]
+    },
+    {
+      "sourceLine": 288,
+      "original": "clumsy",
+      "fronts": [
+        "clumsy"
+      ]
+    },
+    {
+      "sourceLine": 289,
+      "original": "suffix",
+      "fronts": [
+        "suffix"
+      ]
+    },
+    {
+      "sourceLine": 290,
+      "original": "how things are done",
+      "fronts": [
+        "how things are done"
+      ]
+    },
+    {
+      "sourceLine": 291,
+      "original": "internalising",
+      "fronts": [
+        "internalise"
+      ]
+    },
+    {
+      "sourceLine": 292,
+      "original": "diplomat",
+      "fronts": [
+        "diplomat"
+      ]
+    },
+    {
+      "sourceLine": 293,
+      "original": "nonchalance",
+      "fronts": [
+        "nonchalant"
+      ]
+    },
+    {
+      "sourceLine": 294,
+      "original": "conceal",
+      "fronts": [
+        "conceal"
+      ]
+    },
+    {
+      "sourceLine": 295,
+      "original": "putdowns",
+      "fronts": [
+        "put-down"
+      ]
+    },
+    {
+      "sourceLine": 296,
+      "original": "wary",
+      "fronts": [
+        "wary"
+      ]
+    },
+    {
+      "sourceLine": 297,
+      "original": "resisting",
+      "fronts": [
+        "resist"
+      ]
+    },
+    {
+      "sourceLine": 298,
+      "original": "innocuous",
+      "fronts": [
+        "innocuous"
+      ]
+    },
+    {
+      "sourceLine": 299,
+      "original": "ambiguous",
+      "fronts": [
+        "ambiguous"
+      ]
+    },
+    {
+      "sourceLine": 300,
+      "original": "ostracism",
+      "fronts": [
+        "ostracise"
+      ]
+    },
+    {
+      "sourceLine": 301,
+      "original": "pathetic fallacy",
+      "fronts": [
+        "pathetic fallacy"
+      ]
+    },
+    {
+      "sourceLine": 302,
+      "original": "risks placing",
+      "fronts": [
+        "risk doing something"
+      ]
+    },
+    {
+      "sourceLine": 303,
+      "original": "remedy",
+      "fronts": [
+        "remedy"
+      ]
+    },
+    {
+      "sourceLine": 304,
+      "original": "aversive",
+      "fronts": [
+        "aversive"
+      ]
+    },
+    {
+      "sourceLine": 305,
+      "original": "inadequacy",
+      "fronts": [
+        "inadequate"
+      ]
+    },
+    {
+      "sourceLine": 306,
+      "original": "status quo",
+      "fronts": [
+        "status quo"
+      ]
+    },
+    {
+      "sourceLine": 307,
+      "original": "norms",
+      "fronts": [
+        "norm"
+      ]
+    },
+    {
+      "sourceLine": 308,
+      "original": "expectations",
+      "fronts": [
+        "expect"
+      ]
+    },
+    {
+      "sourceLine": 309,
+      "original": "navigate",
+      "fronts": [
+        "navigate"
+      ]
+    },
+    {
+      "sourceLine": 310,
+      "original": "admitting",
+      "fronts": [
+        "admit"
+      ]
+    },
+    {
+      "sourceLine": 311,
+      "original": "reluctance",
+      "fronts": [
+        "reluctant"
+      ]
+    },
+    {
+      "sourceLine": 312,
+      "original": "aversiveness",
+      "fronts": [
+        "aversive"
+      ]
+    },
+    {
+      "sourceLine": 313,
+      "original": "cord",
+      "fronts": [
+        "cord"
+      ]
+    },
+    {
+      "sourceLine": 314,
+      "original": "irritated",
+      "fronts": [
+        "irritate"
+      ]
+    },
+    {
+      "sourceLine": 315,
+      "original": "a good deal of",
+      "fronts": [
+        "a good deal of"
+      ]
+    },
+    {
+      "sourceLine": 316,
+      "original": "doorknobs",
+      "fronts": [
+        "doorknob"
+      ]
+    },
+    {
+      "sourceLine": 317,
+      "original": "highlights",
+      "fronts": [
+        "highlight"
+      ]
+    },
+    {
+      "sourceLine": 318,
+      "original": "reconceptualise",
+      "fronts": [
+        "reconceptualise"
+      ]
+    },
+    {
+      "sourceLine": 319,
+      "original": "trope",
+      "fronts": [
+        "trope"
+      ]
+    },
+    {
+      "sourceLine": 320,
+      "original": "disservice",
+      "fronts": [
+        "disservice"
+      ]
+    },
+    {
+      "sourceLine": 321,
+      "original": "do a disservice",
+      "fronts": [
+        "do a disservice"
+      ]
+    },
+    {
+      "sourceLine": 322,
+      "original": "eschew",
+      "fronts": [
+        "eschew"
+      ]
+    },
+    {
+      "sourceLine": 323,
+      "original": "follow up",
+      "fronts": [
+        "follow up"
+      ]
+    },
+    {
+      "sourceLine": 324,
+      "original": "casual",
+      "fronts": [
+        "casual"
+      ]
+    },
+    {
+      "sourceLine": 325,
+      "original": "chit-chat",
+      "fronts": [
+        "chit-chat"
+      ]
+    },
+    {
+      "sourceLine": 326,
+      "original": "skew",
+      "fronts": [
+        "skew"
+      ]
+    },
+    {
+      "sourceLine": 327,
+      "original": "emphasising",
+      "fronts": [
+        "emphasise"
+      ]
+    },
+    {
+      "sourceLine": 328,
+      "original": "considerations",
+      "fronts": [
+        "consider"
+      ]
+    },
+    {
+      "sourceLine": 329,
+      "original": "burden",
+      "fronts": [
+        "burden"
+      ]
+    },
+    {
+      "sourceLine": 330,
+      "original": "pronouns",
+      "fronts": [
+        "pronoun"
+      ]
+    },
+    {
+      "sourceLine": 331,
+      "original": "jump in — 插话、突然加入、主动介入",
+      "fronts": [
+        "jump in"
+      ]
+    },
+    {
+      "sourceLine": 332,
+      "original": "upshot",
+      "fronts": [
+        "upshot"
+      ]
+    },
+    {
+      "sourceLine": 333,
+      "original": "take the case of",
+      "fronts": [
+        "take the case of"
+      ]
+    },
+    {
+      "sourceLine": 334,
+      "original": "stem from",
+      "fronts": [
+        "stem from"
+      ]
+    },
+    {
+      "sourceLine": 335,
+      "original": "assertiveness",
+      "fronts": [
+        "assertive"
+      ]
+    },
+    {
+      "sourceLine": 336,
+      "original": "summon up /",
+      "fronts": [
+        "summon up"
+      ]
+    },
+    {
+      "sourceLine": 337,
+      "original": "a source of",
+      "fronts": [
+        "a source of"
+      ]
+    },
+    {
+      "sourceLine": 338,
+      "original": "build something into something",
+      "fronts": [
+        "build something into something"
+      ]
+    },
+    {
+      "sourceLine": 339,
+      "original": "mindful",
+      "fronts": [
+        "mindful"
+      ]
+    },
+    {
+      "sourceLine": 340,
+      "original": "correspondingly",
+      "fronts": [
+        "correspond"
+      ]
+    },
+    {
+      "sourceLine": 341,
+      "original": "accountable",
+      "fronts": [
+        "accountable"
+      ]
+    },
+    {
+      "sourceLine": 342,
+      "original": "intersect",
+      "fronts": [
+        "intersect"
+      ]
+    },
+    {
+      "sourceLine": 343,
+      "original": "a lot to put on something",
+      "fronts": [
+        "a lot to put on something"
+      ]
+    },
+    {
+      "sourceLine": 344,
+      "original": "minor",
+      "fronts": [
+        "minor"
+      ]
+    },
+    {
+      "sourceLine": 345,
+      "original": "irritation",
+      "fronts": [
+        "irritate"
+      ]
+    },
+    {
+      "sourceLine": 346,
+      "original": "overblown",
+      "fronts": [
+        "overblown"
+      ]
+    },
+    {
+      "sourceLine": 347,
+      "original": "crop up",
+      "fronts": [
+        "crop up"
+      ]
+    },
+    {
+      "sourceLine": 348,
+      "original": "harassment",
+      "fronts": [
+        "harass"
+      ]
+    },
+    {
+      "sourceLine": 349,
+      "original": "race",
+      "fronts": [
+        "race"
+      ]
+    },
+    {
+      "sourceLine": 350,
+      "original": "function to do something",
+      "fronts": [
+        "function to do something"
+      ]
+    },
+    {
+      "sourceLine": 351,
+      "original": "go + 过去分词或形容词化的过去分词",
+      "fronts": [
+        "go + past participle"
+      ]
+    },
+    {
+      "sourceLine": 352,
+      "original": "alerts",
+      "fronts": [
+        "alert"
+      ]
+    },
+    {
+      "sourceLine": 353,
+      "original": "go into",
+      "fronts": [
+        "go into"
+      ]
+    },
+    {
+      "sourceLine": 354,
+      "original": "settle for",
+      "fronts": [
+        "settle for"
+      ]
+    },
+    {
+      "sourceLine": 355,
+      "original": "credit",
+      "fronts": [
+        "credit"
+      ]
+    },
+    {
+      "sourceLine": 356,
+      "original": "Vanilla",
+      "fronts": [
+        "vanilla"
+      ]
+    },
+    {
+      "sourceLine": 357,
+      "original": "ambrosial",
+      "fronts": [
+        "ambrosial"
+      ]
+    },
+    {
+      "sourceLine": 358,
+      "original": "dismiss A as B",
+      "fronts": [
+        "dismiss A as B"
+      ]
+    },
+    {
+      "sourceLine": 359,
+      "original": "bland",
+      "fronts": [
+        "bland"
+      ]
+    },
+    {
+      "sourceLine": 360,
+      "original": "seldom",
+      "fronts": [
+        "seldom"
+      ]
+    },
+    {
+      "sourceLine": 361,
+      "original": "disputed",
+      "fronts": [
+        "dispute"
+      ]
+    },
+    {
+      "sourceLine": 362,
+      "original": "provenance",
+      "fronts": [
+        "provenance"
+      ]
+    },
+    {
+      "sourceLine": 363,
+      "original": "rejigger",
+      "fronts": [
+        "rejigger"
+      ]
+    },
+    {
+      "sourceLine": 364,
+      "original": "on the ... front",
+      "fronts": [
+        "on the ... front"
+      ]
+    },
+    {
+      "sourceLine": 365,
+      "original": "fragrant",
+      "fronts": [
+        "fragrant"
+      ]
+    },
+    {
+      "sourceLine": 366,
+      "original": "domesticate",
+      "fronts": [
+        "domesticate"
+      ]
+    },
+    {
+      "sourceLine": 367,
+      "original": "vine",
+      "fronts": [
+        "vine"
+      ]
+    },
+    {
+      "sourceLine": 368,
+      "original": "co-evolved",
+      "fronts": [
+        "co-evolve"
+      ]
+    },
+    {
+      "sourceLine": 369,
+      "original": "humble",
+      "fronts": [
+        "humble"
+      ]
+    },
+    {
+      "sourceLine": 370,
+      "original": "medicinal",
+      "fronts": [
+        "medicinal"
+      ]
+    },
+    {
+      "sourceLine": 371,
+      "original": "lung",
+      "fronts": [
+        "lung"
+      ]
+    },
+    {
+      "sourceLine": 372,
+      "original": "poultice",
+      "fronts": [
+        "poultice"
+      ]
+    },
+    {
+      "sourceLine": 373,
+      "original": "venom",
+      "fronts": [
+        "venom"
+      ]
+    },
+    {
+      "sourceLine": 374,
+      "original": "infections",
+      "fronts": [
+        "infect"
+      ]
+    },
+    {
+      "sourceLine": 375,
+      "original": "wounds",
+      "fronts": [
+        "wound"
+      ]
+    },
+    {
+      "sourceLine": 376,
+      "original": "subjugated",
+      "fronts": [
+        "subjugate"
+      ]
+    },
+    {
+      "sourceLine": 377,
+      "original": "petals",
+      "fronts": [
+        "petal"
+      ]
+    },
+    {
+      "sourceLine": 378,
+      "original": "Tribute",
+      "fronts": [
+        "tribute"
+      ]
+    },
+    {
+      "sourceLine": 379,
+      "original": "exacted",
+      "fronts": [
+        "exact"
+      ]
+    },
+    {
+      "sourceLine": 380,
+      "original": "indispensable",
+      "fronts": [
+        "indispensable"
+      ]
+    },
+    {
+      "sourceLine": 381,
+      "original": "savory",
+      "fronts": [
+        "savory"
+      ]
+    },
+    {
+      "sourceLine": 382,
+      "original": "enlivened",
+      "fronts": [
+        "enliven"
+      ]
+    },
+    {
+      "sourceLine": 383,
+      "original": "chilies",
+      "fronts": [
+        "chili"
+      ]
+    },
+    {
+      "sourceLine": 384,
+      "original": "nobility",
+      "fronts": [
+        "nobility"
+      ]
+    },
+    {
+      "sourceLine": 385,
+      "original": "invader",
+      "fronts": [
+        "invade"
+      ]
+    },
+    {
+      "sourceLine": 386,
+      "original": "quaffed",
+      "fronts": [
+        "quaff"
+      ]
+    },
+    {
+      "sourceLine": 387,
+      "original": "brew",
+      "fronts": [
+        "brew"
+      ]
+    },
+    {
+      "sourceLine": 388,
+      "original": "famously",
+      "fronts": [
+        "famous"
+      ]
+    },
+    {
+      "sourceLine": 389,
+      "original": "frothy",
+      "fronts": [
+        "froth"
+      ]
+    },
+    {
+      "sourceLine": 390,
+      "original": "apothecary",
+      "fronts": [
+        "apothecary"
+      ]
+    },
+    {
+      "sourceLine": 391,
+      "original": "pastry",
+      "fronts": [
+        "pastry"
+      ]
+    },
+    {
+      "sourceLine": 392,
+      "original": "freak",
+      "fronts": [
+        "freak"
+      ]
+    },
+    {
+      "sourceLine": 393,
+      "original": "rotted",
+      "fronts": [
+        "rot"
+      ]
+    },
+    {
+      "sourceLine": 394,
+      "original": "indulge in",
+      "fronts": [
+        "indulge in"
+      ]
+    },
+    {
+      "sourceLine": 395,
+      "original": "infuse",
+      "fronts": [
+        "infuse"
+      ]
+    },
+    {
+      "sourceLine": 396,
+      "original": "flourish",
+      "fronts": [
+        "flourish"
+      ]
+    },
+    {
+      "sourceLine": 397,
+      "original": "with the flourish of a pen",
+      "fronts": [
+        "with the flourish of a pen"
+      ]
+    },
+    {
+      "sourceLine": 398,
+      "original": "become a thing",
+      "fronts": [
+        "become a thing"
+      ]
+    },
+    {
+      "sourceLine": 399,
+      "original": "jugs",
+      "fronts": [
+        "jug"
+      ]
+    },
+    {
+      "sourceLine": 400,
+      "original": "ferments",
+      "fronts": [
+        "ferment"
+      ]
+    },
+    {
+      "sourceLine": 401,
+      "original": "soak",
+      "fronts": [
+        "soak"
+      ]
+    },
+    {
+      "sourceLine": 402,
+      "original": "have the makings of",
+      "fronts": [
+        "have the makings of"
+      ]
+    },
+    {
+      "sourceLine": 403,
+      "original": "hoard",
+      "fronts": [
+        "hoard"
+      ]
+    },
+    {
+      "sourceLine": 404,
+      "original": "vessels",
+      "fronts": [
+        "vessel"
+      ]
+    },
+    {
+      "sourceLine": 405,
+      "original": "entourage",
+      "fronts": [
+        "entourage"
+      ]
+    },
+    {
+      "sourceLine": 406,
+      "original": "chamber",
+      "fronts": [
+        "chamber"
+      ]
+    },
+    {
+      "sourceLine": 407,
+      "original": "anoint",
+      "fronts": [
+        "anoint"
+      ]
+    },
+    {
+      "sourceLine": 408,
+      "original": "corpse",
+      "fronts": [
+        "corpse"
+      ]
+    },
+    {
+      "sourceLine": 409,
+      "original": "interment",
+      "fronts": [
+        "interment"
+      ]
+    },
+    {
+      "sourceLine": 410,
+      "original": "antimicrobial",
+      "fronts": [
+        "antimicrobial"
+      ]
+    },
+    {
+      "sourceLine": 411,
+      "original": "deposited",
+      "fronts": [
+        "deposit"
+      ]
+    },
+    {
+      "sourceLine": 412,
+      "original": "Botanical",
+      "fronts": [
+        "botanical"
+      ]
+    },
+    {
+      "sourceLine": 413,
+      "original": "the tip of the iceberg",
+      "fronts": [
+        "the tip of the iceberg"
+      ]
+    },
+    {
+      "sourceLine": 414,
+      "original": "cultivate",
+      "fronts": [
+        "cultivate"
+      ]
+    },
+    {
+      "sourceLine": 415,
+      "original": "strawberry",
+      "fronts": [
+        "strawberry"
+      ]
+    },
+    {
+      "sourceLine": 416,
+      "original": "ceramic",
+      "fronts": [
+        "ceramic"
+      ]
+    },
+    {
+      "sourceLine": 417,
+      "original": "monetary",
+      "fronts": [
+        "monetary"
+      ]
+    },
+    {
+      "sourceLine": 418,
+      "original": "It wasn't until...that...",
+      "fronts": [
+        "it wasn't until ... that ..."
+      ]
+    },
+    {
+      "sourceLine": 419,
+      "original": "predates",
+      "fronts": [
+        "predate"
+      ]
+    },
+    {
+      "sourceLine": 420,
+      "original": "shards",
+      "fronts": [
+        "shard"
+      ]
+    },
+    {
+      "sourceLine": 421,
+      "original": "tippling",
+      "fronts": [
+        "tipple"
+      ]
+    },
+    {
+      "sourceLine": 422,
+      "original": "starch",
+      "fronts": [
+        "starch"
+      ]
+    },
+    {
+      "sourceLine": 423,
+      "original": "abundantly",
+      "fronts": [
+        "abundant"
+      ]
+    },
+    {
+      "sourceLine": 424,
+      "original": "clincher",
+      "fronts": [
+        "clincher"
+      ]
+    },
+    {
+      "sourceLine": 425,
+      "original": "contentious",
+      "fronts": [
+        "contentious"
+      ]
+    },
+    {
+      "sourceLine": 426,
+      "original": "make the passage",
+      "fronts": [
+        "make the passage"
+      ]
+    },
+    {
+      "sourceLine": 427,
+      "original": "extinct",
+      "fronts": [
+        "extinct"
+      ]
+    },
+    {
+      "sourceLine": 428,
+      "original": "mammoths",
+      "fronts": [
+        "mammoth"
+      ]
+    },
+    {
+      "sourceLine": 429,
+      "original": "weep",
+      "fronts": [
+        "weep"
+      ]
+    },
+    {
+      "sourceLine": 430,
+      "original": "de-extinction",
+      "fronts": [
+        "de-extinction"
+      ]
+    },
+    {
+      "sourceLine": 431,
+      "original": "sporadically",
+      "fronts": [
+        "sporadic"
+      ]
+    },
+    {
+      "sourceLine": 432,
+      "original": "dinosaurs",
+      "fronts": [
+        "dinosaur"
+      ]
+    },
+    {
+      "sourceLine": 433,
+      "original": "amplify",
+      "fronts": [
+        "amplify"
+      ]
+    },
+    {
+      "sourceLine": 434,
+      "original": "embryo",
+      "fronts": [
+        "embryo"
+      ]
+    },
+    {
+      "sourceLine": 435,
+      "original": "sane",
+      "fronts": [
+        "sane"
+      ]
+    },
+    {
+      "sourceLine": 436,
+      "original": "Famously",
+      "fronts": [
+        "famous"
+      ]
+    },
+    {
+      "sourceLine": 437,
+      "original": "made it seem as though...",
+      "fronts": [
+        "make it seem as though ..."
+      ]
+    },
+    {
+      "sourceLine": 438,
+      "original": "bear",
+      "fronts": [
+        "bear"
+      ]
+    },
+    {
+      "sourceLine": 439,
+      "original": "surrogate",
+      "fronts": [
+        "surrogate"
+      ]
+    },
+    {
+      "sourceLine": 440,
+      "original": "ibex",
+      "fronts": [
+        "ibex"
+      ]
+    },
+    {
+      "sourceLine": 441,
+      "original": "stall",
+      "fronts": [
+        "stall"
+      ]
+    },
+    {
+      "sourceLine": 442,
+      "original": "roaming",
+      "fronts": [
+        "roam"
+      ]
+    },
+    {
+      "sourceLine": 443,
+      "original": "mesmerising",
+      "fronts": [
+        "mesmerise"
+      ]
+    },
+    {
+      "sourceLine": 444,
+      "original": "justification",
+      "fronts": [
+        "justify"
+      ]
+    },
+    {
+      "sourceLine": 445,
+      "original": "resurrected",
+      "fronts": [
+        "resurrect"
+      ]
+    },
+    {
+      "sourceLine": 446,
+      "original": "flora",
+      "fronts": [
+        "flora"
+      ]
+    },
+    {
+      "sourceLine": 447,
+      "original": "herbivores",
+      "fronts": [
+        "herbivore"
+      ]
+    },
+    {
+      "sourceLine": 448,
+      "original": "cattle",
+      "fronts": [
+        "cattle"
+      ]
+    },
+    {
+      "sourceLine": 449,
+      "original": "trampled",
+      "fronts": [
+        "trample"
+      ]
+    },
+    {
+      "sourceLine": 450,
+      "original": "tundra",
+      "fronts": [
+        "tundra"
+      ]
+    },
+    {
+      "sourceLine": 451,
+      "original": "snatching",
+      "fronts": [
+        "snatch"
+      ]
+    },
+    {
+      "sourceLine": 452,
+      "original": "trunkfuls",
+      "fronts": [
+        "trunkful"
+      ]
+    },
+    {
+      "sourceLine": 453,
+      "original": "hooves",
+      "fronts": [
+        "hoof"
+      ]
+    },
+    {
+      "sourceLine": 454,
+      "original": "urine",
+      "fronts": [
+        "urine"
+      ]
+    },
+    {
+      "sourceLine": 455,
+      "original": "dung",
+      "fronts": [
+        "dung"
+      ]
+    },
+    {
+      "sourceLine": 456,
+      "original": "germinating",
+      "fronts": [
+        "germinate"
+      ]
+    },
+    {
+      "sourceLine": 457,
+      "original": "limbs",
+      "fronts": [
+        "limb"
+      ]
+    },
+    {
+      "sourceLine": 458,
+      "original": "in the sense of",
+      "fronts": [
+        "in the sense of"
+      ]
+    },
+    {
+      "sourceLine": 459,
+      "original": "pigeon",
+      "fronts": [
+        "pigeon"
+      ]
+    },
+    {
+      "sourceLine": 460,
+      "original": "fulfil",
+      "fronts": [
+        "fulfil"
+      ]
+    },
+    {
+      "sourceLine": 461,
+      "original": "repopulate",
+      "fronts": [
+        "repopulate"
+      ]
+    },
+    {
+      "sourceLine": 462,
+      "original": "A tracks B 可以表示A与B的发展方向、逻辑或变化趋势相似。",
+      "fronts": [
+        "track"
+      ]
+    },
+    {
+      "sourceLine": 463,
+      "original": "frame of reference",
+      "fronts": [
+        "frame of reference"
+      ]
+    },
+    {
+      "sourceLine": 464,
+      "original": "dams",
+      "fronts": [
+        "dam"
+      ]
+    },
+    {
+      "sourceLine": 465,
+      "original": "cull",
+      "fronts": [
+        "cull"
+      ]
+    },
+    {
+      "sourceLine": 466,
+      "original": "be borne out",
+      "fronts": [
+        "be borne out"
+      ]
+    }
+  ],
+  "mapping": [
+    {
+      "sourceLine": 222,
+      "original": "Rather than",
+      "front": "rather than"
+    },
+    {
+      "sourceLine": 223,
+      "original": "awkward",
+      "front": "awkward"
+    },
+    {
+      "sourceLine": 224,
+      "original": "flirtatious",
+      "front": "flirt"
+    },
+    {
+      "sourceLine": 225,
+      "original": "speak up",
+      "front": "speak up"
+    },
+    {
+      "sourceLine": 226,
+      "original": "sexist",
+      "front": "sexist"
+    },
+    {
+      "sourceLine": 227,
+      "original": "tenured",
+      "front": "tenure"
+    },
+    {
+      "sourceLine": 228,
+      "original": "flirt",
+      "front": "flirt"
+    },
+    {
+      "sourceLine": 229,
+      "original": "run into",
+      "front": "run into"
+    },
+    {
+      "sourceLine": 230,
+      "original": "bereave",
+      "front": "bereave"
+    },
+    {
+      "sourceLine": 231,
+      "original": "inhibits",
+      "front": "inhibit"
+    },
+    {
+      "sourceLine": 232,
+      "original": "staple",
+      "front": "staple"
+    },
+    {
+      "sourceLine": 233,
+      "original": "exclaim",
+      "front": "exclaim"
+    },
+    {
+      "sourceLine": 234,
+      "original": "ight-hearted",
+      "front": "light-hearted"
+    },
+    {
+      "sourceLine": 235,
+      "original": "defuse",
+      "front": "defuse"
+    },
+    {
+      "sourceLine": 236,
+      "original": "mortality",
+      "front": "mortality"
+    },
+    {
+      "sourceLine": 237,
+      "original": "pre-empt",
+      "front": "pre-empt"
+    },
+    {
+      "sourceLine": 238,
+      "original": "compliance",
+      "front": "comply"
+    },
+    {
+      "sourceLine": 239,
+      "original": "Which is it?",
+      "front": "which is it?"
+    },
+    {
+      "sourceLine": 240,
+      "original": "inhibitor",
+      "front": "inhibit"
+    },
+    {
+      "sourceLine": 241,
+      "original": "implications",
+      "front": "implication"
+    },
+    {
+      "sourceLine": 242,
+      "original": "in ... fashion",
+      "front": "in ... fashion"
+    },
+    {
+      "sourceLine": 243,
+      "original": "portrayed",
+      "front": "portray"
+    },
+    {
+      "sourceLine": 244,
+      "original": "inept",
+      "front": "inept"
+    },
+    {
+      "sourceLine": 245,
+      "original": "attached",
+      "front": "attach"
+    },
+    {
+      "sourceLine": 246,
+      "original": "misfit",
+      "front": "misfit"
+    },
+    {
+      "sourceLine": 247,
+      "original": "conformity",
+      "front": "conform"
+    },
+    {
+      "sourceLine": 248,
+      "original": "imitate",
+      "front": "imitate"
+    },
+    {
+      "sourceLine": 249,
+      "original": "blend",
+      "front": "blend"
+    },
+    {
+      "sourceLine": 250,
+      "original": "a failure to do something",
+      "front": "a failure to do something"
+    },
+    {
+      "sourceLine": 251,
+      "original": "embarrassing",
+      "front": "embarrass"
+    },
+    {
+      "sourceLine": 252,
+      "original": "Contrary",
+      "front": "contrary"
+    },
+    {
+      "sourceLine": 253,
+      "original": "belief",
+      "front": "believe"
+    },
+    {
+      "sourceLine": 254,
+      "original": "cringeworthy",
+      "front": "cringeworthy"
+    },
+    {
+      "sourceLine": 255,
+      "original": "cringe",
+      "front": "cringe"
+    },
+    {
+      "sourceLine": 256,
+      "original": "inwardly",
+      "front": "inward"
+    },
+    {
+      "sourceLine": 257,
+      "original": "come by",
+      "front": "come by"
+    },
+    {
+      "sourceLine": 258,
+      "original": "empirical",
+      "front": "empirical"
+    },
+    {
+      "sourceLine": 259,
+      "original": "symptom",
+      "front": "symptom"
+    },
+    {
+      "sourceLine": 260,
+      "original": "gaffe",
+      "front": "gaffe"
+    },
+    {
+      "sourceLine": 261,
+      "original": "apology",
+      "front": "apologise"
+    },
+    {
+      "sourceLine": 262,
+      "original": "resolve",
+      "front": "resolve"
+    },
+    {
+      "sourceLine": 263,
+      "original": "prescribed",
+      "front": "prescribe"
+    },
+    {
+      "sourceLine": 264,
+      "original": "normative",
+      "front": "normative"
+    },
+    {
+      "sourceLine": 265,
+      "original": "negative space",
+      "front": "negative space"
+    },
+    {
+      "sourceLine": 266,
+      "original": "carry associations of",
+      "front": "carry associations of"
+    },
+    {
+      "sourceLine": 267,
+      "original": "dramedy",
+      "front": "dramedy"
+    },
+    {
+      "sourceLine": 268,
+      "original": "discredited",
+      "front": "discredit"
+    },
+    {
+      "sourceLine": 269,
+      "original": "composure",
+      "front": "composure"
+    },
+    {
+      "sourceLine": 270,
+      "original": "botches",
+      "front": "botch"
+    },
+    {
+      "sourceLine": 271,
+      "original": "clash",
+      "front": "clash"
+    },
+    {
+      "sourceLine": 272,
+      "original": "dread",
+      "front": "dread"
+    },
+    {
+      "sourceLine": 273,
+      "original": "combination",
+      "front": "combine"
+    },
+    {
+      "sourceLine": 274,
+      "original": "on the spot",
+      "front": "on the spot"
+    },
+    {
+      "sourceLine": 275,
+      "original": "analogy",
+      "front": "analogy"
+    },
+    {
+      "sourceLine": 276,
+      "original": "negotiation",
+      "front": "negotiate"
+    },
+    {
+      "sourceLine": 277,
+      "original": "go along with",
+      "front": "go along with"
+    },
+    {
+      "sourceLine": 278,
+      "original": "in place — 已经存在的、已经建立的",
+      "front": "in place"
+    },
+    {
+      "sourceLine": 279,
+      "original": "count as",
+      "front": "count as"
+    },
+    {
+      "sourceLine": 280,
+      "original": "request",
+      "front": "request"
+    },
+    {
+      "sourceLine": 281,
+      "original": "pretence",
+      "front": "pretend"
+    },
+    {
+      "sourceLine": 282,
+      "original": "land on",
+      "front": "land on"
+    },
+    {
+      "sourceLine": 283,
+      "original": "comment",
+      "front": "comment"
+    },
+    {
+      "sourceLine": 284,
+      "original": "acquiesce",
+      "front": "acquiesce"
+    },
+    {
+      "sourceLine": 285,
+      "original": "orient",
+      "front": "orient"
+    },
+    {
+      "sourceLine": 286,
+      "original": "situate",
+      "front": "situate"
+    },
+    {
+      "sourceLine": 287,
+      "original": "hierarchy",
+      "front": "hierarchy"
+    },
+    {
+      "sourceLine": 288,
+      "original": "clumsy",
+      "front": "clumsy"
+    },
+    {
+      "sourceLine": 289,
+      "original": "suffix",
+      "front": "suffix"
+    },
+    {
+      "sourceLine": 290,
+      "original": "how things are done",
+      "front": "how things are done"
+    },
+    {
+      "sourceLine": 291,
+      "original": "internalising",
+      "front": "internalise"
+    },
+    {
+      "sourceLine": 292,
+      "original": "diplomat",
+      "front": "diplomat"
+    },
+    {
+      "sourceLine": 293,
+      "original": "nonchalance",
+      "front": "nonchalant"
+    },
+    {
+      "sourceLine": 294,
+      "original": "conceal",
+      "front": "conceal"
+    },
+    {
+      "sourceLine": 295,
+      "original": "putdowns",
+      "front": "put-down"
+    },
+    {
+      "sourceLine": 296,
+      "original": "wary",
+      "front": "wary"
+    },
+    {
+      "sourceLine": 297,
+      "original": "resisting",
+      "front": "resist"
+    },
+    {
+      "sourceLine": 298,
+      "original": "innocuous",
+      "front": "innocuous"
+    },
+    {
+      "sourceLine": 299,
+      "original": "ambiguous",
+      "front": "ambiguous"
+    },
+    {
+      "sourceLine": 300,
+      "original": "ostracism",
+      "front": "ostracise"
+    },
+    {
+      "sourceLine": 301,
+      "original": "pathetic fallacy",
+      "front": "pathetic fallacy"
+    },
+    {
+      "sourceLine": 302,
+      "original": "risks placing",
+      "front": "risk doing something"
+    },
+    {
+      "sourceLine": 303,
+      "original": "remedy",
+      "front": "remedy"
+    },
+    {
+      "sourceLine": 304,
+      "original": "aversive",
+      "front": "aversive"
+    },
+    {
+      "sourceLine": 305,
+      "original": "inadequacy",
+      "front": "inadequate"
+    },
+    {
+      "sourceLine": 306,
+      "original": "status quo",
+      "front": "status quo"
+    },
+    {
+      "sourceLine": 307,
+      "original": "norms",
+      "front": "norm"
+    },
+    {
+      "sourceLine": 308,
+      "original": "expectations",
+      "front": "expect"
+    },
+    {
+      "sourceLine": 309,
+      "original": "navigate",
+      "front": "navigate"
+    },
+    {
+      "sourceLine": 310,
+      "original": "admitting",
+      "front": "admit"
+    },
+    {
+      "sourceLine": 311,
+      "original": "reluctance",
+      "front": "reluctant"
+    },
+    {
+      "sourceLine": 312,
+      "original": "aversiveness",
+      "front": "aversive"
+    },
+    {
+      "sourceLine": 313,
+      "original": "cord",
+      "front": "cord"
+    },
+    {
+      "sourceLine": 314,
+      "original": "irritated",
+      "front": "irritate"
+    },
+    {
+      "sourceLine": 315,
+      "original": "a good deal of",
+      "front": "a good deal of"
+    },
+    {
+      "sourceLine": 316,
+      "original": "doorknobs",
+      "front": "doorknob"
+    },
+    {
+      "sourceLine": 317,
+      "original": "highlights",
+      "front": "highlight"
+    },
+    {
+      "sourceLine": 318,
+      "original": "reconceptualise",
+      "front": "reconceptualise"
+    },
+    {
+      "sourceLine": 319,
+      "original": "trope",
+      "front": "trope"
+    },
+    {
+      "sourceLine": 320,
+      "original": "disservice",
+      "front": "disservice"
+    },
+    {
+      "sourceLine": 321,
+      "original": "do a disservice",
+      "front": "do a disservice"
+    },
+    {
+      "sourceLine": 322,
+      "original": "eschew",
+      "front": "eschew"
+    },
+    {
+      "sourceLine": 323,
+      "original": "follow up",
+      "front": "follow up"
+    },
+    {
+      "sourceLine": 324,
+      "original": "casual",
+      "front": "casual"
+    },
+    {
+      "sourceLine": 325,
+      "original": "chit-chat",
+      "front": "chit-chat"
+    },
+    {
+      "sourceLine": 326,
+      "original": "skew",
+      "front": "skew"
+    },
+    {
+      "sourceLine": 327,
+      "original": "emphasising",
+      "front": "emphasise"
+    },
+    {
+      "sourceLine": 328,
+      "original": "considerations",
+      "front": "consider"
+    },
+    {
+      "sourceLine": 329,
+      "original": "burden",
+      "front": "burden"
+    },
+    {
+      "sourceLine": 330,
+      "original": "pronouns",
+      "front": "pronoun"
+    },
+    {
+      "sourceLine": 331,
+      "original": "jump in — 插话、突然加入、主动介入",
+      "front": "jump in"
+    },
+    {
+      "sourceLine": 332,
+      "original": "upshot",
+      "front": "upshot"
+    },
+    {
+      "sourceLine": 333,
+      "original": "take the case of",
+      "front": "take the case of"
+    },
+    {
+      "sourceLine": 334,
+      "original": "stem from",
+      "front": "stem from"
+    },
+    {
+      "sourceLine": 335,
+      "original": "assertiveness",
+      "front": "assertive"
+    },
+    {
+      "sourceLine": 336,
+      "original": "summon up /",
+      "front": "summon up"
+    },
+    {
+      "sourceLine": 337,
+      "original": "a source of",
+      "front": "a source of"
+    },
+    {
+      "sourceLine": 338,
+      "original": "build something into something",
+      "front": "build something into something"
+    },
+    {
+      "sourceLine": 339,
+      "original": "mindful",
+      "front": "mindful"
+    },
+    {
+      "sourceLine": 340,
+      "original": "correspondingly",
+      "front": "correspond"
+    },
+    {
+      "sourceLine": 341,
+      "original": "accountable",
+      "front": "accountable"
+    },
+    {
+      "sourceLine": 342,
+      "original": "intersect",
+      "front": "intersect"
+    },
+    {
+      "sourceLine": 343,
+      "original": "a lot to put on something",
+      "front": "a lot to put on something"
+    },
+    {
+      "sourceLine": 344,
+      "original": "minor",
+      "front": "minor"
+    },
+    {
+      "sourceLine": 345,
+      "original": "irritation",
+      "front": "irritate"
+    },
+    {
+      "sourceLine": 346,
+      "original": "overblown",
+      "front": "overblown"
+    },
+    {
+      "sourceLine": 347,
+      "original": "crop up",
+      "front": "crop up"
+    },
+    {
+      "sourceLine": 348,
+      "original": "harassment",
+      "front": "harass"
+    },
+    {
+      "sourceLine": 349,
+      "original": "race",
+      "front": "race"
+    },
+    {
+      "sourceLine": 350,
+      "original": "function to do something",
+      "front": "function to do something"
+    },
+    {
+      "sourceLine": 351,
+      "original": "go + 过去分词或形容词化的过去分词",
+      "front": "go + past participle"
+    },
+    {
+      "sourceLine": 352,
+      "original": "alerts",
+      "front": "alert"
+    },
+    {
+      "sourceLine": 353,
+      "original": "go into",
+      "front": "go into"
+    },
+    {
+      "sourceLine": 354,
+      "original": "settle for",
+      "front": "settle for"
+    },
+    {
+      "sourceLine": 355,
+      "original": "credit",
+      "front": "credit"
+    },
+    {
+      "sourceLine": 356,
+      "original": "Vanilla",
+      "front": "vanilla"
+    },
+    {
+      "sourceLine": 357,
+      "original": "ambrosial",
+      "front": "ambrosial"
+    },
+    {
+      "sourceLine": 358,
+      "original": "dismiss A as B",
+      "front": "dismiss A as B"
+    },
+    {
+      "sourceLine": 359,
+      "original": "bland",
+      "front": "bland"
+    },
+    {
+      "sourceLine": 360,
+      "original": "seldom",
+      "front": "seldom"
+    },
+    {
+      "sourceLine": 361,
+      "original": "disputed",
+      "front": "dispute"
+    },
+    {
+      "sourceLine": 362,
+      "original": "provenance",
+      "front": "provenance"
+    },
+    {
+      "sourceLine": 363,
+      "original": "rejigger",
+      "front": "rejigger"
+    },
+    {
+      "sourceLine": 364,
+      "original": "on the ... front",
+      "front": "on the ... front"
+    },
+    {
+      "sourceLine": 365,
+      "original": "fragrant",
+      "front": "fragrant"
+    },
+    {
+      "sourceLine": 366,
+      "original": "domesticate",
+      "front": "domesticate"
+    },
+    {
+      "sourceLine": 367,
+      "original": "vine",
+      "front": "vine"
+    },
+    {
+      "sourceLine": 368,
+      "original": "co-evolved",
+      "front": "co-evolve"
+    },
+    {
+      "sourceLine": 369,
+      "original": "humble",
+      "front": "humble"
+    },
+    {
+      "sourceLine": 370,
+      "original": "medicinal",
+      "front": "medicinal"
+    },
+    {
+      "sourceLine": 371,
+      "original": "lung",
+      "front": "lung"
+    },
+    {
+      "sourceLine": 372,
+      "original": "poultice",
+      "front": "poultice"
+    },
+    {
+      "sourceLine": 373,
+      "original": "venom",
+      "front": "venom"
+    },
+    {
+      "sourceLine": 374,
+      "original": "infections",
+      "front": "infect"
+    },
+    {
+      "sourceLine": 375,
+      "original": "wounds",
+      "front": "wound"
+    },
+    {
+      "sourceLine": 376,
+      "original": "subjugated",
+      "front": "subjugate"
+    },
+    {
+      "sourceLine": 377,
+      "original": "petals",
+      "front": "petal"
+    },
+    {
+      "sourceLine": 378,
+      "original": "Tribute",
+      "front": "tribute"
+    },
+    {
+      "sourceLine": 379,
+      "original": "exacted",
+      "front": "exact"
+    },
+    {
+      "sourceLine": 380,
+      "original": "indispensable",
+      "front": "indispensable"
+    },
+    {
+      "sourceLine": 381,
+      "original": "savory",
+      "front": "savory"
+    },
+    {
+      "sourceLine": 382,
+      "original": "enlivened",
+      "front": "enliven"
+    },
+    {
+      "sourceLine": 383,
+      "original": "chilies",
+      "front": "chili"
+    },
+    {
+      "sourceLine": 384,
+      "original": "nobility",
+      "front": "nobility"
+    },
+    {
+      "sourceLine": 385,
+      "original": "invader",
+      "front": "invade"
+    },
+    {
+      "sourceLine": 386,
+      "original": "quaffed",
+      "front": "quaff"
+    },
+    {
+      "sourceLine": 387,
+      "original": "brew",
+      "front": "brew"
+    },
+    {
+      "sourceLine": 388,
+      "original": "famously",
+      "front": "famous"
+    },
+    {
+      "sourceLine": 389,
+      "original": "frothy",
+      "front": "froth"
+    },
+    {
+      "sourceLine": 390,
+      "original": "apothecary",
+      "front": "apothecary"
+    },
+    {
+      "sourceLine": 391,
+      "original": "pastry",
+      "front": "pastry"
+    },
+    {
+      "sourceLine": 392,
+      "original": "freak",
+      "front": "freak"
+    },
+    {
+      "sourceLine": 393,
+      "original": "rotted",
+      "front": "rot"
+    },
+    {
+      "sourceLine": 394,
+      "original": "indulge in",
+      "front": "indulge in"
+    },
+    {
+      "sourceLine": 395,
+      "original": "infuse",
+      "front": "infuse"
+    },
+    {
+      "sourceLine": 396,
+      "original": "flourish",
+      "front": "flourish"
+    },
+    {
+      "sourceLine": 397,
+      "original": "with the flourish of a pen",
+      "front": "with the flourish of a pen"
+    },
+    {
+      "sourceLine": 398,
+      "original": "become a thing",
+      "front": "become a thing"
+    },
+    {
+      "sourceLine": 399,
+      "original": "jugs",
+      "front": "jug"
+    },
+    {
+      "sourceLine": 400,
+      "original": "ferments",
+      "front": "ferment"
+    },
+    {
+      "sourceLine": 401,
+      "original": "soak",
+      "front": "soak"
+    },
+    {
+      "sourceLine": 402,
+      "original": "have the makings of",
+      "front": "have the makings of"
+    },
+    {
+      "sourceLine": 403,
+      "original": "hoard",
+      "front": "hoard"
+    },
+    {
+      "sourceLine": 404,
+      "original": "vessels",
+      "front": "vessel"
+    },
+    {
+      "sourceLine": 405,
+      "original": "entourage",
+      "front": "entourage"
+    },
+    {
+      "sourceLine": 406,
+      "original": "chamber",
+      "front": "chamber"
+    },
+    {
+      "sourceLine": 407,
+      "original": "anoint",
+      "front": "anoint"
+    },
+    {
+      "sourceLine": 408,
+      "original": "corpse",
+      "front": "corpse"
+    },
+    {
+      "sourceLine": 409,
+      "original": "interment",
+      "front": "interment"
+    },
+    {
+      "sourceLine": 410,
+      "original": "antimicrobial",
+      "front": "antimicrobial"
+    },
+    {
+      "sourceLine": 411,
+      "original": "deposited",
+      "front": "deposit"
+    },
+    {
+      "sourceLine": 412,
+      "original": "Botanical",
+      "front": "botanical"
+    },
+    {
+      "sourceLine": 413,
+      "original": "the tip of the iceberg",
+      "front": "the tip of the iceberg"
+    },
+    {
+      "sourceLine": 414,
+      "original": "cultivate",
+      "front": "cultivate"
+    },
+    {
+      "sourceLine": 415,
+      "original": "strawberry",
+      "front": "strawberry"
+    },
+    {
+      "sourceLine": 416,
+      "original": "ceramic",
+      "front": "ceramic"
+    },
+    {
+      "sourceLine": 417,
+      "original": "monetary",
+      "front": "monetary"
+    },
+    {
+      "sourceLine": 418,
+      "original": "It wasn't until...that...",
+      "front": "it wasn't until ... that ..."
+    },
+    {
+      "sourceLine": 419,
+      "original": "predates",
+      "front": "predate"
+    },
+    {
+      "sourceLine": 420,
+      "original": "shards",
+      "front": "shard"
+    },
+    {
+      "sourceLine": 421,
+      "original": "tippling",
+      "front": "tipple"
+    },
+    {
+      "sourceLine": 422,
+      "original": "starch",
+      "front": "starch"
+    },
+    {
+      "sourceLine": 423,
+      "original": "abundantly",
+      "front": "abundant"
+    },
+    {
+      "sourceLine": 424,
+      "original": "clincher",
+      "front": "clincher"
+    },
+    {
+      "sourceLine": 425,
+      "original": "contentious",
+      "front": "contentious"
+    },
+    {
+      "sourceLine": 426,
+      "original": "make the passage",
+      "front": "make the passage"
+    },
+    {
+      "sourceLine": 427,
+      "original": "extinct",
+      "front": "extinct"
+    },
+    {
+      "sourceLine": 428,
+      "original": "mammoths",
+      "front": "mammoth"
+    },
+    {
+      "sourceLine": 429,
+      "original": "weep",
+      "front": "weep"
+    },
+    {
+      "sourceLine": 430,
+      "original": "de-extinction",
+      "front": "de-extinction"
+    },
+    {
+      "sourceLine": 431,
+      "original": "sporadically",
+      "front": "sporadic"
+    },
+    {
+      "sourceLine": 432,
+      "original": "dinosaurs",
+      "front": "dinosaur"
+    },
+    {
+      "sourceLine": 433,
+      "original": "amplify",
+      "front": "amplify"
+    },
+    {
+      "sourceLine": 434,
+      "original": "embryo",
+      "front": "embryo"
+    },
+    {
+      "sourceLine": 435,
+      "original": "sane",
+      "front": "sane"
+    },
+    {
+      "sourceLine": 436,
+      "original": "Famously",
+      "front": "famous"
+    },
+    {
+      "sourceLine": 437,
+      "original": "made it seem as though...",
+      "front": "make it seem as though ..."
+    },
+    {
+      "sourceLine": 438,
+      "original": "bear",
+      "front": "bear"
+    },
+    {
+      "sourceLine": 439,
+      "original": "surrogate",
+      "front": "surrogate"
+    },
+    {
+      "sourceLine": 440,
+      "original": "ibex",
+      "front": "ibex"
+    },
+    {
+      "sourceLine": 441,
+      "original": "stall",
+      "front": "stall"
+    },
+    {
+      "sourceLine": 442,
+      "original": "roaming",
+      "front": "roam"
+    },
+    {
+      "sourceLine": 443,
+      "original": "mesmerising",
+      "front": "mesmerise"
+    },
+    {
+      "sourceLine": 444,
+      "original": "justification",
+      "front": "justify"
+    },
+    {
+      "sourceLine": 445,
+      "original": "resurrected",
+      "front": "resurrect"
+    },
+    {
+      "sourceLine": 446,
+      "original": "flora",
+      "front": "flora"
+    },
+    {
+      "sourceLine": 447,
+      "original": "herbivores",
+      "front": "herbivore"
+    },
+    {
+      "sourceLine": 448,
+      "original": "cattle",
+      "front": "cattle"
+    },
+    {
+      "sourceLine": 449,
+      "original": "trampled",
+      "front": "trample"
+    },
+    {
+      "sourceLine": 450,
+      "original": "tundra",
+      "front": "tundra"
+    },
+    {
+      "sourceLine": 451,
+      "original": "snatching",
+      "front": "snatch"
+    },
+    {
+      "sourceLine": 452,
+      "original": "trunkfuls",
+      "front": "trunkful"
+    },
+    {
+      "sourceLine": 453,
+      "original": "hooves",
+      "front": "hoof"
+    },
+    {
+      "sourceLine": 454,
+      "original": "urine",
+      "front": "urine"
+    },
+    {
+      "sourceLine": 455,
+      "original": "dung",
+      "front": "dung"
+    },
+    {
+      "sourceLine": 456,
+      "original": "germinating",
+      "front": "germinate"
+    },
+    {
+      "sourceLine": 457,
+      "original": "limbs",
+      "front": "limb"
+    },
+    {
+      "sourceLine": 458,
+      "original": "in the sense of",
+      "front": "in the sense of"
+    },
+    {
+      "sourceLine": 459,
+      "original": "pigeon",
+      "front": "pigeon"
+    },
+    {
+      "sourceLine": 460,
+      "original": "fulfil",
+      "front": "fulfil"
+    },
+    {
+      "sourceLine": 461,
+      "original": "repopulate",
+      "front": "repopulate"
+    },
+    {
+      "sourceLine": 462,
+      "original": "A tracks B 可以表示A与B的发展方向、逻辑或变化趋势相似。",
+      "front": "track"
+    },
+    {
+      "sourceLine": 463,
+      "original": "frame of reference",
+      "front": "frame of reference"
+    },
+    {
+      "sourceLine": 464,
+      "original": "dams",
+      "front": "dam"
+    },
+    {
+      "sourceLine": 465,
+      "original": "cull",
+      "front": "cull"
+    },
+    {
+      "sourceLine": 466,
+      "original": "be borne out",
+      "front": "be borne out"
+    }
+  ],
+  "notes": [
+    "前221行与10月30日sourceMapping逐行一致，排除旧记录。",
+    "245行归为240张卡；flirtatious/flirt、inhibits/inhibitor、aversive/aversiveness、irritated/irritation、famously/Famously各合并同批。",
+    "简单派生词主讲基础词，补输入形式的释义例句；nobility保留贵族阶层义，interment保留常用输入，避免机械剥后缀。",
+    "ight-hearted补全为light-hearted；summon up /清理尾部分隔符。",
+    "bear整合三条动词路线与born/borne/bore辨析；be borne out保留短语卡并说明与bear关系。",
+    "仅真实再次输入的旧词追加本日批次，按现有规则重新进入困难复习；不再次重置其他旧词进度、困难状态或永久统计。",
+    "原有卡片义项及例句全部保留；新增例句自拟。",
+    "发布成功后清理桌面前221行，仅保留今日245行；完整源文件已备份。"
+  ],
+  "sources": [
+    "https://dictionary.cambridge.org/dictionary/english/bear",
+    "https://dictionary.cambridge.org/us/grammar/british-grammar/born-or-borne",
+    "https://dictionary.cambridge.org/us/dictionary/english/pathetic-fallacy",
+    "https://dictionary.cambridge.org/dictionary/english/aversive"
+  ]
+}

@@ -5,7 +5,8 @@ import {emptyKnowledge,emptyWord,activeQueue,validKnowledge,recordKnowledge,tabl
 import {syncImports,isLegacyReview,isProtected} from '../src/importPolicy.mjs';
 import {isPriority} from '../src/queues.mjs';
 import {isCardList} from '../src/cards.mjs';
-const cards=JSON.parse(readFileSync('public/data/cards.json','utf8'));
+// Reconstruct this historical release's batch membership; later imports must not rewrite its policy assertions.
+const cards=JSON.parse(readFileSync('public/data/cards.json','utf8')).filter(c=>[...(c.batches||[]),...(c.familyBatches||[])].some(b=>b.date<='2026-10-30')).map(c=>({...c,batches:c.batches.filter(b=>b.date<='2026-10-30')}));
 const report=JSON.parse(readFileSync('public/data/imports/2026-10-30.json','utf8'));
 const by=new Map(cards.map(c=>[c.front,c]));
 const now=new Date(2026,9,30,12);
