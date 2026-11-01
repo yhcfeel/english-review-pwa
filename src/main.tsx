@@ -129,7 +129,7 @@ function App(){
     done?<div className="message"><h2>{cards.length?'本轮复习完成':'当前队列没有待复习词'}</h2><p>{cards.length?'当前队列所有词已完成':'已掌握词仍保留在词库与导出词表中'}</p></div>:
     card?<div className={`card ${flipped?'answer':''}`}>
      {priority&&<div className="priority-star" aria-label="重点复习：今日重复遇到的旧词">★</div>}
-     {!flipped?<><h2 className="front" lang="en">{card.front}</h2>{!showTables&&<Pronunciation key={card.front} card={card}/>}</>:<Answer card={card} key={card.front}/>}
+     {!flipped?<><h2 className="front" lang="en">{card.front}</h2>{!showTables&&<Pronunciation key={JSON.stringify([mode,date,round?.step,card.front])} card={card}/>}</>:<Answer card={card} key={card.front}/>}
     </div>:null}
   </section>
   <footer>
