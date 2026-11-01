@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { getSenses, isCardList } from './cards.mjs';
 import { Answer } from './Answer';
+import { Pronunciation } from './Pronunciation';
 import { WordTables } from './WordTables';
 import { useRatingCooldown } from './useRatingCooldown';
 import { rateCard, vocabularyRevision } from './review.mjs';
@@ -111,7 +112,7 @@ function App(){
   <header><div className="header-title"><h1>英语复习</h1>
    <details className="tools-menu" ref={toolsMenu} onKeyDown={e=>{if(e.key==='Escape'){e.preventDefault();toolsMenu.current?.removeAttribute('open');toolsMenu.current?.querySelector('summary')?.focus();}}}>
     <summary aria-label="更多功能" title="更多功能">···</summary>
-    <div className="tools-panel"><button disabled={!allCards.length} onClick={()=>{toolsMenu.current?.removeAttribute('open');setShowTables(true);}}>词表与导出</button></div>
+    <div className="tools-panel"><button disabled={!allCards.length} onClick={()=>{toolsMenu.current?.removeAttribute('open');setShowTables(true);}}>词表与导出</button><a href={`${import.meta.env.BASE_URL}audio/credits.html`}>音频来源</a></div>
    </details></div>
    <div className="queue-picker" role="group" aria-label="选择复习队列">
     <button disabled={refreshing||!allCards.length} aria-pressed={mode==='latest'} onClick={()=>switchQueue('latest')}>最新加入</button>
@@ -128,7 +129,7 @@ function App(){
     done?<div className="message"><h2>{cards.length?'本轮复习完成':'当前队列没有待复习词'}</h2><p>{cards.length?'当前队列所有词已完成':'已掌握词仍保留在词库与导出词表中'}</p></div>:
     card?<div className={`card ${flipped?'answer':''}`}>
      {priority&&<div className="priority-star" aria-label="重点复习：今日重复遇到的旧词">★</div>}
-     {!flipped?<h2 className="front" lang="en">{card.front}</h2>:<Answer card={card} key={card.front}/>}
+     {!flipped?<><h2 className="front" lang="en">{card.front}</h2>{!showTables&&<Pronunciation key={card.front} card={card}/>}</>:<Answer card={card} key={card.front}/>}
     </div>:null}
   </section>
   <footer>

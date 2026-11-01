@@ -39,6 +39,12 @@ self.addEventListener('fetch', event => {
     })());
     return;
   }
+  if(url.pathname.startsWith(`${BASE}audio/`)&&/\.(mp3|m4a)$/.test(url.pathname)){
+    event.respondWith((async()=>{
+      const cached=await (await caches.open(SHELL_CACHE)).match(url.pathname);
+      return cached?audioRangeResponse(cached,event.request.headers.get('Range')):fetch(event.request);
+    })());return;
+  }
   // The shell and its hashed assets are upgraded atomically by a new worker.
   if (event.request.mode === 'navigate') {
     event.respondWith(caches.open(SHELL_CACHE).then(async cache => await cache.match(`${BASE}index.html`) || fetch(event.request)));

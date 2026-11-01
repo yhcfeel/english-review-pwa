@@ -1,0 +1,1902 @@
+{
+  "date": "2026-11-01",
+  "source": "生词.txt（第246—400个非空行）",
+  "sourceSHA256": "7e3fd6f1be20147ab5ebbe1962844a7a3304bb657cef225d877747d39d3a2fc6",
+  "excludedPreviousLines": 245,
+  "inputCount": 155,
+  "latestCount": 151,
+  "newCards": 134,
+  "totalCount": 2429,
+  "activeCount": 2137,
+  "repeatedOldWords": [
+    "manifest",
+    "precise",
+    "impose",
+    "transient",
+    "liberate",
+    "consider",
+    "subtle",
+    "exuberant",
+    "anticipate",
+    "semblance",
+    "authentic",
+    "wary",
+    "be supposed to",
+    "feasible",
+    "mindset",
+    "intent",
+    "enshrine"
+  ],
+  "sourceMapping": [
+    {
+      "sourceLine": 246,
+      "original": "thrift",
+      "fronts": [
+        "thrift"
+      ]
+    },
+    {
+      "sourceLine": 247,
+      "original": "bold",
+      "fronts": [
+        "bold"
+      ]
+    },
+    {
+      "sourceLine": 248,
+      "original": "is said to have done",
+      "fronts": [
+        "be said to have done"
+      ]
+    },
+    {
+      "sourceLine": 249,
+      "original": "adhesive",
+      "fronts": [
+        "adhesive"
+      ]
+    },
+    {
+      "sourceLine": 250,
+      "original": "lacquer",
+      "fronts": [
+        "lacquer"
+      ]
+    },
+    {
+      "sourceLine": 251,
+      "original": "sprinkled",
+      "fronts": [
+        "sprinkle"
+      ]
+    },
+    {
+      "sourceLine": 252,
+      "original": "gleamed",
+      "fronts": [
+        "gleam"
+      ]
+    },
+    {
+      "sourceLine": 253,
+      "original": "vanity",
+      "fronts": [
+        "vanity"
+      ]
+    },
+    {
+      "sourceLine": 254,
+      "original": "pristine",
+      "fronts": [
+        "pristine"
+      ]
+    },
+    {
+      "sourceLine": 255,
+      "original": "manifestation",
+      "fronts": [
+        "manifest"
+      ]
+    },
+    {
+      "sourceLine": 256,
+      "original": "deepens",
+      "fronts": [
+        "deep"
+      ]
+    },
+    {
+      "sourceLine": 257,
+      "original": "mended",
+      "fronts": [
+        "mend"
+      ]
+    },
+    {
+      "sourceLine": 258,
+      "original": "precisely",
+      "fronts": [
+        "precise"
+      ]
+    },
+    {
+      "sourceLine": 259,
+      "original": "affection",
+      "fronts": [
+        "affection"
+      ]
+    },
+    {
+      "sourceLine": 260,
+      "original": "peasant",
+      "fronts": [
+        "peasant"
+      ]
+    },
+    {
+      "sourceLine": 261,
+      "original": "artisan",
+      "fronts": [
+        "artisan"
+      ]
+    },
+    {
+      "sourceLine": 262,
+      "original": "scrap",
+      "fronts": [
+        "scrap"
+      ]
+    },
+    {
+      "sourceLine": 263,
+      "original": "stitched",
+      "fronts": [
+        "stitch"
+      ]
+    },
+    {
+      "sourceLine": 264,
+      "original": "fabled",
+      "fronts": [
+        "fabled"
+      ]
+    },
+    {
+      "sourceLine": 265,
+      "original": "trendy",
+      "fronts": [
+        "trend"
+      ]
+    },
+    {
+      "sourceLine": 266,
+      "original": "at the outset",
+      "fronts": [
+        "at the outset"
+      ]
+    },
+    {
+      "sourceLine": 267,
+      "original": "imposition",
+      "fronts": [
+        "impose"
+      ]
+    },
+    {
+      "sourceLine": 268,
+      "original": "transience",
+      "fronts": [
+        "transient"
+      ]
+    },
+    {
+      "sourceLine": 269,
+      "original": "aspire",
+      "fronts": [
+        "aspire"
+      ]
+    },
+    {
+      "sourceLine": 270,
+      "original": "detach",
+      "fronts": [
+        "detach"
+      ]
+    },
+    {
+      "sourceLine": 271,
+      "original": "set in motion",
+      "fronts": [
+        "set in motion"
+      ]
+    },
+    {
+      "sourceLine": 272,
+      "original": "forensic",
+      "fronts": [
+        "forensic"
+      ]
+    },
+    {
+      "sourceLine": 273,
+      "original": "spurned",
+      "fronts": [
+        "spurn"
+      ]
+    },
+    {
+      "sourceLine": 274,
+      "original": "perpetuated",
+      "fronts": [
+        "perpetuate"
+      ]
+    },
+    {
+      "sourceLine": 275,
+      "original": "utensils",
+      "fronts": [
+        "utensil"
+      ]
+    },
+    {
+      "sourceLine": 276,
+      "original": "makeshift",
+      "fronts": [
+        "makeshift"
+      ]
+    },
+    {
+      "sourceLine": 277,
+      "original": "disregard",
+      "fronts": [
+        "disregard"
+      ]
+    },
+    {
+      "sourceLine": 278,
+      "original": "beckons",
+      "fronts": [
+        "beckon"
+      ]
+    },
+    {
+      "sourceLine": 279,
+      "original": "privation",
+      "fronts": [
+        "privation"
+      ]
+    },
+    {
+      "sourceLine": 280,
+      "original": "hangover",
+      "fronts": [
+        "hangover"
+      ]
+    },
+    {
+      "sourceLine": 281,
+      "original": "defiantly",
+      "fronts": [
+        "defiant"
+      ]
+    },
+    {
+      "sourceLine": 282,
+      "original": "liberating",
+      "fronts": [
+        "liberate"
+      ]
+    },
+    {
+      "sourceLine": 283,
+      "original": "consideration",
+      "fronts": [
+        "consider"
+      ]
+    },
+    {
+      "sourceLine": 284,
+      "original": "pragmatic",
+      "fronts": [
+        "pragmatic"
+      ]
+    },
+    {
+      "sourceLine": 285,
+      "original": "all but + 形容词 = 几乎、差不多完全……",
+      "fronts": [
+        "all but + adjective"
+      ]
+    },
+    {
+      "sourceLine": 286,
+      "original": "abraded",
+      "fronts": [
+        "abrade"
+      ]
+    },
+    {
+      "sourceLine": 287,
+      "original": "mains lead",
+      "fronts": [
+        "mains lead"
+      ]
+    },
+    {
+      "sourceLine": 288,
+      "original": "power brick",
+      "fronts": [
+        "power brick"
+      ]
+    },
+    {
+      "sourceLine": 289,
+      "original": "devised",
+      "fronts": [
+        "devise"
+      ]
+    },
+    {
+      "sourceLine": 290,
+      "original": "acquired",
+      "fronts": [
+        "acquire"
+      ]
+    },
+    {
+      "sourceLine": 291,
+      "original": "avid",
+      "fronts": [
+        "avid"
+      ]
+    },
+    {
+      "sourceLine": 292,
+      "original": "relish",
+      "fronts": [
+        "relish"
+      ]
+    },
+    {
+      "sourceLine": 293,
+      "original": "at all 在肯定句中也可以用于强调“究竟能够……”“居然还能……”。",
+      "fronts": [
+        "at all"
+      ]
+    },
+    {
+      "sourceLine": 294,
+      "original": "subtly",
+      "fronts": [
+        "subtle"
+      ]
+    },
+    {
+      "sourceLine": 295,
+      "original": "burgeoning",
+      "fronts": [
+        "burgeon"
+      ]
+    },
+    {
+      "sourceLine": 296,
+      "original": "knitting",
+      "fronts": [
+        "knit"
+      ]
+    },
+    {
+      "sourceLine": 297,
+      "original": "darns",
+      "fronts": [
+        "darn"
+      ]
+    },
+    {
+      "sourceLine": 298,
+      "original": "extrovert",
+      "fronts": [
+        "extrovert"
+      ]
+    },
+    {
+      "sourceLine": 299,
+      "original": "embody",
+      "fronts": [
+        "embody"
+      ]
+    },
+    {
+      "sourceLine": 300,
+      "original": "exuberant",
+      "fronts": [
+        "exuberant"
+      ]
+    },
+    {
+      "sourceLine": 301,
+      "original": "anticipated",
+      "fronts": [
+        "anticipate"
+      ]
+    },
+    {
+      "sourceLine": 302,
+      "original": "mannered",
+      "fronts": [
+        "mannered"
+      ]
+    },
+    {
+      "sourceLine": 303,
+      "original": "something aside",
+      "fronts": [
+        "something aside"
+      ]
+    },
+    {
+      "sourceLine": 304,
+      "original": "flaking",
+      "fronts": [
+        "flake"
+      ]
+    },
+    {
+      "sourceLine": 305,
+      "original": "reverently",
+      "fronts": [
+        "reverent"
+      ]
+    },
+    {
+      "sourceLine": 306,
+      "original": "surreptitiously",
+      "fronts": [
+        "surreptitious"
+      ]
+    },
+    {
+      "sourceLine": 307,
+      "original": "Renaissance",
+      "fronts": [
+        "renaissance"
+      ]
+    },
+    {
+      "sourceLine": 308,
+      "original": "semblance",
+      "fronts": [
+        "semblance"
+      ]
+    },
+    {
+      "sourceLine": 309,
+      "original": "touch up",
+      "fronts": [
+        "touch up"
+      ]
+    },
+    {
+      "sourceLine": 310,
+      "original": "countenanced",
+      "fronts": [
+        "countenance"
+      ]
+    },
+    {
+      "sourceLine": 311,
+      "original": "churchgoer",
+      "fronts": [
+        "churchgoer"
+      ]
+    },
+    {
+      "sourceLine": 312,
+      "original": "crumble",
+      "fronts": [
+        "crumble"
+      ]
+    },
+    {
+      "sourceLine": 313,
+      "original": "hubris",
+      "fronts": [
+        "hubris"
+      ]
+    },
+    {
+      "sourceLine": 314,
+      "original": "authenticity",
+      "fronts": [
+        "authentic"
+      ]
+    },
+    {
+      "sourceLine": 315,
+      "original": "cavalier",
+      "fronts": [
+        "cavalier"
+      ]
+    },
+    {
+      "sourceLine": 316,
+      "original": "varnish",
+      "fronts": [
+        "varnish"
+      ]
+    },
+    {
+      "sourceLine": 317,
+      "original": "recoil",
+      "fronts": [
+        "recoil"
+      ]
+    },
+    {
+      "sourceLine": 318,
+      "original": "rarefied",
+      "fronts": [
+        "rarefied"
+      ]
+    },
+    {
+      "sourceLine": 319,
+      "original": "stratum",
+      "fronts": [
+        "stratum"
+      ]
+    },
+    {
+      "sourceLine": 320,
+      "original": "aristocrats",
+      "fronts": [
+        "aristocrat"
+      ]
+    },
+    {
+      "sourceLine": 321,
+      "original": "abashed",
+      "fronts": [
+        "abashed"
+      ]
+    },
+    {
+      "sourceLine": 322,
+      "original": "consigning",
+      "fronts": [
+        "consign"
+      ]
+    },
+    {
+      "sourceLine": 323,
+      "original": "preference",
+      "fronts": [
+        "prefer"
+      ]
+    },
+    {
+      "sourceLine": 324,
+      "original": "ascendancy",
+      "fronts": [
+        "ascendancy"
+      ]
+    },
+    {
+      "sourceLine": 325,
+      "original": "pull rank on somebody",
+      "fronts": [
+        "pull rank on somebody"
+      ]
+    },
+    {
+      "sourceLine": 326,
+      "original": "chap",
+      "fronts": [
+        "chap"
+      ]
+    },
+    {
+      "sourceLine": 327,
+      "original": "rag",
+      "fronts": [
+        "rag"
+      ]
+    },
+    {
+      "sourceLine": 328,
+      "original": "a state of affairs",
+      "fronts": [
+        "a state of affairs"
+      ]
+    },
+    {
+      "sourceLine": 329,
+      "original": "spawn",
+      "fronts": [
+        "spawn"
+      ]
+    },
+    {
+      "sourceLine": 330,
+      "original": "spare",
+      "fronts": [
+        "spare"
+      ]
+    },
+    {
+      "sourceLine": 331,
+      "original": "wariness",
+      "fronts": [
+        "wary"
+      ]
+    },
+    {
+      "sourceLine": 332,
+      "original": "wear and tea",
+      "fronts": [
+        "wear and tear"
+      ]
+    },
+    {
+      "sourceLine": 333,
+      "original": "be supposed to do something",
+      "fronts": [
+        "be supposed to"
+      ]
+    },
+    {
+      "sourceLine": 334,
+      "original": "hermetic",
+      "fronts": [
+        "hermetic"
+      ]
+    },
+    {
+      "sourceLine": 335,
+      "original": "warranty",
+      "fronts": [
+        "warranty"
+      ]
+    },
+    {
+      "sourceLine": 336,
+      "original": "void",
+      "fronts": [
+        "void"
+      ]
+    },
+    {
+      "sourceLine": 337,
+      "original": "pricier",
+      "fronts": [
+        "pricey"
+      ]
+    },
+    {
+      "sourceLine": 338,
+      "original": "feasibility",
+      "fronts": [
+        "feasible"
+      ]
+    },
+    {
+      "sourceLine": 339,
+      "original": "peripherals",
+      "fronts": [
+        "peripheral"
+      ]
+    },
+    {
+      "sourceLine": 340,
+      "original": "crook",
+      "fronts": [
+        "crook"
+      ]
+    },
+    {
+      "sourceLine": 341,
+      "original": "austerity",
+      "fronts": [
+        "austere"
+      ]
+    },
+    {
+      "sourceLine": 342,
+      "original": "nurturing",
+      "fronts": [
+        "nurture"
+      ]
+    },
+    {
+      "sourceLine": 343,
+      "original": "crowdsourcing",
+      "fronts": [
+        "crowdsource"
+      ]
+    },
+    {
+      "sourceLine": 344,
+      "original": "bodge",
+      "fronts": [
+        "bodge"
+      ]
+    },
+    {
+      "sourceLine": 345,
+      "original": "mindset",
+      "fronts": [
+        "mindset"
+      ]
+    },
+    {
+      "sourceLine": 346,
+      "original": "jumpers",
+      "fronts": [
+        "jumper"
+      ]
+    },
+    {
+      "sourceLine": 347,
+      "original": "granular",
+      "fronts": [
+        "granular"
+      ]
+    },
+    {
+      "sourceLine": 348,
+      "original": "obsolete",
+      "fronts": [
+        "obsolete"
+      ]
+    },
+    {
+      "sourceLine": 349,
+      "original": "make do and mend",
+      "fronts": [
+        "make do and mend"
+      ]
+    },
+    {
+      "sourceLine": 350,
+      "original": "soldier on",
+      "fronts": [
+        "soldier on"
+      ]
+    },
+    {
+      "sourceLine": 351,
+      "original": "dutifully",
+      "fronts": [
+        "dutiful"
+      ]
+    },
+    {
+      "sourceLine": 352,
+      "original": "intent",
+      "fronts": [
+        "intent"
+      ]
+    },
+    {
+      "sourceLine": 353,
+      "original": "frigid",
+      "fronts": [
+        "frigid"
+      ]
+    },
+    {
+      "sourceLine": 354,
+      "original": "sink – sank – sunk",
+      "fronts": [
+        "sink"
+      ]
+    },
+    {
+      "sourceLine": 355,
+      "original": "astray",
+      "fronts": [
+        "astray"
+      ]
+    },
+    {
+      "sourceLine": 356,
+      "original": "voyage",
+      "fronts": [
+        "voyage"
+      ]
+    },
+    {
+      "sourceLine": 357,
+      "original": "compass",
+      "fronts": [
+        "compass"
+      ]
+    },
+    {
+      "sourceLine": 358,
+      "original": "fit into",
+      "fronts": [
+        "fit into"
+      ]
+    },
+    {
+      "sourceLine": 359,
+      "original": "ironically",
+      "fronts": [
+        "ironic"
+      ]
+    },
+    {
+      "sourceLine": 360,
+      "original": "depicts",
+      "fronts": [
+        "depict"
+      ]
+    },
+    {
+      "sourceLine": 361,
+      "original": "bisected",
+      "fronts": [
+        "bisect"
+      ]
+    },
+    {
+      "sourceLine": 362,
+      "original": "primordial",
+      "fronts": [
+        "primordial"
+      ]
+    },
+    {
+      "sourceLine": 363,
+      "original": "talismanic",
+      "fronts": [
+        "talisman"
+      ]
+    },
+    {
+      "sourceLine": 364,
+      "original": "talisman",
+      "fronts": [
+        "talisman"
+      ]
+    },
+    {
+      "sourceLine": 365,
+      "original": "fiefdom",
+      "fronts": [
+        "fiefdom"
+      ]
+    },
+    {
+      "sourceLine": 366,
+      "original": "cohesive",
+      "fronts": [
+        "cohesive"
+      ]
+    },
+    {
+      "sourceLine": 367,
+      "original": "sprawl",
+      "fronts": [
+        "sprawl"
+      ]
+    },
+    {
+      "sourceLine": 368,
+      "original": "augmented",
+      "fronts": [
+        "augment"
+      ]
+    },
+    {
+      "sourceLine": 369,
+      "original": "devised",
+      "fronts": [
+        "devise"
+      ]
+    },
+    {
+      "sourceLine": 370,
+      "original": "dimensional",
+      "fronts": [
+        "dimension"
+      ]
+    },
+    {
+      "sourceLine": 371,
+      "original": "penetrate",
+      "fronts": [
+        "penetrate"
+      ]
+    },
+    {
+      "sourceLine": 372,
+      "original": "run amok",
+      "fronts": [
+        "run amok"
+      ]
+    },
+    {
+      "sourceLine": 373,
+      "original": "strut",
+      "fronts": [
+        "strut"
+      ]
+    },
+    {
+      "sourceLine": 374,
+      "original": "perched",
+      "fronts": [
+        "perch"
+      ]
+    },
+    {
+      "sourceLine": 375,
+      "original": "Misleading",
+      "fronts": [
+        "mislead"
+      ]
+    },
+    {
+      "sourceLine": 376,
+      "original": "toss someone out of somewhere",
+      "fronts": [
+        "toss someone out of somewhere"
+      ]
+    },
+    {
+      "sourceLine": 377,
+      "original": "enshrine",
+      "fronts": [
+        "enshrine"
+      ]
+    },
+    {
+      "sourceLine": 378,
+      "original": "dawn",
+      "fronts": [
+        "dawn"
+      ]
+    },
+    {
+      "sourceLine": 379,
+      "original": "As long as",
+      "fronts": [
+        "as long as"
+      ]
+    },
+    {
+      "sourceLine": 380,
+      "original": "polymath",
+      "fronts": [
+        "polymath"
+      ]
+    },
+    {
+      "sourceLine": 381,
+      "original": "subtly",
+      "fronts": [
+        "subtle"
+      ]
+    },
+    {
+      "sourceLine": 382,
+      "original": "Equator",
+      "fronts": [
+        "equator"
+      ]
+    },
+    {
+      "sourceLine": 383,
+      "original": "cardinal",
+      "fronts": [
+        "cardinal"
+      ]
+    },
+    {
+      "sourceLine": 384,
+      "original": "persuasion",
+      "fronts": [
+        "persuade"
+      ]
+    },
+    {
+      "sourceLine": 385,
+      "original": "gentry",
+      "fronts": [
+        "gentry"
+      ]
+    },
+    {
+      "sourceLine": 386,
+      "original": "graze",
+      "fronts": [
+        "graze"
+      ]
+    },
+    {
+      "sourceLine": 387,
+      "original": "manifest",
+      "fronts": [
+        "manifest"
+      ]
+    },
+    {
+      "sourceLine": 388,
+      "original": "conferred",
+      "fronts": [
+        "confer"
+      ]
+    },
+    {
+      "sourceLine": 389,
+      "original": "ripe",
+      "fronts": [
+        "ripe"
+      ]
+    },
+    {
+      "sourceLine": 390,
+      "original": "for the taking",
+      "fronts": [
+        "for the taking"
+      ]
+    },
+    {
+      "sourceLine": 391,
+      "original": "propel",
+      "fronts": [
+        "propel"
+      ]
+    },
+    {
+      "sourceLine": 392,
+      "original": "depredations",
+      "fronts": [
+        "depredation"
+      ]
+    },
+    {
+      "sourceLine": 393,
+      "original": "vague",
+      "fronts": [
+        "vague"
+      ]
+    },
+    {
+      "sourceLine": 394,
+      "original": "cruise",
+      "fronts": [
+        "cruise"
+      ]
+    },
+    {
+      "sourceLine": 395,
+      "original": "plundered",
+      "fronts": [
+        "plunder"
+      ]
+    },
+    {
+      "sourceLine": 396,
+      "original": "seafarers",
+      "fronts": [
+        "seafarer"
+      ]
+    },
+    {
+      "sourceLine": 397,
+      "original": "buccaneer",
+      "fronts": [
+        "buccaneer"
+      ]
+    },
+    {
+      "sourceLine": 398,
+      "original": "exulted",
+      "fronts": [
+        "exult"
+      ]
+    },
+    {
+      "sourceLine": 399,
+      "original": "haul",
+      "fronts": [
+        "haul"
+      ]
+    },
+    {
+      "sourceLine": 400,
+      "original": "prodigious",
+      "fronts": [
+        "prodigious"
+      ]
+    }
+  ],
+  "mapping": [
+    {
+      "sourceLine": 246,
+      "original": "thrift",
+      "front": "thrift"
+    },
+    {
+      "sourceLine": 247,
+      "original": "bold",
+      "front": "bold"
+    },
+    {
+      "sourceLine": 248,
+      "original": "is said to have done",
+      "front": "be said to have done"
+    },
+    {
+      "sourceLine": 249,
+      "original": "adhesive",
+      "front": "adhesive"
+    },
+    {
+      "sourceLine": 250,
+      "original": "lacquer",
+      "front": "lacquer"
+    },
+    {
+      "sourceLine": 251,
+      "original": "sprinkled",
+      "front": "sprinkle"
+    },
+    {
+      "sourceLine": 252,
+      "original": "gleamed",
+      "front": "gleam"
+    },
+    {
+      "sourceLine": 253,
+      "original": "vanity",
+      "front": "vanity"
+    },
+    {
+      "sourceLine": 254,
+      "original": "pristine",
+      "front": "pristine"
+    },
+    {
+      "sourceLine": 255,
+      "original": "manifestation",
+      "front": "manifest"
+    },
+    {
+      "sourceLine": 256,
+      "original": "deepens",
+      "front": "deep"
+    },
+    {
+      "sourceLine": 257,
+      "original": "mended",
+      "front": "mend"
+    },
+    {
+      "sourceLine": 258,
+      "original": "precisely",
+      "front": "precise"
+    },
+    {
+      "sourceLine": 259,
+      "original": "affection",
+      "front": "affection"
+    },
+    {
+      "sourceLine": 260,
+      "original": "peasant",
+      "front": "peasant"
+    },
+    {
+      "sourceLine": 261,
+      "original": "artisan",
+      "front": "artisan"
+    },
+    {
+      "sourceLine": 262,
+      "original": "scrap",
+      "front": "scrap"
+    },
+    {
+      "sourceLine": 263,
+      "original": "stitched",
+      "front": "stitch"
+    },
+    {
+      "sourceLine": 264,
+      "original": "fabled",
+      "front": "fabled"
+    },
+    {
+      "sourceLine": 265,
+      "original": "trendy",
+      "front": "trend"
+    },
+    {
+      "sourceLine": 266,
+      "original": "at the outset",
+      "front": "at the outset"
+    },
+    {
+      "sourceLine": 267,
+      "original": "imposition",
+      "front": "impose"
+    },
+    {
+      "sourceLine": 268,
+      "original": "transience",
+      "front": "transient"
+    },
+    {
+      "sourceLine": 269,
+      "original": "aspire",
+      "front": "aspire"
+    },
+    {
+      "sourceLine": 270,
+      "original": "detach",
+      "front": "detach"
+    },
+    {
+      "sourceLine": 271,
+      "original": "set in motion",
+      "front": "set in motion"
+    },
+    {
+      "sourceLine": 272,
+      "original": "forensic",
+      "front": "forensic"
+    },
+    {
+      "sourceLine": 273,
+      "original": "spurned",
+      "front": "spurn"
+    },
+    {
+      "sourceLine": 274,
+      "original": "perpetuated",
+      "front": "perpetuate"
+    },
+    {
+      "sourceLine": 275,
+      "original": "utensils",
+      "front": "utensil"
+    },
+    {
+      "sourceLine": 276,
+      "original": "makeshift",
+      "front": "makeshift"
+    },
+    {
+      "sourceLine": 277,
+      "original": "disregard",
+      "front": "disregard"
+    },
+    {
+      "sourceLine": 278,
+      "original": "beckons",
+      "front": "beckon"
+    },
+    {
+      "sourceLine": 279,
+      "original": "privation",
+      "front": "privation"
+    },
+    {
+      "sourceLine": 280,
+      "original": "hangover",
+      "front": "hangover"
+    },
+    {
+      "sourceLine": 281,
+      "original": "defiantly",
+      "front": "defiant"
+    },
+    {
+      "sourceLine": 282,
+      "original": "liberating",
+      "front": "liberate"
+    },
+    {
+      "sourceLine": 283,
+      "original": "consideration",
+      "front": "consider"
+    },
+    {
+      "sourceLine": 284,
+      "original": "pragmatic",
+      "front": "pragmatic"
+    },
+    {
+      "sourceLine": 285,
+      "original": "all but + 形容词 = 几乎、差不多完全……",
+      "front": "all but + adjective"
+    },
+    {
+      "sourceLine": 286,
+      "original": "abraded",
+      "front": "abrade"
+    },
+    {
+      "sourceLine": 287,
+      "original": "mains lead",
+      "front": "mains lead"
+    },
+    {
+      "sourceLine": 288,
+      "original": "power brick",
+      "front": "power brick"
+    },
+    {
+      "sourceLine": 289,
+      "original": "devised",
+      "front": "devise"
+    },
+    {
+      "sourceLine": 290,
+      "original": "acquired",
+      "front": "acquire"
+    },
+    {
+      "sourceLine": 291,
+      "original": "avid",
+      "front": "avid"
+    },
+    {
+      "sourceLine": 292,
+      "original": "relish",
+      "front": "relish"
+    },
+    {
+      "sourceLine": 293,
+      "original": "at all 在肯定句中也可以用于强调“究竟能够……”“居然还能……”。",
+      "front": "at all"
+    },
+    {
+      "sourceLine": 294,
+      "original": "subtly",
+      "front": "subtle"
+    },
+    {
+      "sourceLine": 295,
+      "original": "burgeoning",
+      "front": "burgeon"
+    },
+    {
+      "sourceLine": 296,
+      "original": "knitting",
+      "front": "knit"
+    },
+    {
+      "sourceLine": 297,
+      "original": "darns",
+      "front": "darn"
+    },
+    {
+      "sourceLine": 298,
+      "original": "extrovert",
+      "front": "extrovert"
+    },
+    {
+      "sourceLine": 299,
+      "original": "embody",
+      "front": "embody"
+    },
+    {
+      "sourceLine": 300,
+      "original": "exuberant",
+      "front": "exuberant"
+    },
+    {
+      "sourceLine": 301,
+      "original": "anticipated",
+      "front": "anticipate"
+    },
+    {
+      "sourceLine": 302,
+      "original": "mannered",
+      "front": "mannered"
+    },
+    {
+      "sourceLine": 303,
+      "original": "something aside",
+      "front": "something aside"
+    },
+    {
+      "sourceLine": 304,
+      "original": "flaking",
+      "front": "flake"
+    },
+    {
+      "sourceLine": 305,
+      "original": "reverently",
+      "front": "reverent"
+    },
+    {
+      "sourceLine": 306,
+      "original": "surreptitiously",
+      "front": "surreptitious"
+    },
+    {
+      "sourceLine": 307,
+      "original": "Renaissance",
+      "front": "renaissance"
+    },
+    {
+      "sourceLine": 308,
+      "original": "semblance",
+      "front": "semblance"
+    },
+    {
+      "sourceLine": 309,
+      "original": "touch up",
+      "front": "touch up"
+    },
+    {
+      "sourceLine": 310,
+      "original": "countenanced",
+      "front": "countenance"
+    },
+    {
+      "sourceLine": 311,
+      "original": "churchgoer",
+      "front": "churchgoer"
+    },
+    {
+      "sourceLine": 312,
+      "original": "crumble",
+      "front": "crumble"
+    },
+    {
+      "sourceLine": 313,
+      "original": "hubris",
+      "front": "hubris"
+    },
+    {
+      "sourceLine": 314,
+      "original": "authenticity",
+      "front": "authentic"
+    },
+    {
+      "sourceLine": 315,
+      "original": "cavalier",
+      "front": "cavalier"
+    },
+    {
+      "sourceLine": 316,
+      "original": "varnish",
+      "front": "varnish"
+    },
+    {
+      "sourceLine": 317,
+      "original": "recoil",
+      "front": "recoil"
+    },
+    {
+      "sourceLine": 318,
+      "original": "rarefied",
+      "front": "rarefied"
+    },
+    {
+      "sourceLine": 319,
+      "original": "stratum",
+      "front": "stratum"
+    },
+    {
+      "sourceLine": 320,
+      "original": "aristocrats",
+      "front": "aristocrat"
+    },
+    {
+      "sourceLine": 321,
+      "original": "abashed",
+      "front": "abashed"
+    },
+    {
+      "sourceLine": 322,
+      "original": "consigning",
+      "front": "consign"
+    },
+    {
+      "sourceLine": 323,
+      "original": "preference",
+      "front": "prefer"
+    },
+    {
+      "sourceLine": 324,
+      "original": "ascendancy",
+      "front": "ascendancy"
+    },
+    {
+      "sourceLine": 325,
+      "original": "pull rank on somebody",
+      "front": "pull rank on somebody"
+    },
+    {
+      "sourceLine": 326,
+      "original": "chap",
+      "front": "chap"
+    },
+    {
+      "sourceLine": 327,
+      "original": "rag",
+      "front": "rag"
+    },
+    {
+      "sourceLine": 328,
+      "original": "a state of affairs",
+      "front": "a state of affairs"
+    },
+    {
+      "sourceLine": 329,
+      "original": "spawn",
+      "front": "spawn"
+    },
+    {
+      "sourceLine": 330,
+      "original": "spare",
+      "front": "spare"
+    },
+    {
+      "sourceLine": 331,
+      "original": "wariness",
+      "front": "wary"
+    },
+    {
+      "sourceLine": 332,
+      "original": "wear and tea",
+      "front": "wear and tear"
+    },
+    {
+      "sourceLine": 333,
+      "original": "be supposed to do something",
+      "front": "be supposed to"
+    },
+    {
+      "sourceLine": 334,
+      "original": "hermetic",
+      "front": "hermetic"
+    },
+    {
+      "sourceLine": 335,
+      "original": "warranty",
+      "front": "warranty"
+    },
+    {
+      "sourceLine": 336,
+      "original": "void",
+      "front": "void"
+    },
+    {
+      "sourceLine": 337,
+      "original": "pricier",
+      "front": "pricey"
+    },
+    {
+      "sourceLine": 338,
+      "original": "feasibility",
+      "front": "feasible"
+    },
+    {
+      "sourceLine": 339,
+      "original": "peripherals",
+      "front": "peripheral"
+    },
+    {
+      "sourceLine": 340,
+      "original": "crook",
+      "front": "crook"
+    },
+    {
+      "sourceLine": 341,
+      "original": "austerity",
+      "front": "austere"
+    },
+    {
+      "sourceLine": 342,
+      "original": "nurturing",
+      "front": "nurture"
+    },
+    {
+      "sourceLine": 343,
+      "original": "crowdsourcing",
+      "front": "crowdsource"
+    },
+    {
+      "sourceLine": 344,
+      "original": "bodge",
+      "front": "bodge"
+    },
+    {
+      "sourceLine": 345,
+      "original": "mindset",
+      "front": "mindset"
+    },
+    {
+      "sourceLine": 346,
+      "original": "jumpers",
+      "front": "jumper"
+    },
+    {
+      "sourceLine": 347,
+      "original": "granular",
+      "front": "granular"
+    },
+    {
+      "sourceLine": 348,
+      "original": "obsolete",
+      "front": "obsolete"
+    },
+    {
+      "sourceLine": 349,
+      "original": "make do and mend",
+      "front": "make do and mend"
+    },
+    {
+      "sourceLine": 350,
+      "original": "soldier on",
+      "front": "soldier on"
+    },
+    {
+      "sourceLine": 351,
+      "original": "dutifully",
+      "front": "dutiful"
+    },
+    {
+      "sourceLine": 352,
+      "original": "intent",
+      "front": "intent"
+    },
+    {
+      "sourceLine": 353,
+      "original": "frigid",
+      "front": "frigid"
+    },
+    {
+      "sourceLine": 354,
+      "original": "sink – sank – sunk",
+      "front": "sink"
+    },
+    {
+      "sourceLine": 355,
+      "original": "astray",
+      "front": "astray"
+    },
+    {
+      "sourceLine": 356,
+      "original": "voyage",
+      "front": "voyage"
+    },
+    {
+      "sourceLine": 357,
+      "original": "compass",
+      "front": "compass"
+    },
+    {
+      "sourceLine": 358,
+      "original": "fit into",
+      "front": "fit into"
+    },
+    {
+      "sourceLine": 359,
+      "original": "ironically",
+      "front": "ironic"
+    },
+    {
+      "sourceLine": 360,
+      "original": "depicts",
+      "front": "depict"
+    },
+    {
+      "sourceLine": 361,
+      "original": "bisected",
+      "front": "bisect"
+    },
+    {
+      "sourceLine": 362,
+      "original": "primordial",
+      "front": "primordial"
+    },
+    {
+      "sourceLine": 363,
+      "original": "talismanic",
+      "front": "talisman"
+    },
+    {
+      "sourceLine": 364,
+      "original": "talisman",
+      "front": "talisman"
+    },
+    {
+      "sourceLine": 365,
+      "original": "fiefdom",
+      "front": "fiefdom"
+    },
+    {
+      "sourceLine": 366,
+      "original": "cohesive",
+      "front": "cohesive"
+    },
+    {
+      "sourceLine": 367,
+      "original": "sprawl",
+      "front": "sprawl"
+    },
+    {
+      "sourceLine": 368,
+      "original": "augmented",
+      "front": "augment"
+    },
+    {
+      "sourceLine": 369,
+      "original": "devised",
+      "front": "devise"
+    },
+    {
+      "sourceLine": 370,
+      "original": "dimensional",
+      "front": "dimension"
+    },
+    {
+      "sourceLine": 371,
+      "original": "penetrate",
+      "front": "penetrate"
+    },
+    {
+      "sourceLine": 372,
+      "original": "run amok",
+      "front": "run amok"
+    },
+    {
+      "sourceLine": 373,
+      "original": "strut",
+      "front": "strut"
+    },
+    {
+      "sourceLine": 374,
+      "original": "perched",
+      "front": "perch"
+    },
+    {
+      "sourceLine": 375,
+      "original": "Misleading",
+      "front": "mislead"
+    },
+    {
+      "sourceLine": 376,
+      "original": "toss someone out of somewhere",
+      "front": "toss someone out of somewhere"
+    },
+    {
+      "sourceLine": 377,
+      "original": "enshrine",
+      "front": "enshrine"
+    },
+    {
+      "sourceLine": 378,
+      "original": "dawn",
+      "front": "dawn"
+    },
+    {
+      "sourceLine": 379,
+      "original": "As long as",
+      "front": "as long as"
+    },
+    {
+      "sourceLine": 380,
+      "original": "polymath",
+      "front": "polymath"
+    },
+    {
+      "sourceLine": 381,
+      "original": "subtly",
+      "front": "subtle"
+    },
+    {
+      "sourceLine": 382,
+      "original": "Equator",
+      "front": "equator"
+    },
+    {
+      "sourceLine": 383,
+      "original": "cardinal",
+      "front": "cardinal"
+    },
+    {
+      "sourceLine": 384,
+      "original": "persuasion",
+      "front": "persuade"
+    },
+    {
+      "sourceLine": 385,
+      "original": "gentry",
+      "front": "gentry"
+    },
+    {
+      "sourceLine": 386,
+      "original": "graze",
+      "front": "graze"
+    },
+    {
+      "sourceLine": 387,
+      "original": "manifest",
+      "front": "manifest"
+    },
+    {
+      "sourceLine": 388,
+      "original": "conferred",
+      "front": "confer"
+    },
+    {
+      "sourceLine": 389,
+      "original": "ripe",
+      "front": "ripe"
+    },
+    {
+      "sourceLine": 390,
+      "original": "for the taking",
+      "front": "for the taking"
+    },
+    {
+      "sourceLine": 391,
+      "original": "propel",
+      "front": "propel"
+    },
+    {
+      "sourceLine": 392,
+      "original": "depredations",
+      "front": "depredation"
+    },
+    {
+      "sourceLine": 393,
+      "original": "vague",
+      "front": "vague"
+    },
+    {
+      "sourceLine": 394,
+      "original": "cruise",
+      "front": "cruise"
+    },
+    {
+      "sourceLine": 395,
+      "original": "plundered",
+      "front": "plunder"
+    },
+    {
+      "sourceLine": 396,
+      "original": "seafarers",
+      "front": "seafarer"
+    },
+    {
+      "sourceLine": 397,
+      "original": "buccaneer",
+      "front": "buccaneer"
+    },
+    {
+      "sourceLine": 398,
+      "original": "exulted",
+      "front": "exult"
+    },
+    {
+      "sourceLine": 399,
+      "original": "haul",
+      "front": "haul"
+    },
+    {
+      "sourceLine": 400,
+      "original": "prodigious",
+      "front": "prodigious"
+    }
+  ],
+  "notes": [
+    "旧245行逐行核对后排除；仅导入新增155行。",
+    "wear and tea 补全为 wear and tear；sink – sank – sunk 归入 sink 并补不规则变化。",
+    "简单派生主讲基础词，保留实际输入形式的释义例句；fabled、rarefied、abashed 等常用或语义独立形式保留。",
+    "同批 devised、subtly、talismanic/talisman、manifestation/manifest 合并，不重复计入批次。",
+    "所有旧义项、例句和迁移元数据保留；仅真实旧词重输按原规则重新进入困难复习。",
+    "新例句自拟；发布成功后备份并清理桌面旧245行，留下今日155行。"
+  ]
+}

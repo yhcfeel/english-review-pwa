@@ -5,7 +5,7 @@ import {emptyKnowledge,emptyWord,activeQueue,validKnowledge,tableRows} from '../
 import {syncImports,isLegacyReview,isProtected} from '../src/importPolicy.mjs';
 import {isCardList} from '../src/cards.mjs';
 import {isPriority} from '../src/queues.mjs';
-const cards=JSON.parse(readFileSync('public/data/cards.json','utf8'));
+const cards=JSON.parse(readFileSync('public/data/cards.json','utf8')).filter(c=>[...(c.batches||[]),...(c.familyBatches||[])].some(b=>b.date<='2026-10-31')).map(c=>({...c,batches:c.batches.filter(b=>b.date<='2026-10-31')}));
 const report=JSON.parse(readFileSync('public/data/imports/2026-10-31.json','utf8'));
 const by=new Map(cards.map(c=>[c.front,c]));
 const old=cards.filter(c=>[...(c.batches||[]),...(c.familyBatches||[])].some(b=>b.date<'2026-10-31')).map(c=>({...c,batches:c.batches.filter(b=>b.date<'2026-10-31')}));

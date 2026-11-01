@@ -1,0 +1,749 @@
+[
+  {
+    "file": "conduct-1.mp3",
+    "word": "conduct",
+    "label": "动词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-conduct_%28verb%29.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "conduct-2.mp3",
+    "word": "conduct",
+    "label": "名词",
+    "author": "No machine-readable author provided. Tawker assumed (based on copyright claims).",
+    "source": "https://commons.wikimedia.org/wiki/File:En-ca-conduct.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "survey-1.mp3",
+    "word": "survey",
+    "label": "名词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-survey_%28noun%29.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "survey-2.mp3",
+    "word": "survey",
+    "label": "动词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-survey_%28verb%29.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "estimate-1.mp3",
+    "word": "estimate",
+    "label": "动词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-estimate-verb.ogg",
+    "license": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "estimate-2.mp3",
+    "word": "estimate",
+    "label": "名词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-estimate-noun.ogg",
+    "license": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "discount-1.mp3",
+    "word": "discount",
+    "label": "名词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-discount.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "discount-2.mp3",
+    "word": "discount",
+    "label": "动词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-discount_%28verb%29.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "produce-1.mp3",
+    "word": "produce",
+    "label": "动词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-produce-verb.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "produce-2.mp3",
+    "word": "produce",
+    "label": "名词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-produce-noun.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "alternate-1.mp3",
+    "word": "alternate",
+    "label": "动词",
+    "author": "No machine-readable author provided. Dvortygirl assumed (based on copyright claims).",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-alternate-verb.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "alternate-2.mp3",
+    "word": "alternate",
+    "label": "形容词",
+    "author": "No machine-readable author provided. Dvortygirl assumed (based on copyright claims).",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-alternate-noun-adj.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "extract-1.mp3",
+    "word": "extract",
+    "label": "动词",
+    "author": "Neskaya",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-extract.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "extract-2.mp3",
+    "word": "extract",
+    "label": "名词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-extract_%28noun%29.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "attribute-1.mp3",
+    "word": "attribute",
+    "label": "动词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-attribute-verb.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "attribute-2.mp3",
+    "word": "attribute",
+    "label": "名词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-attribute-noun.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "progress-1.mp3",
+    "word": "progress",
+    "label": "名词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-progress-noun.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "progress-2.mp3",
+    "word": "progress",
+    "label": "动词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-progress-verb.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "compound-1.mp3",
+    "word": "compound",
+    "label": "名词／形容词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-compound_%28noun%29.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "compound-2.mp3",
+    "word": "compound",
+    "label": "动词",
+    "author": "Neskaya",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-compound.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "contract-1.mp3",
+    "word": "contract",
+    "label": "名词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-contract-noun.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "contract-2.mp3",
+    "word": "contract",
+    "label": "动词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-contract-verb2.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "reject-1.mp3",
+    "word": "reject",
+    "label": "动词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-reject.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "reject-2.mp3",
+    "word": "reject",
+    "label": "名词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-reject_%28noun%29.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "lead-1.mp3",
+    "word": "lead",
+    "label": "带领／线索",
+    "author": "No machine-readable author provided. Dvortygirl assumed (based on copyright claims).",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-lead-guide.oga",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "lead-2.mp3",
+    "word": "lead",
+    "label": "铅",
+    "author": "No machine-readable author provided. Dvortygirl assumed (based on copyright claims).",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-lead-metal.oga",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "relay-1.mp3",
+    "word": "relay",
+    "label": "动词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-relay_%28verb%29.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "relay-2.mp3",
+    "word": "relay",
+    "label": "名词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-relay_%28noun%29.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "separate-1.mp3",
+    "word": "separate",
+    "label": "形容词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-separate-adj.ogg",
+    "license": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "separate-2.mp3",
+    "word": "separate",
+    "label": "动词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-separate-verb.ogg",
+    "license": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "permit-1.mp3",
+    "word": "permit",
+    "label": "动词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-permit-verb.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "permit-2.mp3",
+    "word": "permit",
+    "label": "名词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-permit-noun.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "protest-1.mp3",
+    "word": "protest",
+    "label": "名词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-protest-noun.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "protest-2.mp3",
+    "word": "protest",
+    "label": "动词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-protest-verb.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "project-1.mp3",
+    "word": "project",
+    "label": "名词",
+    "author": "No machine-readable author provided. Denelson83 assumed (based on copyright claims).",
+    "source": "https://commons.wikimedia.org/wiki/File:En-ca-project-noun.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "project-2.mp3",
+    "word": "project",
+    "label": "动词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-project.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "entrance-1.mp3",
+    "word": "entrance",
+    "label": "使着迷",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-entrance-verb.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "entrance-2.mp3",
+    "word": "entrance",
+    "label": "入口",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-entrance.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "moderate-1.mp3",
+    "word": "moderate",
+    "label": "形容词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-moderate-adj.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "moderate-2.mp3",
+    "word": "moderate",
+    "label": "动词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-moderate-verb.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "content-1.mp3",
+    "word": "content",
+    "label": "内容",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-content.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "content-2.mp3",
+    "word": "content",
+    "label": "满足的",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-content_%28verb%29.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "articulate-1.mp3",
+    "word": "articulate",
+    "label": "",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-articulate-verb.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "deliberate-1.mp3",
+    "word": "deliberate",
+    "label": "动词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-deliberate-verb.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "deliberate-2.mp3",
+    "word": "deliberate",
+    "label": "形容词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-deliberate-adj.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "digest-1.mp3",
+    "word": "digest",
+    "label": "",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-digest-verb.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "intimate-1.mp3",
+    "word": "intimate",
+    "label": "",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-intimate-noun-adj.ogg",
+    "license": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "refuse-1.mp3",
+    "word": "refuse",
+    "label": "",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-refuse.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "wound-1.mp3",
+    "word": "wound",
+    "label": "",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-wound-injury.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "recoil-1.mp3",
+    "word": "recoil",
+    "label": "动词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-recoil1.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "recoil-2.mp3",
+    "word": "recoil",
+    "label": "名词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-recoil2.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "fragment-1.mp3",
+    "word": "fragment",
+    "label": "名词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-fragment.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "fragment-2.mp3",
+    "word": "fragment",
+    "label": "动词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-fragment2.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "segment-1.mp3",
+    "word": "segment",
+    "label": "动词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-segment_%28verb%29.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "segment-2.mp3",
+    "word": "segment",
+    "label": "名词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-segment_%28noun%29.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "combine-1.mp3",
+    "word": "combine",
+    "label": "",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-combine_%28verb%29.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "frequent-1.mp3",
+    "word": "frequent",
+    "label": "形容词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-frequent-adj.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "frequent-2.mp3",
+    "word": "frequent",
+    "label": "动词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-frequent-verb.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "exploit-1.mp3",
+    "word": "exploit",
+    "label": "动词",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-exploit.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "exploit-2.mp3",
+    "word": "exploit",
+    "label": "名词",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-exploit_%28noun%29.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "ferment-1.mp3",
+    "word": "ferment",
+    "label": "",
+    "author": "Speaker: Vealhurl Recorder: Vealhurl",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_%28eng%29-Vealhurl-ferment.wav",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "resume-1.mp3",
+    "word": "resume",
+    "label": "恢复",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-resume.ogg",
+    "license": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "resume-2.mp3",
+    "word": "resume",
+    "label": "简历",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-resume-document.ogg",
+    "license": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "beloved-1.mp3",
+    "word": "beloved",
+    "label": "",
+    "author": "Soundguys Speaker InfoField Received Pronunciation",
+    "source": "https://commons.wikimedia.org/wiki/File:En-uk-beloved-attributive.ogg",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "supposed-1.mp3",
+    "word": "supposed",
+    "label": "",
+    "author": "Dvortygirl",
+    "source": "https://commons.wikimedia.org/wiki/File:En-us-supposed-adj.ogg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original Wikimedia MP3 transcode, unchanged; local filename shortened."
+  },
+  {
+    "file": "decrease-1.m4a",
+    "word": "decrease",
+    "label": "动词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "dɪˈkriːs",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "decrease-2.m4a",
+    "word": "decrease",
+    "label": "名词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "ˈdiːkriːs",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "contrast-1.m4a",
+    "word": "contrast",
+    "label": "名词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "ˈkɑːntræst",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "contrast-2.m4a",
+    "word": "contrast",
+    "label": "动词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "kənˈtræst",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "elaborate-1.m4a",
+    "word": "elaborate",
+    "label": "动词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "ɪˈlæbəreɪt",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "elaborate-2.m4a",
+    "word": "elaborate",
+    "label": "形容词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "ɪˈlæbərət",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "coordinate-1.m4a",
+    "word": "coordinate",
+    "label": "动词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "koʊˈɔːrdəneɪt",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "coordinate-2.m4a",
+    "word": "coordinate",
+    "label": "名词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "koʊˈɔːrdənət",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "affix-1.m4a",
+    "word": "affix",
+    "label": "动词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "əˈfɪks",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "affix-2.m4a",
+    "word": "affix",
+    "label": "名词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "ˈæfɪks",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "contest-1.m4a",
+    "word": "contest",
+    "label": "名词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "ˈkɑːntest",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "contest-2.m4a",
+    "word": "contest",
+    "label": "动词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "kənˈtest",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "subordinate-1.m4a",
+    "word": "subordinate",
+    "label": "形容词／名词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "səˈbɔːrdənət",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "subordinate-2.m4a",
+    "word": "subordinate",
+    "label": "动词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "səˈbɔːrdəneɪt",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "aggregate-1.m4a",
+    "word": "aggregate",
+    "label": "动词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "ˈæɡrɪɡeɪt",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "aggregate-2.m4a",
+    "word": "aggregate",
+    "label": "名词／形容词",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "ˈæɡrɪɡət",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "incline-1.m4a",
+    "word": "incline",
+    "label": "",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "ɪnˈklaɪn",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  },
+  {
+    "file": "appropriate-1.m4a",
+    "word": "appropriate",
+    "label": "",
+    "author": "Generated with local Apple en-US speech synthesis",
+    "source": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesisipanotationattribute",
+    "ipa": "əˈproʊpriət",
+    "changes": "Synthesized from explicitly supplied IPA; AAC encoding."
+  }
+]
